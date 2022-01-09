@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 22:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 23:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -162,6 +162,14 @@
             <content:encoded><![CDATA[2021년 10월 14일]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뇌 기능을 개선한다는 누트로픽스(nootropics) (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220110080056411rR</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220110080056411rR</guid>
+            <pubDate>Sun, 09 Jan 2022 23:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTBfMjgx/MDAxNjQxNzY5MDI1ODQy.sENi5YAEEqtXndIk6Ds1Ql9nDW3b3lZRUW5eqZjf_zkg.VCt6lk80chlVdtSFPzEAtzwLE6ei0H_uP2UqYS2hkB8g.PNG/Screen_Shot_2022-01-10_at_7.44.27_AM.png?type=nf220_220" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[2022년 전 세계 주요 선거 일정 (2) (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220106220930557zU</link>
             <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220106220930557zU</guid>
@@ -312,14 +320,6 @@
             <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjZfMTQx/MDAxNjM3ODY2MDMzMDU5.h3CbkDKKFyf73qLrxAapkjEVp8062Pry61F28N8A_74g.R9d8BBJ8m7ovVpsyP95yGcNED7G3qR4mJG4l9h2QmBsg.JPEG/Daniel_Kahneman_(3283955327)_(cropped).jpeg?type=nf220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[유전자 복권 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211124045933368wl</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211124045933368wl</guid>
-            <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjRfMTYz/MDAxNjM3Njk3NDg1NDU3.KEyIk6aSPPsW0RqPPlI7PjW4JtGyoBeX26JsRpkeRgIg.YzZuVpj1yccAJVt4li6WHeyac9eeH3EzGCCojhxo76Ag.JPEG/national-cancer-institute-bwMhq_itmMU-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
