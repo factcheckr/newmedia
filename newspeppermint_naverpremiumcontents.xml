@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 22:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 23:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 중간선거 앞둔 공화당 의원들의 선거자금 걱정]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220111142613752oe</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220111142613752oe</guid>
+            <pubDate>Tue, 11 Jan 2022 23:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTFfMTE4/MDAxNjQxODc4NDE2NDU3.UY1UHOrotJ3TZ2w8XiSCO0T_UNO3yng5ERdx8koVhxAg.AxkWVTG9QvAu_Rmg7mT8LsBBz1RNOOkBrrENRpTHZpYg.PNG/Screen_Shot_2022-01-11_at_12.48.32_PM.png?type=nf220_220" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뇌 기능을 개선한다는 누트로픽스(nootropics)]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220110080056411rR</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjlfMTc3/MDAxNjM4MTE3MjUzMjQ4.yh7-BOe1W8c2St4grAGKfDoazF5uBljG6AEIipDoCBYg.m-ou1l2mRB55nKwbYna_3GxBoMZTF5QfBs4ARQSew-gg.PNG/Screen_Shot_2021-11-28_at_10.25.48_AM.png?type=nf220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[손실 회피 효과에 대한 논쟁]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211126035010195Zw</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211126035010195Zw</guid>
-            <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjZfMTQx/MDAxNjM3ODY2MDMzMDU5.h3CbkDKKFyf73qLrxAapkjEVp8062Pry61F28N8A_74g.R9d8BBJ8m7ovVpsyP95yGcNED7G3qR4mJG4l9h2QmBsg.JPEG/Daniel_Kahneman_(3283955327)_(cropped).jpeg?type=nf220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
