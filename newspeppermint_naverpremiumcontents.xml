@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 23:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 00:54:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드라이브 마이 카]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220114082746306cE</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220114082746306cE</guid>
+            <pubDate>Fri, 14 Jan 2022 00:54:12 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTRfMjIw/MDAxNjQyMTE2Mzc3NzQ5.tG2yY1u3NRyahE9z-Al7iYsF9MBNLdJJzFElZREqfNgg.WDav9fGB2k_bN9NeJ6M3h4LJWQuWD66iNfviexxib34g.JPEG/Drive_My_Car_movie_poster.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[2022 중간선거 앞둔 공화당 의원들의 선거자금 걱정]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220111142613752oe</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
             <content:encoded><![CDATA[경제 공부방]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDFfMjI4/MDAxNjM4MzA4ODkzMTc3.O0WqeLC_dg8QwzSFkz1-JRmkMJ69mLlFEUI3d1sHCKAg.tqGUtDPhAmdYhEQCGNlrSdZxt5-_tHqtdjSCB9EBZ7sg.JPEG/IMG_1409.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 오미크론 변이 WHO 발표]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211129013724151BN</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211129013724151BN</guid>
-            <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjlfMTc3/MDAxNjM4MTE3MjUzMjQ4.yh7-BOe1W8c2St4grAGKfDoazF5uBljG6AEIipDoCBYg.m-ou1l2mRB55nKwbYna_3GxBoMZTF5QfBs4ARQSew-gg.PNG/Screen_Shot_2021-11-28_at_10.25.48_AM.png?type=nf220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
