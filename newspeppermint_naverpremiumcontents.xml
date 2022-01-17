@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 23:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 00:53:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진화생물학자 E.O. 윌슨 타계]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220117082007202GZ</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220117082007202GZ</guid>
+            <pubDate>Mon, 17 Jan 2022 00:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTdfMjYx/MDAxNjQyMzc1MTEyNjY3.pXA6_ujvc1FPLO0-osVGBnZaSFO_LP7M0plZEvApZacg.-LKOIdWbxeUmZAjE_eDeAJy-sljTp5_r7yd-0j8My4Eg.JPEG/Plos_wilson.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[드라이브 마이 카]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220114082746306cE</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDNfMjgy/MDAxNjM4NDc0MjMzMTI5.8nf0Osdw23dwcmsjCgW-QHYwh8RaBtIiOCjVLcF_9aIg.aWfg6I6NDkyFRTmJsS9CFiTSWN9y4qm8J-8iEG_RLM8g.JPEG/hasan-almasi-OwqLxCvoVxI-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경제 지표와 체감 경기의 동상이몽]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211201065104628Cj</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211201065104628Cj</guid>
-            <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDFfMjI4/MDAxNjM4MzA4ODkzMTc3.O0WqeLC_dg8QwzSFkz1-JRmkMJ69mLlFEUI3d1sHCKAg.tqGUtDPhAmdYhEQCGNlrSdZxt5-_tHqtdjSCB9EBZ7sg.JPEG/IMG_1409.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
