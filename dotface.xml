@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-01-18T08:19:28.802Z</updated>
+    <updated>2022-01-18T09:16:27.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://articles.dotface.kr/favicon.ico</icon>
+    <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[‘하던 대로' 하면 안 바뀌니까, 페인트를 끼얹었다]]></title>
         <id>https://articles.dotface.kr/extremely2</id>
