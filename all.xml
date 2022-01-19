@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 23:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 00:46:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -162,6 +162,14 @@
             <content:encoded><![CDATA[2021년 10월 14일]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[고기로 태어나서 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220119081747141Fk</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220119081747141Fk</guid>
+            <pubDate>Wed, 19 Jan 2022 00:46:58 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTlfMTU0/MDAxNjQyNTQ3NzEzNDAz.8cSDCSayXMnTSYHu_g-0p2bL0kRypT_DGbDLv9uOe-Ug.ISJ_ZUbpQTtX-TaFztbbenTxEaWOJEbXbSz3hxzBOhwg.JPEG/victoria-shes-XgFFJKSPkNk-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[진화생물학자 E.O. 윌슨 타계 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220117082007202GZ</link>
             <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220117082007202GZ</guid>
@@ -312,14 +320,6 @@
             <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDZfMTQg/MDAxNjM4NzQyMTQ0Mjk5.QwWOiV4UXf2cUQBQEhUmaZsgkexBmV1So4Lbyxvtb9Ig.-Ty9UItPkQ8LQRuCG7RAZrtzUDwFDgn8MBtuUmtzzfQg.JPEG/mathew-macquarrie-lzcKZlVPYaU-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호전적인 우리 뇌와 인간의 약점 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211203044456805pX</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211203044456805pX</guid>
-            <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDNfMjgy/MDAxNjM4NDc0MjMzMTI5.8nf0Osdw23dwcmsjCgW-QHYwh8RaBtIiOCjVLcF_9aIg.aWfg6I6NDkyFRTmJsS9CFiTSWN9y4qm8J-8iEG_RLM8g.JPEG/hasan-almasi-OwqLxCvoVxI-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
