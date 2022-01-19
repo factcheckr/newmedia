@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-01-19T10:15:09.795Z</updated>
+    <updated>2022-01-19T11:12:26.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["여성 청년이 왜 이재명을 안 뽑으려고 하는 것 같나요?"]]></title>
+        <id>https://articles.dotface.kr/leejaemyung4</id>
+        <link href="https://articles.dotface.kr/leejaemyung4"/>
+        <updated>2022-01-19T11:12:10.084Z</updated>
+        <content type="html"><![CDATA[닷페이스가 이재명 후보를 만났다 [댓글 읽기 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["동료 정치인의 성폭력을 어떻게 생각하시나요?"]]></title>
+        <id>https://articles.dotface.kr/leejaemyung3</id>
+        <link href="https://articles.dotface.kr/leejaemyung3"/>
+        <updated>2022-01-19T11:12:10.087Z</updated>
+        <content type="html"><![CDATA[닷페이스가 이재명 후보를 만났다 [페미니즘 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["후보님 캠프는 성평등한 일터인가요?"]]></title>
+        <id>https://articles.dotface.kr/leejaemyung2</id>
+        <link href="https://articles.dotface.kr/leejaemyung2"/>
+        <updated>2022-01-19T11:12:10.088Z</updated>
+        <content type="html"><![CDATA[닷페이스가 이재명 후보를 만났다 [직장 내 성평등 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["차별금지법은 하는 게 맞죠, 맞는데…"]]></title>
+        <id>https://articles.dotface.kr/leejaemyung1</id>
+        <link href="https://articles.dotface.kr/leejaemyung1"/>
+        <updated>2022-01-19T11:12:10.089Z</updated>
+        <content type="html"><![CDATA[닷페이스가 이재명 후보를 만났다 [차별금지법 편]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘하던 대로' 하면 안 바뀌니까, 페인트를 끼얹었다]]></title>
         <id>https://articles.dotface.kr/extremely2</id>
@@ -46,33 +74,5 @@
         <link href="https://articles.dotface.kr/simsangjeong1"/>
         <updated>2022-01-07T19:36:39.745Z</updated>
         <content type="html"><![CDATA[닷페이스가 심상정 후보를 만났다 [노동 편1]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털 성폭력, 제대로 막아낼 대선 후보는 누구?]]></title>
-        <id>https://articles.dotface.kr/vaw2022-3</id>
-        <link href="https://articles.dotface.kr/vaw2022-3"/>
-        <updated>2022-01-07T19:36:39.746Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [디지털 성폭력 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차별금지법, 한다는 거야 만다는 거야]]></title>
-        <id>https://articles.dotface.kr/equalityact2022-2</id>
-        <link href="https://articles.dotface.kr/equalityact2022-2"/>
-        <updated>2022-01-07T19:36:39.748Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 소수자와 차별금지법 [차별금지법 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두를 위한 대통령? 그럼 소수자는요?]]></title>
-        <id>https://articles.dotface.kr/equalityact2022-1</id>
-        <link href="https://articles.dotface.kr/equalityact2022-1"/>
-        <updated>2022-01-07T19:36:39.751Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 소수자와 차별금지법 [혐오 발언 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청소년부터 워킹맘까지, 대선 공약 속의 여성]]></title>
-        <id>https://articles.dotface.kr/vaw2022-5</id>
-        <link href="https://articles.dotface.kr/vaw2022-5"/>
-        <updated>2022-01-07T19:36:39.752Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 성평등과 여성 관련 공약]]></content>
     </entry>
 </feed>
