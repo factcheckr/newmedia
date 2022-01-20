@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 22:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 23:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[직업에 대한 태도]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220121062029927Ub</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220121062029927Ub</guid>
+            <pubDate>Thu, 20 Jan 2022 23:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjFfMjE1/MDAxNjQyNzE0MjU4ODAx.JvquEKHXeHTdOTQpXAZGavoeCL-2ZVQ_sIeZbxiiHF4g.Z83vx7X-0vQkyP7e4m0N3Vo9DqKNo8Nrl8TqtmJIVLUg.JPEG/vladislav-babienko-KTpSVEcU0XU-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고기로 태어나서]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220119081747141Fk</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDhfMjk4/MDAxNjM4OTEzOTM5MTYy.R0PkHYK9Y8gV98kGNSXwKsY-_LdEXAJLtvdGDG1eInAg.xujf3X8Z6FekiJlA7pgy_ViOJ8CK6HYBjxsOQ6e1EQAg.JPEG/basil-samuel-lade-tDwc_wK57Pk-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['청부과학'의 진화: 의구심 뿌리기]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211206071215759xj</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211206071215759xj</guid>
-            <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDZfMTQg/MDAxNjM4NzQyMTQ0Mjk5.QwWOiV4UXf2cUQBQEhUmaZsgkexBmV1So4Lbyxvtb9Ig.-Ty9UItPkQ8LQRuCG7RAZrtzUDwFDgn8MBtuUmtzzfQg.JPEG/mathew-macquarrie-lzcKZlVPYaU-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
