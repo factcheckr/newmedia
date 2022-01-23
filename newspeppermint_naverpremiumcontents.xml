@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 22:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 23:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키스의 이유에 대한 새로운 근거]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220124060851373Zx</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220124060851373Zx</guid>
+            <pubDate>Sun, 23 Jan 2022 23:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjRfMTY1/MDAxNjQyOTcyMDA4MjE5.Q4bk-QZgwfi132oKExS1d6znzadR73hA5h9QRb95Clcg.uNogh07mA5OtNs8N7DnQ-iFyXJoRO1EwloWcDSew3pMg.JPEG/ana-tablas-oB0xbLwcaMw-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[직업에 대한 태도]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220121062029927Ub</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMTBfMjUw/MDAxNjM5MDg5OTU0OTYy.99j9wZjBufLyZoxXnrvIB87or0CPe16PHrMUmtnvy7wg.YXz4cKScQGe_HiUrEjPtWRVl--ICSAwkszVxQCnfG2Qg.JPEG/jackie-zhao-g7ErZpEeztA-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘실수’의 책임은 누구한테 물어야 할까?]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211208065403621ri</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211208065403621ri</guid>
-            <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDhfMjk4/MDAxNjM4OTEzOTM5MTYy.R0PkHYK9Y8gV98kGNSXwKsY-_LdEXAJLtvdGDG1eInAg.xujf3X8Z6FekiJlA7pgy_ViOJ8CK6HYBjxsOQ6e1EQAg.JPEG/basil-samuel-lade-tDwc_wK57Pk-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
