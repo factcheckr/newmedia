@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-01-24T22:14:24.306Z</updated>
+    <updated>2022-01-24T23:14:34.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 도전을 찾아 나선 테크 업계의 선각자]]></title>
+        <id>https://newspeppermint.com/2022/01/24/the-tech-moguls-are-looking-for-a-new-playground/</id>
+        <link href="https://newspeppermint.com/2022/01/24/the-tech-moguls-are-looking-for-a-new-playground/"/>
+        <updated>2022-01-24T23:14:25.260Z</updated>
+        <content type="html"><![CDATA[2022년 1월 25일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성큼 다가온 큰 정부 시대]]></title>
         <id>https://newspeppermint.com/2022/01/03/biggovernment/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2021/10/21/suicidalthoughts/"/>
         <updated>2022-01-07T19:36:47.168Z</updated>
         <content type="html"><![CDATA[2021년 10월 22일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육아를 사회와 정부가 책임지는 나라 VS 개인과 시장에 맡기는 나라]]></title>
-        <id>https://newspeppermint.com/2021/10/13/uschildcare/</id>
-        <link href="https://newspeppermint.com/2021/10/13/uschildcare/"/>
-        <updated>2022-01-07T19:36:47.169Z</updated>
-        <content type="html"><![CDATA[2021년 10월 14일]]></content>
     </entry>
 </feed>
