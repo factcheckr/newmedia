@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 22:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 23:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -162,6 +162,14 @@
             <content:encoded><![CDATA[2021년 10월 29일]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[사무실 인테리어의 변화: 레지머셜(Resimercial) (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220128065340007XN</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220128065340007XN</guid>
+            <pubDate>Thu, 27 Jan 2022 23:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjhfMjgz/MDAxNjQzMzIwMjYzMjg4.Hz7bF_xxvXpIoJZSHDWXvEp61vl8BwLVdnw4yeoh13Yg.egHfkj67koSgkcc_pu4i6KO6h0A9TtghBQj-mhV4m5Qg.JPEG/copernico-cLmOptqvuFQ-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1973년 1월 22일 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220125045259793Oj</link>
             <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220125045259793Oj</guid>
@@ -312,14 +320,6 @@
             <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMTVfMjk1/MDAxNjM5NTEyMDM2OTM1.5C3yaNFDhlqXjahSDR9HhVrWV39m_SWNKN9_RPco1wAg.NMS1bwf28hg8aqz-SFnp4ErO0oA5p3B5GWElEA8T3UAg.JPEG/colin-lloyd-vJ92WGBBGb4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기술의 미래를 예측하기 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211213062216487Mz</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211213062216487Mz</guid>
-            <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMTNfNjcg/MDAxNjM5MzQ0MDEyMjcy.54Vm-3P5K7h-5v5po5Qgw_ZuFhr02dxBM89lQFvuJ9Ig.-MOIFPw3zrE3ep0dAWfHWcJjfHYKx5_tgxu4EEsy9mEg.JPEG/simon-fitall-drBUfUTOX5M-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
