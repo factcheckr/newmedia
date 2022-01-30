@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 22:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 23:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트럼프를 막을 자, 공화당 안에서 나올까?]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220131043934363wo</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220131043934363wo</guid>
+            <pubDate>Sun, 30 Jan 2022 23:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMzFfMTYz/MDAxNjQzNTcxMzc2MTU4.TzmN_ko5H1r0mHfVfUzKJBFilT8ExG5EMFv7A-Y20DYg.G40rmr8CqniA1BoKcLkgdQBtl2XFxZzgEgSFon78syEg.JPEG/S4LMIEAPNBIGRLM3OYDDDFEJWM.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[사무실 인테리어의 변화: 레지머셜(Resimercial)]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220128065340007XN</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMTdfMTcy/MDAxNjM5NjkxODA0MTEx.z0zc2EichPjmc-PTBaclMd43QVy0pBdJGrZ1yzC2h-0g.NJ5HcG2FcQzokO6FpKSK1AacjEQKX3LH-tBKly49EaAg.JPEG/nadine-shaabana-votwQUV9ts4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[텍사스 낙태금지법 모방한 캘리포니아 총기규제법]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211215050222159Bz</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211215050222159Bz</guid>
-            <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMTVfMjk1/MDAxNjM5NTEyMDM2OTM1.5C3yaNFDhlqXjahSDR9HhVrWV39m_SWNKN9_RPco1wAg.NMS1bwf28hg8aqz-SFnp4ErO0oA5p3B5GWElEA8T3UAg.JPEG/colin-lloyd-vJ92WGBBGb4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
