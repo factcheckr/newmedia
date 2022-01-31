@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-01-31T22:13:51.424Z</updated>
+    <updated>2022-01-31T23:14:42.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 선주민 기숙학교, 다문화주의 캐나다의 어두운 과거]]></title>
+        <id>https://newspeppermint.com/2022/01/31/canadianindian/</id>
+        <link href="https://newspeppermint.com/2022/01/31/canadianindian/"/>
+        <updated>2022-01-31T23:14:33.074Z</updated>
+        <content type="html"><![CDATA[2022년 2월 1일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 미국 정치 최대 화두 “비판적 인종 이론”]]></title>
         <id>https://newspeppermint.com/2022/01/30/npc_crt/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2021/11/01/wsjklobuchar/"/>
         <updated>2022-01-07T19:36:47.165Z</updated>
         <content type="html"><![CDATA[2021년 11월 2일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리가 친구가 될 수 없는 이유(2/2)]]></title>
-        <id>https://newspeppermint.com/2021/10/28/m-friends2/</id>
-        <link href="https://newspeppermint.com/2021/10/28/m-friends2/"/>
-        <updated>2022-01-07T19:36:47.166Z</updated>
-        <content type="html"><![CDATA[2021년 10월 29일]]></content>
     </entry>
 </feed>
