@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 22:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 23:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우여곡절 끝에 막 올리는 베이징 동계올림픽]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220202032015925Wp</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220202032015925Wp</guid>
+            <pubDate>Tue, 01 Feb 2022 23:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDJfOTAg/MDAxNjQzNzM5NTM0MTA0.yWYbLOfE4Gnkma3jpx2wAR5slAmRwZ7i-v-EzV4LW6cg.PVNet_r94Mc8iEcTNb-ZB5METKVIwJbZ9rIB_DRk_5Eg.JPEG/2021-09-08-Beijing-featured.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트럼프를 막을 자, 공화당 안에서 나올까?]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220131043934363wo</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjBfMjA1/MDAxNjM5OTUwOTI5NTY1.qhcxuVgVjJr83oV2BPFOqOm0figx-fLce8MbL_KFtXAg.E_arNxmdiG1an3DO2HPMRw3J6ZQIMAVYX1j9AcEywT0g.JPEG/steve-lieman-fgwK423HRaw-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뇌과학이 알려주는 집중의 요령]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211217065753851gs</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211217065753851gs</guid>
-            <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMTdfMTcy/MDAxNjM5NjkxODA0MTEx.z0zc2EichPjmc-PTBaclMd43QVy0pBdJGrZ1yzC2h-0g.NJ5HcG2FcQzokO6FpKSK1AacjEQKX3LH-tBKly49EaAg.JPEG/nadine-shaabana-votwQUV9ts4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

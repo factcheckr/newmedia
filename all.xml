@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 22:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 23:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/simsangjeong2</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[닷페이스가 심상정 후보를 만났다 [노동 편2]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] GOAT 시몬 바일스와 정신건강 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/01/npc_biles/</link>
+            <guid>https://newspeppermint.com/2022/02/01/npc_biles/</guid>
+            <pubDate>Tue, 01 Feb 2022 23:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 2일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 선주민 기숙학교, 다문화주의 캐나다의 어두운 과거 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2021년 11월 2일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에이미 클로부샤르 “이제는 도무지 못 미더워진 빅테크” (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/11/01/wsjklobuchar/</link>
-            <guid>https://newspeppermint.com/2021/11/01/wsjklobuchar/</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 11월 2일]]></content:encoded>
+            <title><![CDATA[우여곡절 끝에 막 올리는 베이징 동계올림픽 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220202032015925Wp</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220202032015925Wp</guid>
+            <pubDate>Tue, 01 Feb 2022 23:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDJfOTAg/MDAxNjQzNzM5NTM0MTA0.yWYbLOfE4Gnkma3jpx2wAR5slAmRwZ7i-v-EzV4LW6cg.PVNet_r94Mc8iEcTNb-ZB5METKVIwJbZ9rIB_DRk_5Eg.JPEG/2021-09-08-Beijing-featured.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트럼프를 막을 자, 공화당 안에서 나올까? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjBfMjA1/MDAxNjM5OTUwOTI5NTY1.qhcxuVgVjJr83oV2BPFOqOm0figx-fLce8MbL_KFtXAg.E_arNxmdiG1an3DO2HPMRw3J6ZQIMAVYX1j9AcEywT0g.JPEG/steve-lieman-fgwK423HRaw-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뇌과학이 알려주는 집중의 요령 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211217065753851gs</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211217065753851gs</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMTdfMTcy/MDAxNjM5NjkxODA0MTEx.z0zc2EichPjmc-PTBaclMd43QVy0pBdJGrZ1yzC2h-0g.NJ5HcG2FcQzokO6FpKSK1AacjEQKX3LH-tBKly49EaAg.JPEG/nadine-shaabana-votwQUV9ts4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
