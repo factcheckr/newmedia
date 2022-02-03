@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-02-02T23:14:41.228Z</updated>
+    <updated>2022-02-03T00:47:57.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배드파더스가 또 있다고?]]></title>
+        <id>https://articles.dotface.kr/extremely4</id>
+        <link href="https://articles.dotface.kr/extremely4"/>
+        <updated>2022-02-03T00:47:41.479Z</updated>
+        <content type="html"><![CDATA[[왜 저렇게까지 해?] '두 번째 배드파더스' 운영자 안정길 대표]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양육비 안 주는 아빠들과 싸우는 법]]></title>
         <id>https://articles.dotface.kr/extremely3</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/simsangjeong3"/>
         <updated>2022-01-31T11:13:20.155Z</updated>
         <content type="html"><![CDATA[닷페이스가 심상정 후보를 만났다 [주거 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년인데 임금 체불, 말이 되나요?]]></title>
-        <id>https://articles.dotface.kr/simsangjeong2</id>
-        <link href="https://articles.dotface.kr/simsangjeong2"/>
-        <updated>2022-01-31T11:13:20.157Z</updated>
-        <content type="html"><![CDATA[닷페이스가 심상정 후보를 만났다 [노동 편2]]]></content>
     </entry>
 </feed>
