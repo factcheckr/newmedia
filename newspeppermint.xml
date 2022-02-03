@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-02-03T21:12:34.156Z</updated>
+    <updated>2022-02-03T23:13:55.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 백신 안 맞는 사람들을 한마디로 표현할 수 있을까?]]></title>
+        <id>https://newspeppermint.com/2022/02/03/npc_antivaxxer/</id>
+        <link href="https://newspeppermint.com/2022/02/03/npc_antivaxxer/"/>
+        <updated>2022-02-03T23:13:46.958Z</updated>
+        <content type="html"><![CDATA[2022년 2월 4일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 기후변화에 대처하는 방법의 차이]]></title>
         <id>https://newspeppermint.com/2022/02/02/npc_climatechange/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2021/11/13/eucompetitiongoogle/"/>
         <updated>2022-01-07T19:36:47.162Z</updated>
         <content type="html"><![CDATA[2021년 11월 14일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체 부족 사태가 불러온 자동차 기업과 테크 기업 간 협업]]></title>
-        <id>https://newspeppermint.com/2021/11/04/semiconductorcartech/</id>
-        <link href="https://newspeppermint.com/2021/11/04/semiconductorcartech/"/>
-        <updated>2022-01-07T19:36:47.162Z</updated>
-        <content type="html"><![CDATA[2021년 11월 5일]]></content>
     </entry>
 </feed>

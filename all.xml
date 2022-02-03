@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 21:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 23:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/simsangjeong4</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[닷페이스가 심상정 후보를 만났다 [기후 위기 편]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 백신 안 맞는 사람들을 한마디로 표현할 수 있을까? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/03/npc_antivaxxer/</link>
+            <guid>https://newspeppermint.com/2022/02/03/npc_antivaxxer/</guid>
+            <pubDate>Thu, 03 Feb 2022 23:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 4일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 기후변화에 대처하는 방법의 차이 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2021년 11월 14일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[반도체 부족 사태가 불러온 자동차 기업과 테크 기업 간 협업 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/11/04/semiconductorcartech/</link>
-            <guid>https://newspeppermint.com/2021/11/04/semiconductorcartech/</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 11월 5일]]></content:encoded>
+            <title><![CDATA[미국의 우주과학과 종교의 관계 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220204062813109Fe</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220204062813109Fe</guid>
+            <pubDate>Thu, 03 Feb 2022 23:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDRfMyAg/MDAxNjQzOTIzNTk5NDM5.eDoCFo59EEVu2efnIquBvX6OQr2m-IDFU9ZUeb9q24kg.rV2UMNu36fzmsIK4QBMRgq5FDqe6pMCJwrEtxywuRrcg.JPEG/tengyart-PmnCG7_2Sc4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우여곡절 끝에 막 올리는 베이징 동계올림픽 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjNfMjYg/MDAxNjQwMjE1ODA4OTAx.53VltvdzwOJoVWsy3GNGvX6mwO8YAHHZuSG5KxdW05cg.WqO0C4b0R7b1mnbLw6PpqXZCayoXtgg8iSKeJl4FCkUg.PNG/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_publ.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[매년 맞을 필요 없는 독감 백신은 언제 나올까? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211220065751464Qc</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211220065751464Qc</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjBfMjA1/MDAxNjM5OTUwOTI5NTY1.qhcxuVgVjJr83oV2BPFOqOm0figx-fLce8MbL_KFtXAg.E_arNxmdiG1an3DO2HPMRw3J6ZQIMAVYX1j9AcEywT0g.JPEG/steve-lieman-fgwK423HRaw-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
