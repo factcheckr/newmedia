@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 00:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 01:54:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘비호감 대선’, 진보당은 좀 다른가? (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/kimjaeyeon</link>
+            <guid>https://articles.dotface.kr/kimjaeyeon</guid>
+            <pubDate>Thu, 03 Feb 2022 01:54:14 GMT</pubDate>
+            <content:encoded><![CDATA[진보당 김재연 대선후보에게 물어보았다]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[배드파더스가 또 있다고? (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/extremely4</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/simsangjeong4</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[닷페이스가 심상정 후보를 만났다 [기후 위기 편]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[성소수자면 계속 1인 가구로 살아야 하는 건가요? (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/simsangjeong3</link>
-            <guid>https://articles.dotface.kr/simsangjeong3</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[닷페이스가 심상정 후보를 만났다 [주거 편]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 기후변화에 대처하는 방법의 차이 (뉴스페퍼민트)]]></title>

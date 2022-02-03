@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-02-03T00:47:57.210Z</updated>
+    <updated>2022-02-03T01:54:29.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘비호감 대선’, 진보당은 좀 다른가?]]></title>
+        <id>https://articles.dotface.kr/kimjaeyeon</id>
+        <link href="https://articles.dotface.kr/kimjaeyeon"/>
+        <updated>2022-02-03T01:54:14.420Z</updated>
+        <content type="html"><![CDATA[진보당 김재연 대선후보에게 물어보았다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배드파더스가 또 있다고?]]></title>
         <id>https://articles.dotface.kr/extremely4</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/simsangjeong4"/>
         <updated>2022-01-31T11:13:20.155Z</updated>
         <content type="html"><![CDATA[닷페이스가 심상정 후보를 만났다 [기후 위기 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성소수자면 계속 1인 가구로 살아야 하는 건가요?]]></title>
-        <id>https://articles.dotface.kr/simsangjeong3</id>
-        <link href="https://articles.dotface.kr/simsangjeong3"/>
-        <updated>2022-01-31T11:13:20.155Z</updated>
-        <content type="html"><![CDATA[닷페이스가 심상정 후보를 만났다 [주거 편]]]></content>
     </entry>
 </feed>
