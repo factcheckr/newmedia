@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 22:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 23:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/simsangjeong4</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[닷페이스가 심상정 후보를 만났다 [기후 위기 편]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 음악의 효과와 기원 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/06/npc_music/</link>
+            <guid>https://newspeppermint.com/2022/02/06/npc_music/</guid>
+            <pubDate>Sun, 06 Feb 2022 23:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 7일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 백신 안 맞는 사람들을 한마디로 표현할 수 있을까? (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2021년 11월 30일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유럽 법원 “구글에 물린 반독점 벌금 옳았다” (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/11/13/eucompetitiongoogle/</link>
-            <guid>https://newspeppermint.com/2021/11/13/eucompetitiongoogle/</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 11월 14일]]></content:encoded>
+            <title><![CDATA[제리맨더링과 미국 민주주의 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220207054037001YJ</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220207054037001YJ</guid>
+            <pubDate>Sun, 06 Feb 2022 23:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDdfMTA2/MDAxNjQ0MTc5NzA3NTM4.r-qsqMoPGBFX2LCJuLgnbhwW0KtM5YLA4d2DNXpM6log.zjBvk6KA1vgcSF0LkyW_HMSM4o0Q4ylPb7hWSdN3-Ugg.JPEG/RVGEDTXGWMI6RN56IRA3KB564U.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국의 우주과학과 종교의 관계 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjRfOTAg/MDAxNjQwMjk3Mzg5OTgx.HPh7zekJS3TxwwuRnBUBI-BTx2rjhK01iQU-2nyT0LEg.j3lQ7yJNUHLW_LO0MDzawIidOcMcA7W6Vz-FD_FwI4Ug.JPEG/jair-lazaro-0lrJo37r6Nk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트랜스젠더 운동 선수의 경우 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211222020115380VW</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211222020115380VW</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjNfMjYg/MDAxNjQwMjE1ODA4OTAx.53VltvdzwOJoVWsy3GNGvX6mwO8YAHHZuSG5KxdW05cg.WqO0C4b0R7b1mnbLw6PpqXZCayoXtgg8iSKeJl4FCkUg.PNG/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_publ.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

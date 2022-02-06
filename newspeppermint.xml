@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-02-06T22:13:23.435Z</updated>
+    <updated>2022-02-06T23:13:44.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 음악의 효과와 기원]]></title>
+        <id>https://newspeppermint.com/2022/02/06/npc_music/</id>
+        <link href="https://newspeppermint.com/2022/02/06/npc_music/"/>
+        <updated>2022-02-06T23:13:36.642Z</updated>
+        <content type="html"><![CDATA[2022년 2월 7일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 백신 안 맞는 사람들을 한마디로 표현할 수 있을까?]]></title>
         <id>https://newspeppermint.com/2022/02/03/npc_antivaxxer/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2021/11/29/two-new-books-explore-the-impact-of-accelerating-technology/"/>
         <updated>2022-01-07T19:36:47.159Z</updated>
         <content type="html"><![CDATA[2021년 11월 30일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유럽 법원 “구글에 물린 반독점 벌금 옳았다”]]></title>
-        <id>https://newspeppermint.com/2021/11/13/eucompetitiongoogle/</id>
-        <link href="https://newspeppermint.com/2021/11/13/eucompetitiongoogle/"/>
-        <updated>2022-01-07T19:36:47.162Z</updated>
-        <content type="html"><![CDATA[2021년 11월 14일]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 22:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 23:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제리맨더링과 미국 민주주의]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220207054037001YJ</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220207054037001YJ</guid>
+            <pubDate>Sun, 06 Feb 2022 23:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDdfMTA2/MDAxNjQ0MTc5NzA3NTM4.r-qsqMoPGBFX2LCJuLgnbhwW0KtM5YLA4d2DNXpM6log.zjBvk6KA1vgcSF0LkyW_HMSM4o0Q4ylPb7hWSdN3-Ugg.JPEG/RVGEDTXGWMI6RN56IRA3KB564U.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국의 우주과학과 종교의 관계]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220204062813109Fe</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjRfOTAg/MDAxNjQwMjk3Mzg5OTgx.HPh7zekJS3TxwwuRnBUBI-BTx2rjhK01iQU-2nyT0LEg.j3lQ7yJNUHLW_LO0MDzawIidOcMcA7W6Vz-FD_FwI4Ug.JPEG/jair-lazaro-0lrJo37r6Nk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트랜스젠더 운동 선수의 경우]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211222020115380VW</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211222020115380VW</guid>
-            <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjNfMjYg/MDAxNjQwMjE1ODA4OTAx.53VltvdzwOJoVWsy3GNGvX6mwO8YAHHZuSG5KxdW05cg.WqO0C4b0R7b1mnbLw6PpqXZCayoXtgg8iSKeJl4FCkUg.PNG/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_publ.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
