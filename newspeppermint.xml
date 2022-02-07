@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-02-07T22:14:28.389Z</updated>
+    <updated>2022-02-07T23:14:54.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 말과 함께하는 스포츠는 동물 학대일까?]]></title>
+        <id>https://newspeppermint.com/2022/02/07/npc_animalsports/</id>
+        <link href="https://newspeppermint.com/2022/02/07/npc_animalsports/"/>
+        <updated>2022-02-07T23:14:46.998Z</updated>
+        <content type="html"><![CDATA[2022년 2월 8일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전문 번역] 타라 웨스트오버 “나는 아메리칸 드림의 산증인이 아닙니다.”]]></title>
         <id>https://newspeppermint.com/2022/02/06/westovereducated/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2021/12/17/nyt2021notablepeople/"/>
         <updated>2022-01-07T19:36:47.154Z</updated>
         <content type="html"><![CDATA[2021년 12월 18일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팬데믹은 테크 산업을 어떻게 바꾸고 있는가?]]></title>
-        <id>https://newspeppermint.com/2021/12/15/how-the-pandemic-has-changed-the-weather-in-the-technology-industry/</id>
-        <link href="https://newspeppermint.com/2021/12/15/how-the-pandemic-has-changed-the-weather-in-the-technology-industry/"/>
-        <updated>2022-01-07T19:36:47.158Z</updated>
-        <content type="html"><![CDATA[2021년 12월 16일]]></content>
     </entry>
 </feed>

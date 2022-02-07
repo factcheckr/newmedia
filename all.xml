@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 22:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 23:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/simsangjeong4</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[닷페이스가 심상정 후보를 만났다 [기후 위기 편]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 말과 함께하는 스포츠는 동물 학대일까? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/07/npc_animalsports/</link>
+            <guid>https://newspeppermint.com/2022/02/07/npc_animalsports/</guid>
+            <pubDate>Mon, 07 Feb 2022 23:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 8일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[전문 번역] 타라 웨스트오버 “나는 아메리칸 드림의 산증인이 아닙니다.” (뉴스페퍼민트)]]></title>
@@ -153,13 +160,6 @@
             <guid>https://newspeppermint.com/2021/12/17/nyt2021notablepeople/</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:27 GMT</pubDate>
             <content:encoded><![CDATA[2021년 12월 18일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팬데믹은 테크 산업을 어떻게 바꾸고 있는가? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/12/15/how-the-pandemic-has-changed-the-weather-in-the-technology-industry/</link>
-            <guid>https://newspeppermint.com/2021/12/15/how-the-pandemic-has-changed-the-weather-in-the-technology-industry/</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 12월 16일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제리맨더링과 미국 민주주의 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
