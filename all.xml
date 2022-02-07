@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 03:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 04:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/simsangjeong4</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[닷페이스가 심상정 후보를 만났다 [기후 위기 편]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[전문 번역] 타라 웨스트오버 “나는 아메리칸 드림의 산증인이 아닙니다.” (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/06/westovereducated/</link>
+            <guid>https://newspeppermint.com/2022/02/06/westovereducated/</guid>
+            <pubDate>Mon, 07 Feb 2022 04:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 7일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 음악의 효과와 기원 (뉴스페퍼민트)]]></title>
@@ -153,13 +160,6 @@
             <guid>https://newspeppermint.com/2021/12/15/how-the-pandemic-has-changed-the-weather-in-the-technology-industry/</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:27 GMT</pubDate>
             <content:encoded><![CDATA[2021년 12월 16일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[책] 기하급수적인 기술 발전과 급변하는 세상을 다루는 두 권의 책 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/11/29/two-new-books-explore-the-impact-of-accelerating-technology/</link>
-            <guid>https://newspeppermint.com/2021/11/29/two-new-books-explore-the-impact-of-accelerating-technology/</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 11월 30일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제리맨더링과 미국 민주주의 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
