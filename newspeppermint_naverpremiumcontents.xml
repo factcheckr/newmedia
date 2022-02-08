@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 22:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 23:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아카데미상과 성별 격차]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220209014036341WG</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220209014036341WG</guid>
+            <pubDate>Tue, 08 Feb 2022 23:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDlfMjEx/MDAxNjQ0MzM4MzM5NTg4.0_BEFf2jRVsZKQ_QNN_jlb5sr5veYt9Gjsf94AKFThgg.9EpejRwHiAlP6gfsPaoybpXUtF2Bnj3BFKdja6dSrkgg.JPEG/acf73997c255842ba8feaf612d8dce01.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제리맨더링과 미국 민주주의]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220207054037001YJ</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjdfMjkx/MDAxNjQwNTU5MzM4MTQ5.pi6jcK0NrNWfLwW7OartrvilanD0hgG_6nHLlqEx64cg.O9YF_Dsv7bQNwlV8836JSupsbXQ9rVvjCTQzaoXXE0cg.JPEG/cdc-kOS3uo80NTM-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좋은 의도에서 비롯된 정책이 좋지 않은 결과를 낳을 때]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211224071041137KX</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211224071041137KX</guid>
-            <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjRfOTAg/MDAxNjQwMjk3Mzg5OTgx.HPh7zekJS3TxwwuRnBUBI-BTx2rjhK01iQU-2nyT0LEg.j3lQ7yJNUHLW_LO0MDzawIidOcMcA7W6Vz-FD_FwI4Ug.JPEG/jair-lazaro-0lrJo37r6Nk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

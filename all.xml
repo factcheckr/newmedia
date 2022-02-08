@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 22:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 23:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/simsangjeong4</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[닷페이스가 심상정 후보를 만났다 [기후 위기 편]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 미국과 개인주의 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/08/npc_culturalpsychologyusa/</link>
+            <guid>https://newspeppermint.com/2022/02/08/npc_culturalpsychologyusa/</guid>
+            <pubDate>Tue, 08 Feb 2022 23:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 9일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 말과 함께하는 스포츠는 동물 학대일까? (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 1월 4일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴욕타임스 올해의 인물 이름 맞히기 퀴즈 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/12/17/nyt2021notablepeople/</link>
-            <guid>https://newspeppermint.com/2021/12/17/nyt2021notablepeople/</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 12월 18일]]></content:encoded>
+            <title><![CDATA[아카데미상과 성별 격차 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220209014036341WG</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220209014036341WG</guid>
+            <pubDate>Tue, 08 Feb 2022 23:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDlfMjEx/MDAxNjQ0MzM4MzM5NTg4.0_BEFf2jRVsZKQ_QNN_jlb5sr5veYt9Gjsf94AKFThgg.9EpejRwHiAlP6gfsPaoybpXUtF2Bnj3BFKdja6dSrkgg.JPEG/acf73997c255842ba8feaf612d8dce01.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제리맨더링과 미국 민주주의 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjdfMjkx/MDAxNjQwNTU5MzM4MTQ5.pi6jcK0NrNWfLwW7OartrvilanD0hgG_6nHLlqEx64cg.O9YF_Dsv7bQNwlV8836JSupsbXQ9rVvjCTQzaoXXE0cg.JPEG/cdc-kOS3uo80NTM-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좋은 의도에서 비롯된 정책이 좋지 않은 결과를 낳을 때 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211224071041137KX</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211224071041137KX</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjRfOTAg/MDAxNjQwMjk3Mzg5OTgx.HPh7zekJS3TxwwuRnBUBI-BTx2rjhK01iQU-2nyT0LEg.j3lQ7yJNUHLW_LO0MDzawIidOcMcA7W6Vz-FD_FwI4Ug.JPEG/jair-lazaro-0lrJo37r6Nk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
