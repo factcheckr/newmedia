@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-02-10T22:13:17.453Z</updated>
+    <updated>2022-02-10T23:15:02.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 위기에 처한 아프간 여학생들과 STEM의 역설]]></title>
+        <id>https://newspeppermint.com/2022/02/10/npc_afghanstem/</id>
+        <link href="https://newspeppermint.com/2022/02/10/npc_afghanstem/"/>
+        <updated>2022-02-10T23:14:53.473Z</updated>
+        <content type="html"><![CDATA[2022년 2월 11일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 코로나19 팬데믹을 끝내는 멀고도 험한 길]]></title>
         <id>https://newspeppermint.com/2022/02/09/npc_yongcovid19/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/01/26/npc_generationname/"/>
         <updated>2022-01-26T23:14:17.518Z</updated>
         <content type="html"><![CDATA[2022년 1월 27일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 도전을 찾아 나선 테크 업계의 선각자]]></title>
-        <id>https://newspeppermint.com/2022/01/24/the-tech-moguls-are-looking-for-a-new-playground/</id>
-        <link href="https://newspeppermint.com/2022/01/24/the-tech-moguls-are-looking-for-a-new-playground/"/>
-        <updated>2022-01-24T23:14:25.260Z</updated>
-        <content type="html"><![CDATA[2022년 1월 25일]]></content>
     </entry>
 </feed>
