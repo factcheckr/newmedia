@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 02:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 03:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고기가 될 뻔했던 수많은 개를 살리기까지 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/extremely5</link>
+            <guid>https://articles.dotface.kr/extremely5</guid>
+            <pubDate>Fri, 11 Feb 2022 03:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[[왜 저렇게까지 해?] 롯데목장 개 살리기 시민모임 김지영 김영환 공동대표]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘비호감 대선’, 진보당은 좀 다른가? (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/kimjaeyeon</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/extremely1</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[[왜 저렇게까지 해?] '직접행동 DxE' 은영 활동가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기후 대통령을 자처하는데, 믿어도 될까요? (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/simsangjeong4</link>
-            <guid>https://articles.dotface.kr/simsangjeong4</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[닷페이스가 심상정 후보를 만났다 [기후 위기 편]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 위기에 처한 아프간 여학생들과 STEM의 역설 (뉴스페퍼민트)]]></title>

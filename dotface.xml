@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-02-11T02:38:05.592Z</updated>
+    <updated>2022-02-11T03:14:53.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고기가 될 뻔했던 수많은 개를 살리기까지]]></title>
+        <id>https://articles.dotface.kr/extremely5</id>
+        <link href="https://articles.dotface.kr/extremely5"/>
+        <updated>2022-02-11T03:14:38.105Z</updated>
+        <content type="html"><![CDATA[[왜 저렇게까지 해?] 롯데목장 개 살리기 시민모임 김지영 김영환 공동대표]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘비호감 대선’, 진보당은 좀 다른가?]]></title>
         <id>https://articles.dotface.kr/kimjaeyeon</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/extremely1"/>
         <updated>2022-01-31T11:13:20.154Z</updated>
         <content type="html"><![CDATA[[왜 저렇게까지 해?] '직접행동 DxE' 은영 활동가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후 대통령을 자처하는데, 믿어도 될까요?]]></title>
-        <id>https://articles.dotface.kr/simsangjeong4</id>
-        <link href="https://articles.dotface.kr/simsangjeong4"/>
-        <updated>2022-01-31T11:13:20.155Z</updated>
-        <content type="html"><![CDATA[닷페이스가 심상정 후보를 만났다 [기후 위기 편]]]></content>
     </entry>
 </feed>
