@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-02-12T22:12:53.942Z</updated>
+    <updated>2022-02-12T23:13:57.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원자력이 친환경 에너지일까요? 프랑스와 독일의 상반된 입장]]></title>
+        <id>https://newspeppermint.com/2022/02/12/is-nuclear-energy-green/</id>
+        <link href="https://newspeppermint.com/2022/02/12/is-nuclear-energy-green/"/>
+        <updated>2022-02-12T23:13:49.508Z</updated>
+        <content type="html"><![CDATA[2022년 2월 13일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 위기에 처한 아프간 여학생들과 STEM의 역설]]></title>
         <id>https://newspeppermint.com/2022/02/10/npc_afghanstem/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/01/30/npc_crt/"/>
         <updated>2022-01-30T23:13:45.228Z</updated>
         <content type="html"><![CDATA[2022년 1월 31일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 우리가 아는 세대 분류법의 허상]]></title>
-        <id>https://newspeppermint.com/2022/01/26/npc_generationname/</id>
-        <link href="https://newspeppermint.com/2022/01/26/npc_generationname/"/>
-        <updated>2022-01-26T23:14:17.518Z</updated>
-        <content type="html"><![CDATA[2022년 1월 27일]]></content>
     </entry>
 </feed>

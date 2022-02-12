@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 22:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 23:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/extremely1</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[[왜 저렇게까지 해?] '직접행동 DxE' 은영 활동가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[원자력이 친환경 에너지일까요? 프랑스와 독일의 상반된 입장 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/12/is-nuclear-energy-green/</link>
+            <guid>https://newspeppermint.com/2022/02/12/is-nuclear-energy-green/</guid>
+            <pubDate>Sat, 12 Feb 2022 23:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 13일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 위기에 처한 아프간 여학생들과 STEM의 역설 (뉴스페퍼민트)]]></title>
@@ -153,13 +160,6 @@
             <guid>https://newspeppermint.com/2022/01/30/npc_crt/</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:27 GMT</pubDate>
             <content:encoded><![CDATA[2022년 1월 31일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 우리가 아는 세대 분류법의 허상 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/01/26/npc_generationname/</link>
-            <guid>https://newspeppermint.com/2022/01/26/npc_generationname/</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 1월 27일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[여가는 어떻게 일이 되었나 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
