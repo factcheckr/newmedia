@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-02-12T23:13:57.538Z</updated>
+    <updated>2022-02-13T00:55:04.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[원자력이 친환경 에너지일까요? 프랑스와 독일의 상반된 입장]]></title>
+        <title type="html"><![CDATA[[전문 번역] 원자력이 친환경 에너지일까요? 프랑스와 독일의 상반된 입장]]></title>
         <id>https://newspeppermint.com/2022/02/12/is-nuclear-energy-green/</id>
         <link href="https://newspeppermint.com/2022/02/12/is-nuclear-energy-green/"/>
         <updated>2022-02-12T23:13:49.508Z</updated>
