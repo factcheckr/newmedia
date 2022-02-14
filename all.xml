@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 22:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 23:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/extremely1</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[[왜 저렇게까지 해?] '직접행동 DxE' 은영 활동가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 누군가 우리를 보고 있을까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/14/npc_aliensmightbewatchingus/</link>
+            <guid>https://newspeppermint.com/2022/02/14/npc_aliensmightbewatchingus/</guid>
+            <pubDate>Mon, 14 Feb 2022 23:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 15일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 아프가니스탄, 20년 전으로 시계를 돌려보면 (뉴스페퍼민트)]]></title>
@@ -153,13 +160,6 @@
             <guid>https://newspeppermint.com/2022/02/01/npc_biles/</guid>
             <pubDate>Tue, 01 Feb 2022 23:14:21 GMT</pubDate>
             <content:encoded><![CDATA[2022년 2월 2일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 선주민 기숙학교, 다문화주의 캐나다의 어두운 과거 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/01/31/canadianindian/</link>
-            <guid>https://newspeppermint.com/2022/01/31/canadianindian/</guid>
-            <pubDate>Mon, 31 Jan 2022 23:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월 1일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[풍전등화 우크라이나 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
