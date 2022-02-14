@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 23:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 00:49:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -162,6 +162,14 @@
             <content:encoded><![CDATA[2022년 2월 1일]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[풍전등화 우크라이나 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220214083907084Xs</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220214083907084Xs</guid>
+            <pubDate>Mon, 14 Feb 2022 00:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTRfMTYz/MDAxNjQ0Nzk1MTU3ODc5.mZGxDqZ-pOV1eyTflPLEEpysudsW4BItz12Tadq4HkYg.SUPIZxbmJ1v5KP2HXvOZ35K_umn6t9ejLsIzSYxcr6wg.PNG/Screen_Shot_2022-02-13_at_2.20.59_PM.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[여가는 어떻게 일이 되었나 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220209065249232Fo</link>
             <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220209065249232Fo</guid>
@@ -312,14 +320,6 @@
             <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMzFfNTEg/MDAxNjQwOTA3NTI2NDY0.K6iC8x-_b8vO41UU4e-XwLR9hr9Y9Jq28SW3d_CeHDAg.laDcAEdB2eWFPZy-YyLJqrg9W10pnH56y0Iws1xvd54g.PNG/Screen_Shot_2021-12-31_at_7.54.23_AM.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전기차는 타이어도 달라야 한다 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211229060941508gW</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211229060941508gW</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjlfMTEx/MDAxNjQwNzI1Njk4Mjc0.AXaFmx5CxAAPGsA1TavQzEY_BbH-yOMx6gP4mIOsjh8g.XQPo7yCO5YjywW6vwCj5T1OQldD1REu5oYTI1mpmas4g.JPEG/vincent-camacho-ikfUKWa-uQ0-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
