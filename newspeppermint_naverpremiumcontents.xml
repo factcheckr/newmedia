@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 22:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 23:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 최초 흑인 여성 대법관 물망 오른 인물은?]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220216040057042rt</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220216040057042rt</guid>
+            <pubDate>Tue, 15 Feb 2022 23:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTZfOSAg/MDAxNjQ0OTUxNDc3NzYz.oTfsdKdt-kwRFkuWTW5BcI_7tgqgksLoMwgigW8EFJYg.nmCcsxcA0OC-gO2fajsBjnqzDM-L5mwRuSMxLN115HUg.JPEG/download_(1).jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[풍전등화 우크라이나]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220214083907084Xs</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMDNfMTQ3/MDAxNjQxMTU5ODEzNjA4.s44VA5MFyKO_QCMbGz8kg-fVPzi7eCkiUaQMWB3VDu8g.q77tbLaqjxzFk27j5usuKveCkF1oNNNKomWCKv9dx8og.PNG/Screen_Shot_2022-01-03_at_6.34.42_AM.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 뉴욕타임스 부고 기사 모음]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211231083929125Ay</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211231083929125Ay</guid>
-            <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMzFfNTEg/MDAxNjQwOTA3NTI2NDY0.K6iC8x-_b8vO41UU4e-XwLR9hr9Y9Jq28SW3d_CeHDAg.laDcAEdB2eWFPZy-YyLJqrg9W10pnH56y0Iws1xvd54g.PNG/Screen_Shot_2021-12-31_at_7.54.23_AM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

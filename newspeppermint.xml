@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-02-15T22:14:47.097Z</updated>
+    <updated>2022-02-15T23:15:10.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 아프간 난민과 국내 정치]]></title>
+        <id>https://newspeppermint.com/2022/02/15/npc_afghanrefugee/</id>
+        <link href="https://newspeppermint.com/2022/02/15/npc_afghanrefugee/"/>
+        <updated>2022-02-15T23:15:01.921Z</updated>
+        <content type="html"><![CDATA[2022년 2월 16일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 누군가 우리를 보고 있을까]]></title>
         <id>https://newspeppermint.com/2022/02/14/npc_aliensmightbewatchingus/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/02/02/npc_climatechange/"/>
         <updated>2022-02-02T23:14:33.285Z</updated>
         <content type="html"><![CDATA[2022년 2월 3일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] GOAT 시몬 바일스와 정신건강]]></title>
-        <id>https://newspeppermint.com/2022/02/01/npc_biles/</id>
-        <link href="https://newspeppermint.com/2022/02/01/npc_biles/"/>
-        <updated>2022-02-01T23:14:21.510Z</updated>
-        <content type="html"><![CDATA[2022년 2월 2일]]></content>
     </entry>
 </feed>

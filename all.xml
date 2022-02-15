@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 22:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 23:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/extremely1</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[[왜 저렇게까지 해?] '직접행동 DxE' 은영 활동가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 아프간 난민과 국내 정치 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/15/npc_afghanrefugee/</link>
+            <guid>https://newspeppermint.com/2022/02/15/npc_afghanrefugee/</guid>
+            <pubDate>Tue, 15 Feb 2022 23:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 16일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 누군가 우리를 보고 있을까 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 2월 3일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] GOAT 시몬 바일스와 정신건강 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/02/01/npc_biles/</link>
-            <guid>https://newspeppermint.com/2022/02/01/npc_biles/</guid>
-            <pubDate>Tue, 01 Feb 2022 23:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월 2일]]></content:encoded>
+            <title><![CDATA[미국 최초 흑인 여성 대법관 물망 오른 인물은? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220216040057042rt</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220216040057042rt</guid>
+            <pubDate>Tue, 15 Feb 2022 23:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTZfOSAg/MDAxNjQ0OTUxNDc3NzYz.oTfsdKdt-kwRFkuWTW5BcI_7tgqgksLoMwgigW8EFJYg.nmCcsxcA0OC-gO2fajsBjnqzDM-L5mwRuSMxLN115HUg.JPEG/download_(1).jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[풍전등화 우크라이나 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMDNfMTQ3/MDAxNjQxMTU5ODEzNjA4.s44VA5MFyKO_QCMbGz8kg-fVPzi7eCkiUaQMWB3VDu8g.q77tbLaqjxzFk27j5usuKveCkF1oNNNKomWCKv9dx8og.PNG/Screen_Shot_2022-01-03_at_6.34.42_AM.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 뉴욕타임스 부고 기사 모음 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211231083929125Ay</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211231083929125Ay</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMzFfNTEg/MDAxNjQwOTA3NTI2NDY0.K6iC8x-_b8vO41UU4e-XwLR9hr9Y9Jq28SW3d_CeHDAg.laDcAEdB2eWFPZy-YyLJqrg9W10pnH56y0Iws1xvd54g.PNG/Screen_Shot_2021-12-31_at_7.54.23_AM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
