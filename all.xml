@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 22:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 23:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/extremely1</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[[왜 저렇게까지 해?] '직접행동 DxE' 은영 활동가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 허리케인 아이다와 카트리나 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/16/npc_ida/</link>
+            <guid>https://newspeppermint.com/2022/02/16/npc_ida/</guid>
+            <pubDate>Wed, 16 Feb 2022 23:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 17일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 아프간 난민과 국내 정치 (뉴스페퍼민트)]]></title>
@@ -153,13 +160,6 @@
             <guid>https://newspeppermint.com/2022/02/03/npc_antivaxxer/</guid>
             <pubDate>Thu, 03 Feb 2022 23:13:46 GMT</pubDate>
             <content:encoded><![CDATA[2022년 2월 4일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 기후변화에 대처하는 방법의 차이 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/02/02/npc_climatechange/</link>
-            <guid>https://newspeppermint.com/2022/02/02/npc_climatechange/</guid>
-            <pubDate>Wed, 02 Feb 2022 23:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월 3일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미국 최초 흑인 여성 대법관 물망 오른 인물은? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
