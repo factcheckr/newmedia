@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 22:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 23:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/extremely1</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[[왜 저렇게까지 해?] '직접행동 DxE' 은영 활동가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 정찰병의 마음을 가지는 법 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/17/npc_scoutmindset/</link>
+            <guid>https://newspeppermint.com/2022/02/17/npc_scoutmindset/</guid>
+            <pubDate>Thu, 17 Feb 2022 23:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 18일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 허리케인 아이다와 카트리나 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 2월 7일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 백신 안 맞는 사람들을 한마디로 표현할 수 있을까? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/02/03/npc_antivaxxer/</link>
-            <guid>https://newspeppermint.com/2022/02/03/npc_antivaxxer/</guid>
-            <pubDate>Thu, 03 Feb 2022 23:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월 4일]]></content:encoded>
+            <title><![CDATA[클라우드 컴퓨팅과 메타버스 시대의 ‘잊힐 권리’ (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220218050245700VK</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220218050245700VK</guid>
+            <pubDate>Thu, 17 Feb 2022 23:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMThfMjI5/MDAxNjQ1MTI4MDg5NDY0.jfI4aBfciWLGcarzxMQ5TWTPJTbMYLH04Qm-6vALRukg.Eu5x30aSnl45cUe8iixHGj3MIUbeENN5f12Gse_OI8wg.JPEG/solen-feyissa-M7zS8puGg18-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국 최초 흑인 여성 대법관 물망 오른 인물은? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMDRfMTcz/MDAxNjQxMjk4MTkxMTU0.1kDzLPQiAVUwzAWCY-e0zkflkL2_DXK6Q3xyNLwL-pYg.Y2sWao27_UrBYrS03CJK84ClKY1jk311cREvESX8ia8g.JPEG/glen-carrie-wzKHNVTZmZo-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체중 관리에 관해 우리가 모르는 사실 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220103064754027hL</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220103064754027hL</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMDNfMTQ3/MDAxNjQxMTU5ODEzNjA4.s44VA5MFyKO_QCMbGz8kg-fVPzi7eCkiUaQMWB3VDu8g.q77tbLaqjxzFk27j5usuKveCkF1oNNNKomWCKv9dx8og.PNG/Screen_Shot_2022-01-03_at_6.34.42_AM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-02-17T22:14:44.314Z</updated>
+    <updated>2022-02-17T23:14:43.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 정찰병의 마음을 가지는 법]]></title>
+        <id>https://newspeppermint.com/2022/02/17/npc_scoutmindset/</id>
+        <link href="https://newspeppermint.com/2022/02/17/npc_scoutmindset/"/>
+        <updated>2022-02-17T23:14:34.933Z</updated>
+        <content type="html"><![CDATA[2022년 2월 18일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 허리케인 아이다와 카트리나]]></title>
         <id>https://newspeppermint.com/2022/02/16/npc_ida/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/02/06/npc_music/"/>
         <updated>2022-02-06T23:13:36.642Z</updated>
         <content type="html"><![CDATA[2022년 2월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 백신 안 맞는 사람들을 한마디로 표현할 수 있을까?]]></title>
-        <id>https://newspeppermint.com/2022/02/03/npc_antivaxxer/</id>
-        <link href="https://newspeppermint.com/2022/02/03/npc_antivaxxer/"/>
-        <updated>2022-02-03T23:13:46.958Z</updated>
-        <content type="html"><![CDATA[2022년 2월 4일]]></content>
     </entry>
 </feed>
