@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 22:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 23:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/extremely1</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[[왜 저렇게까지 해?] '직접행동 DxE' 은영 활동가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 텍사스 낙태금지법, 악마는 디테일에 숨어있다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/20/npc_texasabortion/</link>
+            <guid>https://newspeppermint.com/2022/02/20/npc_texasabortion/</guid>
+            <pubDate>Sun, 20 Feb 2022 23:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 21일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 정찰병의 마음을 가지는 법 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 2월 7일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 음악의 효과와 기원 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/02/06/npc_music/</link>
-            <guid>https://newspeppermint.com/2022/02/06/npc_music/</guid>
-            <pubDate>Sun, 06 Feb 2022 23:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월 7일]]></content:encoded>
+            <title><![CDATA[캐나다까지 번진 코로나 백신 반대 시위 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220221031851668Bp</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220221031851668Bp</guid>
+            <pubDate>Sun, 20 Feb 2022 23:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjFfMTUz/MDAxNjQ1MzgwOTgzNDYw.Ae0W6Xu69C6hThOrI9860w4CAT2Zhp0Fas2zl7n_e3sg.qup_iyAABffhK3D7FgVTytknIUl6wC6Lh5J3Epo62Agg.JPEG/4000.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[클라우드 컴퓨팅과 메타버스 시대의 ‘잊힐 권리’ (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMDZfNTAg/MDAxNjQxNDc0NDczMTMx.vROld1riACoEUHRSySf09dA9IvBaDnTNzCOZobv-qHAg.8pYwSbj0OLHNBK7zACZ9p9Aj2Q3nG4YGkeOFPZTqM1sg.JPEG/Lula_-_foto_oficial_-_05_jan_2007_(cropped_3).jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 전 세계 주요 선거 일정 (1) (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220104211222388eJ</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220104211222388eJ</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMDRfMTcz/MDAxNjQxMjk4MTkxMTU0.1kDzLPQiAVUwzAWCY-e0zkflkL2_DXK6Q3xyNLwL-pYg.Y2sWao27_UrBYrS03CJK84ClKY1jk311cREvESX8ia8g.JPEG/glen-carrie-wzKHNVTZmZo-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

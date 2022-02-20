@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-02-20T22:14:31.687Z</updated>
+    <updated>2022-02-20T23:14:53.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 텍사스 낙태금지법, 악마는 디테일에 숨어있다]]></title>
+        <id>https://newspeppermint.com/2022/02/20/npc_texasabortion/</id>
+        <link href="https://newspeppermint.com/2022/02/20/npc_texasabortion/"/>
+        <updated>2022-02-20T23:14:45.164Z</updated>
+        <content type="html"><![CDATA[2022년 2월 21일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 정찰병의 마음을 가지는 법]]></title>
         <id>https://newspeppermint.com/2022/02/17/npc_scoutmindset/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2022/02/06/westovereducated/</id>
         <link href="https://newspeppermint.com/2022/02/06/westovereducated/"/>
         <updated>2022-02-07T04:18:21.973Z</updated>
-        <content type="html"><![CDATA[2022년 2월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 음악의 효과와 기원]]></title>
-        <id>https://newspeppermint.com/2022/02/06/npc_music/</id>
-        <link href="https://newspeppermint.com/2022/02/06/npc_music/"/>
-        <updated>2022-02-06T23:13:36.642Z</updated>
         <content type="html"><![CDATA[2022년 2월 7일]]></content>
     </entry>
 </feed>
