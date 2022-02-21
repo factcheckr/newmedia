@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-02-21T22:14:37.283Z</updated>
+    <updated>2022-02-21T23:15:11.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 뉴스룸의 다양성, 성과와 과제]]></title>
+        <id>https://newspeppermint.com/2022/02/21/npc_newsroomdiversity/</id>
+        <link href="https://newspeppermint.com/2022/02/21/npc_newsroomdiversity/"/>
+        <updated>2022-02-21T23:15:04.201Z</updated>
+        <content type="html"><![CDATA[2022년 2월 22일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 텍사스 낙태금지법, 악마는 디테일에 숨어있다]]></title>
         <id>https://newspeppermint.com/2022/02/20/npc_texasabortion/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/02/07/npc_animalsports/"/>
         <updated>2022-02-07T23:14:46.998Z</updated>
         <content type="html"><![CDATA[2022년 2월 8일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전문 번역] 타라 웨스트오버 “나는 아메리칸 드림의 산증인이 아닙니다.”]]></title>
-        <id>https://newspeppermint.com/2022/02/06/westovereducated/</id>
-        <link href="https://newspeppermint.com/2022/02/06/westovereducated/"/>
-        <updated>2022-02-07T04:18:21.973Z</updated>
-        <content type="html"><![CDATA[2022년 2월 7일]]></content>
     </entry>
 </feed>
