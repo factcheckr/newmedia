@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 04:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 05:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘나다움’이 뭔데? 그거 어떻게 찾는데? (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/youthvoice</link>
+            <guid>https://articles.dotface.kr/youthvoice</guid>
+            <pubDate>Mon, 21 Feb 2022 05:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[10대들이 가장 ‘나답게' 만나는 곳, 유스보이스]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[고기가 될 뻔했던 수많은 개를 살리기까지 (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/extremely5</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/extremely2</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[[왜 저렇게까지 해?] 청년기후긴급행동 강은빈, 이은호 활동가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["음식이 아니라 폭력입니다" 식당에서 외치는 이유 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/extremely1</link>
-            <guid>https://articles.dotface.kr/extremely1</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[[왜 저렇게까지 해?] '직접행동 DxE' 은영 활동가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 텍사스 낙태금지법, 악마는 디테일에 숨어있다 (뉴스페퍼민트)]]></title>

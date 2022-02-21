@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-02-21T04:19:18.942Z</updated>
+    <updated>2022-02-21T05:14:06.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나다움’이 뭔데? 그거 어떻게 찾는데?]]></title>
+        <id>https://articles.dotface.kr/youthvoice</id>
+        <link href="https://articles.dotface.kr/youthvoice"/>
+        <updated>2022-02-21T05:13:48.755Z</updated>
+        <content type="html"><![CDATA[10대들이 가장 ‘나답게' 만나는 곳, 유스보이스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고기가 될 뻔했던 수많은 개를 살리기까지]]></title>
         <id>https://articles.dotface.kr/extremely5</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/extremely2"/>
         <updated>2022-01-31T11:13:20.152Z</updated>
         <content type="html"><![CDATA[[왜 저렇게까지 해?] 청년기후긴급행동 강은빈, 이은호 활동가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["음식이 아니라 폭력입니다" 식당에서 외치는 이유]]></title>
-        <id>https://articles.dotface.kr/extremely1</id>
-        <link href="https://articles.dotface.kr/extremely1"/>
-        <updated>2022-01-31T11:13:20.154Z</updated>
-        <content type="html"><![CDATA[[왜 저렇게까지 해?] '직접행동 DxE' 은영 활동가]]></content>
     </entry>
 </feed>
