@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 22:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 23:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스포티파이가 2억 달러 주고 산 “양날의 검” 조 로건]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220223062818664eo</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220223062818664eo</guid>
+            <pubDate>Tue, 22 Feb 2022 23:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjNfMTUy/MDAxNjQ1NTY0ODU1ODcw.fam3PcsqizEKz04a6LwS7gAOzDpxemr8cyiNhO79Hd8g.bMjqExl9BYQVY_47uc_P-YJQuUZRsyOP_BMvrtGTM88g.PNG/Spotify_Logo_CMYK_Green.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[캐나다까지 번진 코로나 백신 반대 시위]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220221031851668Bp</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 09 Jan 2022 23:15:22 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTBfMjgx/MDAxNjQxNzY5MDI1ODQy.sENi5YAEEqtXndIk6Ds1Ql9nDW3b3lZRUW5eqZjf_zkg.VCt6lk80chlVdtSFPzEAtzwLE6ei0H_uP2UqYS2hkB8g.PNG/Screen_Shot_2022-01-10_at_7.44.27_AM.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 전 세계 주요 선거 일정 (2)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220106220930557zU</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220106220930557zU</guid>
-            <pubDate>Fri, 07 Jan 2022 19:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMDZfNTAg/MDAxNjQxNDc0NDczMTMx.vROld1riACoEUHRSySf09dA9IvBaDnTNzCOZobv-qHAg.8pYwSbj0OLHNBK7zACZ9p9Aj2Q3nG4YGkeOFPZTqM1sg.JPEG/Lula_-_foto_oficial_-_05_jan_2007_(cropped_3).jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

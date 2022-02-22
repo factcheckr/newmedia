@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 22:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 23:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/extremely2</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[[왜 저렇게까지 해?] 청년기후긴급행동 강은빈, 이은호 활동가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 낯선 이에게 말 걸기 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/22/npc_talkstrangersmore/</link>
+            <guid>https://newspeppermint.com/2022/02/22/npc_talkstrangersmore/</guid>
+            <pubDate>Tue, 22 Feb 2022 23:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 23일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 뉴스룸의 다양성, 성과와 과제 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 2월 9일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 말과 함께하는 스포츠는 동물 학대일까? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/02/07/npc_animalsports/</link>
-            <guid>https://newspeppermint.com/2022/02/07/npc_animalsports/</guid>
-            <pubDate>Mon, 07 Feb 2022 23:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월 8일]]></content:encoded>
+            <title><![CDATA[스포티파이가 2억 달러 주고 산 “양날의 검” 조 로건 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220223062818664eo</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220223062818664eo</guid>
+            <pubDate>Tue, 22 Feb 2022 23:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjNfMTUy/MDAxNjQ1NTY0ODU1ODcw.fam3PcsqizEKz04a6LwS7gAOzDpxemr8cyiNhO79Hd8g.bMjqExl9BYQVY_47uc_P-YJQuUZRsyOP_BMvrtGTM88g.PNG/Spotify_Logo_CMYK_Green.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[캐나다까지 번진 코로나 백신 반대 시위 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTBfMjgx/MDAxNjQxNzY5MDI1ODQy.sENi5YAEEqtXndIk6Ds1Ql9nDW3b3lZRUW5eqZjf_zkg.VCt6lk80chlVdtSFPzEAtzwLE6ei0H_uP2UqYS2hkB8g.PNG/Screen_Shot_2022-01-10_at_7.44.27_AM.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 전 세계 주요 선거 일정 (2) (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220106220930557zU</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220106220930557zU</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMDZfNTAg/MDAxNjQxNDc0NDczMTMx.vROld1riACoEUHRSySf09dA9IvBaDnTNzCOZobv-qHAg.8pYwSbj0OLHNBK7zACZ9p9Aj2Q3nG4YGkeOFPZTqM1sg.JPEG/Lula_-_foto_oficial_-_05_jan_2007_(cropped_3).jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
