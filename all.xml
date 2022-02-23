@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 22:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 23:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/extremely2</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[[왜 저렇게까지 해?] 청년기후긴급행동 강은빈, 이은호 활동가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 코로나19 백신 의무접종 방침과 과학의 정치화 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/23/npc_vacmandatereligiousexemption/</link>
+            <guid>https://newspeppermint.com/2022/02/23/npc_vacmandatereligiousexemption/</guid>
+            <pubDate>Wed, 23 Feb 2022 23:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 24일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 낯선 이에게 말 걸기 (뉴스페퍼민트)]]></title>
@@ -153,13 +160,6 @@
             <guid>https://newspeppermint.com/2022/02/09/npc_yongcovid19/</guid>
             <pubDate>Wed, 09 Feb 2022 23:14:03 GMT</pubDate>
             <content:encoded><![CDATA[2022년 2월 10일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 미국과 개인주의 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/02/08/npc_culturalpsychologyusa/</link>
-            <guid>https://newspeppermint.com/2022/02/08/npc_culturalpsychologyusa/</guid>
-            <pubDate>Tue, 08 Feb 2022 23:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월 9일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스포티파이가 2억 달러 주고 산 “양날의 검” 조 로건 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
