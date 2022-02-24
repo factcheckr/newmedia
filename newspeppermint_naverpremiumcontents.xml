@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 22:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 23:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생물학자 E.O. 윌슨에 대한 엇갈린 평가들]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220225075156314Ws</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220225075156314Ws</guid>
+            <pubDate>Thu, 24 Feb 2022 23:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjVfMTE5/MDAxNjQ1NzQyOTM3OTcy.fs8dST2YXkSH4uejgh-05kkalYhcbgdTOETGortycnog.nvHC4Lqx7oLqG07jq7eCEFAXRv_5_alxKrcX1G7RbIQg.JPEG/Plos_wilson.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[스포티파이가 2억 달러 주고 산 “양날의 검” 조 로건]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220223062818664eo</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 11 Jan 2022 23:15:54 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTFfMTE4/MDAxNjQxODc4NDE2NDU3.UY1UHOrotJ3TZ2w8XiSCO0T_UNO3yng5ERdx8koVhxAg.AxkWVTG9QvAu_Rmg7mT8LsBBz1RNOOkBrrENRpTHZpYg.PNG/Screen_Shot_2022-01-11_at_12.48.32_PM.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뇌 기능을 개선한다는 누트로픽스(nootropics)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220110080056411rR</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220110080056411rR</guid>
-            <pubDate>Sun, 09 Jan 2022 23:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTBfMjgx/MDAxNjQxNzY5MDI1ODQy.sENi5YAEEqtXndIk6Ds1Ql9nDW3b3lZRUW5eqZjf_zkg.VCt6lk80chlVdtSFPzEAtzwLE6ei0H_uP2UqYS2hkB8g.PNG/Screen_Shot_2022-01-10_at_7.44.27_AM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

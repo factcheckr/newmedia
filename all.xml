@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 22:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 23:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/extremely2</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[[왜 저렇게까지 해?] 청년기후긴급행동 강은빈, 이은호 활동가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 때로는 “아니오”라고 말할 수 있어야 합니다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/24/npc_powerofno/</link>
+            <guid>https://newspeppermint.com/2022/02/24/npc_powerofno/</guid>
+            <pubDate>Thu, 24 Feb 2022 23:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 25일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 코로나19 백신 의무접종 방침과 과학의 정치화 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 2월 11일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 코로나19 팬데믹을 끝내는 멀고도 험한 길 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/02/09/npc_yongcovid19/</link>
-            <guid>https://newspeppermint.com/2022/02/09/npc_yongcovid19/</guid>
-            <pubDate>Wed, 09 Feb 2022 23:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월 10일]]></content:encoded>
+            <title><![CDATA[생물학자 E.O. 윌슨에 대한 엇갈린 평가들 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220225075156314Ws</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220225075156314Ws</guid>
+            <pubDate>Thu, 24 Feb 2022 23:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjVfMTE5/MDAxNjQ1NzQyOTM3OTcy.fs8dST2YXkSH4uejgh-05kkalYhcbgdTOETGortycnog.nvHC4Lqx7oLqG07jq7eCEFAXRv_5_alxKrcX1G7RbIQg.JPEG/Plos_wilson.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[스포티파이가 2억 달러 주고 산 “양날의 검” 조 로건 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTFfMTE4/MDAxNjQxODc4NDE2NDU3.UY1UHOrotJ3TZ2w8XiSCO0T_UNO3yng5ERdx8koVhxAg.AxkWVTG9QvAu_Rmg7mT8LsBBz1RNOOkBrrENRpTHZpYg.PNG/Screen_Shot_2022-01-11_at_12.48.32_PM.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뇌 기능을 개선한다는 누트로픽스(nootropics) (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220110080056411rR</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220110080056411rR</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTBfMjgx/MDAxNjQxNzY5MDI1ODQy.sENi5YAEEqtXndIk6Ds1Ql9nDW3b3lZRUW5eqZjf_zkg.VCt6lk80chlVdtSFPzEAtzwLE6ei0H_uP2UqYS2hkB8g.PNG/Screen_Shot_2022-01-10_at_7.44.27_AM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

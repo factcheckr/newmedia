@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-02-24T22:15:22.607Z</updated>
+    <updated>2022-02-24T23:15:50.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 때로는 “아니오”라고 말할 수 있어야 합니다]]></title>
+        <id>https://newspeppermint.com/2022/02/24/npc_powerofno/</id>
+        <link href="https://newspeppermint.com/2022/02/24/npc_powerofno/"/>
+        <updated>2022-02-24T23:15:43.096Z</updated>
+        <content type="html"><![CDATA[2022년 2월 25일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 코로나19 백신 의무접종 방침과 과학의 정치화]]></title>
         <id>https://newspeppermint.com/2022/02/23/npc_vacmandatereligiousexemption/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/02/10/npc_afghanstem/"/>
         <updated>2022-02-10T23:14:53.473Z</updated>
         <content type="html"><![CDATA[2022년 2월 11일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 코로나19 팬데믹을 끝내는 멀고도 험한 길]]></title>
-        <id>https://newspeppermint.com/2022/02/09/npc_yongcovid19/</id>
-        <link href="https://newspeppermint.com/2022/02/09/npc_yongcovid19/"/>
-        <updated>2022-02-09T23:14:03.700Z</updated>
-        <content type="html"><![CDATA[2022년 2월 10일]]></content>
     </entry>
 </feed>
