@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 07:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 08:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -162,6 +162,14 @@
             <content:encoded><![CDATA[2022년 2월 11일]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[스위프트(SWIFT), 러시아 금융기관들 퇴출한다 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220227162900649Zo</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220227162900649Zo</guid>
+            <pubDate>Sun, 27 Feb 2022 08:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjdfMTA1/MDAxNjQ1OTQ2NzYzMjYy.131pjbefeA5xD0YyWHUGpxfpDYkc9Qe8n37ucW6PnCog.z75OyqZ7yDUrXP1d1N2PkkQZ9Iec-d7MzbRtUY155D0g.JPEG/UUDGY355ONLBXGONVFMQTN5QUY.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[생물학자 E.O. 윌슨에 대한 엇갈린 평가들 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220225075156314Ws</link>
             <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220225075156314Ws</guid>
@@ -312,14 +320,6 @@
             <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTRfMjIw/MDAxNjQyMTE2Mzc3NzQ5.tG2yY1u3NRyahE9z-Al7iYsF9MBNLdJJzFElZREqfNgg.WDav9fGB2k_bN9NeJ6M3h4LJWQuWD66iNfviexxib34g.JPEG/Drive_My_Car_movie_poster.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 중간선거 앞둔 공화당 의원들의 선거자금 걱정 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220111142613752oe</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220111142613752oe</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTFfMTE4/MDAxNjQxODc4NDE2NDU3.UY1UHOrotJ3TZ2w8XiSCO0T_UNO3yng5ERdx8koVhxAg.AxkWVTG9QvAu_Rmg7mT8LsBBz1RNOOkBrrENRpTHZpYg.PNG/Screen_Shot_2022-01-11_at_12.48.32_PM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
