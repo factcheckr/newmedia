@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-02-27T22:14:41.363Z</updated>
+    <updated>2022-02-27T23:15:18.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[전문 번역] 푸틴 치하 18년, 푸틴 세대의 역설]]></title>
+        <id>https://newspeppermint.com/2022/02/27/eighteen-years-of-putin/</id>
+        <link href="https://newspeppermint.com/2022/02/27/eighteen-years-of-putin/"/>
+        <updated>2022-02-27T23:15:11.345Z</updated>
+        <content type="html"><![CDATA[2022년 2월 28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 때로는 “아니오”라고 말할 수 있어야 합니다]]></title>
         <id>https://newspeppermint.com/2022/02/24/npc_powerofno/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/02/12/is-nuclear-energy-green/"/>
         <updated>2022-02-12T23:13:49.508Z</updated>
         <content type="html"><![CDATA[2022년 2월 13일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 위기에 처한 아프간 여학생들과 STEM의 역설]]></title>
-        <id>https://newspeppermint.com/2022/02/10/npc_afghanstem/</id>
-        <link href="https://newspeppermint.com/2022/02/10/npc_afghanstem/"/>
-        <updated>2022-02-10T23:14:53.473Z</updated>
-        <content type="html"><![CDATA[2022년 2월 11일]]></content>
     </entry>
 </feed>

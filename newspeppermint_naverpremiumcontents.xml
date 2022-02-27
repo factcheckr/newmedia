@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 22:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 23:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아 내 반전 여론과 푸틴의 입지]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220228074648186Tc</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220228074648186Tc</guid>
+            <pubDate>Sun, 27 Feb 2022 23:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjhfMjE0/MDAxNjQ2MDAxNzE0MzIw.8F19HVeUEOP3v_kQvvYwq4OjKZ12r10x3x9WJiCgl5Ig.MDsOWYiKBtu1c8hw-lOyMCWzDD0p8mfA6RuUdTDrnfcg.JPEG/Screen_Shot_2022-02-27_at_5.14.05_PM.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스위프트(SWIFT), 러시아 금융기관들 퇴출한다]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220227162900649Zo</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 17 Jan 2022 00:53:09 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTdfMjYx/MDAxNjQyMzc1MTEyNjY3.pXA6_ujvc1FPLO0-osVGBnZaSFO_LP7M0plZEvApZacg.-LKOIdWbxeUmZAjE_eDeAJy-sljTp5_r7yd-0j8My4Eg.JPEG/Plos_wilson.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라이브 마이 카]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220114082746306cE</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220114082746306cE</guid>
-            <pubDate>Fri, 14 Jan 2022 00:54:12 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTRfMjIw/MDAxNjQyMTE2Mzc3NzQ5.tG2yY1u3NRyahE9z-Al7iYsF9MBNLdJJzFElZREqfNgg.WDav9fGB2k_bN9NeJ6M3h4LJWQuWD66iNfviexxib34g.JPEG/Drive_My_Car_movie_poster.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
