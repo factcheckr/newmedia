@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-02-28T22:15:08.118Z</updated>
+    <updated>2022-02-28T23:16:00.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 궁지에 몰린 페이스북(과 저커버그)]]></title>
+        <id>https://newspeppermint.com/2022/02/28/npc_facebookfilewsj/</id>
+        <link href="https://newspeppermint.com/2022/02/28/npc_facebookfilewsj/"/>
+        <updated>2022-02-28T23:15:53.434Z</updated>
+        <content type="html"><![CDATA[2022년 3월 1일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전문 번역] 푸틴 치하 18년, 푸틴 세대의 역설]]></title>
         <id>https://newspeppermint.com/2022/02/27/eighteen-years-of-putin/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/02/13/npc_afghanwar/"/>
         <updated>2022-02-13T23:14:31.764Z</updated>
         <content type="html"><![CDATA[2022년 2월 14일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전문 번역] 원자력은 친환경 에너지일까요? 프랑스와 독일의 상반된 입장]]></title>
-        <id>https://newspeppermint.com/2022/02/12/is-nuclear-energy-green/</id>
-        <link href="https://newspeppermint.com/2022/02/12/is-nuclear-energy-green/"/>
-        <updated>2022-02-12T23:13:49.508Z</updated>
-        <content type="html"><![CDATA[2022년 2월 13일]]></content>
     </entry>
 </feed>
