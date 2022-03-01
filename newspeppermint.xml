@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-03-01T22:14:59.166Z</updated>
+    <updated>2022-03-01T23:15:29.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 기후 재앙과 불평등이 빚어낸 환경 인종주의]]></title>
+        <id>https://newspeppermint.com/2022/03/01/npc_environmentalracism/</id>
+        <link href="https://newspeppermint.com/2022/03/01/npc_environmentalracism/"/>
+        <updated>2022-03-01T23:15:21.913Z</updated>
+        <content type="html"><![CDATA[2022년 3월 2일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 궁지에 몰린 페이스북(과 저커버그)]]></title>
         <id>https://newspeppermint.com/2022/02/28/npc_facebookfilewsj/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/02/14/npc_aliensmightbewatchingus/"/>
         <updated>2022-02-14T23:14:11.817Z</updated>
         <content type="html"><![CDATA[2022년 2월 15일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 아프가니스탄, 20년 전으로 시계를 돌려보면]]></title>
-        <id>https://newspeppermint.com/2022/02/13/npc_afghanwar/</id>
-        <link href="https://newspeppermint.com/2022/02/13/npc_afghanwar/"/>
-        <updated>2022-02-13T23:14:31.764Z</updated>
-        <content type="html"><![CDATA[2022년 2월 14일]]></content>
     </entry>
 </feed>
