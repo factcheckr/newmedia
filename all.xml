@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 22:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 23:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/extremely2</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[[왜 저렇게까지 해?] 청년기후긴급행동 강은빈, 이은호 활동가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 실내 공기와 건강 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/03/02/npc_indoorair/</link>
+            <guid>https://newspeppermint.com/2022/03/02/npc_indoorair/</guid>
+            <pubDate>Wed, 02 Mar 2022 23:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 3월 3일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 기후 재앙과 불평등이 빚어낸 환경 인종주의 (뉴스페퍼민트)]]></title>
@@ -153,13 +160,6 @@
             <guid>https://newspeppermint.com/2022/02/15/npc_afghanrefugee/</guid>
             <pubDate>Tue, 15 Feb 2022 23:15:01 GMT</pubDate>
             <content:encoded><![CDATA[2022년 2월 16일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 누군가 우리를 보고 있을까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/02/14/npc_aliensmightbewatchingus/</link>
-            <guid>https://newspeppermint.com/2022/02/14/npc_aliensmightbewatchingus/</guid>
-            <pubDate>Mon, 14 Feb 2022 23:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월 15일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["전쟁을 전쟁이라고 부르지 달리 뭐라고 부르나?" (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
