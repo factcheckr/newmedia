@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 22:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 23:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/extremely2</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[[왜 저렇게까지 해?] 청년기후긴급행동 강은빈, 이은호 활동가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 테라노스 재판, 실리콘밸리 문화를 바꿀까? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/03/03/npc_theranos/</link>
+            <guid>https://newspeppermint.com/2022/03/03/npc_theranos/</guid>
+            <pubDate>Thu, 03 Mar 2022 23:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 3월 4일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 실내 공기와 건강 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 2월 17일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 아프간 난민과 국내 정치 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/02/15/npc_afghanrefugee/</link>
-            <guid>https://newspeppermint.com/2022/02/15/npc_afghanrefugee/</guid>
-            <pubDate>Tue, 15 Feb 2022 23:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월 16일]]></content:encoded>
+            <title><![CDATA[불편함이 당신을 성장시킨다 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220304061241556SM</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220304061241556SM</guid>
+            <pubDate>Thu, 03 Mar 2022 23:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDRfMTEg/MDAxNjQ2MzQxODgyMTE2.pK8lhnZ4TlbuHHmbwJ1FpRttpoI7e_XM62BGwjRGmBIg.w7T9Cx-w6H-euvbp-mnvrcjfKiLv7GKV3-NZW7lOUmog.PNG/images-2.fit_lim.size_2000x.v1611706400.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["전쟁을 전쟁이라고 부르지 달리 뭐라고 부르나?" (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
             <content:encoded><![CDATA[경제 공부방]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjFfMjE1/MDAxNjQyNzE0MjU4ODAx.JvquEKHXeHTdOTQpXAZGavoeCL-2ZVQ_sIeZbxiiHF4g.Z83vx7X-0vQkyP7e4m0N3Vo9DqKNo8Nrl8TqtmJIVLUg.JPEG/vladislav-babienko-KTpSVEcU0XU-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고기로 태어나서 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220119081747141Fk</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220119081747141Fk</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTlfMTU0/MDAxNjQyNTQ3NzEzNDAz.8cSDCSayXMnTSYHu_g-0p2bL0kRypT_DGbDLv9uOe-Ug.ISJ_ZUbpQTtX-TaFztbbenTxEaWOJEbXbSz3hxzBOhwg.JPEG/victoria-shes-XgFFJKSPkNk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
