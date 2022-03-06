@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-03-06T22:15:02.062Z</updated>
+    <updated>2022-03-06T23:15:36.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 뉴욕시 배달 노동자 보호법안 통과]]></title>
+        <id>https://newspeppermint.com/2022/03/06/npc_nycdeliveryworkers/</id>
+        <link href="https://newspeppermint.com/2022/03/06/npc_nycdeliveryworkers/"/>
+        <updated>2022-03-06T23:15:29.298Z</updated>
+        <content type="html"><![CDATA[2022년 3월 7일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 테라노스 재판, 실리콘밸리 문화를 바꿀까?]]></title>
         <id>https://newspeppermint.com/2022/03/03/npc_theranos/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/02/17/npc_scoutmindset/"/>
         <updated>2022-02-17T23:14:34.933Z</updated>
         <content type="html"><![CDATA[2022년 2월 18일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 허리케인 아이다와 카트리나]]></title>
-        <id>https://newspeppermint.com/2022/02/16/npc_ida/</id>
-        <link href="https://newspeppermint.com/2022/02/16/npc_ida/"/>
-        <updated>2022-02-16T23:14:40.244Z</updated>
-        <content type="html"><![CDATA[2022년 2월 17일]]></content>
     </entry>
 </feed>
