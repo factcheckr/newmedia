@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-03-07T22:15:02.051Z</updated>
+    <updated>2022-03-07T23:14:56.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 새로운 학습 방법]]></title>
+        <id>https://newspeppermint.com/2022/03/07/npc_newwaytolearn/</id>
+        <link href="https://newspeppermint.com/2022/03/07/npc_newwaytolearn/"/>
+        <updated>2022-03-07T23:14:48.472Z</updated>
+        <content type="html"><![CDATA[2022년 3월 8일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 뉴욕시 배달 노동자 보호법안 통과]]></title>
         <id>https://newspeppermint.com/2022/03/06/npc_nycdeliveryworkers/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/02/20/npc_texasabortion/"/>
         <updated>2022-02-20T23:14:45.164Z</updated>
         <content type="html"><![CDATA[2022년 2월 21일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 정찰병의 마음을 가지는 법]]></title>
-        <id>https://newspeppermint.com/2022/02/17/npc_scoutmindset/</id>
-        <link href="https://newspeppermint.com/2022/02/17/npc_scoutmindset/"/>
-        <updated>2022-02-17T23:14:34.933Z</updated>
-        <content type="html"><![CDATA[2022년 2월 18일]]></content>
     </entry>
 </feed>
