@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-03-07T06:19:20.408Z</updated>
+    <updated>2022-03-07T07:15:27.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 다섯 번째로 큰 사이트에서 일어나는 일]]></title>
+        <id>https://articles.dotface.kr/reset</id>
+        <link href="https://articles.dotface.kr/reset"/>
+        <updated>2022-03-07T07:15:09.411Z</updated>
+        <content type="html"><![CDATA[불법 합성, 성희롱 댓글, 신상 털이.... 놀이가 된 디지털 성착취]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아파트를 짓는 은지씨]]></title>
         <id>https://articles.dotface.kr/womencando-eunji</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/leejaemyung2"/>
         <updated>2022-01-31T11:13:20.150Z</updated>
         <content type="html"><![CDATA[닷페이스가 이재명 후보를 만났다 [직장 내 성평등 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["차별금지법은 하는 게 맞죠, 맞는데…"]]></title>
-        <id>https://articles.dotface.kr/leejaemyung1</id>
-        <link href="https://articles.dotface.kr/leejaemyung1"/>
-        <updated>2022-01-31T11:13:20.151Z</updated>
-        <content type="html"><![CDATA[닷페이스가 이재명 후보를 만났다 [차별금지법 편]]]></content>
     </entry>
 </feed>
