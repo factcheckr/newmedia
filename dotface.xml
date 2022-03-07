@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-03-07T03:15:45.703Z</updated>
+    <updated>2022-03-07T04:19:22.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아파트를 짓는 은지씨]]></title>
+        <id>https://articles.dotface.kr/womencando-eunji</id>
+        <link href="https://articles.dotface.kr/womencando-eunji"/>
+        <updated>2022-03-07T04:19:06.021Z</updated>
+        <content type="html"><![CDATA[[남초 현장을 뚫는 여자들] “힘세다고 일머리가 좋은 건 아니죠”]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나다움’이 뭔데? 그거 어떻게 찾는데?]]></title>
         <id>https://articles.dotface.kr/youthvoice</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/leejaemyung1"/>
         <updated>2022-01-31T11:13:20.151Z</updated>
         <content type="html"><![CDATA[닷페이스가 이재명 후보를 만났다 [차별금지법 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하던 대로' 하면 안 바뀌니까, 페인트를 끼얹었다]]></title>
-        <id>https://articles.dotface.kr/extremely2</id>
-        <link href="https://articles.dotface.kr/extremely2"/>
-        <updated>2022-01-31T11:13:20.152Z</updated>
-        <content type="html"><![CDATA[[왜 저렇게까지 해?] 청년기후긴급행동 강은빈, 이은호 활동가]]></content>
     </entry>
 </feed>
