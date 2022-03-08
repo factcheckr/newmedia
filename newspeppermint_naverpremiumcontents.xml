@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 22:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 23:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아가 일으킨 전쟁은 '세계 질서'를 바꿀까?]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220309033157308an</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220309033157308an</guid>
+            <pubDate>Tue, 08 Mar 2022 23:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDlfMjY1/MDAxNjQ2NzY0MTg0ODY4.X5BVs5nhL4QrXagKWxYwBmnkrGkv93yalk2QERrGg7Ig.HDnjR9sjmgHWOp0V7vXy8tYFmMXq8opUmV85-bZdPEsg.JPEG/IMG_6738-2048x1365.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[전쟁이 우리에게 미치는 영향]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220307061533844sc</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Jan 2022 23:15:34 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjVfMTIg/MDAxNjQzMDUzODcwMTAy.PRyv9u2AR3rWDkKZxyVhbi-EdvPbDFpFK5iKtJ8D-sQg.slxHb5XHXHPLXCqSv4Ub6MN_OU_XTyOuI2rmDt33jfog.JPEG/haldeman-nixon-lbj-l.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[키스의 이유에 대한 새로운 근거]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220124060851373Zx</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220124060851373Zx</guid>
-            <pubDate>Sun, 23 Jan 2022 23:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjRfMTY1/MDAxNjQyOTcyMDA4MjE5.Q4bk-QZgwfi132oKExS1d6znzadR73hA5h9QRb95Clcg.uNogh07mA5OtNs8N7DnQ-iFyXJoRO1EwloWcDSew3pMg.JPEG/ana-tablas-oB0xbLwcaMw-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
