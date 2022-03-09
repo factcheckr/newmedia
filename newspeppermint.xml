@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-03-09T22:15:17.254Z</updated>
+    <updated>2022-03-09T23:15:29.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 알 켈리 유죄 선고와 흑인 여성의 이중고]]></title>
+        <id>https://newspeppermint.com/2022/03/09/npc_rkelly/</id>
+        <link href="https://newspeppermint.com/2022/03/09/npc_rkelly/"/>
+        <updated>2022-03-09T23:15:21.124Z</updated>
+        <content type="html"><![CDATA[2022년 3월 10일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 백신은 못 믿겠다는 사람들이 구충제를 코로나19 치료제로 떠받드는 이유]]></title>
         <id>https://newspeppermint.com/2022/03/08/npc_antivaxxer-2/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/02/22/npc_talkstrangersmore/"/>
         <updated>2022-02-22T23:15:27.947Z</updated>
         <content type="html"><![CDATA[2022년 2월 23일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 뉴스룸의 다양성, 성과와 과제]]></title>
-        <id>https://newspeppermint.com/2022/02/21/npc_newsroomdiversity/</id>
-        <link href="https://newspeppermint.com/2022/02/21/npc_newsroomdiversity/"/>
-        <updated>2022-02-21T23:15:04.201Z</updated>
-        <content type="html"><![CDATA[2022년 2월 22일]]></content>
     </entry>
 </feed>
