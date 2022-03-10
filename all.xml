@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 10:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 11:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열은 누구의, 어떤 질문을 거부했을까? (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/answerless</link>
+            <guid>https://articles.dotface.kr/answerless</guid>
+            <pubDate>Thu, 10 Mar 2022 11:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[세월호 유가족, '위안부' 피해자, 민주노총…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[국내 다섯 번째로 큰 사이트에서 일어나는 일 (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/reset</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/leejaemyung4</guid>
             <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
             <content:encoded><![CDATA[닷페이스가 이재명 후보를 만났다 [댓글 읽기 편]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["동료 정치인의 성폭력을 어떻게 생각하시나요?" (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/leejaemyung3</link>
-            <guid>https://articles.dotface.kr/leejaemyung3</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[닷페이스가 이재명 후보를 만났다 [페미니즘 편]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 알 켈리 유죄 선고와 흑인 여성의 이중고 (뉴스페퍼민트)]]></title>
