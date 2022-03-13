@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 22:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 23:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전쟁범죄 규정과 실효성의 딜레마]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220314000945800dZ</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220314000945800dZ</guid>
+            <pubDate>Sun, 13 Mar 2022 23:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTRfMTAw/MDAxNjQ3MTg0MTA5NDE2.nvU25BvXvIt93tcbnV71NOD6t0VQKn7HceFoldJRyg0g.AWqhOUpCqVv7n1uDnuCjuFrCxY4-cUskEzc8yDglbXwg.JPEG/cody-west-KPBwbkdOtQE-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바이고렉시아: 자신의 몸에 만족하지 못하는 남자들]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220311063258983DC</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 30 Jan 2022 23:13:52 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMzFfMTYz/MDAxNjQzNTcxMzc2MTU4.TzmN_ko5H1r0mHfVfUzKJBFilT8ExG5EMFv7A-Y20DYg.G40rmr8CqniA1BoKcLkgdQBtl2XFxZzgEgSFon78syEg.JPEG/S4LMIEAPNBIGRLM3OYDDDFEJWM.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[사무실 인테리어의 변화: 레지머셜(Resimercial)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220128065340007XN</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220128065340007XN</guid>
-            <pubDate>Thu, 27 Jan 2022 23:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjhfMjgz/MDAxNjQzMzIwMjYzMjg4.Hz7bF_xxvXpIoJZSHDWXvEp61vl8BwLVdnw4yeoh13Yg.egHfkj67koSgkcc_pu4i6KO6h0A9TtghBQj-mhV4m5Qg.JPEG/copernico-cLmOptqvuFQ-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
