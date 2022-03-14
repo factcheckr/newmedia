@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-03-14T07:15:28.799Z</updated>
+    <updated>2022-03-14T08:18:50.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["멱살 잡고 가겠다" 더불어민주당 바꾸겠다는 박지현]]></title>
+        <id>https://articles.dotface.kr/aftervoting-jihyun</id>
+        <link href="https://articles.dotface.kr/aftervoting-jihyun"/>
+        <updated>2022-03-14T08:18:34.805Z</updated>
+        <content type="html"><![CDATA[추적단불꽃의 '불'에서 정치인으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족을 원했다, 결혼도 남편도 아니고]]></title>
         <id>https://articles.dotface.kr/marriagelessmothers-jisun</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/extremely4"/>
         <updated>2022-02-03T00:47:41.479Z</updated>
         <content type="html"><![CDATA[[왜 저렇게까지 해?] '두 번째 배드파더스' 운영자 안정길 대표]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양육비 안 주는 아빠들과 싸우는 법]]></title>
-        <id>https://articles.dotface.kr/extremely3</id>
-        <link href="https://articles.dotface.kr/extremely3"/>
-        <updated>2022-01-31T11:13:20.143Z</updated>
-        <content type="html"><![CDATA[[왜 저렇게까지 해?] 배드파더스 홍보 담당 김민지 활동가]]></content>
     </entry>
 </feed>
