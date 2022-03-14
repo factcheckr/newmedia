@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-03-14T22:15:49.019Z</updated>
+    <updated>2022-03-14T23:16:22.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 노벨 경제학상, ‘신뢰성 혁명’의 주역들에게]]></title>
+        <id>https://newspeppermint.com/2022/03/14/npc_nobeleconomics/</id>
+        <link href="https://newspeppermint.com/2022/03/14/npc_nobeleconomics/"/>
+        <updated>2022-03-14T23:16:13.663Z</updated>
+        <content type="html"><![CDATA[2022년 3월 15일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 오징어 게임 열풍]]></title>
         <id>https://newspeppermint.com/2022/03/13/npc_squidgame/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/02/27/eighteen-years-of-putin/"/>
         <updated>2022-02-27T23:15:11.345Z</updated>
         <content type="html"><![CDATA[2022년 2월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 때로는 “아니오”라고 말할 수 있어야 합니다]]></title>
-        <id>https://newspeppermint.com/2022/02/24/npc_powerofno/</id>
-        <link href="https://newspeppermint.com/2022/02/24/npc_powerofno/"/>
-        <updated>2022-02-24T23:15:43.096Z</updated>
-        <content type="html"><![CDATA[2022년 2월 25일]]></content>
     </entry>
 </feed>
