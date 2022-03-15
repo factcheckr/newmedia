@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 22:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 23:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/extremely4</guid>
             <pubDate>Thu, 03 Feb 2022 00:47:41 GMT</pubDate>
             <content:encoded><![CDATA[[왜 저렇게까지 해?] '두 번째 배드파더스' 운영자 안정길 대표]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 갈증과 진화 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/03/15/npc_water/</link>
+            <guid>https://newspeppermint.com/2022/03/15/npc_water/</guid>
+            <pubDate>Tue, 15 Mar 2022 23:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 3월 16일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 노벨 경제학상, ‘신뢰성 혁명’의 주역들에게 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 3월 1일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[전문 번역] 푸틴 치하 18년, 푸틴 세대의 역설 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/02/27/eighteen-years-of-putin/</link>
-            <guid>https://newspeppermint.com/2022/02/27/eighteen-years-of-putin/</guid>
-            <pubDate>Sun, 27 Feb 2022 23:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월 28일]]></content:encoded>
+            <title><![CDATA[홀푸즈의 아마존화(化) (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220313130231365fq</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220313130231365fq</guid>
+            <pubDate>Tue, 15 Mar 2022 23:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTNfMjcw/MDAxNjQ3MTQ0MDc2NDAw.1fS5VnEZ-nsVjEOzfq3EXnj9IDGihOIWZNd7l3dB3I0g.70XS_cpbSvQXNo6RVw-PkFyk4pjf3Ix8GSRkuS3ClgYg.JPEG/00wholefoods3-superJumbo.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전쟁범죄 규정과 실효성의 딜레마 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Tue, 01 Feb 2022 23:14:29 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDJfOTAg/MDAxNjQzNzM5NTM0MTA0.yWYbLOfE4Gnkma3jpx2wAR5slAmRwZ7i-v-EzV4LW6cg.PVNet_r94Mc8iEcTNb-ZB5METKVIwJbZ9rIB_DRk_5Eg.JPEG/2021-09-08-Beijing-featured.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프를 막을 자, 공화당 안에서 나올까? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220131043934363wo</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220131043934363wo</guid>
-            <pubDate>Mon, 31 Jan 2022 11:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMzFfMTYz/MDAxNjQzNTcxMzc2MTU4.TzmN_ko5H1r0mHfVfUzKJBFilT8ExG5EMFv7A-Y20DYg.G40rmr8CqniA1BoKcLkgdQBtl2XFxZzgEgSFon78syEg.JPEG/S4LMIEAPNBIGRLM3OYDDDFEJWM.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
