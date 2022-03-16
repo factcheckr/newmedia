@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-03-16T09:15:11.024Z</updated>
+    <updated>2022-03-16T10:16:47.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["법을 바꿀 순 있어도 우리의 사상을 없앨 순 없다"]]></title>
+        <id>https://articles.dotface.kr/rebeccasolnit</id>
+        <link href="https://articles.dotface.kr/rebeccasolnit"/>
+        <updated>2022-03-16T10:16:32.297Z</updated>
+        <content type="html"><![CDATA[리베카 솔닛이 보수 정치에 저항하는 법]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디지털 성범죄를 추적하는 게 어떻게 젠더 문제일까요?]]></title>
         <id>https://articles.dotface.kr/aftervoting-jihyun</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/kimjaeyeon"/>
         <updated>2022-02-03T01:54:14.420Z</updated>
         <content type="html"><![CDATA[진보당 김재연 대선후보에게 물어보았다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배드파더스가 또 있다고?]]></title>
-        <id>https://articles.dotface.kr/extremely4</id>
-        <link href="https://articles.dotface.kr/extremely4"/>
-        <updated>2022-02-03T00:47:41.479Z</updated>
-        <content type="html"><![CDATA[[왜 저렇게까지 해?] '두 번째 배드파더스' 운영자 안정길 대표]]></content>
     </entry>
 </feed>
