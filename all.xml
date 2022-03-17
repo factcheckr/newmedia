@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 05:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 06:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배려는 고맙지만, 일을 더 잘하고 싶은데요 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/womencando-hyoju</link>
+            <guid>https://articles.dotface.kr/womencando-hyoju</guid>
+            <pubDate>Thu, 17 Mar 2022 06:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[[남초 현장을 뚫는 여자들] “저 건물, 진짜 내가 지었다”라고 할 수 있는 사람]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["법을 바꿀 순 있어도 우리의 사상을 없앨 순 없다" (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/rebeccasolnit</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/extremely5</guid>
             <pubDate>Fri, 11 Feb 2022 03:14:38 GMT</pubDate>
             <content:encoded><![CDATA[[왜 저렇게까지 해?] 롯데목장 개 살리기 시민모임 김지영 김영환 공동대표]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘비호감 대선’, 진보당은 좀 다른가? (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/kimjaeyeon</link>
-            <guid>https://articles.dotface.kr/kimjaeyeon</guid>
-            <pubDate>Thu, 03 Feb 2022 01:54:14 GMT</pubDate>
-            <content:encoded><![CDATA[진보당 김재연 대선후보에게 물어보았다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 데이비드 샤펠과 ‘개그가 지켜야 할 선’ (뉴스페퍼민트)]]></title>
