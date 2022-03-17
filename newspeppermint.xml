@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-03-17T22:15:42.528Z</updated>
+    <updated>2022-03-17T23:15:28.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 팬데믹과 부유세]]></title>
+        <id>https://newspeppermint.com/2022/03/17/npc_covid19wealthtax/</id>
+        <link href="https://newspeppermint.com/2022/03/17/npc_covid19wealthtax/"/>
+        <updated>2022-03-17T23:15:19.190Z</updated>
+        <content type="html"><![CDATA[2022년 3월 18일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 데이비드 샤펠과 ‘개그가 지켜야 할 선’]]></title>
         <id>https://newspeppermint.com/2022/03/16/npc_davechappelle/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/03/02/npc_indoorair/"/>
         <updated>2022-03-02T23:14:55.901Z</updated>
         <content type="html"><![CDATA[2022년 3월 3일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 기후 재앙과 불평등이 빚어낸 환경 인종주의]]></title>
-        <id>https://newspeppermint.com/2022/03/01/npc_environmentalracism/</id>
-        <link href="https://newspeppermint.com/2022/03/01/npc_environmentalracism/"/>
-        <updated>2022-03-01T23:15:21.913Z</updated>
-        <content type="html"><![CDATA[2022년 3월 2일]]></content>
     </entry>
 </feed>
