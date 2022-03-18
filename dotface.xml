@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-03-18T03:18:28.085Z</updated>
+    <updated>2022-03-18T04:19:19.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://articles.dotface.kr/womencando-hyoju"/>
         <updated>2022-03-17T06:18:47.176Z</updated>
         <content type="html"><![CDATA[[남초 현장을 뚫는 여자들] “저 건물, 진짜 내가 지었다”라고 할 수 있는 사람]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미혼모, 베이비박스, 입양을 검색해본 적 있나요]]></title>
+        <id>https://articles.dotface.kr/marriagelessmothers-boyoung</id>
+        <link href="https://articles.dotface.kr/marriagelessmothers-boyoung"/>
+        <updated>2022-03-18T04:19:04.279Z</updated>
+        <content type="html"><![CDATA[[결혼 안 한 엄마들] 네가 태어났을 때, 너랑 너무 같이 살고 싶었어]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["법을 바꿀 순 있어도 우리의 사상을 없앨 순 없다"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/youthvoice"/>
         <updated>2022-02-21T05:13:48.755Z</updated>
         <content type="html"><![CDATA[10대들이 가장 ‘나답게' 만나는 곳, 유스보이스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고기가 될 뻔했던 수많은 개를 살리기까지]]></title>
-        <id>https://articles.dotface.kr/extremely5</id>
-        <link href="https://articles.dotface.kr/extremely5"/>
-        <updated>2022-02-11T03:14:38.105Z</updated>
-        <content type="html"><![CDATA[[왜 저렇게까지 해?] 롯데목장 개 살리기 시민모임 김지영 김영환 공동대표]]></content>
     </entry>
 </feed>
