@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 22:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 23:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/youthvoice</guid>
             <pubDate>Mon, 21 Feb 2022 05:13:48 GMT</pubDate>
             <content:encoded><![CDATA[10대들이 가장 ‘나답게' 만나는 곳, 유스보이스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 청소년의 정신건강과 인스타그램 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/03/20/npc_instagrammentalhealth/</link>
+            <guid>https://newspeppermint.com/2022/03/20/npc_instagrammentalhealth/</guid>
+            <pubDate>Sun, 20 Mar 2022 23:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 3월 21일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 팬데믹과 부유세 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 3월 4일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 실내 공기와 건강 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/03/02/npc_indoorair/</link>
-            <guid>https://newspeppermint.com/2022/03/02/npc_indoorair/</guid>
-            <pubDate>Wed, 02 Mar 2022 23:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 3일]]></content:encoded>
+            <title><![CDATA[푸틴의 철 지난 프로파간다 "재난 배우" (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220321015012244OD</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220321015012244OD</guid>
+            <pubDate>Sun, 20 Mar 2022 23:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjFfMTkw/MDAxNjQ3Nzk0ODY2OTIx.tVhlkysreVxGpCBmoXh_IY9bZFtDlagKLXObk-WulEog.-THKlPOvem4osZT2sbzKhqIqgGFiHH0iCNVQCnzi4DAg.PNG/Screen_Shot_2022-03-20_at_8.44.39_PM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[가상화폐의 중립성이란 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Sun, 06 Feb 2022 23:13:44 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDdfMTA2/MDAxNjQ0MTc5NzA3NTM4.r-qsqMoPGBFX2LCJuLgnbhwW0KtM5YLA4d2DNXpM6log.zjBvk6KA1vgcSF0LkyW_HMSM4o0Q4ylPb7hWSdN3-Ugg.JPEG/RVGEDTXGWMI6RN56IRA3KB564U.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국의 우주과학과 종교의 관계 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220204062813109Fe</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220204062813109Fe</guid>
-            <pubDate>Thu, 03 Feb 2022 23:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDRfMyAg/MDAxNjQzOTIzNTk5NDM5.eDoCFo59EEVu2efnIquBvX6OQr2m-IDFU9ZUeb9q24kg.rV2UMNu36fzmsIK4QBMRgq5FDqe6pMCJwrEtxywuRrcg.JPEG/tengyart-PmnCG7_2Sc4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
