@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 02:53:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 03:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연쇄살인범과 놀랍도록 유사한 동물학대범의 심리 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/animalabuse</link>
+            <guid>https://articles.dotface.kr/animalabuse</guid>
+            <pubDate>Wed, 23 Mar 2022 03:27:42 GMT</pubDate>
+            <content:encoded><![CDATA["범죄라는 걸 알면서 쾌락을 느끼는 거예요"]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[배려는 고맙지만, 일을 더 잘하고 싶은데요 (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/womencando-hyoju</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/basicincome-ohjoonho</guid>
             <pubDate>Mon, 07 Mar 2022 08:18:45 GMT</pubDate>
             <content:encoded><![CDATA[기본소득당 오준호 대선후보를 만났다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘나다움’이 뭔데? 그거 어떻게 찾는데? (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/youthvoice</link>
-            <guid>https://articles.dotface.kr/youthvoice</guid>
-            <pubDate>Mon, 21 Feb 2022 05:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[10대들이 가장 ‘나답게' 만나는 곳, 유스보이스]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 콜린 파월이 남긴 것 (뉴스페퍼민트)]]></title>
