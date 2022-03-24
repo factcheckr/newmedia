@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-03-24T22:16:21.276Z</updated>
+    <updated>2022-03-24T23:16:03.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 6년 만에 사형 집행한 미국 오클라호마주]]></title>
+        <id>https://newspeppermint.com/2022/03/24/npc_deathpenalty/</id>
+        <link href="https://newspeppermint.com/2022/03/24/npc_deathpenalty/"/>
+        <updated>2022-03-24T23:15:56.800Z</updated>
+        <content type="html"><![CDATA[2022년 3월 25일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 플랫폼 경제 독점 기업의 초상화: 아마존 검색결과]]></title>
         <id>https://newspeppermint.com/2022/03/23/npc_amazonmarketplace/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/03/09/npc_rkelly/"/>
         <updated>2022-03-09T23:15:21.124Z</updated>
         <content type="html"><![CDATA[2022년 3월 10일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 백신은 못 믿겠다는 사람들이 구충제를 코로나19 치료제로 떠받드는 이유]]></title>
-        <id>https://newspeppermint.com/2022/03/08/npc_antivaxxer-2/</id>
-        <link href="https://newspeppermint.com/2022/03/08/npc_antivaxxer-2/"/>
-        <updated>2022-03-08T23:15:17.450Z</updated>
-        <content type="html"><![CDATA[2022년 3월 9일]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 22:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 23:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간만이 기하학을 이해할 수 있을까요?]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220325053626227JR</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220325053626227JR</guid>
+            <pubDate>Thu, 24 Mar 2022 23:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjVfMzYg/MDAxNjQ4MTUzOTk3OTA1.gt_u2OkKvrgDaTGABO82YKt6wsNwvghQTzpbP8M8uvIg.yz_bnFQ2zQjhZw-JU3rWlbHgjNV9XOYD1c-Pc-cNQHkg.JPEG/mahdis-mousavi-KttjHtFb5Ok-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 백신과 월경 불순, 부작용과 가짜뉴스]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220322135631363fB</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 10 Feb 2022 23:15:01 GMT</pubDate>
             <content:encoded><![CDATA[경제 공부방]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDlfMjk4/MDAxNjQ0MzU3MDkwNDI2.0IKZzTIOMfu0D8PauAOB_p4sB4TN9zkMkmbg-ijgA_Ag.daYLTYpyDssSnzpr51H5tHRxkQT_J8WtuYMZ8-Lu320g.JPEG/marvin-meyer-SYTO3xs06fU-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아카데미상과 성별 격차]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220209014036341WG</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220209014036341WG</guid>
-            <pubDate>Tue, 08 Feb 2022 23:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDlfMjEx/MDAxNjQ0MzM4MzM5NTg4.0_BEFf2jRVsZKQ_QNN_jlb5sr5veYt9Gjsf94AKFThgg.9EpejRwHiAlP6gfsPaoybpXUtF2Bnj3BFKdja6dSrkgg.JPEG/acf73997c255842ba8feaf612d8dce01.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
