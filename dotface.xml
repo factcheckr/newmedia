@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-03-25T03:19:54.994Z</updated>
+    <updated>2022-03-25T04:20:27.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독신자 입양이 가능해진 첫 해, 온 가족이 '입양팀'이 되었다]]></title>
+        <id>https://articles.dotface.kr/marriagelessmothers-eunju</id>
+        <link href="https://articles.dotface.kr/marriagelessmothers-eunju"/>
+        <updated>2022-03-25T04:20:13.475Z</updated>
+        <content type="html"><![CDATA[[결혼 안 한 엄마들] "결혼과 출산처럼, 입양도 욕망으로 해요"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배려는 고맙지만, 일을 더 잘하고 싶은데요]]></title>
         <id>https://articles.dotface.kr/womencando-hyoju</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/basicincome-ohjoonho"/>
         <updated>2022-03-07T08:18:45.749Z</updated>
         <content type="html"><![CDATA[기본소득당 오준호 대선후보를 만났다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나다움’이 뭔데? 그거 어떻게 찾는데?]]></title>
-        <id>https://articles.dotface.kr/youthvoice</id>
-        <link href="https://articles.dotface.kr/youthvoice"/>
-        <updated>2022-03-24T03:21:57.446Z</updated>
-        <content type="html"><![CDATA[10대들이 가장 ‘나답게' 만나는 곳, 유스보이스]]></content>
     </entry>
 </feed>
