@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-03-27T22:15:50.867Z</updated>
+    <updated>2022-03-27T23:16:31.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 귀신을 보게 되는 이유]]></title>
+        <id>https://newspeppermint.com/2022/03/27/npc_ghosts/</id>
+        <link href="https://newspeppermint.com/2022/03/27/npc_ghosts/"/>
+        <updated>2022-03-27T23:16:24.114Z</updated>
+        <content type="html"><![CDATA[2022년 3월 28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 6년 만에 사형 집행한 미국 오클라호마주]]></title>
         <id>https://newspeppermint.com/2022/03/24/npc_deathpenalty/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/03/10/npc_bipedal/"/>
         <updated>2022-03-10T23:16:23.153Z</updated>
         <content type="html"><![CDATA[2022년 3월 11일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 알 켈리 유죄 선고와 흑인 여성의 이중고]]></title>
-        <id>https://newspeppermint.com/2022/03/09/npc_rkelly/</id>
-        <link href="https://newspeppermint.com/2022/03/09/npc_rkelly/"/>
-        <updated>2022-03-09T23:15:21.124Z</updated>
-        <content type="html"><![CDATA[2022년 3월 10일]]></content>
     </entry>
 </feed>

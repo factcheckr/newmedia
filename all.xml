@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 22:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 23:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/basicincome-ohjoonho</guid>
             <pubDate>Mon, 07 Mar 2022 08:18:45 GMT</pubDate>
             <content:encoded><![CDATA[기본소득당 오준호 대선후보를 만났다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 귀신을 보게 되는 이유 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/03/27/npc_ghosts/</link>
+            <guid>https://newspeppermint.com/2022/03/27/npc_ghosts/</guid>
+            <pubDate>Sun, 27 Mar 2022 23:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 3월 28일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 6년 만에 사형 집행한 미국 오클라호마주 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 3월 11일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 알 켈리 유죄 선고와 흑인 여성의 이중고 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/03/09/npc_rkelly/</link>
-            <guid>https://newspeppermint.com/2022/03/09/npc_rkelly/</guid>
-            <pubDate>Wed, 09 Mar 2022 23:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 10일]]></content:encoded>
+            <title><![CDATA[침략국 러시아 제재에 동참한 빅테크 기업들 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220327100418890gv</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220327100418890gv</guid>
+            <pubDate>Sun, 27 Mar 2022 23:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjdfMjc3/MDAxNjQ4MzQyODQ0NjMw.ZeVyCLtFNYEUrDUV7cp0_NXppITG8R4dPjXMdfQNXecg.8pmbnyw_AJp2wWcI_cvYbaMr9ScmaIL8tYAdN5lb6e8g.JPEG/FMtcDMwWUAAg96F.0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인간만이 기하학을 이해할 수 있을까요? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Mon, 14 Feb 2022 00:49:51 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTRfMTYz/MDAxNjQ0Nzk1MTU3ODc5.mZGxDqZ-pOV1eyTflPLEEpysudsW4BItz12Tadq4HkYg.SUPIZxbmJ1v5KP2HXvOZ35K_umn6t9ejLsIzSYxcr6wg.PNG/Screen_Shot_2022-02-13_at_2.20.59_PM.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[여가는 어떻게 일이 되었나 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220209065249232Fo</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220209065249232Fo</guid>
-            <pubDate>Thu, 10 Feb 2022 23:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDlfMjk4/MDAxNjQ0MzU3MDkwNDI2.0IKZzTIOMfu0D8PauAOB_p4sB4TN9zkMkmbg-ijgA_Ag.daYLTYpyDssSnzpr51H5tHRxkQT_J8WtuYMZ8-Lu320g.JPEG/marvin-meyer-SYTO3xs06fU-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
