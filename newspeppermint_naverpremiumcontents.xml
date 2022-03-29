@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 22:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 23:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 극우파와 푸틴, 다시 쓰는 이념 지형]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220327205351003hA</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220327205351003hA</guid>
+            <pubDate>Tue, 29 Mar 2022 23:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjdfMTMx/MDAxNjQ4MzgxODIxMjI5.cWgrmETx55Tg4YobkXZCpXDlBe4UJTxXcQDt2Q2u1Rgg.K7RV7iXTyb08CG7L0e40MUNEx0kXhTysrlzrj7ShOMgg.JPEG/ezgif.com-gif-maker_(2).jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[침략국 러시아 제재에 동참한 빅테크 기업들]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220327100418890gv</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 15 Feb 2022 23:15:09 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTZfOSAg/MDAxNjQ0OTUxNDc3NzYz.oTfsdKdt-kwRFkuWTW5BcI_7tgqgksLoMwgigW8EFJYg.nmCcsxcA0OC-gO2fajsBjnqzDM-L5mwRuSMxLN115HUg.JPEG/download_(1).jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[풍전등화 우크라이나]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220214083907084Xs</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220214083907084Xs</guid>
-            <pubDate>Mon, 14 Feb 2022 00:49:51 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTRfMTYz/MDAxNjQ0Nzk1MTU3ODc5.mZGxDqZ-pOV1eyTflPLEEpysudsW4BItz12Tadq4HkYg.SUPIZxbmJ1v5KP2HXvOZ35K_umn6t9ejLsIzSYxcr6wg.PNG/Screen_Shot_2022-02-13_at_2.20.59_PM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 22:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 23:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/womencando-eunji</guid>
             <pubDate>Mon, 07 Mar 2022 04:19:06 GMT</pubDate>
             <content:encoded><![CDATA[[남초 현장을 뚫는 여자들] “힘세다고 일머리가 좋은 건 아니죠”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 회의를 회의하라 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/03/29/npc_wfh/</link>
+            <guid>https://newspeppermint.com/2022/03/29/npc_wfh/</guid>
+            <pubDate>Tue, 29 Mar 2022 23:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 3월 30일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 식곤증에 관하여 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 3월 15일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 오징어 게임 열풍 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/03/13/npc_squidgame/</link>
-            <guid>https://newspeppermint.com/2022/03/13/npc_squidgame/</guid>
-            <pubDate>Sun, 13 Mar 2022 23:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 14일]]></content:encoded>
+            <title><![CDATA[미국 극우파와 푸틴, 다시 쓰는 이념 지형 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220327205351003hA</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220327205351003hA</guid>
+            <pubDate>Tue, 29 Mar 2022 23:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjdfMTMx/MDAxNjQ4MzgxODIxMjI5.cWgrmETx55Tg4YobkXZCpXDlBe4UJTxXcQDt2Q2u1Rgg.K7RV7iXTyb08CG7L0e40MUNEx0kXhTysrlzrj7ShOMgg.JPEG/ezgif.com-gif-maker_(2).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[침략국 러시아 제재에 동참한 빅테크 기업들 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Tue, 15 Feb 2022 23:15:09 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTZfOSAg/MDAxNjQ0OTUxNDc3NzYz.oTfsdKdt-kwRFkuWTW5BcI_7tgqgksLoMwgigW8EFJYg.nmCcsxcA0OC-gO2fajsBjnqzDM-L5mwRuSMxLN115HUg.JPEG/download_(1).jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[풍전등화 우크라이나 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220214083907084Xs</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220214083907084Xs</guid>
-            <pubDate>Mon, 14 Feb 2022 00:49:51 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTRfMTYz/MDAxNjQ0Nzk1MTU3ODc5.mZGxDqZ-pOV1eyTflPLEEpysudsW4BItz12Tadq4HkYg.SUPIZxbmJ1v5KP2HXvOZ35K_umn6t9ejLsIzSYxcr6wg.PNG/Screen_Shot_2022-02-13_at_2.20.59_PM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

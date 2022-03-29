@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-03-29T22:15:51.223Z</updated>
+    <updated>2022-03-29T23:16:29.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 회의를 회의하라]]></title>
+        <id>https://newspeppermint.com/2022/03/29/npc_wfh/</id>
+        <link href="https://newspeppermint.com/2022/03/29/npc_wfh/"/>
+        <updated>2022-03-29T23:16:21.210Z</updated>
+        <content type="html"><![CDATA[2022년 3월 30일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 식곤증에 관하여]]></title>
         <id>https://newspeppermint.com/2022/03/28/npc_tiredaftereating/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/03/14/npc_nobeleconomics/"/>
         <updated>2022-03-14T23:16:13.663Z</updated>
         <content type="html"><![CDATA[2022년 3월 15일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 오징어 게임 열풍]]></title>
-        <id>https://newspeppermint.com/2022/03/13/npc_squidgame/</id>
-        <link href="https://newspeppermint.com/2022/03/13/npc_squidgame/"/>
-        <updated>2022-03-13T23:15:53.400Z</updated>
-        <content type="html"><![CDATA[2022년 3월 14일]]></content>
     </entry>
 </feed>
