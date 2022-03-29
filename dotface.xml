@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-03-29T05:15:59.341Z</updated>
+    <updated>2022-03-29T06:19:50.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연쇄살인범과 놀랍도록 유사한 동물학대범의 심리]]></title>
+        <id>https://articles.dotface.kr/animalabuse</id>
+        <link href="https://articles.dotface.kr/animalabuse"/>
+        <updated>2022-03-29T06:19:36.934Z</updated>
+        <content type="html"><![CDATA["피해 대상이 누구냐가 다를 뿐, 범죄 심리는 비슷"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독신자 입양이 가능해진 첫 해, 온 가족이 '입양팀'이 되었다]]></title>
         <id>https://articles.dotface.kr/marriagelessmothers-eunju</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/womencando-eunji"/>
         <updated>2022-03-07T04:19:06.021Z</updated>
         <content type="html"><![CDATA[[남초 현장을 뚫는 여자들] “힘세다고 일머리가 좋은 건 아니죠”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선후보들, 기본소득 이야기 왜 하다 말았죠?]]></title>
-        <id>https://articles.dotface.kr/basicincome-ohjoonho</id>
-        <link href="https://articles.dotface.kr/basicincome-ohjoonho"/>
-        <updated>2022-03-07T08:18:45.749Z</updated>
-        <content type="html"><![CDATA[기본소득당 오준호 대선후보를 만났다]]></content>
     </entry>
 </feed>
