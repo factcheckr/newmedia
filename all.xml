@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 22:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 23:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/womencando-eunji</guid>
             <pubDate>Mon, 07 Mar 2022 04:19:06 GMT</pubDate>
             <content:encoded><![CDATA[[남초 현장을 뚫는 여자들] “힘세다고 일머리가 좋은 건 아니죠”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 절망의 죽음과 두 개의 미국 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/03/30/npc_deaton/</link>
+            <guid>https://newspeppermint.com/2022/03/30/npc_deaton/</guid>
+            <pubDate>Wed, 30 Mar 2022 23:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 3월 31일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 회의를 회의하라 (뉴스페퍼민트)]]></title>
@@ -153,13 +160,6 @@
             <guid>https://newspeppermint.com/2022/03/15/npc_water/</guid>
             <pubDate>Tue, 15 Mar 2022 23:15:48 GMT</pubDate>
             <content:encoded><![CDATA[2022년 3월 16일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 노벨 경제학상, ‘신뢰성 혁명’의 주역들에게 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/03/14/npc_nobeleconomics/</link>
-            <guid>https://newspeppermint.com/2022/03/14/npc_nobeleconomics/</guid>
-            <pubDate>Mon, 14 Mar 2022 23:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 15일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미국 극우파와 푸틴, 다시 쓰는 이념 지형 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

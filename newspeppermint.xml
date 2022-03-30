@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-03-30T22:15:57.793Z</updated>
+    <updated>2022-03-30T23:15:59.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 절망의 죽음과 두 개의 미국]]></title>
+        <id>https://newspeppermint.com/2022/03/30/npc_deaton/</id>
+        <link href="https://newspeppermint.com/2022/03/30/npc_deaton/"/>
+        <updated>2022-03-30T23:15:50.725Z</updated>
+        <content type="html"><![CDATA[2022년 3월 31일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 회의를 회의하라]]></title>
         <id>https://newspeppermint.com/2022/03/29/npc_wfh/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/03/15/npc_water/"/>
         <updated>2022-03-15T23:15:48.086Z</updated>
         <content type="html"><![CDATA[2022년 3월 16일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 노벨 경제학상, ‘신뢰성 혁명’의 주역들에게]]></title>
-        <id>https://newspeppermint.com/2022/03/14/npc_nobeleconomics/</id>
-        <link href="https://newspeppermint.com/2022/03/14/npc_nobeleconomics/"/>
-        <updated>2022-03-14T23:16:13.663Z</updated>
-        <content type="html"><![CDATA[2022년 3월 15일]]></content>
     </entry>
 </feed>
