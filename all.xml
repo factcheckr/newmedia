@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 22:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 23:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/womencando-eunji</guid>
             <pubDate>Mon, 07 Mar 2022 04:19:06 GMT</pubDate>
             <content:encoded><![CDATA[[남초 현장을 뚫는 여자들] “힘세다고 일머리가 좋은 건 아니죠”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 달리기를 잘하는 비결: 딴 생각 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/03/31/npc_running/</link>
+            <guid>https://newspeppermint.com/2022/03/31/npc_running/</guid>
+            <pubDate>Thu, 31 Mar 2022 23:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 1일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 절망의 죽음과 두 개의 미국 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 3월 17일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 갈증과 진화 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/03/15/npc_water/</link>
-            <guid>https://newspeppermint.com/2022/03/15/npc_water/</guid>
-            <pubDate>Tue, 15 Mar 2022 23:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 16일]]></content:encoded>
+            <title><![CDATA[대학 입시에 시험이 필요할까? MIT와 캘리포니아 주립대학의 정반대 행보 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220401061937388bH</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220401061937388bH</guid>
+            <pubDate>Thu, 31 Mar 2022 23:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDFfMjk2/MDAxNjQ4NzYxMzcwNjU4.Sath5WYLmV2y0_QsZDvARAOjOcZBZ7s9WDL7pIX01UMg.jJKKA_1T5SiBt9k_IDLAHXsu-oxH3CD3XKBgE29F3YMg.JPEG/ben-mullins-oXV3bzR7jxI-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국 극우파와 푸틴, 다시 쓰는 이념 지형 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Thu, 17 Feb 2022 23:14:42 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMThfMjI5/MDAxNjQ1MTI4MDg5NDY0.jfI4aBfciWLGcarzxMQ5TWTPJTbMYLH04Qm-6vALRukg.Eu5x30aSnl45cUe8iixHGj3MIUbeENN5f12Gse_OI8wg.JPEG/solen-feyissa-M7zS8puGg18-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 최초 흑인 여성 대법관 물망 오른 인물은? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220216040057042rt</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220216040057042rt</guid>
-            <pubDate>Tue, 15 Feb 2022 23:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTZfOSAg/MDAxNjQ0OTUxNDc3NzYz.oTfsdKdt-kwRFkuWTW5BcI_7tgqgksLoMwgigW8EFJYg.nmCcsxcA0OC-gO2fajsBjnqzDM-L5mwRuSMxLN115HUg.JPEG/download_(1).jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
