@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-04-03T22:15:21.565Z</updated>
+    <updated>2022-04-03T23:15:20.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 애플이 쏘아올린 ‘앱 추적 투명성’이라는 작은 공의 파괴력은 $100억]]></title>
+        <id>https://newspeppermint.com/2022/04/03/npc_appleatt/</id>
+        <link href="https://newspeppermint.com/2022/04/03/npc_appleatt/"/>
+        <updated>2022-04-03T23:15:12.406Z</updated>
+        <content type="html"><![CDATA[2022년 4월 4일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 달리기를 잘하는 비결: 딴 생각]]></title>
         <id>https://newspeppermint.com/2022/03/31/npc_running/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/03/17/npc_covid19wealthtax/"/>
         <updated>2022-03-17T23:15:19.190Z</updated>
         <content type="html"><![CDATA[2022년 3월 18일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 데이비드 샤펠과 ‘개그가 지켜야 할 선’]]></title>
-        <id>https://newspeppermint.com/2022/03/16/npc_davechappelle/</id>
-        <link href="https://newspeppermint.com/2022/03/16/npc_davechappelle/"/>
-        <updated>2022-03-16T23:15:17.282Z</updated>
-        <content type="html"><![CDATA[2022년 3월 17일]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 22:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 23:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대법관 배우자가 극우 음모론자라면]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220404025010987mD</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220404025010987mD</guid>
+            <pubDate>Sun, 03 Apr 2022 23:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDRfMTM3/MDAxNjQ5MDA4MDc1MDM5._FSRbSDync2_iVIlrwBq7RyYzjwbqtWgE08iXbsUGB4g.Bj_ZlSgWbsV4C4_9BBY8uAfSkE2UaY0tPW0wmbDM3Kog.JPEG/MN2OP4ZF3QF2FSENHZ2AT7O5BQ.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[대학 입시에 시험이 필요할까? MIT와 캘리포니아 주립대학의 정반대 행보]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220401061937388bH</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 20 Feb 2022 23:14:53 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjFfMTUz/MDAxNjQ1MzgwOTgzNDYw.Ae0W6Xu69C6hThOrI9860w4CAT2Zhp0Fas2zl7n_e3sg.qup_iyAABffhK3D7FgVTytknIUl6wC6Lh5J3Epo62Agg.JPEG/4000.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[클라우드 컴퓨팅과 메타버스 시대의 ‘잊힐 권리’]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220218050245700VK</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220218050245700VK</guid>
-            <pubDate>Thu, 17 Feb 2022 23:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMThfMjI5/MDAxNjQ1MTI4MDg5NDY0.jfI4aBfciWLGcarzxMQ5TWTPJTbMYLH04Qm-6vALRukg.Eu5x30aSnl45cUe8iixHGj3MIUbeENN5f12Gse_OI8wg.JPEG/solen-feyissa-M7zS8puGg18-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

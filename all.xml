@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 22:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 23:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/womencando-eunji</guid>
             <pubDate>Mon, 07 Mar 2022 04:19:06 GMT</pubDate>
             <content:encoded><![CDATA[[남초 현장을 뚫는 여자들] “힘세다고 일머리가 좋은 건 아니죠”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 애플이 쏘아올린 ‘앱 추적 투명성’이라는 작은 공의 파괴력은 $100억 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/04/03/npc_appleatt/</link>
+            <guid>https://newspeppermint.com/2022/04/03/npc_appleatt/</guid>
+            <pubDate>Sun, 03 Apr 2022 23:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 4일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 달리기를 잘하는 비결: 딴 생각 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 3월 18일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 데이비드 샤펠과 ‘개그가 지켜야 할 선’ (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/03/16/npc_davechappelle/</link>
-            <guid>https://newspeppermint.com/2022/03/16/npc_davechappelle/</guid>
-            <pubDate>Wed, 16 Mar 2022 23:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 17일]]></content:encoded>
+            <title><![CDATA[대법관 배우자가 극우 음모론자라면 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220404025010987mD</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220404025010987mD</guid>
+            <pubDate>Sun, 03 Apr 2022 23:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDRfMTM3/MDAxNjQ5MDA4MDc1MDM5._FSRbSDync2_iVIlrwBq7RyYzjwbqtWgE08iXbsUGB4g.Bj_ZlSgWbsV4C4_9BBY8uAfSkE2UaY0tPW0wmbDM3Kog.JPEG/MN2OP4ZF3QF2FSENHZ2AT7O5BQ.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[대학 입시에 시험이 필요할까? MIT와 캘리포니아 주립대학의 정반대 행보 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Sun, 20 Feb 2022 23:14:53 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjFfMTUz/MDAxNjQ1MzgwOTgzNDYw.Ae0W6Xu69C6hThOrI9860w4CAT2Zhp0Fas2zl7n_e3sg.qup_iyAABffhK3D7FgVTytknIUl6wC6Lh5J3Epo62Agg.JPEG/4000.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[클라우드 컴퓨팅과 메타버스 시대의 ‘잊힐 권리’ (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220218050245700VK</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220218050245700VK</guid>
-            <pubDate>Thu, 17 Feb 2022 23:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMThfMjI5/MDAxNjQ1MTI4MDg5NDY0.jfI4aBfciWLGcarzxMQ5TWTPJTbMYLH04Qm-6vALRukg.Eu5x30aSnl45cUe8iixHGj3MIUbeENN5f12Gse_OI8wg.JPEG/solen-feyissa-M7zS8puGg18-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
