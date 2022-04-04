@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-04-04T22:15:32.904Z</updated>
+    <updated>2022-04-04T23:16:59.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 괜찮은 일자리는 다 어디로 갔을까?]]></title>
+        <id>https://newspeppermint.com/2022/04/04/npc_tseacemoglu/</id>
+        <link href="https://newspeppermint.com/2022/04/04/npc_tseacemoglu/"/>
+        <updated>2022-04-04T23:16:51.751Z</updated>
+        <content type="html"><![CDATA[2022년 4월 5일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 애플이 쏘아올린 ‘앱 추적 투명성’이라는 작은 공의 파괴력은 $100억]]></title>
         <id>https://newspeppermint.com/2022/04/03/npc_appleatt/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/03/20/npc_instagrammentalhealth/"/>
         <updated>2022-03-20T23:14:43.279Z</updated>
         <content type="html"><![CDATA[2022년 3월 21일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 팬데믹과 부유세]]></title>
-        <id>https://newspeppermint.com/2022/03/17/npc_covid19wealthtax/</id>
-        <link href="https://newspeppermint.com/2022/03/17/npc_covid19wealthtax/"/>
-        <updated>2022-03-17T23:15:19.190Z</updated>
-        <content type="html"><![CDATA[2022년 3월 18일]]></content>
     </entry>
 </feed>
