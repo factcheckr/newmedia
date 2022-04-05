@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-04-05T08:19:23.747Z</updated>
+    <updated>2022-04-05T09:15:31.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['방제는 섹시한 느낌이 좋고, 썸네일도 섹시한 느낌으로']]></title>
+        <id>https://articles.dotface.kr/broadcasting-jockey</id>
+        <link href="https://articles.dotface.kr/broadcasting-jockey"/>
+        <updated>2022-04-05T09:15:15.801Z</updated>
+        <content type="html"><![CDATA["나는 BJ지, 남성의 성적 만족감 채워주는 사람이 아닌데"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연쇄살인범과 놀랍도록 유사한 동물학대범의 심리]]></title>
         <id>https://articles.dotface.kr/animalabuse</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/reset"/>
         <updated>2022-03-07T07:15:09.411Z</updated>
         <content type="html"><![CDATA[불법 합성, 성희롱 댓글, 신상 털이.... 놀이가 된 디지털 성착취]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건설 현장에서 여성이 일하는 거 어때?]]></title>
-        <id>https://articles.dotface.kr/womencando-eunji</id>
-        <link href="https://articles.dotface.kr/womencando-eunji"/>
-        <updated>2022-03-07T04:19:06.021Z</updated>
-        <content type="html"><![CDATA[[남초 현장을 뚫는 여자들] “힘세다고 일머리가 좋은 건 아니죠”]]></content>
     </entry>
 </feed>
