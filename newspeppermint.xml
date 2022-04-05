@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-04-05T22:15:15.762Z</updated>
+    <updated>2022-04-05T23:17:11.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 의지력은 한정된 자원이 아니라 하나의 감정]]></title>
+        <id>https://newspeppermint.com/2022/04/05/npc_willpower/</id>
+        <link href="https://newspeppermint.com/2022/04/05/npc_willpower/"/>
+        <updated>2022-04-05T23:17:03.004Z</updated>
+        <content type="html"><![CDATA[2022년 4월 6일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 괜찮은 일자리는 다 어디로 갔을까?]]></title>
         <id>https://newspeppermint.com/2022/04/04/npc_tseacemoglu/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/03/21/npc_joemanchin/"/>
         <updated>2022-03-21T23:15:51.127Z</updated>
         <content type="html"><![CDATA[2022년 3월 22일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 청소년의 정신건강과 인스타그램]]></title>
-        <id>https://newspeppermint.com/2022/03/20/npc_instagrammentalhealth/</id>
-        <link href="https://newspeppermint.com/2022/03/20/npc_instagrammentalhealth/"/>
-        <updated>2022-03-20T23:14:43.279Z</updated>
-        <content type="html"><![CDATA[2022년 3월 21일]]></content>
     </entry>
 </feed>

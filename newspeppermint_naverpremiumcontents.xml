@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 22:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 23:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나 시대 넛지의 한계]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220406041226999Rc</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220406041226999Rc</guid>
+            <pubDate>Tue, 05 Apr 2022 23:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTU0/MDAxNjQ5MTg4MDg0MjI0.CM17QM-YaO1_j9avzypveNP1a_0YXyumjR3X_R13Agkg.7SABnxd9zB4z8UgEAItS_qQi76WQ31fXWR-Kqe9Rf1Mg.JPEG/yohann-libot-SX177tIQu7Q-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대법관 배우자가 극우 음모론자라면]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220404025010987mD</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 22 Feb 2022 23:15:35 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjNfMTUy/MDAxNjQ1NTY0ODU1ODcw.fam3PcsqizEKz04a6LwS7gAOzDpxemr8cyiNhO79Hd8g.bMjqExl9BYQVY_47uc_P-YJQuUZRsyOP_BMvrtGTM88g.PNG/Spotify_Logo_CMYK_Green.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[캐나다까지 번진 코로나 백신 반대 시위]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220221031851668Bp</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220221031851668Bp</guid>
-            <pubDate>Sun, 20 Feb 2022 23:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjFfMTUz/MDAxNjQ1MzgwOTgzNDYw.Ae0W6Xu69C6hThOrI9860w4CAT2Zhp0Fas2zl7n_e3sg.qup_iyAABffhK3D7FgVTytknIUl6wC6Lh5J3Epo62Agg.JPEG/4000.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
