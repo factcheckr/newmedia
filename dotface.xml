@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-04-06T09:15:50.646Z</updated>
+    <updated>2022-04-06T10:18:45.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퀴어 결혼식, 적극적으로 나선 웨딩 플래너를 만나다]]></title>
+        <id>https://articles.dotface.kr/thisisamarriage-plannerhaeni</id>
+        <link href="https://articles.dotface.kr/thisisamarriage-plannerhaeni"/>
+        <updated>2022-04-06T10:18:30.701Z</updated>
+        <content type="html"><![CDATA[[사랑해서 결혼합니다] "전 하던 일을 했어요. 결혼식의 지름길을 안내하는 거죠"]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웨딩 시장, 의외로 편견 없어요]]></title>
+        <id>https://articles.dotface.kr/thisisamarriage-sooyoungjihan</id>
+        <link href="https://articles.dotface.kr/thisisamarriage-sooyoungjihan"/>
+        <updated>2022-04-06T10:18:30.701Z</updated>
+        <content type="html"><![CDATA[[사랑해서 결혼합니다] K-웨딩의 정석, 퀴어도 할 수 있다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연쇄살인범과 놀랍도록 유사한 동물학대범의 심리]]></title>
         <id>https://articles.dotface.kr/animalabuse</id>
@@ -60,19 +74,5 @@
         <link href="https://articles.dotface.kr/answerless"/>
         <updated>2022-03-10T11:13:32.166Z</updated>
         <content type="html"><![CDATA[세월호 유가족, '위안부' 피해자, 민주노총…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 다섯 번째로 큰 사이트에서 일어나는 일]]></title>
-        <id>https://articles.dotface.kr/reset</id>
-        <link href="https://articles.dotface.kr/reset"/>
-        <updated>2022-03-07T07:15:09.411Z</updated>
-        <content type="html"><![CDATA[불법 합성, 성희롱 댓글, 신상 털이.... 놀이가 된 디지털 성착취]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건설 현장에서 여성이 일하는 거 어때?]]></title>
-        <id>https://articles.dotface.kr/womencando-eunji</id>
-        <link href="https://articles.dotface.kr/womencando-eunji"/>
-        <updated>2022-04-06T08:20:37.679Z</updated>
-        <content type="html"><![CDATA[[남초 현장을 뚫는 여자들] “힘세다고 일머리가 좋은 건 아니죠”]]></content>
     </entry>
 </feed>
