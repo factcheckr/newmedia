@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 07:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 08:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['방제는 섹시한 느낌이 좋고, 썸네일도 섹시한 느낌으로' (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/broadcasting-jockey</link>
-            <guid>https://articles.dotface.kr/broadcasting-jockey</guid>
-            <pubDate>Tue, 05 Apr 2022 09:15:15 GMT</pubDate>
-            <content:encoded><![CDATA["나는 BJ지, 남성의 성적 만족감 채워주는 사람이 아닌데"]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[연쇄살인범과 놀랍도록 유사한 동물학대범의 심리 (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/animalabuse</link>
@@ -76,6 +69,13 @@
             <guid>https://articles.dotface.kr/reset</guid>
             <pubDate>Mon, 07 Mar 2022 07:15:09 GMT</pubDate>
             <content:encoded><![CDATA[불법 합성, 성희롱 댓글, 신상 털이.... 놀이가 된 디지털 성착취]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[건설 현장에서 여성이 일하는 거 어때? (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/womencando-eunji</link>
+            <guid>https://articles.dotface.kr/womencando-eunji</guid>
+            <pubDate>Wed, 06 Apr 2022 08:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[[남초 현장을 뚫는 여자들] “힘세다고 일머리가 좋은 건 아니죠”]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 의지력은 한정된 자원이 아니라 하나의 감정 (뉴스페퍼민트)]]></title>
