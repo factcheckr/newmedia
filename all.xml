@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 22:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 23:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,13 @@
             <content:encoded><![CDATA[세월호 유가족, '위안부' 피해자, 민주노총…]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[필진 칼럼] 팬데믹의 한가운데서 공공재를 외치는 이유 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/04/06/npc_commongoods/</link>
+            <guid>https://newspeppermint.com/2022/04/06/npc_commongoods/</guid>
+            <pubDate>Wed, 06 Apr 2022 23:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 7일]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[필진 칼럼] 의지력은 한정된 자원이 아니라 하나의 감정 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/04/05/npc_willpower/</link>
             <guid>https://newspeppermint.com/2022/04/05/npc_willpower/</guid>
@@ -92,7 +99,7 @@
             <content:encoded><![CDATA[2022년 4월 5일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 애플이 쏘아올린 ‘앱 추적 투명성’이라는 작은 공의 파괴력은 $100억 (뉴스페퍼민트)]]></title>
+            <title><![CDATA[[필진 칼럼] 애플이 쏘아올린 ‘앱 추적 투명성’이라는 작은 공의 파괴력은 $100억 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/04/03/npc_appleatt/</link>
             <guid>https://newspeppermint.com/2022/04/03/npc_appleatt/</guid>
             <pubDate>Sun, 03 Apr 2022 23:15:12 GMT</pubDate>
@@ -153,13 +160,6 @@
             <guid>https://newspeppermint.com/2022/03/22/npc_colinpowell/</guid>
             <pubDate>Tue, 22 Mar 2022 23:16:03 GMT</pubDate>
             <content:encoded><![CDATA[2022년 3월 23일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 첩첩산중 바이든 정부 기후변화 법안 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/03/21/npc_joemanchin/</link>
-            <guid>https://newspeppermint.com/2022/03/21/npc_joemanchin/</guid>
-            <pubDate>Mon, 21 Mar 2022 23:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 22일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나 시대 넛지의 한계 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

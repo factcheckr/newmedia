@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-04-06T22:16:15.113Z</updated>
+    <updated>2022-04-06T23:16:15.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 팬데믹의 한가운데서 공공재를 외치는 이유]]></title>
+        <id>https://newspeppermint.com/2022/04/06/npc_commongoods/</id>
+        <link href="https://newspeppermint.com/2022/04/06/npc_commongoods/"/>
+        <updated>2022-04-06T23:16:08.134Z</updated>
+        <content type="html"><![CDATA[2022년 4월 7일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 의지력은 한정된 자원이 아니라 하나의 감정]]></title>
         <id>https://newspeppermint.com/2022/04/05/npc_willpower/</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[2022년 4월 5일]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 애플이 쏘아올린 ‘앱 추적 투명성’이라는 작은 공의 파괴력은 $100억]]></title>
+        <title type="html"><![CDATA[[필진 칼럼] 애플이 쏘아올린 ‘앱 추적 투명성’이라는 작은 공의 파괴력은 $100억]]></title>
         <id>https://newspeppermint.com/2022/04/03/npc_appleatt/</id>
         <link href="https://newspeppermint.com/2022/04/03/npc_appleatt/"/>
         <updated>2022-04-03T23:15:12.406Z</updated>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/03/22/npc_colinpowell/"/>
         <updated>2022-03-22T23:16:03.252Z</updated>
         <content type="html"><![CDATA[2022년 3월 23일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 첩첩산중 바이든 정부 기후변화 법안]]></title>
-        <id>https://newspeppermint.com/2022/03/21/npc_joemanchin/</id>
-        <link href="https://newspeppermint.com/2022/03/21/npc_joemanchin/"/>
-        <updated>2022-03-21T23:15:51.127Z</updated>
-        <content type="html"><![CDATA[2022년 3월 22일]]></content>
     </entry>
 </feed>
