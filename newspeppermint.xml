@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-04-07T22:15:43.527Z</updated>
+    <updated>2022-04-07T23:16:18.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 유전자 복권]]></title>
+        <id>https://newspeppermint.com/2022/04/07/npc_geneticlottery/</id>
+        <link href="https://newspeppermint.com/2022/04/07/npc_geneticlottery/"/>
+        <updated>2022-04-07T23:16:11.071Z</updated>
+        <content type="html"><![CDATA[2022년 4월 8일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 팬데믹의 한가운데서 공공재를 외치는 이유]]></title>
         <id>https://newspeppermint.com/2022/04/06/npc_commongoods/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/03/23/npc_amazonmarketplace/"/>
         <updated>2022-03-23T23:15:24.334Z</updated>
         <content type="html"><![CDATA[2022년 3월 24일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 콜린 파월이 남긴 것]]></title>
-        <id>https://newspeppermint.com/2022/03/22/npc_colinpowell/</id>
-        <link href="https://newspeppermint.com/2022/03/22/npc_colinpowell/"/>
-        <updated>2022-03-22T23:16:03.252Z</updated>
-        <content type="html"><![CDATA[2022년 3월 23일]]></content>
     </entry>
 </feed>

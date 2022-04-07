@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 22:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 23:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스 채널을 바꾸면 생각이 달라진다?]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220407222247170fE</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220407222247170fE</guid>
+            <pubDate>Thu, 07 Apr 2022 23:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDdfMjE1/MDAxNjQ5MzM3NjUwOTY1.R4s9v335PsN4J2XWdrcOGHFTyjYveYzTdjs80IygkpMg.jI3cphD0PP-KJzK9QKR4NwJhoWm8Hup1TyAbX9Q1Gu4g.PNG/Screen_Shot_2022-04-07_at_8.00.13_AM.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코로나 시대 넛지의 한계]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220406041226999Rc</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 24 Feb 2022 23:15:49 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjVfMTE5/MDAxNjQ1NzQyOTM3OTcy.fs8dST2YXkSH4uejgh-05kkalYhcbgdTOETGortycnog.nvHC4Lqx7oLqG07jq7eCEFAXRv_5_alxKrcX1G7RbIQg.JPEG/Plos_wilson.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포티파이가 2억 달러 주고 산 “양날의 검” 조 로건]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220223062818664eo</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220223062818664eo</guid>
-            <pubDate>Tue, 22 Feb 2022 23:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjNfMTUy/MDAxNjQ1NTY0ODU1ODcw.fam3PcsqizEKz04a6LwS7gAOzDpxemr8cyiNhO79Hd8g.bMjqExl9BYQVY_47uc_P-YJQuUZRsyOP_BMvrtGTM88g.PNG/Spotify_Logo_CMYK_Green.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
