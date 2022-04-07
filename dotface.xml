@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-04-07T08:19:38.938Z</updated>
+    <updated>2022-04-07T09:16:11.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['방제는 섹시한 느낌이 좋고, 썸네일도 섹시한 느낌으로']]></title>
+        <id>https://articles.dotface.kr/broadcasting-jockey</id>
+        <link href="https://articles.dotface.kr/broadcasting-jockey"/>
+        <updated>2022-04-07T09:15:53.617Z</updated>
+        <content type="html"><![CDATA["나는 BJ지, 남성의 성적 만족감 채워주는 사람이 아닌데"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퀴어 결혼식, 적극적으로 나선 웨딩 플래너를 만나다]]></title>
         <id>https://articles.dotface.kr/thisisamarriage-plannerhaeni</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/marriagelessmothers-jisun"/>
         <updated>2022-03-11T02:39:26.366Z</updated>
         <content type="html"><![CDATA[[결혼 안 한 엄마들] 아빠가 없는 게 문제가 아니에요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열은 누구의, 어떤 질문을 거부했을까?]]></title>
-        <id>https://articles.dotface.kr/answerless</id>
-        <link href="https://articles.dotface.kr/answerless"/>
-        <updated>2022-03-10T11:13:32.166Z</updated>
-        <content type="html"><![CDATA[세월호 유가족, '위안부' 피해자, 민주노총…]]></content>
     </entry>
 </feed>
