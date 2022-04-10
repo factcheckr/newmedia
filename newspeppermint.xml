@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-04-10T22:16:02.133Z</updated>
+    <updated>2022-04-10T23:15:58.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 손실 회피 효과에 대한 논쟁]]></title>
+        <id>https://newspeppermint.com/2022/04/10/npc_lossaversion/</id>
+        <link href="https://newspeppermint.com/2022/04/10/npc_lossaversion/"/>
+        <updated>2022-04-10T23:15:50.569Z</updated>
+        <content type="html"><![CDATA[2022년 4월 11일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 유전자 복권]]></title>
         <id>https://newspeppermint.com/2022/04/07/npc_geneticlottery/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/03/24/npc_deathpenalty/"/>
         <updated>2022-03-24T23:15:56.800Z</updated>
         <content type="html"><![CDATA[2022년 3월 25일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 플랫폼 경제 독점 기업의 초상화: 아마존 검색결과]]></title>
-        <id>https://newspeppermint.com/2022/03/23/npc_amazonmarketplace/</id>
-        <link href="https://newspeppermint.com/2022/03/23/npc_amazonmarketplace/"/>
-        <updated>2022-03-23T23:15:24.334Z</updated>
-        <content type="html"><![CDATA[2022년 3월 24일]]></content>
     </entry>
 </feed>

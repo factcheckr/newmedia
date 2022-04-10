@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 22:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 23:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/marriagelessmothers-jisun</guid>
             <pubDate>Fri, 11 Mar 2022 02:39:26 GMT</pubDate>
             <content:encoded><![CDATA[[결혼 안 한 엄마들] 아빠가 없는 게 문제가 아니에요]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 손실 회피 효과에 대한 논쟁 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/04/10/npc_lossaversion/</link>
+            <guid>https://newspeppermint.com/2022/04/10/npc_lossaversion/</guid>
+            <pubDate>Sun, 10 Apr 2022 23:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 11일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 유전자 복권 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 3월 25일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 플랫폼 경제 독점 기업의 초상화: 아마존 검색결과 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/03/23/npc_amazonmarketplace/</link>
-            <guid>https://newspeppermint.com/2022/03/23/npc_amazonmarketplace/</guid>
-            <pubDate>Wed, 23 Mar 2022 23:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 24일]]></content:encoded>
+            <title><![CDATA[아마존 노동조합 앞에 놓인 과제들 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220410145643379vD</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220410145643379vD</guid>
+            <pubDate>Sun, 10 Apr 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTBfMTQ1/MDAxNjQ5NTcwMTExNTI4.1Hd8gnOUhd7DnBlLznP2Ny84U6NL6ib_1pcIfEPCX9gg.3ZH30VRl3SZxndk_tqVpakgtqGbUg-PmI8HPlvBnJeEg.JPEG/e7ee530173f1b2ee6c4bd4bf1c22bea0707ba60e.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[뉴스 채널을 바꾸면 생각이 달라진다? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Sun, 27 Feb 2022 08:17:15 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjdfMTA1/MDAxNjQ1OTQ2NzYzMjYy.131pjbefeA5xD0YyWHUGpxfpDYkc9Qe8n37ucW6PnCog.z75OyqZ7yDUrXP1d1N2PkkQZ9Iec-d7MzbRtUY155D0g.JPEG/UUDGY355ONLBXGONVFMQTN5QUY.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생물학자 E.O. 윌슨에 대한 엇갈린 평가들 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220225075156314Ws</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220225075156314Ws</guid>
-            <pubDate>Thu, 24 Feb 2022 23:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjVfMTE5/MDAxNjQ1NzQyOTM3OTcy.fs8dST2YXkSH4uejgh-05kkalYhcbgdTOETGortycnog.nvHC4Lqx7oLqG07jq7eCEFAXRv_5_alxKrcX1G7RbIQg.JPEG/Plos_wilson.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
