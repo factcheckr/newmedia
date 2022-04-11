@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 22:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 23:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/marriagelessmothers-jisun</guid>
             <pubDate>Fri, 11 Mar 2022 02:39:26 GMT</pubDate>
             <content:encoded><![CDATA[[결혼 안 한 엄마들] 아빠가 없는 게 문제가 아니에요]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 코로나19 오미크론 변이 WHO 발표 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/04/11/npc_omicron/</link>
+            <guid>https://newspeppermint.com/2022/04/11/npc_omicron/</guid>
+            <pubDate>Mon, 11 Apr 2022 23:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 12일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 손실 회피 효과에 대한 논쟁 (뉴스페퍼민트)]]></title>
@@ -153,13 +160,6 @@
             <guid>https://newspeppermint.com/2022/03/27/npc_ghosts/</guid>
             <pubDate>Sun, 27 Mar 2022 23:16:24 GMT</pubDate>
             <content:encoded><![CDATA[2022년 3월 28일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 6년 만에 사형 집행한 미국 오클라호마주 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/03/24/npc_deathpenalty/</link>
-            <guid>https://newspeppermint.com/2022/03/24/npc_deathpenalty/</guid>
-            <pubDate>Thu, 24 Mar 2022 23:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 25일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아마존 노동조합 앞에 놓인 과제들 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

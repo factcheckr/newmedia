@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-04-11T22:15:49.302Z</updated>
+    <updated>2022-04-11T23:16:55.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 코로나19 오미크론 변이 WHO 발표]]></title>
+        <id>https://newspeppermint.com/2022/04/11/npc_omicron/</id>
+        <link href="https://newspeppermint.com/2022/04/11/npc_omicron/"/>
+        <updated>2022-04-11T23:16:48.374Z</updated>
+        <content type="html"><![CDATA[2022년 4월 12일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 손실 회피 효과에 대한 논쟁]]></title>
         <id>https://newspeppermint.com/2022/04/10/npc_lossaversion/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/03/27/npc_ghosts/"/>
         <updated>2022-03-27T23:16:24.114Z</updated>
         <content type="html"><![CDATA[2022년 3월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 6년 만에 사형 집행한 미국 오클라호마주]]></title>
-        <id>https://newspeppermint.com/2022/03/24/npc_deathpenalty/</id>
-        <link href="https://newspeppermint.com/2022/03/24/npc_deathpenalty/"/>
-        <updated>2022-03-24T23:15:56.800Z</updated>
-        <content type="html"><![CDATA[2022년 3월 25일]]></content>
     </entry>
 </feed>
