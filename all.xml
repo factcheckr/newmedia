@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 05:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 06:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남들처럼 결혼 준비 하고 있어요 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/thisisamarriage-jaygomang</link>
+            <guid>https://articles.dotface.kr/thisisamarriage-jaygomang</guid>
+            <pubDate>Wed, 13 Apr 2022 06:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[[사랑해서 결혼합니다] "퀴어 결혼이라고 해서 특별해야 해?"]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA['방제는 섹시한 느낌이 좋고, 썸네일도 섹시한 느낌으로' (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/broadcasting-jockey</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/aftervoting-jihyun</guid>
             <pubDate>Mon, 14 Mar 2022 08:18:34 GMT</pubDate>
             <content:encoded><![CDATA[추적단불꽃 '불'에서 정치인 박지현으로]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족을 원했다, 결혼도 남편도 아니고 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/marriagelessmothers-jisun</link>
-            <guid>https://articles.dotface.kr/marriagelessmothers-jisun</guid>
-            <pubDate>Fri, 11 Mar 2022 02:39:26 GMT</pubDate>
-            <content:encoded><![CDATA[[결혼 안 한 엄마들] 아빠가 없는 게 문제가 아니에요]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 데이터와 체감 경기의 동상이몽 경제 (뉴스페퍼민트)]]></title>

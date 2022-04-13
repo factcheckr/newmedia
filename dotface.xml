@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-04-13T05:14:55.676Z</updated>
+    <updated>2022-04-13T06:20:10.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남들처럼 결혼 준비 하고 있어요]]></title>
+        <id>https://articles.dotface.kr/thisisamarriage-jaygomang</id>
+        <link href="https://articles.dotface.kr/thisisamarriage-jaygomang"/>
+        <updated>2022-04-13T06:19:54.854Z</updated>
+        <content type="html"><![CDATA[[사랑해서 결혼합니다] "퀴어 결혼이라고 해서 특별해야 해?"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['방제는 섹시한 느낌이 좋고, 썸네일도 섹시한 느낌으로']]></title>
         <id>https://articles.dotface.kr/broadcasting-jockey</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/aftervoting-jihyun"/>
         <updated>2022-03-14T08:18:34.805Z</updated>
         <content type="html"><![CDATA[추적단불꽃 '불'에서 정치인 박지현으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족을 원했다, 결혼도 남편도 아니고]]></title>
-        <id>https://articles.dotface.kr/marriagelessmothers-jisun</id>
-        <link href="https://articles.dotface.kr/marriagelessmothers-jisun"/>
-        <updated>2022-03-11T02:39:26.366Z</updated>
-        <content type="html"><![CDATA[[결혼 안 한 엄마들] 아빠가 없는 게 문제가 아니에요]]></content>
     </entry>
 </feed>
