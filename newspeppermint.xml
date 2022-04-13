@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-04-13T22:15:21.601Z</updated>
+    <updated>2022-04-13T23:15:23.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 호전적인 우리 뇌와 인간의 약점]]></title>
+        <id>https://newspeppermint.com/2022/04/13/npc_brainatwar/</id>
+        <link href="https://newspeppermint.com/2022/04/13/npc_brainatwar/"/>
+        <updated>2022-04-13T23:15:16.370Z</updated>
+        <content type="html"><![CDATA[2022년 4월 14일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 데이터와 체감 경기의 동상이몽 경제]]></title>
         <id>https://newspeppermint.com/2022/04/12/economyfeeling/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/03/29/npc_wfh/"/>
         <updated>2022-03-29T23:16:21.210Z</updated>
         <content type="html"><![CDATA[2022년 3월 30일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 식곤증에 관하여]]></title>
-        <id>https://newspeppermint.com/2022/03/28/npc_tiredaftereating/</id>
-        <link href="https://newspeppermint.com/2022/03/28/npc_tiredaftereating/"/>
-        <updated>2022-03-28T23:16:01.860Z</updated>
-        <content type="html"><![CDATA[2022년 3월 29일]]></content>
     </entry>
 </feed>
