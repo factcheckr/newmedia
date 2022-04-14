@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 22:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 23:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/rebeccasolnit</guid>
             <pubDate>Wed, 16 Mar 2022 10:16:32 GMT</pubDate>
             <content:encoded><![CDATA[리베카 솔닛이 보수 정치에 저항하는 법]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] ‘청부과학’의 진화: 의구심 뿌리기 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/04/14/npc_triumphofdoubt/</link>
+            <guid>https://newspeppermint.com/2022/04/14/npc_triumphofdoubt/</guid>
+            <pubDate>Thu, 14 Apr 2022 23:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 15일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 호전적인 우리 뇌와 인간의 약점 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 3월 31일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 회의를 회의하라 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/03/29/npc_wfh/</link>
-            <guid>https://newspeppermint.com/2022/03/29/npc_wfh/</guid>
-            <pubDate>Tue, 29 Mar 2022 23:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 30일]]></content:encoded>
+            <title><![CDATA[바닷속을 떠다니는 미세플라스틱 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220415063043890Ni</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220415063043890Ni</guid>
+            <pubDate>Thu, 14 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTVfMTQ1/MDAxNjQ5OTcxNzQ3OTcw.8hw_L0eoyVmI6Qv3W1CRDdL8d2o3JnVGdKBfqHXrKscg.tHWtIWE8DRodH-80CB3-zWjxLVe9gwL9NSSD-IVtAL0g.JPEG/IMG_8223.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2년 반 남은 미국 대선, 이무기들은 잠룡이 될 수 있을까? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Wed, 02 Mar 2022 22:15:13 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDNfMzkg/MDAxNjQ2MjU3NjcxNjUw.BBeofoO7jkFZIig4yU_BZF-Ho3FNyqm31owVxQ4g7Ssg.w9cEKXLeaPgSfR5PpsLJU83L7WxjOt4zj-JNFNgfv7wg.JPEG/125646-portrait-medium.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 내 반전 여론과 푸틴의 입지 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220228074648186Tc</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220228074648186Tc</guid>
-            <pubDate>Sun, 27 Feb 2022 23:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjhfMjE0/MDAxNjQ2MDAxNzE0MzIw.8F19HVeUEOP3v_kQvvYwq4OjKZ12r10x3x9WJiCgl5Ig.MDsOWYiKBtu1c8hw-lOyMCWzDD0p8mfA6RuUdTDrnfcg.JPEG/Screen_Shot_2022-02-27_at_5.14.05_PM.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
