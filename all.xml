@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 07:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 08:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제도적인 결혼은 '미래'지만, 결혼식은 '현실'이니까 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/thisisamarriage-plannergaram</link>
+            <guid>https://articles.dotface.kr/thisisamarriage-plannergaram</guid>
+            <pubDate>Thu, 14 Apr 2022 08:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[[사랑해서 결혼합니다] "시간이 좀 더 걸릴지언정 안 되는 일은 없어요"]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[남들처럼 결혼 준비 하고 있어요 (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/thisisamarriage-jaygomang</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/rebeccasolnit</guid>
             <pubDate>Wed, 16 Mar 2022 10:16:32 GMT</pubDate>
             <content:encoded><![CDATA[리베카 솔닛이 보수 정치에 저항하는 법]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디지털 성범죄를 추적하는 게 어떻게 젠더 문제일까요? (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/aftervoting-jihyun</link>
-            <guid>https://articles.dotface.kr/aftervoting-jihyun</guid>
-            <pubDate>Mon, 14 Mar 2022 08:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[추적단불꽃 '불'에서 정치인 박지현으로]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 호전적인 우리 뇌와 인간의 약점 (뉴스페퍼민트)]]></title>
