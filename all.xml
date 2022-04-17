@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 22:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 23:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/rebeccasolnit</guid>
             <pubDate>Wed, 16 Mar 2022 10:16:32 GMT</pubDate>
             <content:encoded><![CDATA[리베카 솔닛이 보수 정치에 저항하는 법]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 교통사고에서 ‘실수’의 책임은 누구한테 물어야 할까? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/04/17/npc_humanerrors/</link>
+            <guid>https://newspeppermint.com/2022/04/17/npc_humanerrors/</guid>
+            <pubDate>Sun, 17 Apr 2022 23:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 18일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] ‘청부과학’의 진화: 의구심 뿌리기 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 4월 1일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 절망의 죽음과 두 개의 미국 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/03/30/npc_deaton/</link>
-            <guid>https://newspeppermint.com/2022/03/30/npc_deaton/</guid>
-            <pubDate>Wed, 30 Mar 2022 23:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 31일]]></content:encoded>
+            <title><![CDATA[푸틴이 찾는 폭스뉴스, 젤렌스키 찾아간 애틀란틱 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220418063125631XT</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220418063125631XT</guid>
+            <pubDate>Sun, 17 Apr 2022 23:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MThfOTcg/MDAxNjUwMjMwOTczMzI1.KqqQOvCb-pQwWggUBsst7gc2tXFNEPBV5Ftvot2a-XIg.qjVcR1eXFVNeT6jpVIeJoex_Rq2XCiioHZb4uqjhkXQg.JPEG/ezgif.com-gif-maker_(3).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바닷속을 떠다니는 미세플라스틱 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Thu, 03 Mar 2022 23:15:16 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDRfMTEg/MDAxNjQ2MzQxODgyMTE2.pK8lhnZ4TlbuHHmbwJ1FpRttpoI7e_XM62BGwjRGmBIg.w7T9Cx-w6H-euvbp-mnvrcjfKiLv7GKV3-NZW7lOUmog.PNG/images-2.fit_lim.size_2000x.v1611706400.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["전쟁을 전쟁이라고 부르지 달리 뭐라고 부르나?" (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220303064907674KT</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220303064907674KT</guid>
-            <pubDate>Wed, 02 Mar 2022 22:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDNfMzkg/MDAxNjQ2MjU3NjcxNjUw.BBeofoO7jkFZIig4yU_BZF-Ho3FNyqm31owVxQ4g7Ssg.w9cEKXLeaPgSfR5PpsLJU83L7WxjOt4zj-JNFNgfv7wg.JPEG/125646-portrait-medium.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
