@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-04-19T22:19:07.556Z</updated>
+    <updated>2022-04-19T23:14:13.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 기술의 미래를 예측하기]]></title>
+        <id>https://newspeppermint.com/2022/04/19/npc_predictingtech/</id>
+        <link href="https://newspeppermint.com/2022/04/19/npc_predictingtech/"/>
+        <updated>2022-04-19T23:14:04.931Z</updated>
+        <content type="html"><![CDATA[2022년 4월 20일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 스타벅스 미국 직영 매장에서 첫 노조 결성]]></title>
         <id>https://newspeppermint.com/2022/04/18/npc_starbucksunion/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/04/04/npc_tseacemoglu/"/>
         <updated>2022-04-04T23:16:51.751Z</updated>
         <content type="html"><![CDATA[2022년 4월 5일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 애플이 쏘아올린 ‘앱 추적 투명성’이라는 작은 공의 파괴력은 $100억]]></title>
-        <id>https://newspeppermint.com/2022/04/03/npc_appleatt/</id>
-        <link href="https://newspeppermint.com/2022/04/03/npc_appleatt/"/>
-        <updated>2022-04-03T23:15:12.406Z</updated>
-        <content type="html"><![CDATA[2022년 4월 4일]]></content>
     </entry>
 </feed>

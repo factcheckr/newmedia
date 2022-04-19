@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 22:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 23:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/rebeccasolnit</guid>
             <pubDate>Wed, 16 Mar 2022 10:16:32 GMT</pubDate>
             <content:encoded><![CDATA[리베카 솔닛이 보수 정치에 저항하는 법]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 기술의 미래를 예측하기 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/04/19/npc_predictingtech/</link>
+            <guid>https://newspeppermint.com/2022/04/19/npc_predictingtech/</guid>
+            <pubDate>Tue, 19 Apr 2022 23:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 20일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 스타벅스 미국 직영 매장에서 첫 노조 결성 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 4월 5일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 애플이 쏘아올린 ‘앱 추적 투명성’이라는 작은 공의 파괴력은 $100억 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/04/03/npc_appleatt/</link>
-            <guid>https://newspeppermint.com/2022/04/03/npc_appleatt/</guid>
-            <pubDate>Sun, 03 Apr 2022 23:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 4일]]></content:encoded>
+            <title><![CDATA[시대상을 반영하는 영상물 등급제도 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220419223025553iz</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220419223025553iz</guid>
+            <pubDate>Tue, 19 Apr 2022 23:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTlfMTQ4/MDAxNjUwMzc0ODYyMDEz.pTZDBPO7GtmZ3eBqNhVHBa0g99l1JkJROobouOfXLVAg.XIvImMPQTNGd25_eFV415jwAMPRahtzHtLNJfFXCZOAg.PNG/Screen_Shot_2022-04-19_at_9.25.05_AM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[푸틴이 찾는 폭스뉴스, 젤렌스키 찾아간 애틀란틱 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Sun, 06 Mar 2022 23:15:36 GMT</pubDate>
             <content:encoded><![CDATA[경제 공부방]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDdfMTU4/MDAxNjQ2NjAxMjI4ODcy.GGUKiZqYFyiTvUAM5nmH_cJkT7HV3LvADvh7LYcjHRkg.P9SsYoz2AF7ryD11sjlkDg3ziJlziHwX-dZk8HudbA4g.JPEG/%ED%8F%AD%EA%B2%A9%EB%A7%9E%EC%9D%80%ED%95%98%EB%A5%B4%ED%82%A4%EC%9A%B00303AFP%EA%B2%8C%ED%8B%B0%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불편함이 당신을 성장시킨다 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220304061241556SM</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220304061241556SM</guid>
-            <pubDate>Thu, 03 Mar 2022 23:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDRfMTEg/MDAxNjQ2MzQxODgyMTE2.pK8lhnZ4TlbuHHmbwJ1FpRttpoI7e_XM62BGwjRGmBIg.w7T9Cx-w6H-euvbp-mnvrcjfKiLv7GKV3-NZW7lOUmog.PNG/images-2.fit_lim.size_2000x.v1611706400.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
