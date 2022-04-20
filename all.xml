@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 22:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 23:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/rebeccasolnit</guid>
             <pubDate>Wed, 16 Mar 2022 10:16:32 GMT</pubDate>
             <content:encoded><![CDATA[리베카 솔닛이 보수 정치에 저항하는 법]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 텍사스 낙태금지법 모방한 캘리포니아 총기규제법 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/04/20/npc_californiaguncontrol/</link>
+            <guid>https://newspeppermint.com/2022/04/20/npc_californiaguncontrol/</guid>
+            <pubDate>Wed, 20 Apr 2022 23:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 21일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 기술의 미래를 예측하기 (뉴스페퍼민트)]]></title>
@@ -153,13 +160,6 @@
             <guid>https://newspeppermint.com/2022/04/05/npc_willpower/</guid>
             <pubDate>Tue, 05 Apr 2022 23:17:03 GMT</pubDate>
             <content:encoded><![CDATA[2022년 4월 6일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 괜찮은 일자리는 다 어디로 갔을까? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/04/04/npc_tseacemoglu/</link>
-            <guid>https://newspeppermint.com/2022/04/04/npc_tseacemoglu/</guid>
-            <pubDate>Mon, 04 Apr 2022 23:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 5일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[시대상을 반영하는 영상물 등급제도 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

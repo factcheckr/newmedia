@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-04-20T22:16:10.149Z</updated>
+    <updated>2022-04-20T23:17:45.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 텍사스 낙태금지법 모방한 캘리포니아 총기규제법]]></title>
+        <id>https://newspeppermint.com/2022/04/20/npc_californiaguncontrol/</id>
+        <link href="https://newspeppermint.com/2022/04/20/npc_californiaguncontrol/"/>
+        <updated>2022-04-20T23:17:38.078Z</updated>
+        <content type="html"><![CDATA[2022년 4월 21일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 기술의 미래를 예측하기]]></title>
         <id>https://newspeppermint.com/2022/04/19/npc_predictingtech/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/04/05/npc_willpower/"/>
         <updated>2022-04-05T23:17:03.004Z</updated>
         <content type="html"><![CDATA[2022년 4월 6일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 괜찮은 일자리는 다 어디로 갔을까?]]></title>
-        <id>https://newspeppermint.com/2022/04/04/npc_tseacemoglu/</id>
-        <link href="https://newspeppermint.com/2022/04/04/npc_tseacemoglu/"/>
-        <updated>2022-04-04T23:16:51.751Z</updated>
-        <content type="html"><![CDATA[2022년 4월 5일]]></content>
     </entry>
 </feed>
