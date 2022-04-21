@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-04-21T22:16:04.391Z</updated>
+    <updated>2022-04-21T23:16:18.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 뇌과학이 알려주는 집중의 요령]]></title>
+        <id>https://newspeppermint.com/2022/04/21/npc_focus/</id>
+        <link href="https://newspeppermint.com/2022/04/21/npc_focus/"/>
+        <updated>2022-04-21T23:16:10.175Z</updated>
+        <content type="html"><![CDATA[2022년 4월 22일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 텍사스 낙태금지법 모방한 캘리포니아 총기규제법]]></title>
         <id>https://newspeppermint.com/2022/04/20/npc_californiaguncontrol/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/04/06/npc_commongoods/"/>
         <updated>2022-04-06T23:16:08.134Z</updated>
         <content type="html"><![CDATA[2022년 4월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 의지력은 한정된 자원이 아니라 하나의 감정]]></title>
-        <id>https://newspeppermint.com/2022/04/05/npc_willpower/</id>
-        <link href="https://newspeppermint.com/2022/04/05/npc_willpower/"/>
-        <updated>2022-04-05T23:17:03.004Z</updated>
-        <content type="html"><![CDATA[2022년 4월 6일]]></content>
     </entry>
 </feed>
