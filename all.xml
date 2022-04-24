@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 07:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 08:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -162,6 +162,14 @@
             <content:encoded><![CDATA[2022년 4월 7일]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[개표 전에 미리 하는 프랑스 대선 분석 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220424165845923aa</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220424165845923aa</guid>
+            <pubDate>Sun, 24 Apr 2022 08:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjRfMjEg/MDAxNjUwNzg3MDE4MzA1.ZZmOEnDm4qK07UIGYoWfVTPEMdAn48yrWGlInQvVTLcg.5-uFyQV7LMWnUCJbltPiC3OWrl3QVSKRYnvd60Mm3IQg.JPEG/Screen_Shot_2022-04-24_at_3.31.32_AM.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[무척추동물도 감정을 느낄까요? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220422054015773BE</link>
             <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220422054015773BE</guid>
@@ -312,14 +320,6 @@
             <pubDate>Thu, 10 Mar 2022 23:16:31 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTFfMjk3/MDAxNjQ2OTQ3ODQ5OTY0.4z_KdfOmnlRAk4t1GJz4fmrtFq3QFvPtbPIN0tH0yFog._xHJfY9OjD-NlNv03s10arGAp5Y6MwUPD-sAbs8qu8Ag.JPEG/edgar-chaparro-sHfo3WOgGTU-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아가 일으킨 전쟁은 '세계 질서'를 바꿀까? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220309033157308an</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220309033157308an</guid>
-            <pubDate>Tue, 08 Mar 2022 23:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDlfMjY1/MDAxNjQ2NzY0MTg0ODY4.X5BVs5nhL4QrXagKWxYwBmnkrGkv93yalk2QERrGg7Ig.HDnjR9sjmgHWOp0V7vXy8tYFmMXq8opUmV85-bZdPEsg.JPEG/IMG_6738-2048x1365.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
