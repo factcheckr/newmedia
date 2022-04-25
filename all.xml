@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 23:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 01:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -162,7 +162,7 @@
             <content:encoded><![CDATA[2022년 4월 8일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[개표 전에 미리 하는 프랑스 대선 분석 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <title><![CDATA[프랑스 마크롱 대통령 재선 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220424165845923aa</link>
             <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220424165845923aa</guid>
             <pubDate>Sun, 24 Apr 2022 08:19:34 GMT</pubDate>
