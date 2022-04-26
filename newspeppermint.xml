@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-04-26T22:16:03.729Z</updated>
+    <updated>2022-04-26T23:17:02.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 좋은 의도에서 비롯된 정책이 좋지 않은 결과를 낳을 때]]></title>
+        <id>https://newspeppermint.com/2022/04/26/npc_policyopioidcrisis/</id>
+        <link href="https://newspeppermint.com/2022/04/26/npc_policyopioidcrisis/"/>
+        <updated>2022-04-26T23:16:53.683Z</updated>
+        <content type="html"><![CDATA[2022년 4월 27일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 트랜스젠더 운동 선수의 경우]]></title>
         <id>https://newspeppermint.com/2022/04/25/npc_transgenderathletes/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/04/11/npc_omicron/"/>
         <updated>2022-04-11T23:16:48.374Z</updated>
         <content type="html"><![CDATA[2022년 4월 12일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 손실 회피 효과에 대한 논쟁]]></title>
-        <id>https://newspeppermint.com/2022/04/10/npc_lossaversion/</id>
-        <link href="https://newspeppermint.com/2022/04/10/npc_lossaversion/"/>
-        <updated>2022-04-10T23:15:50.569Z</updated>
-        <content type="html"><![CDATA[2022년 4월 11일]]></content>
     </entry>
 </feed>

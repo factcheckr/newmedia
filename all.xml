@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 22:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 23:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/rebeccasolnit</guid>
             <pubDate>Wed, 16 Mar 2022 10:16:32 GMT</pubDate>
             <content:encoded><![CDATA[리베카 솔닛이 보수 정치에 저항하는 법]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 좋은 의도에서 비롯된 정책이 좋지 않은 결과를 낳을 때 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/04/26/npc_policyopioidcrisis/</link>
+            <guid>https://newspeppermint.com/2022/04/26/npc_policyopioidcrisis/</guid>
+            <pubDate>Tue, 26 Apr 2022 23:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 27일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 트랜스젠더 운동 선수의 경우 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 4월 12일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 손실 회피 효과에 대한 논쟁 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/04/10/npc_lossaversion/</link>
-            <guid>https://newspeppermint.com/2022/04/10/npc_lossaversion/</guid>
-            <pubDate>Sun, 10 Apr 2022 23:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 11일]]></content:encoded>
+            <title><![CDATA[위기의 넷플릭스와 스트리밍 서비스의 미래 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220427024620864gY</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220427024620864gY</guid>
+            <pubDate>Tue, 26 Apr 2022 23:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjdfMjE0/MDAxNjUwOTk1MTI3MjU1.TpO29wrGunkb6q9_cKDVD0uCpccM8pMOQJEMSBvMrzkg.bqYra99x4k5soQXzTg-BWprEOUcKwImOUK35qL4zenEg.JPEG/atul-vinayak-SqRd6V8tu0M-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프랑스 마크롱 대통령 재선 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Sun, 13 Mar 2022 23:16:00 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTRfMTAw/MDAxNjQ3MTg0MTA5NDE2.nvU25BvXvIt93tcbnV71NOD6t0VQKn7HceFoldJRyg0g.AWqhOUpCqVv7n1uDnuCjuFrCxY4-cUskEzc8yDglbXwg.JPEG/cody-west-KPBwbkdOtQE-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이고렉시아: 자신의 몸에 만족하지 못하는 남자들 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220311063258983DC</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220311063258983DC</guid>
-            <pubDate>Thu, 10 Mar 2022 23:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTFfMjk3/MDAxNjQ2OTQ3ODQ5OTY0.4z_KdfOmnlRAk4t1GJz4fmrtFq3QFvPtbPIN0tH0yFog._xHJfY9OjD-NlNv03s10arGAp5Y6MwUPD-sAbs8qu8Ag.JPEG/edgar-chaparro-sHfo3WOgGTU-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
