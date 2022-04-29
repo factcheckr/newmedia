@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-04-29T01:17:31.424Z</updated>
+    <updated>2022-04-29T03:25:00.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘벗도록’ 유인하는 거대한 산업, 뒤에 숨겨진 ‘협업’]]></title>
+        <id>https://articles.dotface.kr/webhard-platform</id>
+        <link href="https://articles.dotface.kr/webhard-platform"/>
+        <updated>2022-04-29T03:24:45.150Z</updated>
+        <content type="html"><![CDATA[성인 방송과 웹하드의 연결고리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제도적인 결혼은 '미래'지만, 결혼식은 '현실'이니까]]></title>
         <id>https://articles.dotface.kr/thisisamarriage-plannergaram</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/marriagelessmothers-boyoung"/>
         <updated>2022-03-18T04:19:04.279Z</updated>
         <content type="html"><![CDATA[[결혼 안 한 엄마들] 네가 태어났을 때, 너랑 너무 같이 살고 싶었어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["법을 바꿀 순 있어도 우리의 사상을 없앨 순 없다"]]></title>
-        <id>https://articles.dotface.kr/rebeccasolnit</id>
-        <link href="https://articles.dotface.kr/rebeccasolnit"/>
-        <updated>2022-03-16T10:16:32.297Z</updated>
-        <content type="html"><![CDATA[리베카 솔닛이 보수 정치에 저항하는 법]]></content>
     </entry>
 </feed>

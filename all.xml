@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 01:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 03:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘벗도록’ 유인하는 거대한 산업, 뒤에 숨겨진 ‘협업’ (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/webhard-platform</link>
+            <guid>https://articles.dotface.kr/webhard-platform</guid>
+            <pubDate>Fri, 29 Apr 2022 03:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[성인 방송과 웹하드의 연결고리]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[제도적인 결혼은 '미래'지만, 결혼식은 '현실'이니까 (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/thisisamarriage-plannergaram</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/marriagelessmothers-boyoung</guid>
             <pubDate>Fri, 18 Mar 2022 04:19:04 GMT</pubDate>
             <content:encoded><![CDATA[[결혼 안 한 엄마들] 네가 태어났을 때, 너랑 너무 같이 살고 싶었어]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["법을 바꿀 순 있어도 우리의 사상을 없앨 순 없다" (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/rebeccasolnit</link>
-            <guid>https://articles.dotface.kr/rebeccasolnit</guid>
-            <pubDate>Wed, 16 Mar 2022 10:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[리베카 솔닛이 보수 정치에 저항하는 법]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 전기차는 타이어도 달라야 한다 (뉴스페퍼민트)]]></title>
