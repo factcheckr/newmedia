@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-05-02T06:20:59.138Z</updated>
+    <updated>2022-05-02T07:16:14.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1tlyaso2crgii.cloudfront.net/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부모에게 우리는 '언젠가 결혼할 건데 아직 친구랑 사는 딸들']]></title>
+        <id>https://articles.dotface.kr/thisisamarriage-jooyoungjihyun</id>
+        <link href="https://articles.dotface.kr/thisisamarriage-jooyoungjihyun"/>
+        <updated>2022-05-02T07:15:58.955Z</updated>
+        <content type="html"><![CDATA[[사랑해서 함께 삽니다] "그냥 함께 살고 싶어요, 결혼은 아니고요"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘벗도록’ 유인하는 거대한 산업, 뒤에 숨겨진 ‘협업’]]></title>
         <id>https://articles.dotface.kr/webhard-platform</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/womencando-hyoju"/>
         <updated>2022-03-17T06:18:47.176Z</updated>
         <content type="html"><![CDATA[[남초 현장을 뚫는 여자들] “저 건물, 진짜 내가 지었다”라고 할 수 있는 사람]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미혼모, 베이비박스, 입양을 검색해본 적 있나요]]></title>
-        <id>https://articles.dotface.kr/marriagelessmothers-boyoung</id>
-        <link href="https://articles.dotface.kr/marriagelessmothers-boyoung"/>
-        <updated>2022-03-18T04:19:04.279Z</updated>
-        <content type="html"><![CDATA[[결혼 안 한 엄마들] 네가 태어났을 때, 너랑 너무 같이 살고 싶었어]]></content>
     </entry>
 </feed>

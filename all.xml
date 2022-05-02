@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 06:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 07:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부모에게 우리는 '언젠가 결혼할 건데 아직 친구랑 사는 딸들' (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/thisisamarriage-jooyoungjihyun</link>
+            <guid>https://articles.dotface.kr/thisisamarriage-jooyoungjihyun</guid>
+            <pubDate>Mon, 02 May 2022 07:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[[사랑해서 함께 삽니다] "그냥 함께 살고 싶어요, 결혼은 아니고요"]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘벗도록’ 유인하는 거대한 산업, 뒤에 숨겨진 ‘협업’ (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/webhard-platform</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/womencando-hyoju</guid>
             <pubDate>Thu, 17 Mar 2022 06:18:47 GMT</pubDate>
             <content:encoded><![CDATA[[남초 현장을 뚫는 여자들] “저 건물, 진짜 내가 지었다”라고 할 수 있는 사람]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미혼모, 베이비박스, 입양을 검색해본 적 있나요 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/marriagelessmothers-boyoung</link>
-            <guid>https://articles.dotface.kr/marriagelessmothers-boyoung</guid>
-            <pubDate>Fri, 18 Mar 2022 04:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[[결혼 안 한 엄마들] 네가 태어났을 때, 너랑 너무 같이 살고 싶었어]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 2021 뉴욕타임스 부고 기사 모음 (뉴스페퍼민트)]]></title>
