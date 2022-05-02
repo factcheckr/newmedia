@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-05-02T22:16:58.584Z</updated>
+    <updated>2022-05-02T23:17:14.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 체중 관리에 관해 우리가 모르는 사실]]></title>
+        <id>https://newspeppermint.com/2022/05/02/npc_diet/</id>
+        <link href="https://newspeppermint.com/2022/05/02/npc_diet/"/>
+        <updated>2022-05-02T23:17:06.654Z</updated>
+        <content type="html"><![CDATA[2022년 5월 3일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 2021 뉴욕타임스 부고 기사 모음]]></title>
         <id>https://newspeppermint.com/2022/05/01/npc_nytobituaries2021/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/04/17/npc_humanerrors/"/>
         <updated>2022-04-17T23:16:14.925Z</updated>
         <content type="html"><![CDATA[2022년 4월 18일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] ‘청부과학’의 진화: 의구심 뿌리기]]></title>
-        <id>https://newspeppermint.com/2022/04/14/npc_triumphofdoubt/</id>
-        <link href="https://newspeppermint.com/2022/04/14/npc_triumphofdoubt/"/>
-        <updated>2022-04-14T23:15:57.002Z</updated>
-        <content type="html"><![CDATA[2022년 4월 15일]]></content>
     </entry>
 </feed>
