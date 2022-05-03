@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 22:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 23:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 눈에 띄는 인구 변화들]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220504051553325jC</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220504051553325jC</guid>
+            <pubDate>Tue, 03 May 2022 23:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDRfMTA2/MDAxNjUxNjA4ODg5MjI5.9z4KBrpklrPc2NxnMdcY2xE9_0WoqOp8Qr9JN8BozVcg.83hF4dLXslWyJBcLnS96hDoedaKU1AyC-R6KyCz7mwcg.JPEG/NFL-Draft-generic-3.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[일론 머스크의 트위터 인수 곱씹어 보기]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220502071457857VM</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 20 Mar 2022 23:14:50 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjFfMTkw/MDAxNjQ3Nzk0ODY2OTIx.tVhlkysreVxGpCBmoXh_IY9bZFtDlagKLXObk-WulEog.-THKlPOvem4osZT2sbzKhqIqgGFiHH0iCNVQCnzi4DAg.PNG/Screen_Shot_2022-03-20_at_8.44.39_PM.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가상화폐의 중립성이란]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220318040339884IA</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220318040339884IA</guid>
-            <pubDate>Thu, 17 Mar 2022 23:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMThfMjM4/MDAxNjQ3NTQzNjU1NTc2.6Cg-nnmv8qYl3oxDfKRHtd50XfvEk8_QyPrlKZYr7k0g.euSZ_FOW4LauMrl837hKOfknz8nwb9AM0hfyV7XBp6Eg.JPEG/FN5XY7dXwAA6TOV.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

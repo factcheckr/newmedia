@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-05-03T22:17:01.225Z</updated>
+    <updated>2022-05-03T23:15:40.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 2022년 전 세계 주요 선거 일정 (1)]]></title>
+        <id>https://newspeppermint.com/2022/05/03/npc_worldelection2022/</id>
+        <link href="https://newspeppermint.com/2022/05/03/npc_worldelection2022/"/>
+        <updated>2022-05-03T23:15:33.575Z</updated>
+        <content type="html"><![CDATA[2022년 5월 4일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 체중 관리에 관해 우리가 모르는 사실]]></title>
         <id>https://newspeppermint.com/2022/05/02/npc_diet/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/04/18/npc_starbucksunion/"/>
         <updated>2022-04-18T23:13:22.568Z</updated>
         <content type="html"><![CDATA[2022년 4월 19일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 교통사고에서 ‘실수’의 책임은 누구한테 물어야 할까?]]></title>
-        <id>https://newspeppermint.com/2022/04/17/npc_humanerrors/</id>
-        <link href="https://newspeppermint.com/2022/04/17/npc_humanerrors/"/>
-        <updated>2022-04-17T23:16:14.925Z</updated>
-        <content type="html"><![CDATA[2022년 4월 18일]]></content>
     </entry>
 </feed>

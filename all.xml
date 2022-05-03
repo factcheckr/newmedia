@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 22:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 23:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/womencando-hyoju</guid>
             <pubDate>Thu, 17 Mar 2022 06:18:47 GMT</pubDate>
             <content:encoded><![CDATA[[남초 현장을 뚫는 여자들] “저 건물, 진짜 내가 지었다”라고 할 수 있는 사람]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 2022년 전 세계 주요 선거 일정 (1) (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/03/npc_worldelection2022/</link>
+            <guid>https://newspeppermint.com/2022/05/03/npc_worldelection2022/</guid>
+            <pubDate>Tue, 03 May 2022 23:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 4일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 체중 관리에 관해 우리가 모르는 사실 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 4월 19일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 교통사고에서 ‘실수’의 책임은 누구한테 물어야 할까? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/04/17/npc_humanerrors/</link>
-            <guid>https://newspeppermint.com/2022/04/17/npc_humanerrors/</guid>
-            <pubDate>Sun, 17 Apr 2022 23:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 18일]]></content:encoded>
+            <title><![CDATA[2022년 눈에 띄는 인구 변화들 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220504051553325jC</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220504051553325jC</guid>
+            <pubDate>Tue, 03 May 2022 23:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDRfMTA2/MDAxNjUxNjA4ODg5MjI5.9z4KBrpklrPc2NxnMdcY2xE9_0WoqOp8Qr9JN8BozVcg.83hF4dLXslWyJBcLnS96hDoedaKU1AyC-R6KyCz7mwcg.JPEG/NFL-Draft-generic-3.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[일론 머스크의 트위터 인수 곱씹어 보기 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Sun, 20 Mar 2022 23:14:50 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjFfMTkw/MDAxNjQ3Nzk0ODY2OTIx.tVhlkysreVxGpCBmoXh_IY9bZFtDlagKLXObk-WulEog.-THKlPOvem4osZT2sbzKhqIqgGFiHH0iCNVQCnzi4DAg.PNG/Screen_Shot_2022-03-20_at_8.44.39_PM.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가상화폐의 중립성이란 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220318040339884IA</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220318040339884IA</guid>
-            <pubDate>Thu, 17 Mar 2022 23:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMThfMjM4/MDAxNjQ3NTQzNjU1NTc2.6Cg-nnmv8qYl3oxDfKRHtd50XfvEk8_QyPrlKZYr7k0g.euSZ_FOW4LauMrl837hKOfknz8nwb9AM0hfyV7XBp6Eg.JPEG/FN5XY7dXwAA6TOV.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
