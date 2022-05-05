@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 22:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 23:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/womencando-hyoju</guid>
             <pubDate>Thu, 17 Mar 2022 06:18:47 GMT</pubDate>
             <content:encoded><![CDATA[[남초 현장을 뚫는 여자들] “저 건물, 진짜 내가 지었다”라고 할 수 있는 사람]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 뇌 기능을 개선한다는 누트로픽스(nootropics) (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/05/npc_nootropics/</link>
+            <guid>https://newspeppermint.com/2022/05/05/npc_nootropics/</guid>
+            <pubDate>Thu, 05 May 2022 23:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 6일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 2022년 전 세계 주요 선거 일정 (2) (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 4월 21일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 기술의 미래를 예측하기 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/04/19/npc_predictingtech/</link>
-            <guid>https://newspeppermint.com/2022/04/19/npc_predictingtech/</guid>
-            <pubDate>Tue, 19 Apr 2022 23:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 20일]]></content:encoded>
+            <title><![CDATA[항우울제의 장기적 효과에 대한 의문 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220506064202707MI</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220506064202707MI</guid>
+            <pubDate>Thu, 05 May 2022 23:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDZfMTA0/MDAxNjUxNzg2ODY3NTkw.mja2N5zgtzUNfAjl8DPdD84PcP_PDVwW02yDWV-fxcIg.VJ_8z7NEZKp3iS37uIjWxdTARxmjUiHei0AzGJMaacUg.JPEG/francisco-gonzalez-M8UEJd58GcE-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 눈에 띄는 인구 변화들 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Tue, 22 Mar 2022 23:16:09 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjJfMjI5/MDAxNjQ3OTI0ODI1MTc5.jYlgB4UaJdFc4PqKK9ugsLUJVeKgnAjiz73WCJ8WRxQg.6krHUAToMN9Tj1KbUsYWCUtaOF2guKTuAWx6cTTrywYg.JPEG/oana-cristina-mZel4xJrMUM-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸틴의 철 지난 프로파간다 "재난 배우" (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220321015012244OD</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220321015012244OD</guid>
-            <pubDate>Sun, 20 Mar 2022 23:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjFfMTkw/MDAxNjQ3Nzk0ODY2OTIx.tVhlkysreVxGpCBmoXh_IY9bZFtDlagKLXObk-WulEog.-THKlPOvem4osZT2sbzKhqIqgGFiHH0iCNVQCnzi4DAg.PNG/Screen_Shot_2022-03-20_at_8.44.39_PM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
