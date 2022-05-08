@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 22:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 23:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/womencando-hyoju</guid>
             <pubDate>Thu, 17 Mar 2022 06:18:47 GMT</pubDate>
             <content:encoded><![CDATA[[남초 현장을 뚫는 여자들] “저 건물, 진짜 내가 지었다”라고 할 수 있는 사람]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 2022 중간선거 앞둔 공화당 의원들의 걱정: 선거자금 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/08/npc_goppac/</link>
+            <guid>https://newspeppermint.com/2022/05/08/npc_goppac/</guid>
+            <pubDate>Sun, 08 May 2022 23:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 9일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 뇌 기능을 개선한다는 누트로픽스(nootropics) (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 4월 22일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 텍사스 낙태금지법 모방한 캘리포니아 총기규제법 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/04/20/npc_californiaguncontrol/</link>
-            <guid>https://newspeppermint.com/2022/04/20/npc_californiaguncontrol/</guid>
-            <pubDate>Wed, 20 Apr 2022 23:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 21일]]></content:encoded>
+            <title><![CDATA[로 대 웨이드(Roe v. Wade) 파기 임박, 중간선거 뒤흔들까? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220509004041671ws</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220509004041671ws</guid>
+            <pubDate>Sun, 08 May 2022 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDlfMTMx/MDAxNjUyMDI0MzY0MzMy.NEqKaE9gYPZw7PdVhh0Mt3GnwgvreVrxHtKqY2OjvFwg.OGH6vupWhuuB9UCqZyTmkOom2R6m3HOdqjzUUtOhqEkg.JPEG/2021_Roberts_Court_Formal_131209_Web2.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[항우울제의 장기적 효과에 대한 의문 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Thu, 24 Mar 2022 23:16:02 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjVfMzYg/MDAxNjQ4MTUzOTk3OTA1.gt_u2OkKvrgDaTGABO82YKt6wsNwvghQTzpbP8M8uvIg.yz_bnFQ2zQjhZw-JU3rWlbHgjNV9XOYD1c-Pc-cNQHkg.JPEG/mahdis-mousavi-KttjHtFb5Ok-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 백신과 월경 불순, 부작용과 가짜뉴스 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220322135631363fB</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220322135631363fB</guid>
-            <pubDate>Tue, 22 Mar 2022 23:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjJfMjI5/MDAxNjQ3OTI0ODI1MTc5.jYlgB4UaJdFc4PqKK9ugsLUJVeKgnAjiz73WCJ8WRxQg.6krHUAToMN9Tj1KbUsYWCUtaOF2guKTuAWx6cTTrywYg.JPEG/oana-cristina-mZel4xJrMUM-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
