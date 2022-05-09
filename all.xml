@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 22:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 23:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/womencando-hyoju</guid>
             <pubDate>Thu, 17 Mar 2022 06:18:47 GMT</pubDate>
             <content:encoded><![CDATA[[남초 현장을 뚫는 여자들] “저 건물, 진짜 내가 지었다”라고 할 수 있는 사람]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 드라이브 마이 카 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/09/npc_drivemycar/</link>
+            <guid>https://newspeppermint.com/2022/05/09/npc_drivemycar/</guid>
+            <pubDate>Mon, 09 May 2022 23:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 10일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 2022 중간선거 앞둔 공화당 의원들의 걱정: 선거자금 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 4월 25일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 뇌과학이 알려주는 집중의 요령 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/04/21/npc_focus/</link>
-            <guid>https://newspeppermint.com/2022/04/21/npc_focus/</guid>
-            <pubDate>Thu, 21 Apr 2022 23:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 22일]]></content:encoded>
+            <title><![CDATA[로 대 웨이드(Roe v. Wade) 파기 임박, “중간선거에 영향 없을 것” (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220510024335518zX</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220510024335518zX</guid>
+            <pubDate>Mon, 09 May 2022 23:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTBfMjE4/MDAxNjUyMTE3NjUyMzAy.kFQSKDDmBoQWVz6Bb_8g0uiM6hpJZjda8Qncpu9wslAg.Ao3yW0ZMzRi4H534tJICXl0Tp4PrjXQFOUq559bvQXsg.PNG/likely-2020-700.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[로 대 웨이드(Roe v. Wade) 파기 임박, 중간선거 뒤흔들까? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Sun, 27 Mar 2022 23:16:30 GMT</pubDate>
             <content:encoded><![CDATA[경제 공부방]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjdfMjc3/MDAxNjQ4MzQyODQ0NjMw.ZeVyCLtFNYEUrDUV7cp0_NXppITG8R4dPjXMdfQNXecg.8pmbnyw_AJp2wWcI_cvYbaMr9ScmaIL8tYAdN5lb6e8g.JPEG/FMtcDMwWUAAg96F.0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인간만이 기하학을 이해할 수 있을까요? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220325053626227JR</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220325053626227JR</guid>
-            <pubDate>Thu, 24 Mar 2022 23:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjVfMzYg/MDAxNjQ4MTUzOTk3OTA1.gt_u2OkKvrgDaTGABO82YKt6wsNwvghQTzpbP8M8uvIg.yz_bnFQ2zQjhZw-JU3rWlbHgjNV9XOYD1c-Pc-cNQHkg.JPEG/mahdis-mousavi-KttjHtFb5Ok-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
