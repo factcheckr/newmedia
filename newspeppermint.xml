@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-05-10T22:16:32.786Z</updated>
+    <updated>2022-05-10T23:17:41.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 진화생물학자 E.O. 윌슨 타계]]></title>
+        <id>https://newspeppermint.com/2022/05/10/npc_eowilson/</id>
+        <link href="https://newspeppermint.com/2022/05/10/npc_eowilson/"/>
+        <updated>2022-05-10T23:17:33.275Z</updated>
+        <content type="html"><![CDATA[2022년 5월 11일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 드라이브 마이 카]]></title>
         <id>https://newspeppermint.com/2022/05/09/npc_drivemycar/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/04/25/npc_transgenderathletes/"/>
         <updated>2022-04-25T23:16:39.048Z</updated>
         <content type="html"><![CDATA[2022년 4월 26일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 매년 맞을 필요 없는 독감 백신은 언제 나올까?]]></title>
-        <id>https://newspeppermint.com/2022/04/24/npc_fluvaccine/</id>
-        <link href="https://newspeppermint.com/2022/04/24/npc_fluvaccine/"/>
-        <updated>2022-04-24T23:15:50.584Z</updated>
-        <content type="html"><![CDATA[2022년 4월 25일]]></content>
     </entry>
 </feed>
