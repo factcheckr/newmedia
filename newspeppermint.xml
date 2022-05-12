@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-05-12T22:19:28.478Z</updated>
+    <updated>2022-05-12T23:17:59.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 직업에 대한 태도]]></title>
+        <id>https://newspeppermint.com/2022/05/12/npc_loveyourjob/</id>
+        <link href="https://newspeppermint.com/2022/05/12/npc_loveyourjob/"/>
+        <updated>2022-05-12T23:17:51.472Z</updated>
+        <content type="html"><![CDATA[2022년 5월 13일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 고기로 태어나서]]></title>
         <id>https://newspeppermint.com/2022/05/11/npc_wastingmeat/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/04/27/npc_wp21/"/>
         <updated>2022-04-27T23:18:07.379Z</updated>
         <content type="html"><![CDATA[2022년 4월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 좋은 의도에서 비롯된 정책이 좋지 않은 결과를 낳을 때]]></title>
-        <id>https://newspeppermint.com/2022/04/26/npc_policyopioidcrisis/</id>
-        <link href="https://newspeppermint.com/2022/04/26/npc_policyopioidcrisis/"/>
-        <updated>2022-04-26T23:16:53.683Z</updated>
-        <content type="html"><![CDATA[2022년 4월 27일]]></content>
     </entry>
 </feed>
