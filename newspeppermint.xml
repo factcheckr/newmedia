@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-05-12T23:17:59.983Z</updated>
+    <updated>2022-05-24T02:02:35.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 제리맨더링과 미국 민주주의]]></title>
+        <id>https://newspeppermint.com/2022/05/23/npc_gerrymandering/</id>
+        <link href="https://newspeppermint.com/2022/05/23/npc_gerrymandering/"/>
+        <updated>2022-05-24T02:02:26.595Z</updated>
+        <content type="html"><![CDATA[2022년 5월 24일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 미국의 우주과학과 종교의 관계]]></title>
+        <id>https://newspeppermint.com/2022/05/22/npc_spiritualityspacescience/</id>
+        <link href="https://newspeppermint.com/2022/05/22/npc_spiritualityspacescience/"/>
+        <updated>2022-05-24T02:02:26.601Z</updated>
+        <content type="html"><![CDATA[2022년 5월 23일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 우여곡절 끝에 막 올리는 베이징 동계올림픽]]></title>
+        <id>https://newspeppermint.com/2022/05/19/npc_beijing2022/</id>
+        <link href="https://newspeppermint.com/2022/05/19/npc_beijing2022/"/>
+        <updated>2022-05-24T02:02:26.601Z</updated>
+        <content type="html"><![CDATA[2022년 5월 20일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 트럼프를 막을 자, 공화당 안에서 나올까?]]></title>
+        <id>https://newspeppermint.com/2022/05/18/npc_trumpism/</id>
+        <link href="https://newspeppermint.com/2022/05/18/npc_trumpism/"/>
+        <updated>2022-05-24T02:02:26.603Z</updated>
+        <content type="html"><![CDATA[2022년 5월 19일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 사무실 인테리어의 변화: 레지머셜(Resimercial)]]></title>
+        <id>https://newspeppermint.com/2022/05/17/npc_resimercial/</id>
+        <link href="https://newspeppermint.com/2022/05/17/npc_resimercial/"/>
+        <updated>2022-05-24T02:02:26.604Z</updated>
+        <content type="html"><![CDATA[2022년 5월 18일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 1973년 1월 22일]]></title>
+        <id>https://newspeppermint.com/2022/05/16/npc_jan22uspolarization/</id>
+        <link href="https://newspeppermint.com/2022/05/16/npc_jan22uspolarization/"/>
+        <updated>2022-05-24T02:02:26.605Z</updated>
+        <content type="html"><![CDATA[2022년 5월 17일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 키스의 이유에 대한 새로운 근거]]></title>
+        <id>https://newspeppermint.com/2022/05/15/npc_kiss/</id>
+        <link href="https://newspeppermint.com/2022/05/15/npc_kiss/"/>
+        <updated>2022-05-24T02:02:26.605Z</updated>
+        <content type="html"><![CDATA[2022년 5월 16일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 직업에 대한 태도]]></title>
         <id>https://newspeppermint.com/2022/05/12/npc_loveyourjob/</id>
@@ -39,54 +88,5 @@
         <link href="https://newspeppermint.com/2022/05/08/npc_goppac/"/>
         <updated>2022-05-08T23:16:18.649Z</updated>
         <content type="html"><![CDATA[2022년 5월 9일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 뇌 기능을 개선한다는 누트로픽스(nootropics)]]></title>
-        <id>https://newspeppermint.com/2022/05/05/npc_nootropics/</id>
-        <link href="https://newspeppermint.com/2022/05/05/npc_nootropics/"/>
-        <updated>2022-05-05T23:16:46.999Z</updated>
-        <content type="html"><![CDATA[2022년 5월 6일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 2022년 전 세계 주요 선거 일정 (2)]]></title>
-        <id>https://newspeppermint.com/2022/05/04/npc_elections2022/</id>
-        <link href="https://newspeppermint.com/2022/05/04/npc_elections2022/"/>
-        <updated>2022-05-04T23:17:02.436Z</updated>
-        <content type="html"><![CDATA[2022년 5월 5일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 2022년 전 세계 주요 선거 일정 (1)]]></title>
-        <id>https://newspeppermint.com/2022/05/03/npc_worldelection2022/</id>
-        <link href="https://newspeppermint.com/2022/05/03/npc_worldelection2022/"/>
-        <updated>2022-05-03T23:15:33.575Z</updated>
-        <content type="html"><![CDATA[2022년 5월 4일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 체중 관리에 관해 우리가 모르는 사실]]></title>
-        <id>https://newspeppermint.com/2022/05/02/npc_diet/</id>
-        <link href="https://newspeppermint.com/2022/05/02/npc_diet/"/>
-        <updated>2022-05-02T23:17:06.654Z</updated>
-        <content type="html"><![CDATA[2022년 5월 3일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 2021 뉴욕타임스 부고 기사 모음]]></title>
-        <id>https://newspeppermint.com/2022/05/01/npc_nytobituaries2021/</id>
-        <link href="https://newspeppermint.com/2022/05/01/npc_nytobituaries2021/"/>
-        <updated>2022-05-01T23:15:59.958Z</updated>
-        <content type="html"><![CDATA[2022년 5월 2일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 전기차는 타이어도 달라야 한다]]></title>
-        <id>https://newspeppermint.com/2022/04/28/npc_evtire/</id>
-        <link href="https://newspeppermint.com/2022/04/28/npc_evtire/"/>
-        <updated>2022-04-28T23:16:31.232Z</updated>
-        <content type="html"><![CDATA[2022년 4월 29일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 워싱턴포스트가 꼽은 2021년에 일어난 좋은 일 21가지]]></title>
-        <id>https://newspeppermint.com/2022/04/27/npc_wp21/</id>
-        <link href="https://newspeppermint.com/2022/04/27/npc_wp21/"/>
-        <updated>2022-04-27T23:18:07.379Z</updated>
-        <content type="html"><![CDATA[2022년 4월 28일]]></content>
     </entry>
 </feed>
