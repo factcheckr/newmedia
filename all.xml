@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 22:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 23:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/broadcasting-jockey</guid>
             <pubDate>Thu, 07 Apr 2022 09:15:53 GMT</pubDate>
             <content:encoded><![CDATA["나는 BJ지, 남성의 성적 만족감 채워주는 사람이 아닌데"]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 여가는 어떻게 일이 되었나 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/25/npc_leisurework/</link>
+            <guid>https://newspeppermint.com/2022/05/25/npc_leisurework/</guid>
+            <pubDate>Wed, 25 May 2022 23:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 26일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 아카데미상과 성별격차 (뉴스페퍼민트)]]></title>
@@ -153,13 +160,6 @@
             <guid>https://newspeppermint.com/2022/05/10/npc_eowilson/</guid>
             <pubDate>Tue, 10 May 2022 23:17:33 GMT</pubDate>
             <content:encoded><![CDATA[2022년 5월 11일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 드라이브 마이 카 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/05/09/npc_drivemycar/</link>
-            <guid>https://newspeppermint.com/2022/05/09/npc_drivemycar/</guid>
-            <pubDate>Mon, 09 May 2022 23:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 10일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신냉전과 ‘인피니티 스톤’ 반도체 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
