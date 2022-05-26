@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-05-26T22:17:30.336Z</updated>
+    <updated>2022-05-26T23:15:47.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 풍전등화 우크라이나]]></title>
+        <id>https://newspeppermint.com/2022/05/26/npc_ukrainerussia/</id>
+        <link href="https://newspeppermint.com/2022/05/26/npc_ukrainerussia/"/>
+        <updated>2022-05-26T23:15:38.858Z</updated>
+        <content type="html"><![CDATA[2022년 5월 27일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 여가는 어떻게 일이 되었나]]></title>
         <id>https://newspeppermint.com/2022/05/25/npc_leisurework/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/05/11/npc_wastingmeat/"/>
         <updated>2022-05-11T23:17:40.452Z</updated>
         <content type="html"><![CDATA[2022년 5월 12일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 진화생물학자 E.O. 윌슨 타계]]></title>
-        <id>https://newspeppermint.com/2022/05/10/npc_eowilson/</id>
-        <link href="https://newspeppermint.com/2022/05/10/npc_eowilson/"/>
-        <updated>2022-05-10T23:17:33.275Z</updated>
-        <content type="html"><![CDATA[2022년 5월 11일]]></content>
     </entry>
 </feed>
