@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 22:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 23:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/broadcasting-jockey</guid>
             <pubDate>Thu, 07 Apr 2022 09:15:53 GMT</pubDate>
             <content:encoded><![CDATA["나는 BJ지, 남성의 성적 만족감 채워주는 사람이 아닌데"]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 미국 최초 흑인 여성 대법관 물망 오른 인물은? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/29/npc_scotus/</link>
+            <guid>https://newspeppermint.com/2022/05/29/npc_scotus/</guid>
+            <pubDate>Sun, 29 May 2022 23:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 30일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[필진 칼럼] 풍전등화 우크라이나 (뉴스페퍼민트)]]></title>
@@ -155,11 +162,12 @@
             <content:encoded><![CDATA[2022년 5월 13일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 고기로 태어나서 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/05/11/npc_wastingmeat/</link>
-            <guid>https://newspeppermint.com/2022/05/11/npc_wastingmeat/</guid>
-            <pubDate>Wed, 11 May 2022 23:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 12일]]></content:encoded>
+            <title><![CDATA[샌디훅 이후 10년, 무엇이 달라졌나? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220529103656143lf</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220529103656143lf</guid>
+            <pubDate>Sun, 29 May 2022 23:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjlfMjQ3/MDAxNjUzNzg3OTAzOTQ0.yQy1IVUIA6QroiSmPs2PS_iJvwYw-x36uwZxs639608g.j6awG3KR0qoO1Uxpk3f6uNqd59jB3P_0WSiJaj0h85wg.JPEG/ezgif.com-gif-maker_(9).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인간의 사춘기가 빨라지고 있다 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -312,14 +320,6 @@
             <pubDate>Thu, 14 Apr 2022 23:16:03 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTVfMTQ1/MDAxNjQ5OTcxNzQ3OTcw.8hw_L0eoyVmI6Qv3W1CRDdL8d2o3JnVGdKBfqHXrKscg.tHWtIWE8DRodH-80CB3-zWjxLVe9gwL9NSSD-IVtAL0g.JPEG/IMG_8223.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2년 반 남은 미국 대선, 이무기들은 잠룡이 될 수 있을까? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220412150520548Tv</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220412150520548Tv</guid>
-            <pubDate>Tue, 12 Apr 2022 23:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTJfMjA5/MDAxNjQ5NzQzNDUxOTk5.M_NUOocK9-LGo675dL52v1gepz7kV2MsYYHgpPeArrcg.MagPyfdjHkLx1CxEmtsXgJlTm-i2eqRYnjYm3f3zrxog.JPEG/Ron_DeSantis_2020_(cropped).jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
