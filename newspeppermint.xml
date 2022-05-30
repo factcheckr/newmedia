@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-05-30T22:18:09.409Z</updated>
+    <updated>2022-05-30T23:17:19.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 클라우드 컴퓨팅과 메타버스 시대의 ‘잊힐 권리’]]></title>
+        <id>https://newspeppermint.com/2022/05/30/npc_accountinactivation/</id>
+        <link href="https://newspeppermint.com/2022/05/30/npc_accountinactivation/"/>
+        <updated>2022-05-30T23:17:10.417Z</updated>
+        <content type="html"><![CDATA[2022년 5월 31일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 미국 최초 흑인 여성 대법관 물망 오른 인물은?]]></title>
         <id>https://newspeppermint.com/2022/05/29/npc_scotus/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/05/15/npc_kiss/"/>
         <updated>2022-05-24T02:02:26.605Z</updated>
         <content type="html"><![CDATA[2022년 5월 16일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 직업에 대한 태도]]></title>
-        <id>https://newspeppermint.com/2022/05/12/npc_loveyourjob/</id>
-        <link href="https://newspeppermint.com/2022/05/12/npc_loveyourjob/"/>
-        <updated>2022-05-12T23:17:51.472Z</updated>
-        <content type="html"><![CDATA[2022년 5월 13일]]></content>
     </entry>
 </feed>

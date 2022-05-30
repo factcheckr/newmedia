@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 22:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 23:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 클라우드 컴퓨팅과 메타버스 시대의 ‘잊힐 권리’ (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/30/npc_accountinactivation/</link>
+            <guid>https://newspeppermint.com/2022/05/30/npc_accountinactivation/</guid>
+            <pubDate>Mon, 30 May 2022 23:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 31일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 미국 최초 흑인 여성 대법관 물망 오른 인물은? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/05/29/npc_scotus/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/05/15/npc_kiss/</guid>
             <pubDate>Tue, 24 May 2022 02:02:26 GMT</pubDate>
             <content:encoded><![CDATA[2022년 5월 16일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 직업에 대한 태도 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/05/12/npc_loveyourjob/</link>
-            <guid>https://newspeppermint.com/2022/05/12/npc_loveyourjob/</guid>
-            <pubDate>Thu, 12 May 2022 23:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 13일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[샌디훅 이후 10년, 무엇이 달라졌나? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
