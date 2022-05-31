@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-05-31T22:17:12.421Z</updated>
+    <updated>2022-05-31T23:17:40.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 캐나다까지 번진 코로나 백신 반대 시위]]></title>
+        <id>https://newspeppermint.com/2022/05/31/npc_canadaantivax/</id>
+        <link href="https://newspeppermint.com/2022/05/31/npc_canadaantivax/"/>
+        <updated>2022-05-31T23:17:33.153Z</updated>
+        <content type="html"><![CDATA[2022년 6월 1일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 클라우드 컴퓨팅과 메타버스 시대의 ‘잊힐 권리’]]></title>
         <id>https://newspeppermint.com/2022/05/30/npc_accountinactivation/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/05/16/npc_jan22uspolarization/"/>
         <updated>2022-05-24T02:02:26.605Z</updated>
         <content type="html"><![CDATA[2022년 5월 17일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 키스의 이유에 대한 새로운 근거]]></title>
-        <id>https://newspeppermint.com/2022/05/15/npc_kiss/</id>
-        <link href="https://newspeppermint.com/2022/05/15/npc_kiss/"/>
-        <updated>2022-05-24T02:02:26.605Z</updated>
-        <content type="html"><![CDATA[2022년 5월 16일]]></content>
     </entry>
 </feed>

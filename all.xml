@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 22:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 23:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 캐나다까지 번진 코로나 백신 반대 시위 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/31/npc_canadaantivax/</link>
+            <guid>https://newspeppermint.com/2022/05/31/npc_canadaantivax/</guid>
+            <pubDate>Tue, 31 May 2022 23:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 1일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 클라우드 컴퓨팅과 메타버스 시대의 ‘잊힐 권리’ (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/05/30/npc_accountinactivation/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/05/16/npc_jan22uspolarization/</guid>
             <pubDate>Tue, 24 May 2022 02:02:26 GMT</pubDate>
             <content:encoded><![CDATA[2022년 5월 17일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 키스의 이유에 대한 새로운 근거 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/05/15/npc_kiss/</link>
-            <guid>https://newspeppermint.com/2022/05/15/npc_kiss/</guid>
-            <pubDate>Tue, 24 May 2022 02:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 16일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[샌디훅 이후 10년, 무엇이 달라졌나? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
