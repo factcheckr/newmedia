@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-06-01T22:18:29.004Z</updated>
+    <updated>2022-06-01T23:17:23.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 스포티파이가 2억 달러 주고 산 “양날의 검” 조 로건]]></title>
+        <id>https://newspeppermint.com/2022/06/01/npc_roganspotify/</id>
+        <link href="https://newspeppermint.com/2022/06/01/npc_roganspotify/"/>
+        <updated>2022-06-01T23:17:15.086Z</updated>
+        <content type="html"><![CDATA[2022년 6월 2일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 캐나다까지 번진 코로나 백신 반대 시위]]></title>
         <id>https://newspeppermint.com/2022/05/31/npc_canadaantivax/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/05/17/npc_resimercial/"/>
         <updated>2022-05-24T02:02:26.604Z</updated>
         <content type="html"><![CDATA[2022년 5월 18일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 1973년 1월 22일]]></title>
-        <id>https://newspeppermint.com/2022/05/16/npc_jan22uspolarization/</id>
-        <link href="https://newspeppermint.com/2022/05/16/npc_jan22uspolarization/"/>
-        <updated>2022-05-24T02:02:26.605Z</updated>
-        <content type="html"><![CDATA[2022년 5월 17일]]></content>
     </entry>
 </feed>
