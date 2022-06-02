@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 22:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 23:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 생물학자 E.O. 윌슨에 대한 엇갈린 평가들 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/06/02/npc_eowilson-2/</link>
+            <guid>https://newspeppermint.com/2022/06/02/npc_eowilson-2/</guid>
+            <pubDate>Thu, 02 Jun 2022 23:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 3일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 스포티파이가 2억 달러 주고 산 “양날의 검” 조 로건 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/06/01/npc_roganspotify/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 5월 19일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 사무실 인테리어의 변화: 레지머셜(Resimercial) (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/05/17/npc_resimercial/</link>
-            <guid>https://newspeppermint.com/2022/05/17/npc_resimercial/</guid>
-            <pubDate>Tue, 24 May 2022 02:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 18일]]></content:encoded>
+            <title><![CDATA[코인은 정말 거품일까? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220603050443008pn</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220603050443008pn</guid>
+            <pubDate>Thu, 02 Jun 2022 23:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDNfOTcg/MDAxNjU0MjAwMTkzNzk2.KWqefoSGD1kSVAgHKG_63mTeFzox2AgUIuyR87ZIr4Yg.iEHMurcUuFKVuORl3UYwysy563CRsQJI2Sa_To5VVmAg.JPEG/kanchanara-6GmK6g33DKw-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[끊이지 않는 총기 난사와 미국 사회의 ‘제자리걸음’ (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -242,14 +250,6 @@
             <pubDate>Tue, 19 Apr 2022 23:14:12 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTlfMTQ4/MDAxNjUwMzc0ODYyMDEz.pTZDBPO7GtmZ3eBqNhVHBa0g99l1JkJROobouOfXLVAg.XIvImMPQTNGd25_eFV415jwAMPRahtzHtLNJfFXCZOAg.PNG/Screen_Shot_2022-04-19_at_9.25.05_AM.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[푸틴이 찾는 폭스뉴스, 젤렌스키 찾아간 애틀란틱 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220418063125631XT</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220418063125631XT</guid>
-            <pubDate>Sun, 17 Apr 2022 23:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MThfOTcg/MDAxNjUwMjMwOTczMzI1.KqqQOvCb-pQwWggUBsst7gc2tXFNEPBV5Ftvot2a-XIg.qjVcR1eXFVNeT6jpVIeJoex_Rq2XCiioHZb4uqjhkXQg.JPEG/ezgif.com-gif-maker_(3).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
