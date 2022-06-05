@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-06-05T22:14:17.422Z</updated>
+    <updated>2022-06-05T23:14:49.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스위프트(SWIFT), 러시아 금융기관들 퇴출한다]]></title>
+        <id>https://newspeppermint.com/2022/06/05/npc_russiaswift/</id>
+        <link href="https://newspeppermint.com/2022/06/05/npc_russiaswift/"/>
+        <updated>2022-06-05T23:14:41.388Z</updated>
+        <content type="html"><![CDATA[2022년 6월 6일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 생물학자 E.O. 윌슨에 대한 엇갈린 평가들]]></title>
         <id>https://newspeppermint.com/2022/06/02/npc_eowilson-2/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/05/19/npc_beijing2022/"/>
         <updated>2022-05-24T02:02:26.601Z</updated>
         <content type="html"><![CDATA[2022년 5월 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 트럼프를 막을 자, 공화당 안에서 나올까?]]></title>
-        <id>https://newspeppermint.com/2022/05/18/npc_trumpism/</id>
-        <link href="https://newspeppermint.com/2022/05/18/npc_trumpism/"/>
-        <updated>2022-05-24T02:02:26.603Z</updated>
-        <content type="html"><![CDATA[2022년 5월 19일]]></content>
     </entry>
 </feed>

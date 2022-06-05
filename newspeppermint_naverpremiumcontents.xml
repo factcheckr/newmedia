@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 22:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 23:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셰릴 샌드버그 사임과 다시 돌아보는 “린 인(Lean In)”]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220605165015014kh</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220605165015014kh</guid>
+            <pubDate>Sun, 05 Jun 2022 23:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDVfMzcg/MDAxNjU0NDE1MzM5MDk0.AewURV9G1oo_ql4l26bYlLw6XbMxHdrLvAnhCtsFyYAg.fuZeADNTWFDQQuwsmEbySju2nDTx34qlhozN6_Br3WIg.JPEG/ezgif.com-gif-maker_(10).jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코인은 정말 거품일까?]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220603050443008pn</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 21 Apr 2022 23:16:17 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjJfMjYw/MDAxNjUwNTczMzM1NTgy.SwvRFps88ulTR4r8LK_1_4fgNgderc6TZVoU0QzjmQ4g.oJfa2-cbteCcpAN1dOsopkLEnUhlE9PUgE0ued3pebAg.JPEG/wolfgang-hasselmann-FpmSLjo408E-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시대상을 반영하는 영상물 등급제도]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220419223025553iz</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220419223025553iz</guid>
-            <pubDate>Tue, 19 Apr 2022 23:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTlfMTQ4/MDAxNjUwMzc0ODYyMDEz.pTZDBPO7GtmZ3eBqNhVHBa0g99l1JkJROobouOfXLVAg.XIvImMPQTNGd25_eFV415jwAMPRahtzHtLNJfFXCZOAg.PNG/Screen_Shot_2022-04-19_at_9.25.05_AM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
