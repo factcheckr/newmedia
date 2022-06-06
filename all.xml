@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 22:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 23:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 러시아 내 반전 여론과 푸틴의 입지 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/06/06/npc_putingeneration/</link>
+            <guid>https://newspeppermint.com/2022/06/06/npc_putingeneration/</guid>
+            <pubDate>Mon, 06 Jun 2022 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 7일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 스위프트(SWIFT), 러시아 금융기관들 퇴출한다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/06/05/npc_russiaswift/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/05/22/npc_spiritualityspacescience/</guid>
             <pubDate>Tue, 24 May 2022 02:02:26 GMT</pubDate>
             <content:encoded><![CDATA[2022년 5월 23일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 우여곡절 끝에 막 올리는 베이징 동계올림픽 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/05/19/npc_beijing2022/</link>
-            <guid>https://newspeppermint.com/2022/05/19/npc_beijing2022/</guid>
-            <pubDate>Tue, 24 May 2022 02:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 20일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[셰릴 샌드버그 사임과 다시 돌아보는 “린 인(Lean In)” (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
