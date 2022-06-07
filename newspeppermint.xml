@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-06-06T23:16:10.943Z</updated>
+    <updated>2022-06-07T01:15:13.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 러시아 내 반전 여론과 푸틴의 입지]]></title>
+        <title type="html"><![CDATA[[필진 칼럼] 러시아 내 반전 여론과 푸틴의 입지]]></title>
         <id>https://newspeppermint.com/2022/06/06/npc_putingeneration/</id>
         <link href="https://newspeppermint.com/2022/06/06/npc_putingeneration/"/>
         <updated>2022-06-06T23:16:01.687Z</updated>
