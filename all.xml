@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 22:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 23:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] “전쟁을 전쟁이라고 부르지 달리 뭐라고 부르나?” (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/06/07/npc_novayagazeta/</link>
+            <guid>https://newspeppermint.com/2022/06/07/npc_novayagazeta/</guid>
+            <pubDate>Tue, 07 Jun 2022 23:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 8일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 러시아 내 반전 여론과 푸틴의 입지 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/06/06/npc_putingeneration/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 5월 24일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 미국의 우주과학과 종교의 관계 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/05/22/npc_spiritualityspacescience/</link>
-            <guid>https://newspeppermint.com/2022/05/22/npc_spiritualityspacescience/</guid>
-            <pubDate>Tue, 24 May 2022 02:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 23일]]></content:encoded>
+            <title><![CDATA[빌 게이츠가 말하는 다음번 팬데믹 막기 위한 ‘민관 협력’ (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220607215702171ez</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220607215702171ez</guid>
+            <pubDate>Tue, 07 Jun 2022 23:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDdfMjg2/MDAxNjU0NjA2NDkxNjcy.7Oe5CVIcKbhUH95HKJUlol3FTL5quamcaFpQfbDxrxMg.NrAJcfP60i54czEbr833Uu7uf39IjNiOH5vF3Oms_Qkg.JPEG/ezgif.com-gif-maker_(11).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[셰릴 샌드버그 사임과 다시 돌아보는 “린 인(Lean In)” (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -242,14 +250,6 @@
             <pubDate>Sun, 24 Apr 2022 08:19:34 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjRfMjEg/MDAxNjUwNzg3MDE4MzA1.ZZmOEnDm4qK07UIGYoWfVTPEMdAn48yrWGlInQvVTLcg.5-uFyQV7LMWnUCJbltPiC3OWrl3QVSKRYnvd60Mm3IQg.JPEG/Screen_Shot_2022-04-24_at_3.31.32_AM.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무척추동물도 감정을 느낄까요? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220422054015773BE</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220422054015773BE</guid>
-            <pubDate>Thu, 21 Apr 2022 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjJfMjYw/MDAxNjUwNTczMzM1NTgy.SwvRFps88ulTR4r8LK_1_4fgNgderc6TZVoU0QzjmQ4g.oJfa2-cbteCcpAN1dOsopkLEnUhlE9PUgE0ued3pebAg.JPEG/wolfgang-hasselmann-FpmSLjo408E-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-06-07T22:15:30.187Z</updated>
+    <updated>2022-06-07T23:15:45.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] “전쟁을 전쟁이라고 부르지 달리 뭐라고 부르나?”]]></title>
+        <id>https://newspeppermint.com/2022/06/07/npc_novayagazeta/</id>
+        <link href="https://newspeppermint.com/2022/06/07/npc_novayagazeta/"/>
+        <updated>2022-06-07T23:15:35.073Z</updated>
+        <content type="html"><![CDATA[2022년 6월 8일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 러시아 내 반전 여론과 푸틴의 입지]]></title>
         <id>https://newspeppermint.com/2022/06/06/npc_putingeneration/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/05/23/npc_gerrymandering/"/>
         <updated>2022-05-24T02:02:26.595Z</updated>
         <content type="html"><![CDATA[2022년 5월 24일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 미국의 우주과학과 종교의 관계]]></title>
-        <id>https://newspeppermint.com/2022/05/22/npc_spiritualityspacescience/</id>
-        <link href="https://newspeppermint.com/2022/05/22/npc_spiritualityspacescience/"/>
-        <updated>2022-05-24T02:02:26.601Z</updated>
-        <content type="html"><![CDATA[2022년 5월 23일]]></content>
     </entry>
 </feed>
