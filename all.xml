@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 22:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 23:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 불편함이 당신을 성장시킨다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/06/08/npc_uncomfortable/</link>
+            <guid>https://newspeppermint.com/2022/06/08/npc_uncomfortable/</guid>
+            <pubDate>Wed, 08 Jun 2022 23:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 9일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] “전쟁을 전쟁이라고 부르지 달리 뭐라고 부르나?” (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/06/07/npc_novayagazeta/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/05/24/npc_oscargender/</guid>
             <pubDate>Tue, 24 May 2022 23:17:39 GMT</pubDate>
             <content:encoded><![CDATA[2022년 5월 25일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 제리맨더링과 미국 민주주의 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/05/23/npc_gerrymandering/</link>
-            <guid>https://newspeppermint.com/2022/05/23/npc_gerrymandering/</guid>
-            <pubDate>Tue, 24 May 2022 02:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 24일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빌 게이츠가 말하는 다음번 팬데믹 막기 위한 ‘민관 협력’ (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
