@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 22:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 23:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기린의 목이 길어진 진짜 이유]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220610045528495ok</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220610045528495ok</guid>
+            <pubDate>Thu, 09 Jun 2022 23:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTBfMjIx/MDAxNjU0ODA0NDU0MTk0.aLn-31HYGYbjZskAIG7hf_zf6Y37JHkNhSH_8IWMl-Eg.ymG2Ca6Lne-bhkD68rDsHph33i3tcL8Y_2YQa2D2pcIg.JPEG/mariola-grobelska-eQdDUdi5qLk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빌 게이츠가 말하는 다음번 팬데믹 막기 위한 ‘민관 협력’]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220607215702171ez</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Apr 2022 23:17:01 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjdfMjE0/MDAxNjUwOTk1MTI3MjU1.TpO29wrGunkb6q9_cKDVD0uCpccM8pMOQJEMSBvMrzkg.bqYra99x4k5soQXzTg-BWprEOUcKwImOUK35qL4zenEg.JPEG/atul-vinayak-SqRd6V8tu0M-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 마크롱 대통령 재선]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220424165845923aa</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220424165845923aa</guid>
-            <pubDate>Sun, 24 Apr 2022 08:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjRfMjEg/MDAxNjUwNzg3MDE4MzA1.ZZmOEnDm4qK07UIGYoWfVTPEMdAn48yrWGlInQvVTLcg.5-uFyQV7LMWnUCJbltPiC3OWrl3QVSKRYnvd60Mm3IQg.JPEG/Screen_Shot_2022-04-24_at_3.31.32_AM.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
