@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 22:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 23:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 러시아가 일으킨 전쟁은 ‘세계 질서’를 바꿀까? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/06/12/npc_russiaworldorder/</link>
+            <guid>https://newspeppermint.com/2022/06/12/npc_russiaworldorder/</guid>
+            <pubDate>Sun, 12 Jun 2022 23:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 13일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 전쟁이 우리에게 미치는 영향 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/06/09/npc_waronus/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 5월 27일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 여가는 어떻게 일이 되었나 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/05/25/npc_leisurework/</link>
-            <guid>https://newspeppermint.com/2022/05/25/npc_leisurework/</guid>
-            <pubDate>Wed, 25 May 2022 23:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 26일]]></content:encoded>
+            <title><![CDATA[총기난사와 정신건강 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220612224143980qv</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220612224143980qv</guid>
+            <pubDate>Sun, 12 Jun 2022 23:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTJfMjUw/MDAxNjU1MDQxMjQwNjg4.N_QYov9eatru4T4GyBF8VO3XEh7QxS0x1A6iLQrIctwg.F5G9qJivW3YcqJCH7Z68AceBVJueTpp9w-qDE0ykDm8g.JPEG/tim-mudd-_ANxZIWTHdA-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기린의 목이 길어진 진짜 이유 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -242,14 +250,6 @@
             <pubDate>Thu, 28 Apr 2022 23:16:38 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjlfNDEg/MDAxNjUxMTc3NjcyMDIx.X2iTn9yp6I3yK8QC_manjMkWfkOK_mcJgEAx9VYjF2Ag.IyQAP3Ge4Un8wA87NVRaDkz13NrVd3omzpMh2kGy_pcg.JPEG/Archbishop-Tutu-medium.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[위기의 넷플릭스와 스트리밍 서비스의 미래 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220427024620864gY</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220427024620864gY</guid>
-            <pubDate>Tue, 26 Apr 2022 23:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjdfMjE0/MDAxNjUwOTk1MTI3MjU1.TpO29wrGunkb6q9_cKDVD0uCpccM8pMOQJEMSBvMrzkg.bqYra99x4k5soQXzTg-BWprEOUcKwImOUK35qL4zenEg.JPEG/atul-vinayak-SqRd6V8tu0M-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

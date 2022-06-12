@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-06-12T22:15:07.936Z</updated>
+    <updated>2022-06-12T23:16:02.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 러시아가 일으킨 전쟁은 ‘세계 질서’를 바꿀까?]]></title>
+        <id>https://newspeppermint.com/2022/06/12/npc_russiaworldorder/</id>
+        <link href="https://newspeppermint.com/2022/06/12/npc_russiaworldorder/"/>
+        <updated>2022-06-12T23:15:52.675Z</updated>
+        <content type="html"><![CDATA[2022년 6월 13일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 전쟁이 우리에게 미치는 영향]]></title>
         <id>https://newspeppermint.com/2022/06/09/npc_waronus/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/05/26/npc_ukrainerussia/"/>
         <updated>2022-05-26T23:15:38.858Z</updated>
         <content type="html"><![CDATA[2022년 5월 27일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 여가는 어떻게 일이 되었나]]></title>
-        <id>https://newspeppermint.com/2022/05/25/npc_leisurework/</id>
-        <link href="https://newspeppermint.com/2022/05/25/npc_leisurework/"/>
-        <updated>2022-05-25T23:16:38.107Z</updated>
-        <content type="html"><![CDATA[2022년 5월 26일]]></content>
     </entry>
 </feed>
