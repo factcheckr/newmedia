@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 22:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 23:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 바이고렉시아: 자신의 몸에 만족하지 못하는 남자들 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/06/13/npc_bigorexia/</link>
+            <guid>https://newspeppermint.com/2022/06/13/npc_bigorexia/</guid>
+            <pubDate>Mon, 13 Jun 2022 23:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 14일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 러시아가 일으킨 전쟁은 ‘세계 질서’를 바꿀까? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/06/12/npc_russiaworldorder/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/05/29/npc_scotus/</guid>
             <pubDate>Sun, 29 May 2022 23:16:39 GMT</pubDate>
             <content:encoded><![CDATA[2022년 5월 30일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 풍전등화 우크라이나 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/05/26/npc_ukrainerussia/</link>
-            <guid>https://newspeppermint.com/2022/05/26/npc_ukrainerussia/</guid>
-            <pubDate>Thu, 26 May 2022 23:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 27일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[총기난사와 정신건강 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
