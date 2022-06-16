@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 22:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 23:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 가상화폐의 중립성이란 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/06/16/npc_cryptoneutrality/</link>
+            <guid>https://newspeppermint.com/2022/06/16/npc_cryptoneutrality/</guid>
+            <pubDate>Thu, 16 Jun 2022 23:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 17일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 홀푸즈의 아마존화(化) (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/06/15/npc_wfamazonification/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 6월 2일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 캐나다까지 번진 코로나 백신 반대 시위 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/05/31/npc_canadaantivax/</link>
-            <guid>https://newspeppermint.com/2022/05/31/npc_canadaantivax/</guid>
-            <pubDate>Wed, 15 Jun 2022 05:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 1일]]></content:encoded>
+            <title><![CDATA[어른이 된다는 것은 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220617064349824zf</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220617064349824zf</guid>
+            <pubDate>Thu, 16 Jun 2022 23:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTdfMTc0/MDAxNjU1NDE1Nzc1NjYz.0w1G6sWO4ni4DT01tHojH6BaaDCrMfDJPe2PZ1AJe5wg.Jsjwd3XHBAo7mI-SMfUpucavYNlY1wAgjCw3rCNnCRgg.JPEG/danie-franco-CeZypKDceQc-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사우디 국부 펀드 주최 대안 골프 대회 LIV, 그리고 스포츠워싱 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -242,14 +250,6 @@
             <pubDate>Tue, 03 May 2022 23:15:40 GMT</pubDate>
             <content:encoded><![CDATA[경제 공부방]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDRfMTA2/MDAxNjUxNjA4ODg5MjI5.9z4KBrpklrPc2NxnMdcY2xE9_0WoqOp8Qr9JN8BozVcg.83hF4dLXslWyJBcLnS96hDoedaKU1AyC-R6KyCz7mwcg.JPEG/NFL-Draft-generic-3.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크의 트위터 인수 곱씹어 보기 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220502071457857VM</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220502071457857VM</guid>
-            <pubDate>Sun, 01 May 2022 23:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDJfNTkg/MDAxNjUxNDQzMjEyMTM5.g0e4MYoCb0xjs6IrjoLy1TC3FxEPdBrg3u7wuZQftE4g.Cg9JoSOzopHQBE5r7QSGk6S0s9Z_dtxnJO72BfD29bcg.JPEG/brett-jordan-YdHjEwOVomc-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
