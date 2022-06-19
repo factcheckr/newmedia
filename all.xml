@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 22:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 23:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 푸틴의 철 지난 프로파간다 “재난 배우” (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/06/19/npc_crisisactor/</link>
+            <guid>https://newspeppermint.com/2022/06/19/npc_crisisactor/</guid>
+            <pubDate>Sun, 19 Jun 2022 23:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 20일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 가상화폐의 중립성이란 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/06/16/npc_cryptoneutrality/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 6월 3일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 스포티파이가 2억 달러 주고 산 “양날의 검” 조 로건 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/06/01/npc_roganspotify/</link>
-            <guid>https://newspeppermint.com/2022/06/01/npc_roganspotify/</guid>
-            <pubDate>Wed, 15 Jun 2022 05:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 2일]]></content:encoded>
+            <title><![CDATA[같은 인플레이션, 같지 않은 효과 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220619230826448qg</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220619230826448qg</guid>
+            <pubDate>Sun, 19 Jun 2022 23:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTlfODQg/MDAxNjU1NjQ3NTQ4NTMy.s5q_cQNV0rSsocE_mANr6lLsnsdxdeT5PtP6dOAV7Ssg.jiYuJIHmEbt1ns70lIg_6RVNdDz0YYShi9xagRQtg8Ig.JPEG/blogging-guide-xYaMK5p3vCA-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어른이 된다는 것은 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -242,14 +250,6 @@
             <pubDate>Thu, 05 May 2022 23:16:55 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDZfMTA0/MDAxNjUxNzg2ODY3NTkw.mja2N5zgtzUNfAjl8DPdD84PcP_PDVwW02yDWV-fxcIg.VJ_8z7NEZKp3iS37uIjWxdTARxmjUiHei0AzGJMaacUg.JPEG/francisco-gonzalez-M8UEJd58GcE-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 눈에 띄는 인구 변화들 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220504051553325jC</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220504051553325jC</guid>
-            <pubDate>Tue, 03 May 2022 23:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDRfMTA2/MDAxNjUxNjA4ODg5MjI5.9z4KBrpklrPc2NxnMdcY2xE9_0WoqOp8Qr9JN8BozVcg.83hF4dLXslWyJBcLnS96hDoedaKU1AyC-R6KyCz7mwcg.JPEG/NFL-Draft-generic-3.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
