@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 22:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 23:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 코로나19 백신과 월경 불순, 부작용과 가짜뉴스 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/06/20/npc_vaccinemenstruation/</link>
+            <guid>https://newspeppermint.com/2022/06/20/npc_vaccinemenstruation/</guid>
+            <pubDate>Mon, 20 Jun 2022 23:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 21일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 푸틴의 철 지난 프로파간다 “재난 배우” (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/06/19/npc_crisisactor/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/06/05/npc_russiaswift/</guid>
             <pubDate>Wed, 15 Jun 2022 05:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2022년 6월 6일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 생물학자 E.O. 윌슨에 대한 엇갈린 평가들 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/06/02/npc_eowilson-2/</link>
-            <guid>https://newspeppermint.com/2022/06/02/npc_eowilson-2/</guid>
-            <pubDate>Wed, 15 Jun 2022 05:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 3일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[같은 인플레이션, 같지 않은 효과 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
