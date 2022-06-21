@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-06-21T22:14:58.370Z</updated>
+    <updated>2022-06-21T23:17:17.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 인간만이 기하학을 이해할 수 있을까요?]]></title>
+        <id>https://newspeppermint.com/2022/06/21/npc_geometryanimal/</id>
+        <link href="https://newspeppermint.com/2022/06/21/npc_geometryanimal/"/>
+        <updated>2022-06-21T23:17:07.727Z</updated>
+        <content type="html"><![CDATA[2022년 6월 22일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 코로나19 백신과 월경 불순, 부작용과 가짜뉴스]]></title>
         <id>https://newspeppermint.com/2022/06/20/npc_vaccinemenstruation/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/06/06/npc_putingeneration/"/>
         <updated>2022-06-15T05:19:24.120Z</updated>
         <content type="html"><![CDATA[2022년 6월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 스위프트(SWIFT), 러시아 금융기관들 퇴출한다]]></title>
-        <id>https://newspeppermint.com/2022/06/05/npc_russiaswift/</id>
-        <link href="https://newspeppermint.com/2022/06/05/npc_russiaswift/"/>
-        <updated>2022-06-15T05:19:24.121Z</updated>
-        <content type="html"><![CDATA[2022년 6월 6일]]></content>
     </entry>
 </feed>

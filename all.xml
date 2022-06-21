@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 22:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 23:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 인간만이 기하학을 이해할 수 있을까요? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/06/21/npc_geometryanimal/</link>
+            <guid>https://newspeppermint.com/2022/06/21/npc_geometryanimal/</guid>
+            <pubDate>Tue, 21 Jun 2022 23:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 22일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 코로나19 백신과 월경 불순, 부작용과 가짜뉴스 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/06/20/npc_vaccinemenstruation/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 6월 7일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 스위프트(SWIFT), 러시아 금융기관들 퇴출한다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/06/05/npc_russiaswift/</link>
-            <guid>https://newspeppermint.com/2022/06/05/npc_russiaswift/</guid>
-            <pubDate>Wed, 15 Jun 2022 05:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 6일]]></content:encoded>
+            <title><![CDATA[미국과 프랑스 직장인의 사뭇 다른 점심시간 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220621090011122lt</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220621090011122lt</guid>
+            <pubDate>Tue, 21 Jun 2022 23:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjFfMjU1/MDAxNjU1NzY5NTQyMDAz.pLmniwRbhtE6Q6FMBGCbshUVwuqP6-Inpr70h9VgaKAg.nNVcZHert8zNsaVoKnVRH5tgDiAGPOG-LbnGM6sIagog.JPEG/spencer-davis-vJsj-hgOEG0-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[같은 인플레이션, 같지 않은 효과 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -242,14 +250,6 @@
             <pubDate>Sun, 08 May 2022 23:16:26 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDlfMTMx/MDAxNjUyMDI0MzY0MzMy.NEqKaE9gYPZw7PdVhh0Mt3GnwgvreVrxHtKqY2OjvFwg.OGH6vupWhuuB9UCqZyTmkOom2R6m3HOdqjzUUtOhqEkg.JPEG/2021_Roberts_Court_Formal_131209_Web2.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[항우울제의 장기적 효과에 대한 의문 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220506064202707MI</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220506064202707MI</guid>
-            <pubDate>Thu, 05 May 2022 23:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDZfMTA0/MDAxNjUxNzg2ODY3NTkw.mja2N5zgtzUNfAjl8DPdD84PcP_PDVwW02yDWV-fxcIg.VJ_8z7NEZKp3iS37uIjWxdTARxmjUiHei0AzGJMaacUg.JPEG/francisco-gonzalez-M8UEJd58GcE-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
