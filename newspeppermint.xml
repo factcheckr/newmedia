@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-06-22T22:15:33.802Z</updated>
+    <updated>2022-06-22T23:15:41.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 침략국 러시아 제재에 동참한 빅테크 기업들]]></title>
+        <id>https://newspeppermint.com/2022/06/22/npc_russiawarbigtech/</id>
+        <link href="https://newspeppermint.com/2022/06/22/npc_russiawarbigtech/"/>
+        <updated>2022-06-22T23:15:32.035Z</updated>
+        <content type="html"><![CDATA[2022년 6월 23일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 인간만이 기하학을 이해할 수 있을까요?]]></title>
         <id>https://newspeppermint.com/2022/06/21/npc_geometryanimal/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/06/07/npc_novayagazeta/"/>
         <updated>2022-06-15T05:19:24.117Z</updated>
         <content type="html"><![CDATA[2022년 6월 8일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 러시아 내 반전 여론과 푸틴의 입지]]></title>
-        <id>https://newspeppermint.com/2022/06/06/npc_putingeneration/</id>
-        <link href="https://newspeppermint.com/2022/06/06/npc_putingeneration/"/>
-        <updated>2022-06-15T05:19:24.120Z</updated>
-        <content type="html"><![CDATA[2022년 6월 7일]]></content>
     </entry>
 </feed>
