@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 22:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 23:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간의 영원한 꿈, 영생]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220624075020133hy</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220624075020133hy</guid>
+            <pubDate>Thu, 23 Jun 2022 23:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjRfMTc3/MDAxNjU2MDI0NTM1Njc1.V6UUJ-Clg6P7L3bdeBxKDDD4UlJHCeYVi9dGeYC1zAEg.P52r6stM3I_4KOOCZ1pqjo4xh9sedp1qsmiQv6jePbog.JPEG/bill-jelen-NVWyN8GamCk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국과 프랑스 직장인의 사뭇 다른 점심시간]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220621090011122lt</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 09 May 2022 23:16:37 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTBfMjE4/MDAxNjUyMTE3NjUyMzAy.kFQSKDDmBoQWVz6Bb_8g0uiM6hpJZjda8Qncpu9wslAg.Ao3yW0ZMzRi4H534tJICXl0Tp4PrjXQFOUq559bvQXsg.PNG/likely-2020-700.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로 대 웨이드(Roe v. Wade) 파기 임박, 중간선거 뒤흔들까?]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220509004041671ws</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220509004041671ws</guid>
-            <pubDate>Sun, 08 May 2022 23:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDlfMTMx/MDAxNjUyMDI0MzY0MzMy.NEqKaE9gYPZw7PdVhh0Mt3GnwgvreVrxHtKqY2OjvFwg.OGH6vupWhuuB9UCqZyTmkOom2R6m3HOdqjzUUtOhqEkg.JPEG/2021_Roberts_Court_Formal_131209_Web2.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

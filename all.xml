@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 22:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 23:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 미국 극우파와 푸틴, 다시 쓰는 이념 지형 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/06/23/npc_usfarrightputin/</link>
+            <guid>https://newspeppermint.com/2022/06/23/npc_usfarrightputin/</guid>
+            <pubDate>Thu, 23 Jun 2022 23:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 24일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 침략국 러시아 제재에 동참한 빅테크 기업들 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/06/22/npc_russiawarbigtech/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 6월 9일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] “전쟁을 전쟁이라고 부르지 달리 뭐라고 부르나?” (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/06/07/npc_novayagazeta/</link>
-            <guid>https://newspeppermint.com/2022/06/07/npc_novayagazeta/</guid>
-            <pubDate>Wed, 15 Jun 2022 05:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 8일]]></content:encoded>
+            <title><![CDATA[인간의 영원한 꿈, 영생 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220624075020133hy</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220624075020133hy</guid>
+            <pubDate>Thu, 23 Jun 2022 23:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjRfMTc3/MDAxNjU2MDI0NTM1Njc1.V6UUJ-Clg6P7L3bdeBxKDDD4UlJHCeYVi9dGeYC1zAEg.P52r6stM3I_4KOOCZ1pqjo4xh9sedp1qsmiQv6jePbog.JPEG/bill-jelen-NVWyN8GamCk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국과 프랑스 직장인의 사뭇 다른 점심시간 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -242,14 +250,6 @@
             <pubDate>Mon, 09 May 2022 23:16:37 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTBfMjE4/MDAxNjUyMTE3NjUyMzAy.kFQSKDDmBoQWVz6Bb_8g0uiM6hpJZjda8Qncpu9wslAg.Ao3yW0ZMzRi4H534tJICXl0Tp4PrjXQFOUq559bvQXsg.PNG/likely-2020-700.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로 대 웨이드(Roe v. Wade) 파기 임박, 중간선거 뒤흔들까? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220509004041671ws</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220509004041671ws</guid>
-            <pubDate>Sun, 08 May 2022 23:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDlfMTMx/MDAxNjUyMDI0MzY0MzMy.NEqKaE9gYPZw7PdVhh0Mt3GnwgvreVrxHtKqY2OjvFwg.OGH6vupWhuuB9UCqZyTmkOom2R6m3HOdqjzUUtOhqEkg.JPEG/2021_Roberts_Court_Formal_131209_Web2.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

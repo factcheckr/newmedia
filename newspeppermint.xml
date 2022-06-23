@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-06-23T22:15:27.781Z</updated>
+    <updated>2022-06-23T23:16:06.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 미국 극우파와 푸틴, 다시 쓰는 이념 지형]]></title>
+        <id>https://newspeppermint.com/2022/06/23/npc_usfarrightputin/</id>
+        <link href="https://newspeppermint.com/2022/06/23/npc_usfarrightputin/"/>
+        <updated>2022-06-23T23:15:57.015Z</updated>
+        <content type="html"><![CDATA[2022년 6월 24일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 침략국 러시아 제재에 동참한 빅테크 기업들]]></title>
         <id>https://newspeppermint.com/2022/06/22/npc_russiawarbigtech/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/06/08/npc_uncomfortable/"/>
         <updated>2022-06-15T05:19:24.116Z</updated>
         <content type="html"><![CDATA[2022년 6월 9일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] “전쟁을 전쟁이라고 부르지 달리 뭐라고 부르나?”]]></title>
-        <id>https://newspeppermint.com/2022/06/07/npc_novayagazeta/</id>
-        <link href="https://newspeppermint.com/2022/06/07/npc_novayagazeta/"/>
-        <updated>2022-06-15T05:19:24.117Z</updated>
-        <content type="html"><![CDATA[2022년 6월 8일]]></content>
     </entry>
 </feed>
