@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 22:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 23:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 정치권의 새로운 유권자 집단: 아시아-태평양계 미국인]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220626202337679bc</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220626202337679bc</guid>
+            <pubDate>Sun, 26 Jun 2022 23:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjZfMTYg/MDAxNjU2MjQyNTY4MzA5.oBe8j8rggsGFgncevN2TjO4f_f430rlSryO47PRs3LQg.6xR7FwYTDXXUPCU-Vv2cSG_NpSEb6RWV6kWn2hTo4pUg.JPEG/20220625_USP003.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[인간의 영원한 꿈, 영생]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220624075020133hy</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 12 May 2022 23:17:59 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTNfMTc5/MDAxNjUyMzk2NTIwOTgx.9IaWxuNAKEBV3MWx3mzkDAAFBH9Dj3qWDT8r6dI_NjUg.S7ownx_AZp3wPVrTZdyygzsDjkJSGVeaQqQLqzPs5Nkg.JPEG/ezgif.com-gif-maker_(6).jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로 대 웨이드(Roe v. Wade) 파기 임박, “중간선거에 영향 없을 것”]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220510024335518zX</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220510024335518zX</guid>
-            <pubDate>Mon, 09 May 2022 23:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTBfMjE4/MDAxNjUyMTE3NjUyMzAy.kFQSKDDmBoQWVz6Bb_8g0uiM6hpJZjda8Qncpu9wslAg.Ao3yW0ZMzRi4H534tJICXl0Tp4PrjXQFOUq559bvQXsg.PNG/likely-2020-700.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

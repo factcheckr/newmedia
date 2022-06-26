@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-06-26T22:14:26.236Z</updated>
+    <updated>2022-06-26T23:15:06.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 대학 입시에 시험이 필요할까? MIT와 캘리포니아 주립대학의 정반대 행보]]></title>
+        <id>https://newspeppermint.com/2022/06/26/npc_collegeadmissiontest/</id>
+        <link href="https://newspeppermint.com/2022/06/26/npc_collegeadmissiontest/"/>
+        <updated>2022-06-26T23:14:56.070Z</updated>
+        <content type="html"><![CDATA[2022년 6월 27일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 미국 극우파와 푸틴, 다시 쓰는 이념 지형]]></title>
         <id>https://newspeppermint.com/2022/06/23/npc_usfarrightputin/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/06/09/npc_waronus/"/>
         <updated>2022-06-15T05:19:24.116Z</updated>
         <content type="html"><![CDATA[2022년 6월 10일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 불편함이 당신을 성장시킨다]]></title>
-        <id>https://newspeppermint.com/2022/06/08/npc_uncomfortable/</id>
-        <link href="https://newspeppermint.com/2022/06/08/npc_uncomfortable/"/>
-        <updated>2022-06-15T05:19:24.116Z</updated>
-        <content type="html"><![CDATA[2022년 6월 9일]]></content>
     </entry>
 </feed>
