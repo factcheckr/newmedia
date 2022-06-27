@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-06-27T22:15:35.377Z</updated>
+    <updated>2022-06-27T23:16:38.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 대법관 배우자가 극우 음모론자라면 어떡하나]]></title>
+        <id>https://newspeppermint.com/2022/06/27/npc_ginnithomas/</id>
+        <link href="https://newspeppermint.com/2022/06/27/npc_ginnithomas/"/>
+        <updated>2022-06-27T23:16:29.006Z</updated>
+        <content type="html"><![CDATA[2022년 6월 28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 대학 입시에 시험이 필요할까? MIT와 캘리포니아 주립대학의 정반대 행보]]></title>
         <id>https://newspeppermint.com/2022/06/26/npc_collegeadmissiontest/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/06/12/npc_russiaworldorder/"/>
         <updated>2022-06-15T05:19:24.116Z</updated>
         <content type="html"><![CDATA[2022년 6월 13일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 전쟁이 우리에게 미치는 영향]]></title>
-        <id>https://newspeppermint.com/2022/06/09/npc_waronus/</id>
-        <link href="https://newspeppermint.com/2022/06/09/npc_waronus/"/>
-        <updated>2022-06-15T05:19:24.116Z</updated>
-        <content type="html"><![CDATA[2022년 6월 10일]]></content>
     </entry>
 </feed>

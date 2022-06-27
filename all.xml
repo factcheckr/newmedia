@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 22:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 23:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 대법관 배우자가 극우 음모론자라면 어떡하나 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/06/27/npc_ginnithomas/</link>
+            <guid>https://newspeppermint.com/2022/06/27/npc_ginnithomas/</guid>
+            <pubDate>Mon, 27 Jun 2022 23:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 28일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 대학 입시에 시험이 필요할까? MIT와 캘리포니아 주립대학의 정반대 행보 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/06/26/npc_collegeadmissiontest/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/06/12/npc_russiaworldorder/</guid>
             <pubDate>Wed, 15 Jun 2022 05:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2022년 6월 13일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 전쟁이 우리에게 미치는 영향 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/06/09/npc_waronus/</link>
-            <guid>https://newspeppermint.com/2022/06/09/npc_waronus/</guid>
-            <pubDate>Wed, 15 Jun 2022 05:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 10일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미국 정치권의 새로운 유권자 집단: 아시아-태평양계 미국인 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
