@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 22:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 23:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 코로나 시대 넛지의 한계 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/06/28/npc_nudgecovid/</link>
+            <guid>https://newspeppermint.com/2022/06/28/npc_nudgecovid/</guid>
+            <pubDate>Tue, 28 Jun 2022 23:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 29일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 대법관 배우자가 극우 음모론자라면 어떡하나 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/06/27/npc_ginnithomas/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 6월 14일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 러시아가 일으킨 전쟁은 ‘세계 질서’를 바꿀까? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/06/12/npc_russiaworldorder/</link>
-            <guid>https://newspeppermint.com/2022/06/12/npc_russiaworldorder/</guid>
-            <pubDate>Wed, 15 Jun 2022 05:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 13일]]></content:encoded>
+            <title><![CDATA[수정헌법 2조와 클래런스 토머스 대법관의 비뚤어진 원전주의 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220629000712092og</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220629000712092og</guid>
+            <pubDate>Tue, 28 Jun 2022 23:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjlfMjgz/MDAxNjU2NDI4NzcxODQy.3pcVGMWe7GvLkGM466f1WBokmDrYIh_zhUzHR9R9LR8g.42THAhqZjnFXISbVCNt3S8_3FB0hREm1AvpK-PEIBDkg.JPEG/ezgif.com-gif-maker_(13).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국 정치권의 새로운 유권자 집단: 아시아-태평양계 미국인 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -242,14 +250,6 @@
             <pubDate>Tue, 24 May 2022 02:02:34 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTZfMjY3/MDAxNjUyNjQ0MTQ2OTUy.ZQEEHN8iYO53312c-AVLNhFOSlK_bY2ZvcQ6dFzlIqgg.avnH6LXPzi4nRY8VDNAn6FxBsVZfrrmEZ1tZ-SWFscgg.PNG/Screen_Shot_2022-05-15_at_9.34.57_PM.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로 대 웨이드와 과학적 사실들 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220513080325932Ec</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220513080325932Ec</guid>
-            <pubDate>Thu, 12 May 2022 23:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTNfMTc5/MDAxNjUyMzk2NTIwOTgx.9IaWxuNAKEBV3MWx3mzkDAAFBH9Dj3qWDT8r6dI_NjUg.S7ownx_AZp3wPVrTZdyygzsDjkJSGVeaQqQLqzPs5Nkg.JPEG/ezgif.com-gif-maker_(6).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

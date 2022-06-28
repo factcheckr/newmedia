@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-06-28T22:17:57.891Z</updated>
+    <updated>2022-06-28T23:15:41.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 코로나 시대 넛지의 한계]]></title>
+        <id>https://newspeppermint.com/2022/06/28/npc_nudgecovid/</id>
+        <link href="https://newspeppermint.com/2022/06/28/npc_nudgecovid/"/>
+        <updated>2022-06-28T23:15:31.626Z</updated>
+        <content type="html"><![CDATA[2022년 6월 29일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 대법관 배우자가 극우 음모론자라면 어떡하나]]></title>
         <id>https://newspeppermint.com/2022/06/27/npc_ginnithomas/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/06/13/npc_bigorexia/"/>
         <updated>2022-06-15T05:19:24.115Z</updated>
         <content type="html"><![CDATA[2022년 6월 14일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 러시아가 일으킨 전쟁은 ‘세계 질서’를 바꿀까?]]></title>
-        <id>https://newspeppermint.com/2022/06/12/npc_russiaworldorder/</id>
-        <link href="https://newspeppermint.com/2022/06/12/npc_russiaworldorder/"/>
-        <updated>2022-06-15T05:19:24.116Z</updated>
-        <content type="html"><![CDATA[2022년 6월 13일]]></content>
     </entry>
 </feed>
