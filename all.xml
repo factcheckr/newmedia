@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 22:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 23:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 뉴스 채널을 바꾸면 생각이 달라진다? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/06/29/npc_paytowatchcnn/</link>
+            <guid>https://newspeppermint.com/2022/06/29/npc_paytowatchcnn/</guid>
+            <pubDate>Wed, 29 Jun 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 30일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 코로나 시대 넛지의 한계 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/06/28/npc_nudgecovid/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/06/14/npc_warcrime/</guid>
             <pubDate>Wed, 15 Jun 2022 05:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2022년 6월 15일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 바이고렉시아: 자신의 몸에 만족하지 못하는 남자들 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/06/13/npc_bigorexia/</link>
-            <guid>https://newspeppermint.com/2022/06/13/npc_bigorexia/</guid>
-            <pubDate>Wed, 15 Jun 2022 05:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 14일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[수정헌법 2조와 클래런스 토머스 대법관의 비뚤어진 원전주의 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
