@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-06-30T22:16:07.735Z</updated>
+    <updated>2022-06-30T23:16:02.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 아마존 노동조합 앞에 놓인 과제들]]></title>
+        <id>https://newspeppermint.com/2022/06/30/npc_amazonunioncontract/</id>
+        <link href="https://newspeppermint.com/2022/06/30/npc_amazonunioncontract/"/>
+        <updated>2022-06-30T23:15:53.752Z</updated>
+        <content type="html"><![CDATA[2022년 7월 1일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 뉴스 채널을 바꾸면 생각이 달라진다?]]></title>
         <id>https://newspeppermint.com/2022/06/29/npc_paytowatchcnn/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/06/15/npc_wfamazonification/"/>
         <updated>2022-06-15T23:16:37.466Z</updated>
         <content type="html"><![CDATA[2022년 6월 16일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 전쟁범죄 규정과 딜레마]]></title>
-        <id>https://newspeppermint.com/2022/06/14/npc_warcrime/</id>
-        <link href="https://newspeppermint.com/2022/06/14/npc_warcrime/"/>
-        <updated>2022-06-15T05:19:24.115Z</updated>
-        <content type="html"><![CDATA[2022년 6월 15일]]></content>
     </entry>
 </feed>

@@ -4,9 +4,16 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 22:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 23:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생선과 비타민]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220701050242972nq</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220701050242972nq</guid>
+            <pubDate>Thu, 30 Jun 2022 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[수정헌법 2조와 클래런스 토머스 대법관의 비뚤어진 원전주의]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220629000712092og</link>
@@ -158,14 +165,6 @@
             <pubDate>Tue, 24 May 2022 02:02:34 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MThfMTU3/MDAxNjUyODE1ODAxOTEy.Dv8jzATaXBB78h6KVNxEpQrZNozYhqZijRQEaLCpPvAg.efPCimuTHtjplTfeaK634Dvnp4fGspYIwRi_R9CRPKEg.JPEG/ezgif.com-gif-maker_(7).jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 밴드 '칼루쉬 오케스트라', 유로비전 2022 우승]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220516045051886gD</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220516045051886gD</guid>
-            <pubDate>Tue, 24 May 2022 02:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTZfMjY3/MDAxNjUyNjQ0MTQ2OTUy.ZQEEHN8iYO53312c-AVLNhFOSlK_bY2ZvcQ6dFzlIqgg.avnH6LXPzi4nRY8VDNAn6FxBsVZfrrmEZ1tZ-SWFscgg.PNG/Screen_Shot_2022-05-15_at_9.34.57_PM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
