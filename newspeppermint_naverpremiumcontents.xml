@@ -4,7 +4,7 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 16:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 17:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220701050242972nq</guid>
             <pubDate>Thu, 30 Jun 2022 23:16:01 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDRfMTM2/MDAxNjU2ODY4Mzg1MDQ1.L3KlCQbzhpe5lG6n8jlPtYpST_IO5C25jUmw4V3UQ54g.I8QEx2gEb3tNwCy-_jqgIaVg_-9qmdmijJuc31zQWicg.JPEG/jeremy-stewart-BvXUtQhTQzk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수정헌법 2조와 클래런스 토머스 대법관의 비뚤어진 원전주의]]></title>
