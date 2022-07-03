@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 22:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 23:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 2년 반 남은 미국 대선, 이무기들은 잠룡이 될 수 있을까? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/07/03/npc_us2024election/</link>
+            <guid>https://newspeppermint.com/2022/07/03/npc_us2024election/</guid>
+            <pubDate>Sun, 03 Jul 2022 23:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 7월 4일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 아마존 노동조합 앞에 놓인 과제들 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/06/30/npc_amazonunioncontract/</link>
@@ -85,11 +92,11 @@
             <content:encoded><![CDATA[2022년 6월 17일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 홀푸즈의 아마존화(化) (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/06/15/npc_wfamazonification/</link>
-            <guid>https://newspeppermint.com/2022/06/15/npc_wfamazonification/</guid>
-            <pubDate>Wed, 15 Jun 2022 23:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 16일]]></content:encoded>
+            <title><![CDATA[박탈된 여성의 임신중단권과 디지털 사생활 보호 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220701225222641xr</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220701225222641xr</guid>
+            <pubDate>Sun, 03 Jul 2022 23:15:32 GMT</pubDate>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDFfMjM1/MDAxNjU2NjgzNDUxOTgx.gNba6mAsdIGqNB70B8DY49sDWIHcjBEXEDhRl17RhWkg.mkgTE6Z_sH96LN5Ujl3LKTcFBuPp3j3MtQOaMAJ4mZgg.JPEG/christian-wiediger-GWkioAj5aB4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생선과 비타민 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -242,14 +249,6 @@
             <pubDate>Tue, 24 May 2022 02:02:34 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjBfMTQg/MDAxNjUyOTkxMTk0Njc5.Vtwb8hzq9q0nrdnbshyNzD6LtyowO4xSlRj5rR_Un80g.6k1vyiZNNvvN3ropfYkV6ymuxL9Zd7j4Xz6n0hjb5JAg.JPEG/christian-erfurt-sxQz2VfoFBE-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로 대 웨이드가 사라진 세상, 프로 라이프 운동의 미래는? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220518043104545CQ</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220518043104545CQ</guid>
-            <pubDate>Tue, 24 May 2022 02:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MThfMTU3/MDAxNjUyODE1ODAxOTEy.Dv8jzATaXBB78h6KVNxEpQrZNozYhqZijRQEaLCpPvAg.efPCimuTHtjplTfeaK634Dvnp4fGspYIwRi_R9CRPKEg.JPEG/ezgif.com-gif-maker_(7).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
