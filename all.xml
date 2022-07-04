@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 22:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 23:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 바닷속을 떠다니는 미세플라스틱 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/07/04/npc_microplastics/</link>
+            <guid>https://newspeppermint.com/2022/07/04/npc_microplastics/</guid>
+            <pubDate>Mon, 04 Jul 2022 23:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 7월 5일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 2년 반 남은 미국 대선, 이무기들은 잠룡이 될 수 있을까? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/07/03/npc_us2024election/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/06/19/npc_crisisactor/</guid>
             <pubDate>Sun, 19 Jun 2022 23:14:47 GMT</pubDate>
             <content:encoded><![CDATA[2022년 6월 20일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 가상화폐의 중립성이란 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/06/16/npc_cryptoneutrality/</link>
-            <guid>https://newspeppermint.com/2022/06/16/npc_cryptoneutrality/</guid>
-            <pubDate>Thu, 16 Jun 2022 23:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 17일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박탈된 여성의 임신중단권과 디지털 사생활 보호 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

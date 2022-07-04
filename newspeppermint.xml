@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-07-04T22:15:13.329Z</updated>
+    <updated>2022-07-04T23:16:05.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 바닷속을 떠다니는 미세플라스틱]]></title>
+        <id>https://newspeppermint.com/2022/07/04/npc_microplastics/</id>
+        <link href="https://newspeppermint.com/2022/07/04/npc_microplastics/"/>
+        <updated>2022-07-04T23:15:55.185Z</updated>
+        <content type="html"><![CDATA[2022년 7월 5일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 2년 반 남은 미국 대선, 이무기들은 잠룡이 될 수 있을까?]]></title>
         <id>https://newspeppermint.com/2022/07/03/npc_us2024election/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/06/19/npc_crisisactor/"/>
         <updated>2022-06-19T23:14:47.129Z</updated>
         <content type="html"><![CDATA[2022년 6월 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 가상화폐의 중립성이란]]></title>
-        <id>https://newspeppermint.com/2022/06/16/npc_cryptoneutrality/</id>
-        <link href="https://newspeppermint.com/2022/06/16/npc_cryptoneutrality/"/>
-        <updated>2022-06-16T23:16:29.526Z</updated>
-        <content type="html"><![CDATA[2022년 6월 17일]]></content>
     </entry>
 </feed>
