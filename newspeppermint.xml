@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-07-05T22:15:18.710Z</updated>
+    <updated>2022-07-05T23:16:52.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 푸틴이 찾는 폭스뉴스, 젤렌스키 찾아간 애틀란틱]]></title>
+        <id>https://newspeppermint.com/2022/07/05/npc_foxatlantic/</id>
+        <link href="https://newspeppermint.com/2022/07/05/npc_foxatlantic/"/>
+        <updated>2022-07-05T23:16:45.498Z</updated>
+        <content type="html"><![CDATA[2022년 7월 6일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 바닷속을 떠다니는 미세플라스틱]]></title>
         <id>https://newspeppermint.com/2022/07/04/npc_microplastics/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/06/20/npc_vaccinemenstruation/"/>
         <updated>2022-06-20T23:17:28.982Z</updated>
         <content type="html"><![CDATA[2022년 6월 21일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 푸틴의 철 지난 프로파간다 “재난 배우”]]></title>
-        <id>https://newspeppermint.com/2022/06/19/npc_crisisactor/</id>
-        <link href="https://newspeppermint.com/2022/06/19/npc_crisisactor/"/>
-        <updated>2022-06-19T23:14:47.129Z</updated>
-        <content type="html"><![CDATA[2022년 6월 20일]]></content>
     </entry>
 </feed>
