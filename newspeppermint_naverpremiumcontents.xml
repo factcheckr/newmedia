@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 04:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 05:26:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기후변화를 향한 미국 대법원의 '눈 가리고 아웅']]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220706141500257qu</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220706141500257qu</guid>
+            <pubDate>Wed, 06 Jul 2022 05:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfODcg/MDAxNjU3MDg0NDYxNzQ2.hLJtF3sZqruJbFFMlMNJ5KTeAjiMxUbNPItgw_U7jNcg.NkvCTFKZvc6k-UFAToKk2iFCGmAfbCmeTp5KMuTOPQYg.JPEG/marcin-jozwiak-uKvPDQop-JA-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박탈된 여성의 임신중단권과 디지털 사생활 보호]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220701225222641xr</link>
@@ -157,14 +165,6 @@
             <pubDate>Tue, 24 May 2022 02:02:34 GMT</pubDate>
             <content:encoded><![CDATA[경제 공부방]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjJfMTQz/MDAxNjUzMjI2Mzg4MzE0.sWYEBBqp4lsgRK-4DK_8LJU7kqhk8d7uMLPfH8sm0z8g.FU9Bpdcfmnay06HiFdwWqxIx5qlalg-UNe_dpw_U9bgg.JPEG/art-rachen-yJpjLD3c9bU-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄수화물과 두통의 관계]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220520051424198vq</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220520051424198vq</guid>
-            <pubDate>Tue, 24 May 2022 02:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjBfMTQg/MDAxNjUyOTkxMTk0Njc5.Vtwb8hzq9q0nrdnbshyNzD6LtyowO4xSlRj5rR_Un80g.6k1vyiZNNvvN3ropfYkV6ymuxL9Zd7j4Xz6n0hjb5JAg.JPEG/christian-erfurt-sxQz2VfoFBE-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
