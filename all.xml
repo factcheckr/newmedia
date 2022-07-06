@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 22:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 23:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 시대상을 반영하는 영상물 등급제도 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/07/06/npc_contentsrating/</link>
+            <guid>https://newspeppermint.com/2022/07/06/npc_contentsrating/</guid>
+            <pubDate>Wed, 06 Jul 2022 23:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 7월 7일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 푸틴이 찾는 폭스뉴스, 젤렌스키 찾아간 애틀란틱 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/07/05/npc_foxatlantic/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/06/21/npc_geometryanimal/</guid>
             <pubDate>Tue, 21 Jun 2022 23:17:07 GMT</pubDate>
             <content:encoded><![CDATA[2022년 6월 22일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 코로나19 백신과 월경 불순, 부작용과 가짜뉴스 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/06/20/npc_vaccinemenstruation/</link>
-            <guid>https://newspeppermint.com/2022/06/20/npc_vaccinemenstruation/</guid>
-            <pubDate>Mon, 20 Jun 2022 23:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 21일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[기후변화를 향한 미국 대법원의 '눈 가리고 아웅' (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
