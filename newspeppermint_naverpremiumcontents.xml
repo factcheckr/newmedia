@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 22:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 23:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡과 알고리듬]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220708053046507pc</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220708053046507pc</guid>
+            <pubDate>Thu, 07 Jul 2022 23:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDhfNCAg/MDAxNjU3MjI1NzcyMzMz.-Ix79lxbWiRdXldg382n8gNiLljwpFcEVSLFUKyRGDQg.a1g2ttRaUcLQxnGjB5IDtJKJ2LqjGgCsFIllUWc54n4g.JPEG/hello-i-m-nik-q1n1LmoL4Es-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기후변화를 향한 미국 대법원의 '눈 가리고 아웅']]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220706141500257qu</link>
@@ -157,14 +165,6 @@
             <pubDate>Tue, 24 May 2022 23:17:47 GMT</pubDate>
             <content:encoded><![CDATA[경제 공부방]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjRfNDYg/MDAxNjUzNDA0MjA5NTE3.Nl0dd0pmA0iumbVbODydA0SqjlF9zrXn6vHz0Mwgafgg.G0g8Zrff6Mna0BOoOH6z-OSCdG1vasPqLoRDhsZxmokg.JPEG/%EC%82%AC%EC%A7%843_%EB%B0%94%EC%9D%B4%EB%93%A0_%EC%9B%A8%EC%9D%B4%ED%8D%BC.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상화폐와 경제 불평등]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220522223424265em</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220522223424265em</guid>
-            <pubDate>Tue, 24 May 2022 02:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjJfMTQz/MDAxNjUzMjI2Mzg4MzE0.sWYEBBqp4lsgRK-4DK_8LJU7kqhk8d7uMLPfH8sm0z8g.FU9Bpdcfmnay06HiFdwWqxIx5qlalg-UNe_dpw_U9bgg.JPEG/art-rachen-yJpjLD3c9bU-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
