@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 22:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 23:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 위기의 넷플릭스와 스트리밍 서비스의 미래 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/07/11/npc_netflix/</link>
+            <guid>https://newspeppermint.com/2022/07/11/npc_netflix/</guid>
+            <pubDate>Mon, 11 Jul 2022 23:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 7월 12일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 프랑스 마크롱 대통령 재선 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/07/10/npc_frenchelection/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/06/26/npc_collegeadmissiontest/</guid>
             <pubDate>Sun, 26 Jun 2022 23:14:56 GMT</pubDate>
             <content:encoded><![CDATA[2022년 6월 27일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 미국 극우파와 푸틴, 다시 쓰는 이념 지형 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/06/23/npc_usfarrightputin/</link>
-            <guid>https://newspeppermint.com/2022/06/23/npc_usfarrightputin/</guid>
-            <pubDate>Thu, 23 Jun 2022 23:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 24일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사우디아라비아 방문 앞둔 바이든, 현실과 이상의 괴리 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
