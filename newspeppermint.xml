@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-07-12T22:17:08.917Z</updated>
+    <updated>2022-07-12T23:16:58.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 세상을 떠나는 다른 방식]]></title>
+        <id>https://newspeppermint.com/2022/07/12/npc_watercremation/</id>
+        <link href="https://newspeppermint.com/2022/07/12/npc_watercremation/"/>
+        <updated>2022-07-12T23:16:49.693Z</updated>
+        <content type="html"><![CDATA[2022년 7월 13일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 위기의 넷플릭스와 스트리밍 서비스의 미래]]></title>
         <id>https://newspeppermint.com/2022/07/11/npc_netflix/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/06/27/npc_ginnithomas/"/>
         <updated>2022-06-27T23:16:29.006Z</updated>
         <content type="html"><![CDATA[2022년 6월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 대학 입시에 시험이 필요할까? MIT와 캘리포니아 주립대학의 정반대 행보]]></title>
-        <id>https://newspeppermint.com/2022/06/26/npc_collegeadmissiontest/</id>
-        <link href="https://newspeppermint.com/2022/06/26/npc_collegeadmissiontest/"/>
-        <updated>2022-06-26T23:14:56.070Z</updated>
-        <content type="html"><![CDATA[2022년 6월 27일]]></content>
     </entry>
 </feed>
