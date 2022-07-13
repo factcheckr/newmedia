@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 22:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 23:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 일론 머스크의 트위터 인수 곱씹어 보기 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/07/13/npc_musktwitter/</link>
+            <guid>https://newspeppermint.com/2022/07/13/npc_musktwitter/</guid>
+            <pubDate>Wed, 13 Jul 2022 23:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 7월 14일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 세상을 떠나는 다른 방식 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/07/12/npc_watercremation/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/06/28/npc_nudgecovid/</guid>
             <pubDate>Tue, 28 Jun 2022 23:15:31 GMT</pubDate>
             <content:encoded><![CDATA[2022년 6월 29일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 대법관 배우자가 극우 음모론자라면 어떡하나 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/06/27/npc_ginnithomas/</link>
-            <guid>https://newspeppermint.com/2022/06/27/npc_ginnithomas/</guid>
-            <pubDate>Mon, 27 Jun 2022 23:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 28일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[상처만 남긴 보리스 존슨 총리의 3년 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

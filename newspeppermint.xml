@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-07-13T22:15:44.956Z</updated>
+    <updated>2022-07-13T23:16:42.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 일론 머스크의 트위터 인수 곱씹어 보기]]></title>
+        <id>https://newspeppermint.com/2022/07/13/npc_musktwitter/</id>
+        <link href="https://newspeppermint.com/2022/07/13/npc_musktwitter/"/>
+        <updated>2022-07-13T23:16:31.185Z</updated>
+        <content type="html"><![CDATA[2022년 7월 14일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 세상을 떠나는 다른 방식]]></title>
         <id>https://newspeppermint.com/2022/07/12/npc_watercremation/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/06/28/npc_nudgecovid/"/>
         <updated>2022-06-28T23:15:31.626Z</updated>
         <content type="html"><![CDATA[2022년 6월 29일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 대법관 배우자가 극우 음모론자라면 어떡하나]]></title>
-        <id>https://newspeppermint.com/2022/06/27/npc_ginnithomas/</id>
-        <link href="https://newspeppermint.com/2022/06/27/npc_ginnithomas/"/>
-        <updated>2022-06-27T23:16:29.006Z</updated>
-        <content type="html"><![CDATA[2022년 6월 28일]]></content>
     </entry>
 </feed>
