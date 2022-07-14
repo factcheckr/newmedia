@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 22:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 23:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제임스 웹 망원경의 사진]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220715043455108si</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220715043455108si</guid>
+            <pubDate>Thu, 14 Jul 2022 23:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MTVfMjk2/MDAxNjU3ODI3MjExMDI3.gjpSAv1T8gX69autDbH3_Dk6tXWgz3xW2LmHMm42bh4g.L3mklkdzyMsZiZ4_zEgmzuUotPc7OYxOhPhHzpeC_GAg.JPEG/ezgif.com-gif-maker_(15).jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상처만 남긴 보리스 존슨 총리의 3년]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220713022116134tw</link>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 01 Jun 2022 01:43:45 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDFfMTgx/MDAxNjU0MDQzMTA3NDk1.pQJkZKh0nJQEh71YrOLqAwA4YW8d-Vld5fsCgVp4tiUg.e54S-2M6QqYb0b8lc2S9ip3_wFspREoYyUpfvahRT0wg.PNG/Screen_Shot_2022-06-01_at_6.44.37_AM.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[샌디훅 이후 10년, 무엇이 달라졌나?]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220529103656143lf</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220529103656143lf</guid>
-            <pubDate>Sun, 29 May 2022 23:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjlfMjQ3/MDAxNjUzNzg3OTAzOTQ0.yQy1IVUIA6QroiSmPs2PS_iJvwYw-x36uwZxs639608g.j6awG3KR0qoO1Uxpk3f6uNqd59jB3P_0WSiJaj0h85wg.JPEG/ezgif.com-gif-maker_(9).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

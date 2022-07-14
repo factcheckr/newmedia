@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-07-14T22:18:34.190Z</updated>
+    <updated>2022-07-14T23:18:42.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 2022년 눈에 띄는 인구 변화들]]></title>
+        <id>https://newspeppermint.com/2022/07/14/%ec%9d%b8%ea%b5%ac/</id>
+        <link href="https://newspeppermint.com/2022/07/14/%ec%9d%b8%ea%b5%ac/"/>
+        <updated>2022-07-14T23:18:34.885Z</updated>
+        <content type="html"><![CDATA[2022년 7월 15일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 일론 머스크의 트위터 인수 곱씹어 보기]]></title>
         <id>https://newspeppermint.com/2022/07/13/npc_musktwitter/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/06/29/npc_paytowatchcnn/"/>
         <updated>2022-06-29T23:15:58.188Z</updated>
         <content type="html"><![CDATA[2022년 6월 30일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 코로나 시대 넛지의 한계]]></title>
-        <id>https://newspeppermint.com/2022/06/28/npc_nudgecovid/</id>
-        <link href="https://newspeppermint.com/2022/06/28/npc_nudgecovid/"/>
-        <updated>2022-06-28T23:15:31.626Z</updated>
-        <content type="html"><![CDATA[2022년 6월 29일]]></content>
     </entry>
 </feed>
