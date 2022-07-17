@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 22:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 23:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[질병을 앓는 이에게 공감하는 법에 관하여]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220718045824961rr</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220718045824961rr</guid>
+            <pubDate>Sun, 17 Jul 2022 23:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MThfMjg4/MDAxNjU4MDg3ODM1NDY0.ykzfSeBo0vLwxl9pN-CYNsGd0dtdYTni8rvfrMp5dzIg.aUlYsYklYRfE58JfHK6PtXNpYhlWtCQuONOics1NhJ8g.JPEG/priscilla-du-preez-aPa843frIzI-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제임스 웹 망원경의 사진]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220715043455108si</link>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 02 Jun 2022 23:16:23 GMT</pubDate>
             <content:encoded><![CDATA[경제 공부방]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDNfOTcg/MDAxNjU0MjAwMTkzNzk2.KWqefoSGD1kSVAgHKG_63mTeFzox2AgUIuyR87ZIr4Yg.iEHMurcUuFKVuORl3UYwysy563CRsQJI2Sa_To5VVmAg.JPEG/kanchanara-6GmK6g33DKw-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끊이지 않는 총기 난사와 미국 사회의 ‘제자리걸음’]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220601093007077qm</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220601093007077qm</guid>
-            <pubDate>Wed, 01 Jun 2022 01:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDFfMTgx/MDAxNjU0MDQzMTA3NDk1.pQJkZKh0nJQEh71YrOLqAwA4YW8d-Vld5fsCgVp4tiUg.e54S-2M6QqYb0b8lc2S9ip3_wFspREoYyUpfvahRT0wg.PNG/Screen_Shot_2022-06-01_at_6.44.37_AM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
