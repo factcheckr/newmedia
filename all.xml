@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 22:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 23:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 로 대 웨이드(Roe v. Wade) 파기 임박, 중간선거 뒤흔들까? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/07/18/npc_roevwade1/</link>
+            <guid>https://newspeppermint.com/2022/07/18/npc_roevwade1/</guid>
+            <pubDate>Mon, 18 Jul 2022 23:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 7월 19일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 항우울제의 장기적 효과에 대한 의문 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/07/17/npc_antidepressants/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/07/03/npc_us2024election/</guid>
             <pubDate>Sun, 03 Jul 2022 23:15:24 GMT</pubDate>
             <content:encoded><![CDATA[2022년 7월 4일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 아마존 노동조합 앞에 놓인 과제들 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/06/30/npc_amazonunioncontract/</link>
-            <guid>https://newspeppermint.com/2022/06/30/npc_amazonunioncontract/</guid>
-            <pubDate>Thu, 30 Jun 2022 23:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 7월 1일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[질병을 앓는 이에게 공감하는 법에 관하여 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
