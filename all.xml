@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 22:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 23:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 로 대 웨이드와 과학적 사실들 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/07/20/npc_roevwadefacts/</link>
+            <guid>https://newspeppermint.com/2022/07/20/npc_roevwadefacts/</guid>
+            <pubDate>Wed, 20 Jul 2022 23:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 7월 21일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 로 대 웨이드(Roe v. Wade) 파기 임박, “중간선거에 영향 없을 것” (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/07/19/npc_roevwade2/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/07/05/npc_foxatlantic/</guid>
             <pubDate>Tue, 05 Jul 2022 23:16:45 GMT</pubDate>
             <content:encoded><![CDATA[2022년 7월 6일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 바닷속을 떠다니는 미세플라스틱 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/07/04/npc_microplastics/</link>
-            <guid>https://newspeppermint.com/2022/07/04/npc_microplastics/</guid>
-            <pubDate>Mon, 04 Jul 2022 23:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 7월 5일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[현대 전쟁의 공급망 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

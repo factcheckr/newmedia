@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-07-20T22:16:57.637Z</updated>
+    <updated>2022-07-20T23:18:41.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 로 대 웨이드와 과학적 사실들]]></title>
+        <id>https://newspeppermint.com/2022/07/20/npc_roevwadefacts/</id>
+        <link href="https://newspeppermint.com/2022/07/20/npc_roevwadefacts/"/>
+        <updated>2022-07-20T23:18:30.751Z</updated>
+        <content type="html"><![CDATA[2022년 7월 21일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 로 대 웨이드(Roe v. Wade) 파기 임박, “중간선거에 영향 없을 것”]]></title>
         <id>https://newspeppermint.com/2022/07/19/npc_roevwade2/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/07/05/npc_foxatlantic/"/>
         <updated>2022-07-05T23:16:45.498Z</updated>
         <content type="html"><![CDATA[2022년 7월 6일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 바닷속을 떠다니는 미세플라스틱]]></title>
-        <id>https://newspeppermint.com/2022/07/04/npc_microplastics/</id>
-        <link href="https://newspeppermint.com/2022/07/04/npc_microplastics/"/>
-        <updated>2022-07-04T23:15:55.185Z</updated>
-        <content type="html"><![CDATA[2022년 7월 5일]]></content>
     </entry>
 </feed>
