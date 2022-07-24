@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-07-24T22:16:02.365Z</updated>
+    <updated>2022-07-24T23:15:59.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 로 대 웨이드가 사라진 세상, 프로 라이프 운동의 미래는?]]></title>
+        <id>https://newspeppermint.com/2022/07/24/npc_afterroevwade/</id>
+        <link href="https://newspeppermint.com/2022/07/24/npc_afterroevwade/"/>
+        <updated>2022-07-24T23:15:48.711Z</updated>
+        <content type="html"><![CDATA[2022년 7월 25일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 우크라이나 밴드 ‘칼루쉬 오케스트라’, 유로비전 2022 우승]]></title>
         <id>https://newspeppermint.com/2022/07/21/npc_eurovision2022/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/07/07/npc_animalemotion/"/>
         <updated>2022-07-07T23:17:11.593Z</updated>
         <content type="html"><![CDATA[2022년 7월 8일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 시대상을 반영하는 영상물 등급제도]]></title>
-        <id>https://newspeppermint.com/2022/07/06/npc_contentsrating/</id>
-        <link href="https://newspeppermint.com/2022/07/06/npc_contentsrating/"/>
-        <updated>2022-07-06T23:15:20.350Z</updated>
-        <content type="html"><![CDATA[2022년 7월 7일]]></content>
     </entry>
 </feed>
