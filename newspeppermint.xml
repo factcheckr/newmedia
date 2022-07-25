@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-07-25T22:15:41.084Z</updated>
+    <updated>2022-07-25T23:15:58.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 탄수화물과 두통의 관계]]></title>
+        <id>https://newspeppermint.com/2022/07/25/npc_carbsheadaches/</id>
+        <link href="https://newspeppermint.com/2022/07/25/npc_carbsheadaches/"/>
+        <updated>2022-07-25T23:15:48.982Z</updated>
+        <content type="html"><![CDATA[2022년 7월 26일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 로 대 웨이드가 사라진 세상, 프로 라이프 운동의 미래는?]]></title>
         <id>https://newspeppermint.com/2022/07/24/npc_afterroevwade/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/07/10/npc_frenchelection/"/>
         <updated>2022-07-10T23:16:00.722Z</updated>
         <content type="html"><![CDATA[2022년 7월 11일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 무척추동물도 감정을 느낄까요?]]></title>
-        <id>https://newspeppermint.com/2022/07/07/npc_animalemotion/</id>
-        <link href="https://newspeppermint.com/2022/07/07/npc_animalemotion/"/>
-        <updated>2022-07-07T23:17:11.593Z</updated>
-        <content type="html"><![CDATA[2022년 7월 8일]]></content>
     </entry>
 </feed>
