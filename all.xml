@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 22:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 23:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 가상화폐와 경제 불평등 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/07/26/npc_cryptoandinequality/</link>
+            <guid>https://newspeppermint.com/2022/07/26/npc_cryptoandinequality/</guid>
+            <pubDate>Tue, 26 Jul 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 7월 27일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 탄수화물과 두통의 관계 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/07/25/npc_carbsheadaches/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 7월 12일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 프랑스 마크롱 대통령 재선 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/07/10/npc_frenchelection/</link>
-            <guid>https://newspeppermint.com/2022/07/10/npc_frenchelection/</guid>
-            <pubDate>Sun, 10 Jul 2022 23:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 7월 11일]]></content:encoded>
+            <title><![CDATA[개천에서 난 용이 사라져가는 (경제)학계의 문제 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220726021443425yh</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220726021443425yh</guid>
+            <pubDate>Tue, 26 Jul 2022 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MjZfMjEy/MDAxNjU4NzY5MTk1MzI3.yWxtpVxMIy9xII2d_0To10LjasL6syVRkVn9v8EERoYg.Dwcwv9C_aeQBh8bX9A-CBhoSe04kVcK4jUj94Zxg6aAg.JPEG/jefferson-sees-QGOWg4m3C7o-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NYT 칼럼니스트들의 고백 “내가 틀렸습니다” (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -241,14 +249,6 @@
             <pubDate>Sun, 12 Jun 2022 23:16:02 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTJfMjUw/MDAxNjU1MDQxMjQwNjg4.N_QYov9eatru4T4GyBF8VO3XEh7QxS0x1A6iLQrIctwg.F5G9qJivW3YcqJCH7Z68AceBVJueTpp9w-qDE0ykDm8g.JPEG/tim-mudd-_ANxZIWTHdA-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기린의 목이 길어진 진짜 이유 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220610045528495ok</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220610045528495ok</guid>
-            <pubDate>Thu, 09 Jun 2022 23:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTBfMjIx/MDAxNjU0ODA0NDU0MTk0.aLn-31HYGYbjZskAIG7hf_zf6Y37JHkNhSH_8IWMl-Eg.ymG2Ca6Lne-bhkD68rDsHph33i3tcL8Y_2YQa2D2pcIg.JPEG/mariola-grobelska-eQdDUdi5qLk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
