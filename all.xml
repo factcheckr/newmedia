@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 22:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 23:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 신냉전과 ‘인피니티 스톤’ 반도체 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/07/27/npc_infinitystone/</link>
+            <guid>https://newspeppermint.com/2022/07/27/npc_infinitystone/</guid>
+            <pubDate>Wed, 27 Jul 2022 23:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 7월 28일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 가상화폐와 경제 불평등 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/07/26/npc_cryptoandinequality/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/07/12/npc_watercremation/</guid>
             <pubDate>Tue, 12 Jul 2022 23:16:49 GMT</pubDate>
             <content:encoded><![CDATA[2022년 7월 13일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 위기의 넷플릭스와 스트리밍 서비스의 미래 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/07/11/npc_netflix/</link>
-            <guid>https://newspeppermint.com/2022/07/11/npc_netflix/</guid>
-            <pubDate>Mon, 11 Jul 2022 23:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 7월 12일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[개천에서 난 용이 사라져가는 (경제)학계의 문제 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

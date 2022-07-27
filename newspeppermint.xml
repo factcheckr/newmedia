@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-07-27T22:16:32.177Z</updated>
+    <updated>2022-07-27T23:16:27.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 신냉전과 ‘인피니티 스톤’ 반도체]]></title>
+        <id>https://newspeppermint.com/2022/07/27/npc_infinitystone/</id>
+        <link href="https://newspeppermint.com/2022/07/27/npc_infinitystone/"/>
+        <updated>2022-07-27T23:16:17.794Z</updated>
+        <content type="html"><![CDATA[2022년 7월 28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 가상화폐와 경제 불평등]]></title>
         <id>https://newspeppermint.com/2022/07/26/npc_cryptoandinequality/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/07/12/npc_watercremation/"/>
         <updated>2022-07-12T23:16:49.693Z</updated>
         <content type="html"><![CDATA[2022년 7월 13일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 위기의 넷플릭스와 스트리밍 서비스의 미래]]></title>
-        <id>https://newspeppermint.com/2022/07/11/npc_netflix/</id>
-        <link href="https://newspeppermint.com/2022/07/11/npc_netflix/"/>
-        <updated>2022-07-11T23:15:57.558Z</updated>
-        <content type="html"><![CDATA[2022년 7월 12일]]></content>
     </entry>
 </feed>
