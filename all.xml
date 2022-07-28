@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 22:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 23:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 인간의 사춘기가 빨라지고 있다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/07/28/npc_puberty/</link>
+            <guid>https://newspeppermint.com/2022/07/28/npc_puberty/</guid>
+            <pubDate>Thu, 28 Jul 2022 23:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 7월 29일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 신냉전과 ‘인피니티 스톤’ 반도체 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/07/27/npc_infinitystone/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 7월 14일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 세상을 떠나는 다른 방식 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/07/12/npc_watercremation/</link>
-            <guid>https://newspeppermint.com/2022/07/12/npc_watercremation/</guid>
-            <pubDate>Tue, 12 Jul 2022 23:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 7월 13일]]></content:encoded>
+            <title><![CDATA[유당불내증과 유당내성 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220729055035147xe</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220729055035147xe</guid>
+            <pubDate>Thu, 28 Jul 2022 23:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MjlfMTMz/MDAxNjU5MDQxMzQzNzY2.VQWR4E6uEY4qYwKS5iNcXe-OBXP8ehuquKHfnWcY0mQg.XQXH4W0URhrWREImrP7354P84QoDKpMDl_pZoT9WA6kg.JPEG/flash-dantz-AlxJrnhfDsQ-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개천에서 난 용이 사라져가는 (경제)학계의 문제 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -241,14 +249,6 @@
             <pubDate>Tue, 14 Jun 2022 23:15:30 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTVfMjY1/MDAxNjU1MjQ3ODUzNDA2.e4Mfdk7nRAzcfu6uzmQ2CKxFOkTN2tata7D7P9tJZ8Ag.3iUkgMtudgWyU8h3bx30iBv3x40Qtl0sYdCP4hzfzbIg.JPEG/ezgif.com-gif-maker_(12).jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[총기난사와 정신건강 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220612224143980qv</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220612224143980qv</guid>
-            <pubDate>Sun, 12 Jun 2022 23:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTJfMjUw/MDAxNjU1MDQxMjQwNjg4.N_QYov9eatru4T4GyBF8VO3XEh7QxS0x1A6iLQrIctwg.F5G9qJivW3YcqJCH7Z68AceBVJueTpp9w-qDE0ykDm8g.JPEG/tim-mudd-_ANxZIWTHdA-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
