@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 22:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 23:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 샌디훅 이후 10년, 무엇이 달라졌나? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/07/31/npc_usmassshooting/</link>
+            <guid>https://newspeppermint.com/2022/07/31/npc_usmassshooting/</guid>
+            <pubDate>Sun, 31 Jul 2022 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 8월 1일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 인간의 사춘기가 빨라지고 있다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/07/28/npc_puberty/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 7월 15일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 일론 머스크의 트위터 인수 곱씹어 보기 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/07/13/npc_musktwitter/</link>
-            <guid>https://newspeppermint.com/2022/07/13/npc_musktwitter/</guid>
-            <pubDate>Wed, 13 Jul 2022 23:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 7월 14일]]></content:encoded>
+            <title><![CDATA[리사 헤인즐링 칼럼 "미국 정치를 집어삼킨 대법원" (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220731190753464kx</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220731190753464kx</guid>
+            <pubDate>Sun, 31 Jul 2022 23:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MzFfMjM0/MDAxNjU5MjYyMDI3NzU5.iPq0F4oph70RxA65syTIhi7pKbKVK91lKns2mrAZD-Ig.DmOyyMH_wRR2i_R7HWTko4dpNN7t9f3PGk08-QqZjMAg.JPEG/artiom-vallat-v38KKZvmT_g-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유당불내증과 유당내성 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -241,14 +249,6 @@
             <pubDate>Thu, 16 Jun 2022 23:16:41 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTdfMTc0/MDAxNjU1NDE1Nzc1NjYz.0w1G6sWO4ni4DT01tHojH6BaaDCrMfDJPe2PZ1AJe5wg.Jsjwd3XHBAo7mI-SMfUpucavYNlY1wAgjCw3rCNnCRgg.JPEG/danie-franco-CeZypKDceQc-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사우디 국부 펀드 주최 대안 골프 대회 LIV, 그리고 스포츠워싱 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220615080557118yv</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220615080557118yv</guid>
-            <pubDate>Tue, 14 Jun 2022 23:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTVfMjY1/MDAxNjU1MjQ3ODUzNDA2.e4Mfdk7nRAzcfu6uzmQ2CKxFOkTN2tata7D7P9tJZ8Ag.3iUkgMtudgWyU8h3bx30iBv3x40Qtl0sYdCP4hzfzbIg.JPEG/ezgif.com-gif-maker_(12).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
