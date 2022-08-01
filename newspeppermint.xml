@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-08-01T22:19:16.518Z</updated>
+    <updated>2022-08-01T23:20:15.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 끊이지 않는 총기 난사와 미국 사회의 ‘제자리걸음’]]></title>
+        <id>https://newspeppermint.com/2022/08/01/npc_usgunculture/</id>
+        <link href="https://newspeppermint.com/2022/08/01/npc_usgunculture/"/>
+        <updated>2022-08-01T23:20:06.309Z</updated>
+        <content type="html"><![CDATA[2022년 8월 2일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 샌디훅 이후 10년, 무엇이 달라졌나?]]></title>
         <id>https://newspeppermint.com/2022/07/31/npc_usmassshooting/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/07/17/npc_antidepressants/"/>
         <updated>2022-07-17T23:15:53.829Z</updated>
         <content type="html"><![CDATA[2022년 7월 18일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 2022년 눈에 띄는 인구 변화들]]></title>
-        <id>https://newspeppermint.com/2022/07/14/%ec%9d%b8%ea%b5%ac/</id>
-        <link href="https://newspeppermint.com/2022/07/14/%ec%9d%b8%ea%b5%ac/"/>
-        <updated>2022-07-14T23:18:34.885Z</updated>
-        <content type="html"><![CDATA[2022년 7월 15일]]></content>
     </entry>
 </feed>

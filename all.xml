@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 22:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 23:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 끊이지 않는 총기 난사와 미국 사회의 ‘제자리걸음’ (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/08/01/npc_usgunculture/</link>
+            <guid>https://newspeppermint.com/2022/08/01/npc_usgunculture/</guid>
+            <pubDate>Mon, 01 Aug 2022 23:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 8월 2일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 샌디훅 이후 10년, 무엇이 달라졌나? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/07/31/npc_usmassshooting/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/07/17/npc_antidepressants/</guid>
             <pubDate>Sun, 17 Jul 2022 23:15:53 GMT</pubDate>
             <content:encoded><![CDATA[2022년 7월 18일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 2022년 눈에 띄는 인구 변화들 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/07/14/%ec%9d%b8%ea%b5%ac/</link>
-            <guid>https://newspeppermint.com/2022/07/14/%ec%9d%b8%ea%b5%ac/</guid>
-            <pubDate>Thu, 14 Jul 2022 23:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 7월 15일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[리사 헤인즐링 칼럼 "미국 정치를 집어삼킨 대법원" (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
