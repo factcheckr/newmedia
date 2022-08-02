@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 22:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 23:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 미국 중간선거 관전 포인트: ‘라티노는 민주당 텃밭’ 공식에 균열 갈까?]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220802203502664pz</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220802203502664pz</guid>
+            <pubDate>Tue, 02 Aug 2022 23:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MDJfMjcx/MDAxNjU5NDM5NzYwOTE0.KZn7MaG-hTVxqolxcn1rpdDcQCFTpfqD6Z4tpqDB1zcg.b7IQ6CANrIBVJNdy067pMCxh5uUuioIVImLZEvlU4mwg.JPEG/download.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[리사 헤인즐링 칼럼 "미국 정치를 집어삼킨 대법원"]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220731190753464kx</link>
@@ -157,14 +165,6 @@
             <pubDate>Sun, 19 Jun 2022 23:14:54 GMT</pubDate>
             <content:encoded><![CDATA[경제 공부방]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTlfODQg/MDAxNjU1NjQ3NTQ4NTMy.s5q_cQNV0rSsocE_mANr6lLsnsdxdeT5PtP6dOAV7Ssg.jiYuJIHmEbt1ns70lIg_6RVNdDz0YYShi9xagRQtg8Ig.JPEG/blogging-guide-xYaMK5p3vCA-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어른이 된다는 것은]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220617064349824zf</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220617064349824zf</guid>
-            <pubDate>Thu, 16 Jun 2022 23:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTdfMTc0/MDAxNjU1NDE1Nzc1NjYz.0w1G6sWO4ni4DT01tHojH6BaaDCrMfDJPe2PZ1AJe5wg.Jsjwd3XHBAo7mI-SMfUpucavYNlY1wAgjCw3rCNnCRgg.JPEG/danie-franco-CeZypKDceQc-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
