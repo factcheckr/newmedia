@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 22:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 23:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인생의 중요한 결정을 데이터를 기반으로 내릴 수 있을까요?]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220805021557853tj</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220805021557853tj</guid>
+            <pubDate>Thu, 04 Aug 2022 23:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MDVfMzcg/MDAxNjU5NjMzMzA3ODU0.5Dae4TLxVOgk0-zS7EUoPPem3FDM4QlGz1CScBUOyk4g.lUfRswMwhBF9c8ziTmhF-R-mZuOILjfC_osgYKT6aeIg.JPEG/szilvia-basso-cPGv4rXhryc-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 미국 중간선거 관전 포인트: ‘라티노는 민주당 텃밭’ 공식에 균열 갈까?]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220802203502664pz</link>
@@ -157,14 +165,6 @@
             <pubDate>Tue, 21 Jun 2022 23:17:16 GMT</pubDate>
             <content:encoded><![CDATA[경제 공부방]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjFfMjU1/MDAxNjU1NzY5NTQyMDAz.pLmniwRbhtE6Q6FMBGCbshUVwuqP6-Inpr70h9VgaKAg.nNVcZHert8zNsaVoKnVRH5tgDiAGPOG-LbnGM6sIagog.JPEG/spencer-davis-vJsj-hgOEG0-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[같은 인플레이션, 같지 않은 효과]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220619230826448qg</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220619230826448qg</guid>
-            <pubDate>Sun, 19 Jun 2022 23:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTlfODQg/MDAxNjU1NjQ3NTQ4NTMy.s5q_cQNV0rSsocE_mANr6lLsnsdxdeT5PtP6dOAV7Ssg.jiYuJIHmEbt1ns70lIg_6RVNdDz0YYShi9xagRQtg8Ig.JPEG/blogging-guide-xYaMK5p3vCA-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
