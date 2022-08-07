@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 22:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 23:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미중 갈등 시대, 각국의 쉽지 않은 균형 잡기]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220807193252629cw</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220807193252629cw</guid>
+            <pubDate>Sun, 07 Aug 2022 23:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MDdfMzcg/MDAxNjU5ODY4MzE5Nzk0.SbNlj8jy9P61dgAslCQ28Q_POaj7KkjRQY5wcK0rx_wg.XTWgJxa8MC_50ss2IheHn5hi0pQdXxMCrHRJqqO8lXAg.JPEG/45933735_303.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[인생의 중요한 결정을 데이터를 기반으로 내릴 수 있을까요?]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220805021557853tj</link>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 23 Jun 2022 23:16:05 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjRfMTc3/MDAxNjU2MDI0NTM1Njc1.V6UUJ-Clg6P7L3bdeBxKDDD4UlJHCeYVi9dGeYC1zAEg.P52r6stM3I_4KOOCZ1pqjo4xh9sedp1qsmiQv6jePbog.JPEG/bill-jelen-NVWyN8GamCk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국과 프랑스 직장인의 사뭇 다른 점심시간]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220621090011122lt</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220621090011122lt</guid>
-            <pubDate>Tue, 21 Jun 2022 23:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjFfMjU1/MDAxNjU1NzY5NTQyMDAz.pLmniwRbhtE6Q6FMBGCbshUVwuqP6-Inpr70h9VgaKAg.nNVcZHert8zNsaVoKnVRH5tgDiAGPOG-LbnGM6sIagog.JPEG/spencer-davis-vJsj-hgOEG0-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-08-07T22:16:29.672Z</updated>
+    <updated>2022-08-07T23:16:29.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 빌 게이츠가 말하는 다음번 팬데믹 막기 위한 ‘민관 협력’]]></title>
+        <id>https://newspeppermint.com/2022/08/07/npc_gatesphilanthropy/</id>
+        <link href="https://newspeppermint.com/2022/08/07/npc_gatesphilanthropy/"/>
+        <updated>2022-08-07T23:16:20.472Z</updated>
+        <content type="html"><![CDATA[2022년 8월 8일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 셰릴 샌드버그 사임과 다시 돌아보는 “린 인(Lean In)”]]></title>
         <id>https://newspeppermint.com/2022/08/04/npc_leaninsherylsandberg/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/07/20/npc_roevwadefacts/"/>
         <updated>2022-07-20T23:18:30.751Z</updated>
         <content type="html"><![CDATA[2022년 7월 21일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 로 대 웨이드(Roe v. Wade) 파기 임박, “중간선거에 영향 없을 것”]]></title>
-        <id>https://newspeppermint.com/2022/07/19/npc_roevwade2/</id>
-        <link href="https://newspeppermint.com/2022/07/19/npc_roevwade2/"/>
-        <updated>2022-07-19T23:17:56.163Z</updated>
-        <content type="html"><![CDATA[2022년 7월 20일]]></content>
     </entry>
 </feed>
