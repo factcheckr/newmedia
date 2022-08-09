@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 22:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 23:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 기린의 목이 길어진 진짜 이유 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/08/09/npc_giraffeneck/</link>
+            <guid>https://newspeppermint.com/2022/08/09/npc_giraffeneck/</guid>
+            <pubDate>Tue, 09 Aug 2022 23:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 8월 10일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 빌 게이츠가 말하는 다음번 팬데믹 막기 위한 ‘민관 협력’ (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/08/07/npc_gatesphilanthropy/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 7월 22일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 로 대 웨이드와 과학적 사실들 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/07/20/npc_roevwadefacts/</link>
-            <guid>https://newspeppermint.com/2022/07/20/npc_roevwadefacts/</guid>
-            <pubDate>Wed, 20 Jul 2022 23:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 7월 21일]]></content:encoded>
+            <title><![CDATA[‘용 나는 개천’의 비결은 ‘부자 친구’ 많이 사귀기? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220809174353288om</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220809174353288om</guid>
+            <pubDate>Tue, 09 Aug 2022 23:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MDlfMyAg/MDAxNjYwMDM0NTE3MzAy.GKZd1oNGMGjCZQERg2CfuPPCfZbtDStkxAbmeoovh9Yg.v6UZg_i9jP67TE0cn_f3TrnPM5ZCvHOXfYE-I5qTizIg.JPEG/melissa-askew-tSlvoSZK77c-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미중 갈등 시대, 각국의 쉽지 않은 균형 잡기 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -241,14 +249,6 @@
             <pubDate>Sun, 26 Jun 2022 23:15:06 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjZfMTYg/MDAxNjU2MjQyNTY4MzA5.oBe8j8rggsGFgncevN2TjO4f_f430rlSryO47PRs3LQg.6xR7FwYTDXXUPCU-Vv2cSG_NpSEb6RWV6kWn2hTo4pUg.JPEG/20220625_USP003.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[인간의 영원한 꿈, 영생 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220624075020133hy</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220624075020133hy</guid>
-            <pubDate>Thu, 23 Jun 2022 23:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjRfMTc3/MDAxNjU2MDI0NTM1Njc1.V6UUJ-Clg6P7L3bdeBxKDDD4UlJHCeYVi9dGeYC1zAEg.P52r6stM3I_4KOOCZ1pqjo4xh9sedp1qsmiQv6jePbog.JPEG/bill-jelen-NVWyN8GamCk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
