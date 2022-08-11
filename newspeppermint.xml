@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-08-11T22:15:56.538Z</updated>
+    <updated>2022-08-11T23:17:01.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 총기난사와 정신건강]]></title>
+        <id>https://newspeppermint.com/2022/08/11/npc_gunviolencementalhealth/</id>
+        <link href="https://newspeppermint.com/2022/08/11/npc_gunviolencementalhealth/"/>
+        <updated>2022-08-11T23:16:52.896Z</updated>
+        <content type="html"><![CDATA[2022년 8월 12일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 기린의 목이 길어진 진짜 이유]]></title>
         <id>https://newspeppermint.com/2022/08/09/npc_giraffeneck/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/07/24/npc_afterroevwade/"/>
         <updated>2022-07-24T23:15:48.711Z</updated>
         <content type="html"><![CDATA[2022년 7월 25일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 우크라이나 밴드 ‘칼루쉬 오케스트라’, 유로비전 2022 우승]]></title>
-        <id>https://newspeppermint.com/2022/07/21/npc_eurovision2022/</id>
-        <link href="https://newspeppermint.com/2022/07/21/npc_eurovision2022/"/>
-        <updated>2022-07-21T23:17:48.310Z</updated>
-        <content type="html"><![CDATA[2022년 7월 22일]]></content>
     </entry>
 </feed>

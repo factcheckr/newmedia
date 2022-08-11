@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 22:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 23:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 총기난사와 정신건강 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/08/11/npc_gunviolencementalhealth/</link>
+            <guid>https://newspeppermint.com/2022/08/11/npc_gunviolencementalhealth/</guid>
+            <pubDate>Thu, 11 Aug 2022 23:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 8월 12일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 기린의 목이 길어진 진짜 이유 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/08/09/npc_giraffeneck/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 7월 25일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 우크라이나 밴드 ‘칼루쉬 오케스트라’, 유로비전 2022 우승 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/07/21/npc_eurovision2022/</link>
-            <guid>https://newspeppermint.com/2022/07/21/npc_eurovision2022/</guid>
-            <pubDate>Thu, 21 Jul 2022 23:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 7월 22일]]></content:encoded>
+            <title><![CDATA[코로나19 후유증(Long COVID) (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220812071025370yy</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220812071025370yy</guid>
+            <pubDate>Thu, 11 Aug 2022 23:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MTJfMTg5/MDAxNjYwMjU1NzM1MDgw.DlvuattO3qms-e2CMAEfEsWRM9PCvLN97qZ-Te8iiYsg.aVplJTGjlDLTkPJn0EeujPpBMIrmsGZmuM_x_vAStXIg.JPEG/shane-hfvFunLkFgg-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘용 나는 개천’의 비결은 ‘부자 친구’ 많이 사귀기? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -241,14 +249,6 @@
             <pubDate>Tue, 28 Jun 2022 23:15:40 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjlfMjgz/MDAxNjU2NDI4NzcxODQy.3pcVGMWe7GvLkGM466f1WBokmDrYIh_zhUzHR9R9LR8g.42THAhqZjnFXISbVCNt3S8_3FB0hREm1AvpK-PEIBDkg.JPEG/ezgif.com-gif-maker_(13).jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 정치권의 새로운 유권자 집단: 아시아-태평양계 미국인 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220626202337679bc</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220626202337679bc</guid>
-            <pubDate>Sun, 26 Jun 2022 23:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjZfMTYg/MDAxNjU2MjQyNTY4MzA5.oBe8j8rggsGFgncevN2TjO4f_f430rlSryO47PRs3LQg.6xR7FwYTDXXUPCU-Vv2cSG_NpSEb6RWV6kWn2hTo4pUg.JPEG/20220625_USP003.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
