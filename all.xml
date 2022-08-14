@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 22:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 23:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,6 +90,14 @@
             <guid>https://newspeppermint.com/2022/07/24/npc_afterroevwade/</guid>
             <pubDate>Sun, 24 Jul 2022 23:15:48 GMT</pubDate>
             <content:encoded><![CDATA[2022년 7월 25일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마침내 통과된 기후변화 대응법, 성공인가 실패인가? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220815030604757ws</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220815030604757ws</guid>
+            <pubDate>Sun, 14 Aug 2022 23:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MTVfMTkg/MDAxNjYwNTAxNDE2ODUz.oTSHZI4iAmKWkqxaX7JprSkOL5y0gmhB2hJHQH0Zhd0g.z6B2Dehettj_IQa_3dLNMWTtR3b6bQBCY0CD3x5XpvYg.PNG/Screen_Shot_2022-08-14_at_4.57.58_PM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[코로나19 후유증(Long COVID) (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -241,14 +249,6 @@
             <pubDate>Thu, 30 Jun 2022 23:16:01 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDRfMTM2/MDAxNjU2ODY4Mzg1MDQ1.L3KlCQbzhpe5lG6n8jlPtYpST_IO5C25jUmw4V3UQ54g.I8QEx2gEb3tNwCy-_jqgIaVg_-9qmdmijJuc31zQWicg.JPEG/jeremy-stewart-BvXUtQhTQzk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수정헌법 2조와 클래런스 토머스 대법관의 비뚤어진 원전주의 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220629000712092og</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220629000712092og</guid>
-            <pubDate>Tue, 28 Jun 2022 23:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjlfMjgz/MDAxNjU2NDI4NzcxODQy.3pcVGMWe7GvLkGM466f1WBokmDrYIh_zhUzHR9R9LR8g.42THAhqZjnFXISbVCNt3S8_3FB0hREm1AvpK-PEIBDkg.JPEG/ezgif.com-gif-maker_(13).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
