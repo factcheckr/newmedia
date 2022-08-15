@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 22:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 23:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 사우디 국부 펀드 주최 대안 골프 대회 LIV, 그리고 스포츠워싱 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/08/15/npc_sportswashing/</link>
+            <guid>https://newspeppermint.com/2022/08/15/npc_sportswashing/</guid>
+            <pubDate>Mon, 15 Aug 2022 23:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 8월 16일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 총기난사와 정신건강 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/08/11/npc_gunviolencementalhealth/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/07/25/npc_carbsheadaches/</guid>
             <pubDate>Mon, 25 Jul 2022 23:15:48 GMT</pubDate>
             <content:encoded><![CDATA[2022년 7월 26일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 로 대 웨이드가 사라진 세상, 프로 라이프 운동의 미래는? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/07/24/npc_afterroevwade/</link>
-            <guid>https://newspeppermint.com/2022/07/24/npc_afterroevwade/</guid>
-            <pubDate>Sun, 24 Jul 2022 23:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 7월 25일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마침내 통과된 기후변화 대응법, 성공인가 실패인가? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
