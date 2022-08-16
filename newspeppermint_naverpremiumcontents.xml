@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 22:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 23:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알렉스 존스, 음모론과 웰니스 산업의 위험한 결합]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220816192453342sx</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220816192453342sx</guid>
+            <pubDate>Tue, 16 Aug 2022 23:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MTZfMjQ5/MDAxNjYwNjQ1NDI5NTk2.Vjw9Qgrqq32RH0bQ11lOYkJT9XjqplMcCht1ILmFK3og.FThbXyjKhegfYs_6xdqmlHQPIgbWtdgfbgG5bCCkPRcg.JPEG/deniz-altindas-t1XLQvDqt_4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마침내 통과된 기후변화 대응법, 성공인가 실패인가?]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220815030604757ws</link>
@@ -157,14 +165,6 @@
             <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220701225222641xr</guid>
             <pubDate>Sun, 03 Jul 2022 23:15:32 GMT</pubDate>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDFfMjM1/MDAxNjU2NjgzNDUxOTgx.gNba6mAsdIGqNB70B8DY49sDWIHcjBEXEDhRl17RhWkg.mkgTE6Z_sH96LN5Ujl3LKTcFBuPp3j3MtQOaMAJ4mZgg.JPEG/christian-wiediger-GWkioAj5aB4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생선과 비타민]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220701050242972nq</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220701050242972nq</guid>
-            <pubDate>Thu, 30 Jun 2022 23:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDRfMTM2/MDAxNjU2ODY4Mzg1MDQ1.L3KlCQbzhpe5lG6n8jlPtYpST_IO5C25jUmw4V3UQ54g.I8QEx2gEb3tNwCy-_jqgIaVg_-9qmdmijJuc31zQWicg.JPEG/jeremy-stewart-BvXUtQhTQzk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

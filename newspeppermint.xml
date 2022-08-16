@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-08-16T22:17:00.105Z</updated>
+    <updated>2022-08-16T23:15:03.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 어른이 된다는 것은]]></title>
+        <id>https://newspeppermint.com/2022/08/16/npc_grownup/</id>
+        <link href="https://newspeppermint.com/2022/08/16/npc_grownup/"/>
+        <updated>2022-08-16T23:14:53.253Z</updated>
+        <content type="html"><![CDATA[2022년 8월 17일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 사우디 국부 펀드 주최 대안 골프 대회 LIV, 그리고 스포츠워싱]]></title>
         <id>https://newspeppermint.com/2022/08/15/npc_sportswashing/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/07/26/npc_cryptoandinequality/"/>
         <updated>2022-07-26T23:15:58.010Z</updated>
         <content type="html"><![CDATA[2022년 7월 27일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 탄수화물과 두통의 관계]]></title>
-        <id>https://newspeppermint.com/2022/07/25/npc_carbsheadaches/</id>
-        <link href="https://newspeppermint.com/2022/07/25/npc_carbsheadaches/"/>
-        <updated>2022-07-25T23:15:48.982Z</updated>
-        <content type="html"><![CDATA[2022년 7월 26일]]></content>
     </entry>
 </feed>
