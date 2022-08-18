@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-08-18T22:17:22.768Z</updated>
+    <updated>2022-08-18T23:17:30.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 같은 인플레이션, 같지 않은 효과]]></title>
+        <id>https://newspeppermint.com/2022/08/18/npc_inflationinequality/</id>
+        <link href="https://newspeppermint.com/2022/08/18/npc_inflationinequality/"/>
+        <updated>2022-08-18T23:17:20.183Z</updated>
+        <content type="html"><![CDATA[2022년 8월 19일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 어른이 된다는 것은]]></title>
         <id>https://newspeppermint.com/2022/08/16/npc_grownup/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/07/27/npc_infinitystone/"/>
         <updated>2022-07-27T23:16:17.794Z</updated>
         <content type="html"><![CDATA[2022년 7월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 가상화폐와 경제 불평등]]></title>
-        <id>https://newspeppermint.com/2022/07/26/npc_cryptoandinequality/</id>
-        <link href="https://newspeppermint.com/2022/07/26/npc_cryptoandinequality/"/>
-        <updated>2022-07-26T23:15:58.010Z</updated>
-        <content type="html"><![CDATA[2022년 7월 27일]]></content>
     </entry>
 </feed>

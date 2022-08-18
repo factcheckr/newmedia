@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 22:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 23:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 같은 인플레이션, 같지 않은 효과 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/08/18/npc_inflationinequality/</link>
+            <guid>https://newspeppermint.com/2022/08/18/npc_inflationinequality/</guid>
+            <pubDate>Thu, 18 Aug 2022 23:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 8월 19일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 어른이 된다는 것은 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/08/16/npc_grownup/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 7월 28일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 가상화폐와 경제 불평등 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/07/26/npc_cryptoandinequality/</link>
-            <guid>https://newspeppermint.com/2022/07/26/npc_cryptoandinequality/</guid>
-            <pubDate>Tue, 26 Jul 2022 23:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 7월 27일]]></content:encoded>
+            <title><![CDATA[치매를 피해 봅시다 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220819070723022pm</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220819070723022pm</guid>
+            <pubDate>Thu, 18 Aug 2022 23:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MTlfNzcg/MDAxNjYwODYwNDAzNjYw.md8JY3cBINQEoJOoVPoB-KT1WkwbaEM1BDTmJvgio9Ug.FUUx75x-j5-6FRW9HZzqhHVQA4oNygji8fliVGcypvEg.JPEG/clement-falize-uJrRY8gUm7E-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알렉스 존스, 음모론과 웰니스 산업의 위험한 결합 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -242,13 +250,6 @@
             <pubDate>Wed, 06 Jul 2022 05:26:43 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfODcg/MDAxNjU3MDg0NDYxNzQ2.hLJtF3sZqruJbFFMlMNJ5KTeAjiMxUbNPItgw_U7jNcg.NkvCTFKZvc6k-UFAToKk2iFCGmAfbCmeTp5KMuTOPQYg.JPEG/marcin-jozwiak-uKvPDQop-JA-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박탈된 여성의 임신중단권과 디지털 사생활 보호 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220701225222641xr</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220701225222641xr</guid>
-            <pubDate>Sun, 03 Jul 2022 23:15:32 GMT</pubDate>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDFfMjM1/MDAxNjU2NjgzNDUxOTgx.gNba6mAsdIGqNB70B8DY49sDWIHcjBEXEDhRl17RhWkg.mkgTE6Z_sH96LN5Ujl3LKTcFBuPp3j3MtQOaMAJ4mZgg.JPEG/christian-wiediger-GWkioAj5aB4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
