@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 22:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 23:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탈레반의 아프가니스탄 수복 '벌써 1년']]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220821074402814ja</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220821074402814ja</guid>
+            <pubDate>Sun, 21 Aug 2022 23:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MjFfMTE1/MDAxNjYxMDM1MzI0NDg3.qQq5jhoe7c9eOlf3tR9r735uw8L9IJuRpBWDVZZAnAQg.Q9ZPL9_2Lx0rVtHPxmZgeB0rUP2iLMR0zE8quo5zgPwg.JPEG/_126356091_f896b7f9-d33c-4db5-b6e8-5ec7dfe91bc7.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[치매를 피해 봅시다]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220819070723022pm</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Jul 2022 23:17:19 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDhfNCAg/MDAxNjU3MjI1NzcyMzMz.-Ix79lxbWiRdXldg382n8gNiLljwpFcEVSLFUKyRGDQg.a1g2ttRaUcLQxnGjB5IDtJKJ2LqjGgCsFIllUWc54n4g.JPEG/hello-i-m-nik-q1n1LmoL4Es-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후변화를 향한 미국 대법원의 '눈 가리고 아웅']]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220706141500257qu</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220706141500257qu</guid>
-            <pubDate>Wed, 06 Jul 2022 05:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfODcg/MDAxNjU3MDg0NDYxNzQ2.hLJtF3sZqruJbFFMlMNJ5KTeAjiMxUbNPItgw_U7jNcg.NkvCTFKZvc6k-UFAToKk2iFCGmAfbCmeTp5KMuTOPQYg.JPEG/marcin-jozwiak-uKvPDQop-JA-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
