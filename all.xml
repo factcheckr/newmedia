@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 22:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 23:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 인간의 영원한 꿈, 영생 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/08/22/npc_eternallife/</link>
+            <guid>https://newspeppermint.com/2022/08/22/npc_eternallife/</guid>
+            <pubDate>Mon, 22 Aug 2022 23:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 8월 23일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 같은 인플레이션, 같지 않은 효과 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/08/18/npc_inflationinequality/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/07/28/npc_puberty/</guid>
             <pubDate>Thu, 28 Jul 2022 23:17:58 GMT</pubDate>
             <content:encoded><![CDATA[2022년 7월 29일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 신냉전과 ‘인피니티 스톤’ 반도체 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/07/27/npc_infinitystone/</link>
-            <guid>https://newspeppermint.com/2022/07/27/npc_infinitystone/</guid>
-            <pubDate>Wed, 27 Jul 2022 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 7월 28일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[탈레반의 아프가니스탄 수복 '벌써 1년' (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

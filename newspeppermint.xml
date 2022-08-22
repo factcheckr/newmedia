@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-08-22T22:17:37.366Z</updated>
+    <updated>2022-08-22T23:16:47.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 인간의 영원한 꿈, 영생]]></title>
+        <id>https://newspeppermint.com/2022/08/22/npc_eternallife/</id>
+        <link href="https://newspeppermint.com/2022/08/22/npc_eternallife/"/>
+        <updated>2022-08-22T23:16:38.795Z</updated>
+        <content type="html"><![CDATA[2022년 8월 23일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 같은 인플레이션, 같지 않은 효과]]></title>
         <id>https://newspeppermint.com/2022/08/18/npc_inflationinequality/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/07/28/npc_puberty/"/>
         <updated>2022-07-28T23:17:58.004Z</updated>
         <content type="html"><![CDATA[2022년 7월 29일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 신냉전과 ‘인피니티 스톤’ 반도체]]></title>
-        <id>https://newspeppermint.com/2022/07/27/npc_infinitystone/</id>
-        <link href="https://newspeppermint.com/2022/07/27/npc_infinitystone/"/>
-        <updated>2022-07-27T23:16:17.794Z</updated>
-        <content type="html"><![CDATA[2022년 7월 28일]]></content>
     </entry>
 </feed>
