@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 23:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 01:44:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,6 +90,14 @@
             <guid>https://newspeppermint.com/2022/07/28/npc_puberty/</guid>
             <pubDate>Thu, 28 Jul 2022 23:17:58 GMT</pubDate>
             <content:encoded><![CDATA[2022년 7월 29일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[선호투표제, 미국 정치 판도 바꿀까? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220824093447436sy</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220824093447436sy</guid>
+            <pubDate>Wed, 24 Aug 2022 01:44:42 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MjRfNjUg/MDAxNjYxMzAxMTc5NTk3.JRoTWcdX_3S1XYJsUSG5un2PvM6dePoLAaDLchzFr8Eg.JyXlJltciOi9ZhwH0LZI4jLnYPXxeXJi2waGB9-5DWcg.JPEG/element5-digital-2i7Dn2uMEQE-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탈레반의 아프가니스탄 수복 '벌써 1년' (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -242,14 +250,6 @@
             <pubDate>Sun, 10 Jul 2022 23:16:07 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MTFfMjk4/MDAxNjU3NDc1NTgwNjEz.4bsTzJLiiEclMy7aEBVf6RE_oOYi6ssYFZVmnWlFYKAg.YsXSEnNCa4rr6vFHg5kP6LkkmE6wIhyAPp2QqTD6zO8g.JPEG/ezgif.com-gif-maker_(14).jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡과 알고리듬 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220708053046507pc</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220708053046507pc</guid>
-            <pubDate>Thu, 07 Jul 2022 23:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDhfNCAg/MDAxNjU3MjI1NzcyMzMz.-Ix79lxbWiRdXldg382n8gNiLljwpFcEVSLFUKyRGDQg.a1g2ttRaUcLQxnGjB5IDtJKJ2LqjGgCsFIllUWc54n4g.JPEG/hello-i-m-nik-q1n1LmoL4Es-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
