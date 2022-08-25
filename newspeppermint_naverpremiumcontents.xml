@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 22:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 23:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션과 철학]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220826064747834wu</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220826064747834wu</guid>
+            <pubDate>Thu, 25 Aug 2022 23:29:48 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MjZfNTMg/MDAxNjYxNDYzOTY2MzU2.on_R-uy3OWGYU_5ap8LuaC8RRdxUDVMx60TbxYBhz1Mg.QOS5618pomXqFoSpBLQT1-3mdGePy-UWGRvZSBFxdxwg.JPEG/clem-onojeghuo-HpEDSZukJqk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선호투표제, 미국 정치 판도 바꿀까?]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220824093447436sy</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 Aug 2022 12:33:11 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MTNfMTQw/MDAxNjU3NjQ2NDIyOTIw.utbMpbKKhGDUoBwa008L2ZvyavlFueYmCqp1-tUBiIkg.eEoS-Fqv-c04bW9a5YECwJoCA2CGm93IaZtQ_Xbr4SEg.JPEG/_125810211_gettyimages-1230602584.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[사우디아라비아 방문 앞둔 바이든, 현실과 이상의 괴리]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220711025424507rl</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220711025424507rl</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MTFfMjk4/MDAxNjU3NDc1NTgwNjEz.4bsTzJLiiEclMy7aEBVf6RE_oOYi6ssYFZVmnWlFYKAg.YsXSEnNCa4rr6vFHg5kP6LkkmE6wIhyAPp2QqTD6zO8g.JPEG/ezgif.com-gif-maker_(14).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
