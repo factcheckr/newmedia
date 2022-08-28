@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 22:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 23:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리즈 체니의 정치 인생]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220829034231508lu</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220829034231508lu</guid>
+            <pubDate>Sun, 28 Aug 2022 23:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MjlfMTMw/MDAxNjYxNzEyMDM2OTM0.XNgmEpX4R2np6DzTX6NsnVC-oFDTlNdHXXOIDLPTx5Qg.ZzH9Er04ruP2fuzMD3_lMObzoX-fygnmhaJxN0Ti2jsg.PNG/Screen_Shot_2022-08-28_at_2.34.37_PM.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[패션과 철학]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220826064747834wu</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 Aug 2022 12:33:11 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MTVfMjk2/MDAxNjU3ODI3MjExMDI3.gjpSAv1T8gX69autDbH3_Dk6tXWgz3xW2LmHMm42bh4g.L3mklkdzyMsZiZ4_zEgmzuUotPc7OYxOhPhHzpeC_GAg.JPEG/ezgif.com-gif-maker_(15).jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상처만 남긴 보리스 존슨 총리의 3년]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220713022116134tw</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220713022116134tw</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MTNfMTQw/MDAxNjU3NjQ2NDIyOTIw.utbMpbKKhGDUoBwa008L2ZvyavlFueYmCqp1-tUBiIkg.eEoS-Fqv-c04bW9a5YECwJoCA2CGm93IaZtQ_Xbr4SEg.JPEG/_125810211_gettyimages-1230602584.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
