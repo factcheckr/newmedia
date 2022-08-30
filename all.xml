@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 22:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 23:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 생선과 비타민 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/08/30/npc_poissonvitamin/</link>
+            <guid>https://newspeppermint.com/2022/08/30/npc_poissonvitamin/</guid>
+            <pubDate>Tue, 30 Aug 2022 23:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 8월 31일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 수정헌법 2조와 클래런스 토머스 대법관의 비뚤어진 원전주의 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/08/28/npc_scotusgunoriginalism/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 8월 3일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 끊이지 않는 총기 난사와 미국 사회의 ‘제자리걸음’ (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/08/01/npc_usgunculture/</link>
-            <guid>https://newspeppermint.com/2022/08/01/npc_usgunculture/</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 8월 2일]]></content:encoded>
+            <title><![CDATA[비행 에티켓 (2022년 판) (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220831020219787zj</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220831020219787zj</guid>
+            <pubDate>Tue, 30 Aug 2022 23:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MzFfMTI2/MDAxNjYxODc4ODY1NDE0.-qWL0lddjObZ3TmBwr858QXyfqx3CXXvpmyLJ5XcXPcg.bgz3WoPjfp4iDTBPM4cb_51KUXvfA7ep5fOeb1ZHssog.JPEG/shawnanggg-WsfPjpWqClQ-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리즈 체니의 정치 인생 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -242,14 +250,6 @@
             <pubDate>Thu, 25 Aug 2022 12:33:11 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MThfMjg4/MDAxNjU4MDg3ODM1NDY0.ykzfSeBo0vLwxl9pN-CYNsGd0dtdYTni8rvfrMp5dzIg.aUlYsYklYRfE58JfHK6PtXNpYhlWtCQuONOics1NhJ8g.JPEG/priscilla-du-preez-aPa843frIzI-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제임스 웹 망원경의 사진 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220715043455108si</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220715043455108si</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MTVfMjk2/MDAxNjU3ODI3MjExMDI3.gjpSAv1T8gX69autDbH3_Dk6tXWgz3xW2LmHMm42bh4g.L3mklkdzyMsZiZ4_zEgmzuUotPc7OYxOhPhHzpeC_GAg.JPEG/ezgif.com-gif-maker_(15).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
