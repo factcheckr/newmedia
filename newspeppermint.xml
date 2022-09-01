@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-09-01T22:16:58.001Z</updated>
+    <updated>2022-09-01T23:17:54.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 박탈된 여성의 임신중단권과 디지털 사생활 보호]]></title>
+        <id>https://newspeppermint.com/2022/09/01/npc_newerawithdobbs/</id>
+        <link href="https://newspeppermint.com/2022/09/01/npc_newerawithdobbs/"/>
+        <updated>2022-09-01T23:17:44.525Z</updated>
+        <content type="html"><![CDATA[2022년 9월 2일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 생선과 비타민]]></title>
         <id>https://newspeppermint.com/2022/08/30/npc_poissonvitamin/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/08/04/npc_leaninsherylsandberg/"/>
         <updated>2022-08-04T23:15:31.141Z</updated>
         <content type="html"><![CDATA[2022년 8월 5일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 코인은 정말 거품일까?]]></title>
-        <id>https://newspeppermint.com/2022/08/02/npc_cryptocrash/</id>
-        <link href="https://newspeppermint.com/2022/08/02/npc_cryptocrash/"/>
-        <updated>2022-08-02T23:16:57.076Z</updated>
-        <content type="html"><![CDATA[2022년 8월 3일]]></content>
     </entry>
 </feed>

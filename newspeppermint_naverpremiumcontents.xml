@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 22:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 23:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정체성과 얼굴]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220902065852355lq</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220902065852355lq</guid>
+            <pubDate>Thu, 01 Sep 2022 23:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MDJfMjk1/MDAxNjYyMDY5NDgxNzc3.8ZMgYEmEj-3T7O9V7U7dSMiaUrFd6bZ8oLL-ZXPtj1kg.g5BLjtWoXAYjT4cEXkOrS0GTxYZ9saeShZ_PbT-1bmgg.JPEG/alexander-grey-NeRKgBUUDjM-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비행 에티켓 (2022년 판)]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220831020219787zj</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 Aug 2022 12:33:11 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MjBfNDkg/MDAxNjU4MjY4ODY1Mzc2.P0O3wrJRifoI8GsRbKhMLI8DRop7f1bDtWbCIkMkznwg.rcJriWtjxteg4_sfKxxVUpM1L4iiFET5Mb7J41oMVWYg.JPEG/2560px-Bayraktar_TB2_Ground.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[질병을 앓는 이에게 공감하는 법에 관하여]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220718045824961rr</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220718045824961rr</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MThfMjg4/MDAxNjU4MDg3ODM1NDY0.ykzfSeBo0vLwxl9pN-CYNsGd0dtdYTni8rvfrMp5dzIg.aUlYsYklYRfE58JfHK6PtXNpYhlWtCQuONOics1NhJ8g.JPEG/priscilla-du-preez-aPa843frIzI-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
