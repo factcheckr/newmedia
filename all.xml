@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 22:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 23:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 기후변화를 향한 미국 대법원의 ‘눈 가리고 아웅’ (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/09/04/npc_scotusepa/</link>
+            <guid>https://newspeppermint.com/2022/09/04/npc_scotusepa/</guid>
+            <pubDate>Sun, 04 Sep 2022 23:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 9월 5일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 박탈된 여성의 임신중단권과 디지털 사생활 보호 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/09/01/npc_newerawithdobbs/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 8월 8일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 셰릴 샌드버그 사임과 다시 돌아보는 “린 인(Lean In)” (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/08/04/npc_leaninsherylsandberg/</link>
-            <guid>https://newspeppermint.com/2022/08/04/npc_leaninsherylsandberg/</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 8월 5일]]></content:encoded>
+            <title><![CDATA[바이든 연설에서 드러난 “두 개의 미국” (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220905015214602ac</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220905015214602ac</guid>
+            <pubDate>Sun, 04 Sep 2022 23:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MDVfNzYg/MDAxNjYyMzEwMDM1NjA5.s8Aq-Bv__tvEskllp3MYfuR01jFwlkucSti2OJ0HotQg.D4FSuTRpP_Y9A30zM10zuXGK_AIV_nQCEzG8PSZcq-Qg.PNG/Screen_Shot_2022-09-04_at_12.40.58_PM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정체성과 얼굴 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -242,14 +250,6 @@
             <pubDate>Thu, 25 Aug 2022 12:33:11 GMT</pubDate>
             <content:encoded><![CDATA[경제 공부방]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MjJfMTk1/MDAxNjU4NDQyNjAxNjY3.44WqS_HjPMwnnfbF2-bX2soP_W8xzh2axGBKGvbxDc4g.wiXBB9ZBKx_wPs8dA15uLgVPdVbcmQPtDoLoJNfmylsg.JPEG/sivani-b-bczrpU9n8f4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대 전쟁의 공급망 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220720071548351dw</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220720071548351dw</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MjBfNDkg/MDAxNjU4MjY4ODY1Mzc2.P0O3wrJRifoI8GsRbKhMLI8DRop7f1bDtWbCIkMkznwg.rcJriWtjxteg4_sfKxxVUpM1L4iiFET5Mb7J41oMVWYg.JPEG/2560px-Bayraktar_TB2_Ground.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

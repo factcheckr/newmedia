@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-09-04T22:16:41.664Z</updated>
+    <updated>2022-09-04T23:16:41.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 기후변화를 향한 미국 대법원의 ‘눈 가리고 아웅’]]></title>
+        <id>https://newspeppermint.com/2022/09/04/npc_scotusepa/</id>
+        <link href="https://newspeppermint.com/2022/09/04/npc_scotusepa/"/>
+        <updated>2022-09-04T23:16:32.130Z</updated>
+        <content type="html"><![CDATA[2022년 9월 5일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 박탈된 여성의 임신중단권과 디지털 사생활 보호]]></title>
         <id>https://newspeppermint.com/2022/09/01/npc_newerawithdobbs/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/08/07/npc_gatesphilanthropy/"/>
         <updated>2022-08-07T23:16:20.472Z</updated>
         <content type="html"><![CDATA[2022년 8월 8일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 셰릴 샌드버그 사임과 다시 돌아보는 “린 인(Lean In)”]]></title>
-        <id>https://newspeppermint.com/2022/08/04/npc_leaninsherylsandberg/</id>
-        <link href="https://newspeppermint.com/2022/08/04/npc_leaninsherylsandberg/"/>
-        <updated>2022-08-04T23:15:31.141Z</updated>
-        <content type="html"><![CDATA[2022년 8월 5일]]></content>
     </entry>
 </feed>
