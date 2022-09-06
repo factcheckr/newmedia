@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 22:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 23:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,6 +90,14 @@
             <guid>https://newspeppermint.com/2022/08/09/npc_giraffeneck/</guid>
             <pubDate>Thu, 25 Aug 2022 12:33:00 GMT</pubDate>
             <content:encoded><![CDATA[2022년 8월 10일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국 대법원 돕스 판결, 중간선거 뒤흔들까? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220906213329815wn</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220906213329815wn</guid>
+            <pubDate>Tue, 06 Sep 2022 23:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MDZfMTMx/MDAxNjYyNDY3Nzg4NDMz.KjKDnZvJ_L3Rrdbf-MBIMtAjvPB6YpQid9-WfI7TlvMg.5FiQ1uHXtpmXcf6rFeZ86YQN7Re2G4BgRnxGFiAMDb8g.JPEG/gayatri-malhotra-JbAOhfWum1s-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바이든 연설에서 드러난 “두 개의 미국” (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -242,14 +250,6 @@
             <pubDate>Thu, 25 Aug 2022 12:33:11 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MjNfMTkg/MDAxNjU4NTc2MjY4NzMy.ZFj13PJTfjfcmOWDZdMGPtSBYXXdQCYhYbZYSnQfIOog.3MZqiZMq5sIwxeoJLfoqynjACn0dR9t_N9hTSw-xKAsg.JPEG/sara-kurfess-untSDM2Hihg-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임화(gamification)에 대처하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220722073133954kn</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220722073133954kn</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MjJfMTk1/MDAxNjU4NDQyNjAxNjY3.44WqS_HjPMwnnfbF2-bX2soP_W8xzh2axGBKGvbxDc4g.wiXBB9ZBKx_wPs8dA15uLgVPdVbcmQPtDoLoJNfmylsg.JPEG/sivani-b-bczrpU9n8f4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
