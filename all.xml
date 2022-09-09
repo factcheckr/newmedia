@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 23:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 01:56:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,6 +90,14 @@
             <guid>https://newspeppermint.com/2022/08/11/npc_gunviolencementalhealth/</guid>
             <pubDate>Thu, 25 Aug 2022 12:33:00 GMT</pubDate>
             <content:encoded><![CDATA[2022년 8월 12일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영국 왕실 관련 뉴스페퍼민트 소개글 모음 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220909090222853zx</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220909090222853zx</guid>
+            <pubDate>Fri, 09 Sep 2022 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MDlfMTI5/MDAxNjYyNjgxODE1OTIw.9JlJtGo0V1N7ViXGq2601FNlfUHtSVjTrXjuIBnd30Ag.vu0wXiH9wJj2maV19ikIX1MFqn20BJqqwcLaHR97YEIg.JPEG/Queen_Elizabeth_II_in_March_2015.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국 대법원 돕스 판결, 중간선거 뒤흔들까? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -242,14 +250,6 @@
             <pubDate>Thu, 25 Aug 2022 12:33:11 GMT</pubDate>
             <content:encoded><![CDATA[경제 공부방]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MjZfMjEy/MDAxNjU4NzY5MTk1MzI3.yWxtpVxMIy9xII2d_0To10LjasL6syVRkVn9v8EERoYg.Dwcwv9C_aeQBh8bX9A-CBhoSe04kVcK4jUj94Zxg6aAg.JPEG/jefferson-sees-QGOWg4m3C7o-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NYT 칼럼니스트들의 고백 “내가 틀렸습니다” (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220723203906786qu</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220723203906786qu</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MjNfMTkg/MDAxNjU4NTc2MjY4NzMy.ZFj13PJTfjfcmOWDZdMGPtSBYXXdQCYhYbZYSnQfIOog.3MZqiZMq5sIwxeoJLfoqynjACn0dR9t_N9hTSw-xKAsg.JPEG/sara-kurfess-untSDM2Hihg-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
