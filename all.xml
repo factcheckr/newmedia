@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 22:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 23:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 상처만 남긴 보리스 존슨 총리의 3년 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/09/12/npc_ukjohnsonexit/</link>
+            <guid>https://newspeppermint.com/2022/09/12/npc_ukjohnsonexit/</guid>
+            <pubDate>Mon, 12 Sep 2022 23:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 9월 13일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 사우디아라비아 방문 앞둔 바이든, 현실과 이상의 괴리 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/09/08/npc_saudiarabia/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/08/15/npc_sportswashing/</guid>
             <pubDate>Thu, 25 Aug 2022 12:33:00 GMT</pubDate>
             <content:encoded><![CDATA[2022년 8월 16일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 총기난사와 정신건강 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/08/11/npc_gunviolencementalhealth/</link>
-            <guid>https://newspeppermint.com/2022/08/11/npc_gunviolencementalhealth/</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 8월 12일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[바이든 행정부 '산업정책' 주도하는 상무부의 핵심 레이몬도 장관 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
