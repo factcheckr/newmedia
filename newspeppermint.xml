@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-09-15T22:18:25.841Z</updated>
+    <updated>2022-09-15T23:21:07.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 질병을 앓는 이에게 공감하는 법에 관하여]]></title>
+        <id>https://newspeppermint.com/2022/09/15/npc_cancerempathy/</id>
+        <link href="https://newspeppermint.com/2022/09/15/npc_cancerempathy/"/>
+        <updated>2022-09-15T23:20:58.586Z</updated>
+        <content type="html"><![CDATA[2022년 9월 16일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 상처만 남긴 보리스 존슨 총리의 3년]]></title>
         <id>https://newspeppermint.com/2022/09/12/npc_ukjohnsonexit/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/08/16/npc_grownup/"/>
         <updated>2022-08-16T23:14:53.253Z</updated>
         <content type="html"><![CDATA[2022년 8월 17일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 사우디 국부 펀드 주최 대안 골프 대회 LIV, 그리고 스포츠워싱]]></title>
-        <id>https://newspeppermint.com/2022/08/15/npc_sportswashing/</id>
-        <link href="https://newspeppermint.com/2022/08/15/npc_sportswashing/"/>
-        <updated>2022-08-15T23:16:51.700Z</updated>
-        <content type="html"><![CDATA[2022년 8월 16일]]></content>
     </entry>
 </feed>
