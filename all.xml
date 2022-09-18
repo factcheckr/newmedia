@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 22:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 23:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 현대 전쟁의 공급망 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/09/18/npc_tb2warfare/</link>
+            <guid>https://newspeppermint.com/2022/09/18/npc_tb2warfare/</guid>
+            <pubDate>Sun, 18 Sep 2022 23:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 9월 19일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 질병을 앓는 이에게 공감하는 법에 관하여 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/09/15/npc_cancerempathy/</link>
@@ -85,11 +92,12 @@
             <content:encoded><![CDATA[2022년 8월 19일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 어른이 된다는 것은 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/08/16/npc_grownup/</link>
-            <guid>https://newspeppermint.com/2022/08/16/npc_grownup/</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 8월 17일]]></content:encoded>
+            <title><![CDATA[수십 년째 줄어들던 미국 범죄율의 불안한 반등 조짐 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220919033352297md</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220919033352297md</guid>
+            <pubDate>Sun, 18 Sep 2022 23:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MTlfMjY5/MDAxNjYzNTI1OTg2NDEx.97ZMgoDPICZJVqOFqwSubEjlXFqLsRqQTgI5165gnccg.PQMSmlVsR3x1To5_12K1wcJRdLPfkriQ6gQhIF08Dgwg.JPEG/david-von-diemar-jM6Y2nhsAtk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문화 현상이 된 ‘사랑의 언어’ (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -242,14 +250,6 @@
             <pubDate>Thu, 25 Aug 2022 12:33:11 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MDVfMzcg/MDAxNjU5NjMzMzA3ODU0.5Dae4TLxVOgk0-zS7EUoPPem3FDM4QlGz1CScBUOyk4g.lUfRswMwhBF9c8ziTmhF-R-mZuOILjfC_osgYKT6aeIg.JPEG/szilvia-basso-cPGv4rXhryc-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 미국 중간선거 관전 포인트: ‘라티노는 민주당 텃밭’ 공식에 균열 갈까? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220802203502664pz</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220802203502664pz</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MDJfMjcx/MDAxNjU5NDM5NzYwOTE0.KZn7MaG-hTVxqolxcn1rpdDcQCFTpfqD6Z4tpqDB1zcg.b7IQ6CANrIBVJNdy067pMCxh5uUuioIVImLZEvlU4mwg.JPEG/download.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

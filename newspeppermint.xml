@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-09-18T22:17:21.914Z</updated>
+    <updated>2022-09-18T23:18:35.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 현대 전쟁의 공급망]]></title>
+        <id>https://newspeppermint.com/2022/09/18/npc_tb2warfare/</id>
+        <link href="https://newspeppermint.com/2022/09/18/npc_tb2warfare/"/>
+        <updated>2022-09-18T23:18:26.713Z</updated>
+        <content type="html"><![CDATA[2022년 9월 19일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 질병을 앓는 이에게 공감하는 법에 관하여]]></title>
         <id>https://newspeppermint.com/2022/09/15/npc_cancerempathy/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/08/18/npc_inflationinequality/"/>
         <updated>2022-08-18T23:17:20.183Z</updated>
         <content type="html"><![CDATA[2022년 8월 19일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 어른이 된다는 것은]]></title>
-        <id>https://newspeppermint.com/2022/08/16/npc_grownup/</id>
-        <link href="https://newspeppermint.com/2022/08/16/npc_grownup/"/>
-        <updated>2022-08-16T23:14:53.253Z</updated>
-        <content type="html"><![CDATA[2022년 8월 17일]]></content>
     </entry>
 </feed>
