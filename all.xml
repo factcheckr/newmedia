@@ -4,9 +4,93 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Sep 2022 10:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 11:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 게임화(gamification)에 대처하는 법 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/09/20/npc_gamification/</link>
+            <guid>https://newspeppermint.com/2022/09/20/npc_gamification/</guid>
+            <pubDate>Thu, 22 Sep 2022 11:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 9월 21일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 현대 전쟁의 공급망 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/09/18/npc_tb2warfare/</link>
+            <guid>https://newspeppermint.com/2022/09/18/npc_tb2warfare/</guid>
+            <pubDate>Thu, 22 Sep 2022 11:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 9월 19일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 질병을 앓는 이에게 공감하는 법에 관하여 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/09/15/npc_cancerempathy/</link>
+            <guid>https://newspeppermint.com/2022/09/15/npc_cancerempathy/</guid>
+            <pubDate>Thu, 22 Sep 2022 11:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 9월 16일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 상처만 남긴 보리스 존슨 총리의 3년 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/09/12/npc_ukjohnsonexit/</link>
+            <guid>https://newspeppermint.com/2022/09/12/npc_ukjohnsonexit/</guid>
+            <pubDate>Thu, 22 Sep 2022 11:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 9월 13일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 사우디아라비아 방문 앞둔 바이든, 현실과 이상의 괴리 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/09/08/npc_saudiarabia/</link>
+            <guid>https://newspeppermint.com/2022/09/08/npc_saudiarabia/</guid>
+            <pubDate>Thu, 22 Sep 2022 11:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 9월 9일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 틱톡과 알고리듬 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/09/05/npc_tiktok/</link>
+            <guid>https://newspeppermint.com/2022/09/05/npc_tiktok/</guid>
+            <pubDate>Thu, 22 Sep 2022 11:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 9월 6일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 기후변화를 향한 미국 대법원의 ‘눈 가리고 아웅’ (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/09/04/npc_scotusepa/</link>
+            <guid>https://newspeppermint.com/2022/09/04/npc_scotusepa/</guid>
+            <pubDate>Thu, 22 Sep 2022 11:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 9월 5일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 박탈된 여성의 임신중단권과 디지털 사생활 보호 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/09/01/npc_newerawithdobbs/</link>
+            <guid>https://newspeppermint.com/2022/09/01/npc_newerawithdobbs/</guid>
+            <pubDate>Thu, 22 Sep 2022 11:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 9월 2일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 생선과 비타민 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/08/30/npc_poissonvitamin/</link>
+            <guid>https://newspeppermint.com/2022/08/30/npc_poissonvitamin/</guid>
+            <pubDate>Thu, 22 Sep 2022 11:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 8월 31일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 수정헌법 2조와 클래런스 토머스 대법관의 비뚤어진 원전주의 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/08/28/npc_scotusgunoriginalism/</link>
+            <guid>https://newspeppermint.com/2022/08/28/npc_scotusgunoriginalism/</guid>
+            <pubDate>Thu, 22 Sep 2022 11:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 8월 29일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 미국 정치에서 새로 부상하는 유권자 집단 아시아-태평양계 미국인 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/08/25/npc_aapi/</link>
+            <guid>https://newspeppermint.com/2022/08/25/npc_aapi/</guid>
+            <pubDate>Thu, 22 Sep 2022 11:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 8월 26일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 인간의 영원한 꿈, 영생 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/08/22/npc_eternallife/</link>
+            <guid>https://newspeppermint.com/2022/08/22/npc_eternallife/</guid>
+            <pubDate>Thu, 22 Sep 2022 11:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 8월 23일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[수리남 바우테르서 전 대통령의 그림자 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220921060606583va</link>
