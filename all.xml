@@ -1,91 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/newmedia/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-10-18T11:17:26.443Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 마침내 통과된 기후변화 대응법, 성공인가 실패인가? (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/10/17/npc_inflationreductionact/</id>
-        <link href="https://newspeppermint.com/2022/10/17/npc_inflationreductionact/"/>
-        <updated>2022-10-18T11:17:18.049Z</updated>
-        <content type="html"><![CDATA[2022년 10월 18일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 코로나19 후유증(Long COVID) (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/10/16/npc_longcovid/</id>
-        <link href="https://newspeppermint.com/2022/10/16/npc_longcovid/"/>
-        <updated>2022-10-18T11:17:18.087Z</updated>
-        <content type="html"><![CDATA[2022년 10월 17일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] ‘용 나는 개천’의 비결은 ‘부자 친구’ 많이 사귀기? (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/10/09/npc_friendingbias/</id>
-        <link href="https://newspeppermint.com/2022/10/09/npc_friendingbias/"/>
-        <updated>2022-10-18T11:17:18.091Z</updated>
-        <content type="html"><![CDATA[2022년 10월 10일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 미중 갈등 시대, 각국의 쉽지 않은 균형 잡기 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/10/06/npc_pelosiinasia/</id>
-        <link href="https://newspeppermint.com/2022/10/06/npc_pelosiinasia/"/>
-        <updated>2022-10-18T11:17:18.093Z</updated>
-        <content type="html"><![CDATA[2022년 10월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 인생의 중요한 결정을 데이터를 기반으로 내릴 수 있을까요? (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/10/04/npc_datadecision/</id>
-        <link href="https://newspeppermint.com/2022/10/04/npc_datadecision/"/>
-        <updated>2022-10-18T11:17:18.095Z</updated>
-        <content type="html"><![CDATA[2022년 10월 5일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 2022 미국 중간선거 관전 포인트: ‘라티노=민주당 텃밭’ 공식에 균열 갈까? (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/10/02/75368/</id>
-        <link href="https://newspeppermint.com/2022/10/02/75368/"/>
-        <updated>2022-10-18T11:17:18.096Z</updated>
-        <content type="html"><![CDATA[2022년 10월 3일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전문 번역] 리사 헤인즐링 칼럼 “미국 정치를 집어삼킨 대법원” (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/09/29/npc_heinzerlingonscotus/</id>
-        <link href="https://newspeppermint.com/2022/09/29/npc_heinzerlingonscotus/"/>
-        <updated>2022-10-18T11:17:18.103Z</updated>
-        <content type="html"><![CDATA[2022년 9월 30일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 유당불내증과 유당내성 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/09/27/npc_lactosetolerance/</id>
-        <link href="https://newspeppermint.com/2022/09/27/npc_lactosetolerance/"/>
-        <updated>2022-10-18T11:17:18.110Z</updated>
-        <content type="html"><![CDATA[2022년 9월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] NYT 칼럼니스트들의 고백 “내가 틀렸습니다” (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/09/22/npc_iwaswrong/</id>
-        <link href="https://newspeppermint.com/2022/09/22/npc_iwaswrong/"/>
-        <updated>2022-10-18T11:17:18.111Z</updated>
-        <content type="html"><![CDATA[2022년 9월 23일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 게임화(gamification)에 대처하는 법 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/09/20/npc_gamification/</id>
-        <link href="https://newspeppermint.com/2022/09/20/npc_gamification/"/>
-        <updated>2022-10-18T11:17:18.111Z</updated>
-        <content type="html"><![CDATA[2022년 9월 21일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 현대 전쟁의 공급망 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/09/18/npc_tb2warfare/</id>
-        <link href="https://newspeppermint.com/2022/09/18/npc_tb2warfare/"/>
-        <updated>2022-10-18T11:17:18.115Z</updated>
-        <content type="html"><![CDATA[2022년 9월 19일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 질병을 앓는 이에게 공감하는 법에 관하여 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/09/15/npc_cancerempathy/</id>
-        <link href="https://newspeppermint.com/2022/09/15/npc_cancerempathy/"/>
-        <updated>2022-10-18T11:17:18.115Z</updated>
-        <content type="html"><![CDATA[2022년 9월 16일]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 18 Oct 2022 12:40:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/221001071659343iv</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/221001071659343iv</guid>
+            <pubDate>Tue, 18 Oct 2022 12:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjEwMDFfMjcx/MDAxNjY0NTc2MTAyOTg4.gZNTsWXKH_jpeKq3kfoF8uTejSBz8HnBHwDyGXN2Kvkg.PaueEnSpznb-a8Ks3zaTAY870MPhsbxdgNNb6_t2mp0g.JPEG/museums-victoria-n1LIveUPls4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 미국 중간선거는 무엇이 걸린 선거일까? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220928050751505la</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220928050751505la</guid>
+            <pubDate>Tue, 18 Oct 2022 12:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MjhfNDgg/MDAxNjY0MzA5MTgzNzMy.fmij8NyVbVT43AyfpXfc5u02WoDsBEaQLKt0IioPaW0g.sABixe9iijnQKrjPrVwTByFjDILRsvOwc0DyDTKgpdkg.JPEG/parker-johnson-v0OWc_skg0g-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이란 여성들은 반정부 시위에서 왜 히잡을 불태웠나 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220926021635938sa</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220926021635938sa</guid>
+            <pubDate>Tue, 18 Oct 2022 12:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MjZfNTYg/MDAxNjY0MTI2MTE3MTMz.U09naBJtuEiePyZfOoaCYH_vb18NhDxH6vq3VPmj86og.DnSRaOyqPEaK6EOJqO3E2_J5hTz91GdljhDljTm4zNkg.JPEG/20220924_MAP502.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[나를 위해 지금 현재에 충실합시다 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220923050227532xn</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220923050227532xn</guid>
+            <pubDate>Tue, 18 Oct 2022 12:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MjNfMTEw/MDAxNjYzODc2ODYzNzU4.pjl9c0fpbv3FmclgPHlx1aZs-f2LYzkY9BTvd87d-Owg.lIdpOUWBzoDIA4vVfAx-6c7BgMcjCpTVa3YZcpPicKgg.JPEG/jan-canty-WdNTHwtGjv0-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수리남 바우테르서 전 대통령의 그림자 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220921060606583va</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220921060606583va</guid>
+            <pubDate>Tue, 18 Oct 2022 12:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MjFfOTMg/MDAxNjYzNzA3Njk1OTk2.GrS9ev-q8OQUOY28LzU6UiDkagHepwuv5F0g1KDKvE0g.FvQ45Plw39x9WsvorEbLChIMwpldddaHzcl-Penv2v4g.JPEG/Narco-Saints_TV_series_poster.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[수십 년째 줄어들던 미국 범죄율의 불안한 반등 조짐 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220919033352297md</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220919033352297md</guid>
+            <pubDate>Tue, 18 Oct 2022 12:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MTlfMjY5/MDAxNjYzNTI1OTg2NDEx.97ZMgoDPICZJVqOFqwSubEjlXFqLsRqQTgI5165gnccg.PQMSmlVsR3x1To5_12K1wcJRdLPfkriQ6gQhIF08Dgwg.JPEG/david-von-diemar-jM6Y2nhsAtk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문화 현상이 된 ‘사랑의 언어’ (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220916042804954gu</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220916042804954gu</guid>
+            <pubDate>Tue, 18 Oct 2022 12:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MTZfMTMx/MDAxNjYzMjcwMDMxODIy.raVhLI5K_pkdraMVRNQEzM-UPoAuagLyfPxmpJujXmMg.400KyU0o_Hd3f5gkp7AoAULOO8qsYmz2TZCqR1keaLYg.JPEG/mayur-gala-2PODhmrvLik-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엘리자베스 2세 서거와 영국 왕실 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220913210551502vz</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220913210551502vz</guid>
+            <pubDate>Tue, 18 Oct 2022 12:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MTNfMjU5/MDAxNjYzMDcwNjkyNzYy.Cs09iJwIMt5sxUec9KKP1N6fGDjfs9ulFhHWN-QuEIEg.gPqG9VUuvpFr8wbO4OI5o_pUU2ME5X1o8NmZ0zgBVC8g.PNG/880028ad9e8a4f548e543bfcf5e678d2.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[바이든 행정부 '산업정책' 주도하는 상무부의 핵심 레이몬도 장관 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220912043156388cj</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220912043156388cj</guid>
+            <pubDate>Tue, 18 Oct 2022 12:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MTJfMTM1/MDAxNjYyOTI0NjIwNDUx.NQ7IjT88aJHfEVpFf_tS2B2Bw404P8qlp24593KfoFYg.nCE7Z9cy1a5izr1apM6erks2ylHdVhfnGye0twB9ElAg.PNG/Screen_Shot_2022-09-11_at_11.52.50_AM.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 왕실 관련 뉴스페퍼민트 소개글 모음 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220909090222853zx</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220909090222853zx</guid>
+            <pubDate>Tue, 18 Oct 2022 12:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MDlfMTI5/MDAxNjYyNjgxODE1OTIw.9JlJtGo0V1N7ViXGq2601FNlfUHtSVjTrXjuIBnd30Ag.vu0wXiH9wJj2maV19ikIX1MFqn20BJqqwcLaHR97YEIg.JPEG/Queen_Elizabeth_II_in_March_2015.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
