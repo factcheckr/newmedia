@@ -2,7 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-10-24T17:35:55.595Z</updated>
+    <updated>2022-10-24T18:34:03.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 탈레반의 아프가니스탄 수복 ‘벌써 1년’]]></title>
+        <id>https://newspeppermint.com/2022/10/23/npc_talibanafghanistan/</id>
+        <link href="https://newspeppermint.com/2022/10/23/npc_talibanafghanistan/"/>
+        <updated>2022-10-24T18:33:55.248Z</updated>
+        <content type="html"><![CDATA[2022년 10월 24일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 치매를 피해 봅시다]]></title>
+        <id>https://newspeppermint.com/2022/10/20/npc_dementia/</id>
+        <link href="https://newspeppermint.com/2022/10/20/npc_dementia/"/>
+        <updated>2022-10-24T18:33:55.255Z</updated>
+        <content type="html"><![CDATA[2022년 10월 21일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 알렉스 존스, 음모론과 웰니스 산업의 위험한 결합]]></title>
+        <id>https://newspeppermint.com/2022/10/18/npc_alexjoneswellness/</id>
+        <link href="https://newspeppermint.com/2022/10/18/npc_alexjoneswellness/"/>
+        <updated>2022-10-24T18:33:55.282Z</updated>
+        <content type="html"><![CDATA[2022년 10월 19일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 마침내 통과된 기후변화 대응법, 성공인가 실패인가?]]></title>
+        <id>https://newspeppermint.com/2022/10/17/npc_inflationreductionact/</id>
+        <link href="https://newspeppermint.com/2022/10/17/npc_inflationreductionact/"/>
+        <updated>2022-10-24T18:33:55.287Z</updated>
+        <content type="html"><![CDATA[2022년 10월 18일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 코로나19 후유증(Long COVID)]]></title>
+        <id>https://newspeppermint.com/2022/10/16/npc_longcovid/</id>
+        <link href="https://newspeppermint.com/2022/10/16/npc_longcovid/"/>
+        <updated>2022-10-24T18:33:55.288Z</updated>
+        <content type="html"><![CDATA[2022년 10월 17일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] ‘용 나는 개천’의 비결은 ‘부자 친구’ 많이 사귀기?]]></title>
+        <id>https://newspeppermint.com/2022/10/09/npc_friendingbias/</id>
+        <link href="https://newspeppermint.com/2022/10/09/npc_friendingbias/"/>
+        <updated>2022-10-24T18:33:55.289Z</updated>
+        <content type="html"><![CDATA[2022년 10월 10일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 미중 갈등 시대, 각국의 쉽지 않은 균형 잡기]]></title>
+        <id>https://newspeppermint.com/2022/10/06/npc_pelosiinasia/</id>
+        <link href="https://newspeppermint.com/2022/10/06/npc_pelosiinasia/"/>
+        <updated>2022-10-24T18:33:55.293Z</updated>
+        <content type="html"><![CDATA[2022년 10월 7일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 인생의 중요한 결정을 데이터를 기반으로 내릴 수 있을까요?]]></title>
+        <id>https://newspeppermint.com/2022/10/04/npc_datadecision/</id>
+        <link href="https://newspeppermint.com/2022/10/04/npc_datadecision/"/>
+        <updated>2022-10-24T18:33:55.295Z</updated>
+        <content type="html"><![CDATA[2022년 10월 5일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 2022 미국 중간선거 관전 포인트: ‘라티노=민주당 텃밭’ 공식에 균열 갈까?]]></title>
+        <id>https://newspeppermint.com/2022/10/02/75368/</id>
+        <link href="https://newspeppermint.com/2022/10/02/75368/"/>
+        <updated>2022-10-24T18:33:55.296Z</updated>
+        <content type="html"><![CDATA[2022년 10월 3일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[전문 번역] 리사 헤인즐링 칼럼 “미국 정치를 집어삼킨 대법원”]]></title>
+        <id>https://newspeppermint.com/2022/09/29/npc_heinzerlingonscotus/</id>
+        <link href="https://newspeppermint.com/2022/09/29/npc_heinzerlingonscotus/"/>
+        <updated>2022-10-24T18:33:55.297Z</updated>
+        <content type="html"><![CDATA[2022년 9월 30일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 유당불내증과 유당내성]]></title>
+        <id>https://newspeppermint.com/2022/09/27/npc_lactosetolerance/</id>
+        <link href="https://newspeppermint.com/2022/09/27/npc_lactosetolerance/"/>
+        <updated>2022-10-24T18:33:55.302Z</updated>
+        <content type="html"><![CDATA[2022년 9월 28일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] NYT 칼럼니스트들의 고백 “내가 틀렸습니다”]]></title>
+        <id>https://newspeppermint.com/2022/09/22/npc_iwaswrong/</id>
+        <link href="https://newspeppermint.com/2022/09/22/npc_iwaswrong/"/>
+        <updated>2022-10-24T18:33:55.305Z</updated>
+        <content type="html"><![CDATA[2022년 9월 23일]]></content>
+    </entry>
 </feed>
