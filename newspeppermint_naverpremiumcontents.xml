@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://contents.premium.naver.com/newspeppermint/main/contents</id>
-    <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
-    <updated>2022-10-26T22:19:43.965Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://contents.premium.naver.com/newspeppermint/main/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 26 Oct 2022 23:21:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/221001071659343iv</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/221001071659343iv</guid>
+            <pubDate>Wed, 26 Oct 2022 23:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjEwMDFfMjcx/MDAxNjY0NTc2MTAyOTg4.gZNTsWXKH_jpeKq3kfoF8uTejSBz8HnBHwDyGXN2Kvkg.PaueEnSpznb-a8Ks3zaTAY870MPhsbxdgNNb6_t2mp0g.JPEG/museums-victoria-n1LIveUPls4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 미국 중간선거는 무엇이 걸린 선거일까?]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220928050751505la</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220928050751505la</guid>
+            <pubDate>Wed, 26 Oct 2022 23:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MjhfNDgg/MDAxNjY0MzA5MTgzNzMy.fmij8NyVbVT43AyfpXfc5u02WoDsBEaQLKt0IioPaW0g.sABixe9iijnQKrjPrVwTByFjDILRsvOwc0DyDTKgpdkg.JPEG/parker-johnson-v0OWc_skg0g-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이란 여성들은 반정부 시위에서 왜 히잡을 불태웠나]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220926021635938sa</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220926021635938sa</guid>
+            <pubDate>Wed, 26 Oct 2022 23:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MjZfNTYg/MDAxNjY0MTI2MTE3MTMz.U09naBJtuEiePyZfOoaCYH_vb18NhDxH6vq3VPmj86og.DnSRaOyqPEaK6EOJqO3E2_J5hTz91GdljhDljTm4zNkg.JPEG/20220924_MAP502.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[나를 위해 지금 현재에 충실합시다]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220923050227532xn</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220923050227532xn</guid>
+            <pubDate>Wed, 26 Oct 2022 23:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MjNfMTEw/MDAxNjYzODc2ODYzNzU4.pjl9c0fpbv3FmclgPHlx1aZs-f2LYzkY9BTvd87d-Owg.lIdpOUWBzoDIA4vVfAx-6c7BgMcjCpTVa3YZcpPicKgg.JPEG/jan-canty-WdNTHwtGjv0-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수리남 바우테르서 전 대통령의 그림자]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220921060606583va</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220921060606583va</guid>
+            <pubDate>Wed, 26 Oct 2022 23:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MjFfOTMg/MDAxNjYzNzA3Njk1OTk2.GrS9ev-q8OQUOY28LzU6UiDkagHepwuv5F0g1KDKvE0g.FvQ45Plw39x9WsvorEbLChIMwpldddaHzcl-Penv2v4g.JPEG/Narco-Saints_TV_series_poster.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[수십 년째 줄어들던 미국 범죄율의 불안한 반등 조짐]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220919033352297md</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220919033352297md</guid>
+            <pubDate>Wed, 26 Oct 2022 23:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MTlfMjY5/MDAxNjYzNTI1OTg2NDEx.97ZMgoDPICZJVqOFqwSubEjlXFqLsRqQTgI5165gnccg.PQMSmlVsR3x1To5_12K1wcJRdLPfkriQ6gQhIF08Dgwg.JPEG/david-von-diemar-jM6Y2nhsAtk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문화 현상이 된 ‘사랑의 언어’]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220916042804954gu</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220916042804954gu</guid>
+            <pubDate>Wed, 26 Oct 2022 23:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MTZfMTMx/MDAxNjYzMjcwMDMxODIy.raVhLI5K_pkdraMVRNQEzM-UPoAuagLyfPxmpJujXmMg.400KyU0o_Hd3f5gkp7AoAULOO8qsYmz2TZCqR1keaLYg.JPEG/mayur-gala-2PODhmrvLik-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엘리자베스 2세 서거와 영국 왕실]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220913210551502vz</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220913210551502vz</guid>
+            <pubDate>Wed, 26 Oct 2022 23:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MTNfMjU5/MDAxNjYzMDcwNjkyNzYy.Cs09iJwIMt5sxUec9KKP1N6fGDjfs9ulFhHWN-QuEIEg.gPqG9VUuvpFr8wbO4OI5o_pUU2ME5X1o8NmZ0zgBVC8g.PNG/880028ad9e8a4f548e543bfcf5e678d2.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[바이든 행정부 '산업정책' 주도하는 상무부의 핵심 레이몬도 장관]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220912043156388cj</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220912043156388cj</guid>
+            <pubDate>Wed, 26 Oct 2022 23:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MTJfMTM1/MDAxNjYyOTI0NjIwNDUx.NQ7IjT88aJHfEVpFf_tS2B2Bw404P8qlp24593KfoFYg.nCE7Z9cy1a5izr1apM6erks2ylHdVhfnGye0twB9ElAg.PNG/Screen_Shot_2022-09-11_at_11.52.50_AM.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 왕실 관련 뉴스페퍼민트 소개글 모음]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220909090222853zx</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220909090222853zx</guid>
+            <pubDate>Wed, 26 Oct 2022 23:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MDlfMTI5/MDAxNjYyNjgxODE1OTIw.9JlJtGo0V1N7ViXGq2601FNlfUHtSVjTrXjuIBnd30Ag.vu0wXiH9wJj2maV19ikIX1MFqn20BJqqwcLaHR97YEIg.JPEG/Queen_Elizabeth_II_in_March_2015.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 대법원 돕스 판결, 중간선거 뒤흔들까?]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220906213329815wn</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220906213329815wn</guid>
+            <pubDate>Wed, 26 Oct 2022 23:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MDZfMTMx/MDAxNjYyNDY3Nzg4NDMz.KjKDnZvJ_L3Rrdbf-MBIMtAjvPB6YpQid9-WfI7TlvMg.5FiQ1uHXtpmXcf6rFeZ86YQN7Re2G4BgRnxGFiAMDb8g.JPEG/gayatri-malhotra-JbAOhfWum1s-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이든 연설에서 드러난 “두 개의 미국”]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220905015214602ac</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220905015214602ac</guid>
+            <pubDate>Wed, 26 Oct 2022 23:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MDVfNzYg/MDAxNjYyMzEwMDM1NjA5.s8Aq-Bv__tvEskllp3MYfuR01jFwlkucSti2OJ0HotQg.D4FSuTRpP_Y9A30zM10zuXGK_AIV_nQCEzG8PSZcq-Qg.PNG/Screen_Shot_2022-09-04_at_12.40.58_PM.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
