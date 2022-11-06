@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Nov 2022 15:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Nov 2022 16:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,22 @@
             <pubDate>Sun, 06 Nov 2022 15:18:01 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MjFfMTE1/MDAxNjYxMDM1MzI0NDg3.qQq5jhoe7c9eOlf3tR9r735uw8L9IJuRpBWDVZZAnAQg.Q9ZPL9_2Lx0rVtHPxmZgeB0rUP2iLMR0zE8quo5zgPwg.JPEG/_126356091_f896b7f9-d33c-4db5-b6e8-5ec7dfe91bc7.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[치매를 피해 봅시다 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220819070723022pm</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220819070723022pm</guid>
+            <pubDate>Sun, 06 Nov 2022 16:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MTlfNzcg/MDAxNjYwODYwNDAzNjYw.md8JY3cBINQEoJOoVPoB-KT1WkwbaEM1BDTmJvgio9Ug.FUUx75x-j5-6FRW9HZzqhHVQA4oNygji8fliVGcypvEg.JPEG/clement-falize-uJrRY8gUm7E-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알렉스 존스, 음모론과 웰니스 산업의 위험한 결합 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220816192453342sx</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220816192453342sx</guid>
+            <pubDate>Sun, 06 Nov 2022 16:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MTZfMjQ5/MDAxNjYwNjQ1NDI5NTk2.Vjw9Qgrqq32RH0bQ11lOYkJT9XjqplMcCht1ILmFK3og.FThbXyjKhegfYs_6xdqmlHQPIgbWtdgfbgG5bCCkPRcg.JPEG/deniz-altindas-t1XLQvDqt_4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
