@@ -4,93 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 20:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 21:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[필진 칼럼] 미국 대법원 돕스 판결, 중간선거 뒤흔들까? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/11/06/npc_dobbsmidterm/</link>
-            <guid>https://newspeppermint.com/2022/11/06/npc_dobbsmidterm/</guid>
-            <pubDate>Mon, 07 Nov 2022 20:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 11월 7일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 정체성과 얼굴 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/11/01/npc_identity/</link>
-            <guid>https://newspeppermint.com/2022/11/01/npc_identity/</guid>
-            <pubDate>Mon, 07 Nov 2022 20:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 11월 2일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 비행 에티켓 (2022년 판) (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/10/30/npc_flyingetiquette/</link>
-            <guid>https://newspeppermint.com/2022/10/30/npc_flyingetiquette/</guid>
-            <pubDate>Mon, 07 Nov 2022 20:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 31일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 리즈 체니의 정치 인생 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/10/27/npc_lizcheney/</link>
-            <guid>https://newspeppermint.com/2022/10/27/npc_lizcheney/</guid>
-            <pubDate>Mon, 07 Nov 2022 20:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 28일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 패션과 철학 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/10/26/npc_fashion/</link>
-            <guid>https://newspeppermint.com/2022/10/26/npc_fashion/</guid>
-            <pubDate>Mon, 07 Nov 2022 20:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 27일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 선호투표제, 미국 정치 판도 바꿀까? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/10/24/npc_rankchoicedvoting/</link>
-            <guid>https://newspeppermint.com/2022/10/24/npc_rankchoicedvoting/</guid>
-            <pubDate>Mon, 07 Nov 2022 20:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 25일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 탈레반의 아프가니스탄 수복 ‘벌써 1년’ (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/10/23/npc_talibanafghanistan/</link>
-            <guid>https://newspeppermint.com/2022/10/23/npc_talibanafghanistan/</guid>
-            <pubDate>Mon, 07 Nov 2022 20:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 24일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 치매를 피해 봅시다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/10/20/npc_dementia/</link>
-            <guid>https://newspeppermint.com/2022/10/20/npc_dementia/</guid>
-            <pubDate>Mon, 07 Nov 2022 20:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 21일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 알렉스 존스, 음모론과 웰니스 산업의 위험한 결합 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/10/18/npc_alexjoneswellness/</link>
-            <guid>https://newspeppermint.com/2022/10/18/npc_alexjoneswellness/</guid>
-            <pubDate>Mon, 07 Nov 2022 20:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 19일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 마침내 통과된 기후변화 대응법, 성공인가 실패인가? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/10/17/npc_inflationreductionact/</link>
-            <guid>https://newspeppermint.com/2022/10/17/npc_inflationreductionact/</guid>
-            <pubDate>Mon, 07 Nov 2022 20:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 18일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 코로나19 후유증(Long COVID) (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/10/16/npc_longcovid/</link>
-            <guid>https://newspeppermint.com/2022/10/16/npc_longcovid/</guid>
-            <pubDate>Mon, 07 Nov 2022 20:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 17일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] ‘용 나는 개천’의 비결은 ‘부자 친구’ 많이 사귀기? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/10/09/npc_friendingbias/</link>
-            <guid>https://newspeppermint.com/2022/10/09/npc_friendingbias/</guid>
-            <pubDate>Mon, 07 Nov 2022 20:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 10일]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/221001071659343iv</link>
