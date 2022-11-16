@@ -2,7 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-11-16T16:39:21.925Z</updated>
+    <updated>2022-11-16T17:26:52.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 바이든 행정부 ‘산업정책’ 주도하는 상무부의 핵심 레이몬도 장관]]></title>
+        <id>https://newspeppermint.com/2022/11/15/npc_uscommercedep/</id>
+        <link href="https://newspeppermint.com/2022/11/15/npc_uscommercedep/"/>
+        <updated>2022-11-16T17:26:42.617Z</updated>
+        <content type="html"><![CDATA[2022년 11월 16일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 기층 유권자들의 이탈 부른 민주당 엘리트의 선택]]></title>
+        <id>https://newspeppermint.com/2022/11/14/npsp_elites/</id>
+        <link href="https://newspeppermint.com/2022/11/14/npsp_elites/"/>
+        <updated>2022-11-16T17:26:42.631Z</updated>
+        <content type="html"><![CDATA[2022년 11월 15일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 미국 대법원 돕스 판결, 중간선거 뒤흔들까?]]></title>
+        <id>https://newspeppermint.com/2022/11/06/npc_dobbsmidterm/</id>
+        <link href="https://newspeppermint.com/2022/11/06/npc_dobbsmidterm/"/>
+        <updated>2022-11-16T17:26:42.632Z</updated>
+        <content type="html"><![CDATA[2022년 11월 7일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 정체성과 얼굴]]></title>
+        <id>https://newspeppermint.com/2022/11/01/npc_identity/</id>
+        <link href="https://newspeppermint.com/2022/11/01/npc_identity/"/>
+        <updated>2022-11-16T17:26:42.636Z</updated>
+        <content type="html"><![CDATA[2022년 11월 2일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 비행 에티켓 (2022년 판)]]></title>
+        <id>https://newspeppermint.com/2022/10/30/npc_flyingetiquette/</id>
+        <link href="https://newspeppermint.com/2022/10/30/npc_flyingetiquette/"/>
+        <updated>2022-11-16T17:26:42.642Z</updated>
+        <content type="html"><![CDATA[2022년 10월 31일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 리즈 체니의 정치 인생]]></title>
+        <id>https://newspeppermint.com/2022/10/27/npc_lizcheney/</id>
+        <link href="https://newspeppermint.com/2022/10/27/npc_lizcheney/"/>
+        <updated>2022-11-16T17:26:42.643Z</updated>
+        <content type="html"><![CDATA[2022년 10월 28일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 패션과 철학]]></title>
+        <id>https://newspeppermint.com/2022/10/26/npc_fashion/</id>
+        <link href="https://newspeppermint.com/2022/10/26/npc_fashion/"/>
+        <updated>2022-11-16T17:26:42.646Z</updated>
+        <content type="html"><![CDATA[2022년 10월 27일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 선호투표제, 미국 정치 판도 바꿀까?]]></title>
+        <id>https://newspeppermint.com/2022/10/24/npc_rankchoicedvoting/</id>
+        <link href="https://newspeppermint.com/2022/10/24/npc_rankchoicedvoting/"/>
+        <updated>2022-11-16T17:26:42.648Z</updated>
+        <content type="html"><![CDATA[2022년 10월 25일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 탈레반의 아프가니스탄 수복 ‘벌써 1년’]]></title>
+        <id>https://newspeppermint.com/2022/10/23/npc_talibanafghanistan/</id>
+        <link href="https://newspeppermint.com/2022/10/23/npc_talibanafghanistan/"/>
+        <updated>2022-11-16T17:26:42.649Z</updated>
+        <content type="html"><![CDATA[2022년 10월 24일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 치매를 피해 봅시다]]></title>
+        <id>https://newspeppermint.com/2022/10/20/npc_dementia/</id>
+        <link href="https://newspeppermint.com/2022/10/20/npc_dementia/"/>
+        <updated>2022-11-16T17:26:42.650Z</updated>
+        <content type="html"><![CDATA[2022년 10월 21일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 알렉스 존스, 음모론과 웰니스 산업의 위험한 결합]]></title>
+        <id>https://newspeppermint.com/2022/10/18/npc_alexjoneswellness/</id>
+        <link href="https://newspeppermint.com/2022/10/18/npc_alexjoneswellness/"/>
+        <updated>2022-11-16T17:26:42.654Z</updated>
+        <content type="html"><![CDATA[2022년 10월 19일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 마침내 통과된 기후변화 대응법, 성공인가 실패인가?]]></title>
+        <id>https://newspeppermint.com/2022/10/17/npc_inflationreductionact/</id>
+        <link href="https://newspeppermint.com/2022/10/17/npc_inflationreductionact/"/>
+        <updated>2022-11-16T17:26:42.654Z</updated>
+        <content type="html"><![CDATA[2022년 10월 18일]]></content>
+    </entry>
 </feed>
