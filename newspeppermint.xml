@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-11-16T22:16:00.329Z</updated>
+    <updated>2022-11-16T23:16:15.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 엘리자베스 2세 서거와 영국 왕실]]></title>
+        <id>https://newspeppermint.com/2022/11/16/npc_ukroyal/</id>
+        <link href="https://newspeppermint.com/2022/11/16/npc_ukroyal/"/>
+        <updated>2022-11-16T23:16:02.298Z</updated>
+        <content type="html"><![CDATA[2022년 11월 17일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 바이든 행정부 ‘산업정책’ 주도하는 상무부의 핵심 레이몬도 장관]]></title>
         <id>https://newspeppermint.com/2022/11/15/npc_uscommercedep/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/10/18/npc_alexjoneswellness/"/>
         <updated>2022-11-16T17:26:42.654Z</updated>
         <content type="html"><![CDATA[2022년 10월 19일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 마침내 통과된 기후변화 대응법, 성공인가 실패인가?]]></title>
-        <id>https://newspeppermint.com/2022/10/17/npc_inflationreductionact/</id>
-        <link href="https://newspeppermint.com/2022/10/17/npc_inflationreductionact/"/>
-        <updated>2022-11-16T17:26:42.654Z</updated>
-        <content type="html"><![CDATA[2022년 10월 18일]]></content>
     </entry>
 </feed>
