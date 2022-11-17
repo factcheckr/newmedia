@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-11-17T22:16:31.245Z</updated>
+    <updated>2022-11-17T23:17:28.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 중간선거에서 ‘붉은 파도’가 없었던 이유는]]></title>
+        <id>https://newspeppermint.com/2022/11/17/npsp_noredwave/</id>
+        <link href="https://newspeppermint.com/2022/11/17/npsp_noredwave/"/>
+        <updated>2022-11-17T23:17:18.364Z</updated>
+        <content type="html"><![CDATA[2022년 11월 18일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 엘리자베스 2세 서거와 영국 왕실]]></title>
         <id>https://newspeppermint.com/2022/11/16/npc_ukroyal/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/10/20/npc_dementia/"/>
         <updated>2022-11-16T17:26:42.650Z</updated>
         <content type="html"><![CDATA[2022년 10월 21일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 알렉스 존스, 음모론과 웰니스 산업의 위험한 결합]]></title>
-        <id>https://newspeppermint.com/2022/10/18/npc_alexjoneswellness/</id>
-        <link href="https://newspeppermint.com/2022/10/18/npc_alexjoneswellness/"/>
-        <updated>2022-11-16T17:26:42.654Z</updated>
-        <content type="html"><![CDATA[2022년 10월 19일]]></content>
     </entry>
 </feed>

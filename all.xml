@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 22:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 23:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 중간선거에서 ‘붉은 파도’가 없었던 이유는 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/11/17/npsp_noredwave/</link>
+            <guid>https://newspeppermint.com/2022/11/17/npsp_noredwave/</guid>
+            <pubDate>Thu, 17 Nov 2022 23:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 11월 18일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 엘리자베스 2세 서거와 영국 왕실 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/11/16/npc_ukroyal/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/10/20/npc_dementia/</guid>
             <pubDate>Wed, 16 Nov 2022 17:26:42 GMT</pubDate>
             <content:encoded><![CDATA[2022년 10월 21일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 알렉스 존스, 음모론과 웰니스 산업의 위험한 결합 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/10/18/npc_alexjoneswellness/</link>
-            <guid>https://newspeppermint.com/2022/10/18/npc_alexjoneswellness/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 19일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
