@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-11-21T05:15:44.818Z</updated>
+    <updated>2022-11-21T06:21:40.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일론 머스크식 ‘언론의 자유’는 민주주의를 위협한다]]></title>
+        <id>https://newspeppermint.com/2022/11/21/npsp_musktwitter/</id>
+        <link href="https://newspeppermint.com/2022/11/21/npsp_musktwitter/"/>
+        <updated>2022-11-21T06:21:29.838Z</updated>
+        <content type="html"><![CDATA[2022년 11월 22일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 중간선거에서 ‘붉은 파도’가 없었던 이유는]]></title>
         <id>https://newspeppermint.com/2022/11/17/npsp_noredwave/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/10/23/npc_talibanafghanistan/"/>
         <updated>2022-11-16T17:26:42.649Z</updated>
         <content type="html"><![CDATA[2022년 10월 24일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 치매를 피해 봅시다]]></title>
-        <id>https://newspeppermint.com/2022/10/20/npc_dementia/</id>
-        <link href="https://newspeppermint.com/2022/10/20/npc_dementia/"/>
-        <updated>2022-11-16T17:26:42.650Z</updated>
-        <content type="html"><![CDATA[2022년 10월 21일]]></content>
     </entry>
 </feed>
