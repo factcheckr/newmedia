@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 22:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 23:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 문화 현상이 된 ‘사랑의 언어’ (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/11/21/npc_lovelanguage/</link>
+            <guid>https://newspeppermint.com/2022/11/21/npc_lovelanguage/</guid>
+            <pubDate>Mon, 21 Nov 2022 23:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 11월 22일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[일론 머스크식 ‘언론의 자유’는 민주주의를 위협한다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/11/21/npsp_musktwitter/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/10/24/npc_rankchoicedvoting/</guid>
             <pubDate>Wed, 16 Nov 2022 17:26:42 GMT</pubDate>
             <content:encoded><![CDATA[2022년 10월 25일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 탈레반의 아프가니스탄 수복 ‘벌써 1년’ (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/10/23/npc_talibanafghanistan/</link>
-            <guid>https://newspeppermint.com/2022/10/23/npc_talibanafghanistan/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 24일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

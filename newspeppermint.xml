@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-11-21T22:16:03.286Z</updated>
+    <updated>2022-11-21T23:17:39.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 문화 현상이 된 ‘사랑의 언어’]]></title>
+        <id>https://newspeppermint.com/2022/11/21/npc_lovelanguage/</id>
+        <link href="https://newspeppermint.com/2022/11/21/npc_lovelanguage/"/>
+        <updated>2022-11-21T23:17:30.494Z</updated>
+        <content type="html"><![CDATA[2022년 11월 22일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일론 머스크식 ‘언론의 자유’는 민주주의를 위협한다]]></title>
         <id>https://newspeppermint.com/2022/11/21/npsp_musktwitter/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/10/24/npc_rankchoicedvoting/"/>
         <updated>2022-11-16T17:26:42.648Z</updated>
         <content type="html"><![CDATA[2022년 10월 25일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 탈레반의 아프가니스탄 수복 ‘벌써 1년’]]></title>
-        <id>https://newspeppermint.com/2022/10/23/npc_talibanafghanistan/</id>
-        <link href="https://newspeppermint.com/2022/10/23/npc_talibanafghanistan/"/>
-        <updated>2022-11-16T17:26:42.649Z</updated>
-        <content type="html"><![CDATA[2022년 10월 24일]]></content>
     </entry>
 </feed>
