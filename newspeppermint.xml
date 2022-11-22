@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-11-22T22:16:31.036Z</updated>
+    <updated>2022-11-22T23:15:32.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 수십 년째 줄어들던 미국 범죄율의 불안한 반등 조짐]]></title>
+        <id>https://newspeppermint.com/2022/11/22/npc_ushomicides/</id>
+        <link href="https://newspeppermint.com/2022/11/22/npc_ushomicides/"/>
+        <updated>2022-11-22T23:15:24.122Z</updated>
+        <content type="html"><![CDATA[2022년 11월 23일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 문화 현상이 된 ‘사랑의 언어’]]></title>
         <id>https://newspeppermint.com/2022/11/21/npc_lovelanguage/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/10/26/npc_fashion/"/>
         <updated>2022-11-16T17:26:42.646Z</updated>
         <content type="html"><![CDATA[2022년 10월 27일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 선호투표제, 미국 정치 판도 바꿀까?]]></title>
-        <id>https://newspeppermint.com/2022/10/24/npc_rankchoicedvoting/</id>
-        <link href="https://newspeppermint.com/2022/10/24/npc_rankchoicedvoting/"/>
-        <updated>2022-11-16T17:26:42.648Z</updated>
-        <content type="html"><![CDATA[2022년 10월 25일]]></content>
     </entry>
 </feed>
