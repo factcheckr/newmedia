@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 22:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 23:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 수리남 바우테르서 전 대통령의 그림자 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/11/24/npc_suriname/</link>
+            <guid>https://newspeppermint.com/2022/11/24/npc_suriname/</guid>
+            <pubDate>Thu, 24 Nov 2022 23:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 11월 25일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[우리가 굳이 암호화폐를 사용할 이유가 뭐냐는 질문 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/11/23/npsp_ftxcrypto/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/10/30/npc_flyingetiquette/</guid>
             <pubDate>Wed, 16 Nov 2022 17:26:42 GMT</pubDate>
             <content:encoded><![CDATA[2022년 10월 31일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 리즈 체니의 정치 인생 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/10/27/npc_lizcheney/</link>
-            <guid>https://newspeppermint.com/2022/10/27/npc_lizcheney/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 28일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
