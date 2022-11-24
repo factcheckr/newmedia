@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-11-24T01:18:40.297Z</updated>
+    <updated>2022-11-24T02:52:41.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리가 굳이 암호화폐를 사용할 이유가 뭐냐는 질문]]></title>
+        <id>https://newspeppermint.com/2022/11/23/npsp_ftxcrypto/</id>
+        <link href="https://newspeppermint.com/2022/11/23/npsp_ftxcrypto/"/>
+        <updated>2022-11-24T02:52:31.394Z</updated>
+        <content type="html"><![CDATA[2022년 11월 24일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 수십 년째 줄어들던 미국 범죄율의 불안한 반등 조짐]]></title>
         <id>https://newspeppermint.com/2022/11/22/npc_ushomicides/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/10/27/npc_lizcheney/"/>
         <updated>2022-11-16T17:26:42.643Z</updated>
         <content type="html"><![CDATA[2022년 10월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 패션과 철학]]></title>
-        <id>https://newspeppermint.com/2022/10/26/npc_fashion/</id>
-        <link href="https://newspeppermint.com/2022/10/26/npc_fashion/"/>
-        <updated>2022-11-16T17:26:42.646Z</updated>
-        <content type="html"><![CDATA[2022년 10월 27일]]></content>
     </entry>
 </feed>
