@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 22:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 23:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대권 도전 선언한 트럼프, 정말 출마할 수 있을까? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/11/28/npsp_specialcounseltrump/</link>
+            <guid>https://newspeppermint.com/2022/11/28/npsp_specialcounseltrump/</guid>
+            <pubDate>Mon, 28 Nov 2022 23:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 11월 29일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 나를 위해 지금 현재에 충실합시다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/11/27/npc_actinlivingpresent/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/11/06/npc_dobbsmidterm/</guid>
             <pubDate>Wed, 16 Nov 2022 17:26:42 GMT</pubDate>
             <content:encoded><![CDATA[2022년 11월 7일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 정체성과 얼굴 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/11/01/npc_identity/</link>
-            <guid>https://newspeppermint.com/2022/11/01/npc_identity/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 11월 2일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

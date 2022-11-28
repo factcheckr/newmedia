@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-11-28T22:14:59.012Z</updated>
+    <updated>2022-11-28T23:15:58.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대권 도전 선언한 트럼프, 정말 출마할 수 있을까?]]></title>
+        <id>https://newspeppermint.com/2022/11/28/npsp_specialcounseltrump/</id>
+        <link href="https://newspeppermint.com/2022/11/28/npsp_specialcounseltrump/"/>
+        <updated>2022-11-28T23:15:48.483Z</updated>
+        <content type="html"><![CDATA[2022년 11월 29일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 나를 위해 지금 현재에 충실합시다]]></title>
         <id>https://newspeppermint.com/2022/11/27/npc_actinlivingpresent/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/11/06/npc_dobbsmidterm/"/>
         <updated>2022-11-16T17:26:42.632Z</updated>
         <content type="html"><![CDATA[2022년 11월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 정체성과 얼굴]]></title>
-        <id>https://newspeppermint.com/2022/11/01/npc_identity/</id>
-        <link href="https://newspeppermint.com/2022/11/01/npc_identity/"/>
-        <updated>2022-11-16T17:26:42.636Z</updated>
-        <content type="html"><![CDATA[2022년 11월 2일]]></content>
     </entry>
 </feed>
