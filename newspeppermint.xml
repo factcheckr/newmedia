@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-11-29T22:14:01.056Z</updated>
+    <updated>2022-11-29T23:16:03.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 이란 여성들은 반정부 시위에서 왜 히잡을 불태웠나]]></title>
+        <id>https://newspeppermint.com/2022/11/29/npc_hijab/</id>
+        <link href="https://newspeppermint.com/2022/11/29/npc_hijab/"/>
+        <updated>2022-11-29T23:15:54.526Z</updated>
+        <content type="html"><![CDATA[2022년 11월 30일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대권 도전 선언한 트럼프, 정말 출마할 수 있을까?]]></title>
         <id>https://newspeppermint.com/2022/11/28/npsp_specialcounseltrump/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/11/14/npsp_elites/"/>
         <updated>2022-11-16T17:26:42.631Z</updated>
         <content type="html"><![CDATA[2022년 11월 15일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 미국 대법원 돕스 판결, 중간선거 뒤흔들까?]]></title>
-        <id>https://newspeppermint.com/2022/11/06/npc_dobbsmidterm/</id>
-        <link href="https://newspeppermint.com/2022/11/06/npc_dobbsmidterm/"/>
-        <updated>2022-11-16T17:26:42.632Z</updated>
-        <content type="html"><![CDATA[2022년 11월 7일]]></content>
     </entry>
 </feed>
