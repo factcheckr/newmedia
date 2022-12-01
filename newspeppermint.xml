@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-12-01T22:14:15.722Z</updated>
+    <updated>2022-12-01T23:15:49.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전 세계적으로 비만이 급증한 이유, 우리가 알던 그게 아니라고?]]></title>
+        <id>https://newspeppermint.com/2022/12/01/npsp_obesity/</id>
+        <link href="https://newspeppermint.com/2022/12/01/npsp_obesity/"/>
+        <updated>2022-12-01T23:15:40.619Z</updated>
+        <content type="html"><![CDATA[2022년 12월 2일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 2022년 미국 중간선거는 무엇이 걸린 선거일까?]]></title>
         <id>https://newspeppermint.com/2022/12/01/npc_usmidterm2022/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/11/16/npc_ukroyal/"/>
         <updated>2022-11-16T23:16:02.298Z</updated>
         <content type="html"><![CDATA[2022년 11월 17일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 바이든 행정부 ‘산업정책’ 주도하는 상무부의 핵심 레이몬도 장관]]></title>
-        <id>https://newspeppermint.com/2022/11/15/npc_uscommercedep/</id>
-        <link href="https://newspeppermint.com/2022/11/15/npc_uscommercedep/"/>
-        <updated>2022-11-16T17:26:42.617Z</updated>
-        <content type="html"><![CDATA[2022년 11월 16일]]></content>
     </entry>
 </feed>

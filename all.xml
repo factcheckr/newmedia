@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 22:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 23:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 세계적으로 비만이 급증한 이유, 우리가 알던 그게 아니라고? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/12/01/npsp_obesity/</link>
+            <guid>https://newspeppermint.com/2022/12/01/npsp_obesity/</guid>
+            <pubDate>Thu, 01 Dec 2022 23:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 12월 2일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 2022년 미국 중간선거는 무엇이 걸린 선거일까? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/12/01/npc_usmidterm2022/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/11/16/npc_ukroyal/</guid>
             <pubDate>Wed, 16 Nov 2022 23:16:02 GMT</pubDate>
             <content:encoded><![CDATA[2022년 11월 17일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 바이든 행정부 ‘산업정책’ 주도하는 상무부의 핵심 레이몬도 장관 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/11/15/npc_uscommercedep/</link>
-            <guid>https://newspeppermint.com/2022/11/15/npc_uscommercedep/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 11월 16일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
