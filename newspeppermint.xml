@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-12-01T05:15:00.009Z</updated>
+    <updated>2022-12-01T06:19:55.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 2022년 미국 중간선거는 무엇이 걸린 선거일까?]]></title>
+        <id>https://newspeppermint.com/2022/12/01/npc_usmidterm2022/</id>
+        <link href="https://newspeppermint.com/2022/12/01/npc_usmidterm2022/"/>
+        <updated>2022-12-01T06:19:46.051Z</updated>
+        <content type="html"><![CDATA[2022년 12월 2일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 이란 여성들은 반정부 시위에서 왜 히잡을 불태웠나]]></title>
         <id>https://newspeppermint.com/2022/11/29/npc_hijab/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/11/15/npc_uscommercedep/"/>
         <updated>2022-11-16T17:26:42.617Z</updated>
         <content type="html"><![CDATA[2022년 11월 16일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 기층 유권자들의 이탈 부른 민주당 엘리트의 선택]]></title>
-        <id>https://newspeppermint.com/2022/11/14/npsp_elites/</id>
-        <link href="https://newspeppermint.com/2022/11/14/npsp_elites/"/>
-        <updated>2022-11-16T17:26:42.631Z</updated>
-        <content type="html"><![CDATA[2022년 11월 15일]]></content>
     </entry>
 </feed>

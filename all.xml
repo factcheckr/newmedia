@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 05:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 06:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 2022년 미국 중간선거는 무엇이 걸린 선거일까? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/12/01/npc_usmidterm2022/</link>
+            <guid>https://newspeppermint.com/2022/12/01/npc_usmidterm2022/</guid>
+            <pubDate>Thu, 01 Dec 2022 06:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 12월 2일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 이란 여성들은 반정부 시위에서 왜 히잡을 불태웠나 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/11/29/npc_hijab/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/11/15/npc_uscommercedep/</guid>
             <pubDate>Wed, 16 Nov 2022 17:26:42 GMT</pubDate>
             <content:encoded><![CDATA[2022년 11월 16일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미국 기층 유권자들의 이탈 부른 민주당 엘리트의 선택 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/11/14/npsp_elites/</link>
-            <guid>https://newspeppermint.com/2022/11/14/npsp_elites/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 11월 15일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
