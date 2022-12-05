@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 22:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 23:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영원한 애도에 관하여: 어떤 자살 유족의 이야기 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/12/05/npsp_grief/</link>
+            <guid>https://newspeppermint.com/2022/12/05/npsp_grief/</guid>
+            <pubDate>Mon, 05 Dec 2022 23:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 12월 6일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/12/04/npc_nightmare/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/11/21/npsp_musktwitter/</guid>
             <pubDate>Mon, 21 Nov 2022 06:21:29 GMT</pubDate>
             <content:encoded><![CDATA[2022년 11월 22일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미국 중간선거에서 ‘붉은 파도’가 없었던 이유는 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/11/17/npsp_noredwave/</link>
-            <guid>https://newspeppermint.com/2022/11/17/npsp_noredwave/</guid>
-            <pubDate>Thu, 17 Nov 2022 23:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 11월 18일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
