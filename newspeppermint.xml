@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-12-08T22:14:20.731Z</updated>
+    <updated>2022-12-08T23:15:42.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘인플레이션도 불평등하다’는 주장이 놓친 것들]]></title>
+        <id>https://newspeppermint.com/2022/12/08/npsp_inflation/</id>
+        <link href="https://newspeppermint.com/2022/12/08/npsp_inflation/"/>
+        <updated>2022-12-08T23:15:31.780Z</updated>
+        <content type="html"><![CDATA[2022년 12월 9일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영원한 애도에 관하여: 어떤 자살 유족의 이야기]]></title>
         <id>https://newspeppermint.com/2022/12/05/npsp_grief/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2022/11/21/npc_lovelanguage/</id>
         <link href="https://newspeppermint.com/2022/11/21/npc_lovelanguage/"/>
         <updated>2022-11-21T23:17:30.494Z</updated>
-        <content type="html"><![CDATA[2022년 11월 22일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일론 머스크식 ‘언론의 자유’는 민주주의를 위협한다]]></title>
-        <id>https://newspeppermint.com/2022/11/21/npsp_musktwitter/</id>
-        <link href="https://newspeppermint.com/2022/11/21/npsp_musktwitter/"/>
-        <updated>2022-11-21T06:21:29.838Z</updated>
         <content type="html"><![CDATA[2022년 11월 22일]]></content>
     </entry>
 </feed>
