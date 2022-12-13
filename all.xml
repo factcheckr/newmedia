@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 22:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 23:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동성애 차별이 ‘표현의 자유’ 위반에 해당하느냐는 논쟁 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/12/13/npsp_freedomofspeech/</link>
+            <guid>https://newspeppermint.com/2022/12/13/npsp_freedomofspeech/</guid>
+            <pubDate>Tue, 13 Dec 2022 23:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 12월 14일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘인플레이션도 불평등하다’는 주장이 놓친 것들 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/12/08/npsp_inflation/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/11/22/npc_ushomicides/</guid>
             <pubDate>Tue, 22 Nov 2022 23:15:24 GMT</pubDate>
             <content:encoded><![CDATA[2022년 11월 23일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 문화 현상이 된 ‘사랑의 언어’ (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/11/21/npc_lovelanguage/</link>
-            <guid>https://newspeppermint.com/2022/11/21/npc_lovelanguage/</guid>
-            <pubDate>Mon, 21 Nov 2022 23:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 11월 22일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
