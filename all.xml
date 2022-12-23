@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 22:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 23:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금까지와는 확실히 다른 AI, 챗GPT (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/12/23/npsp_chatgpt/</link>
+            <guid>https://newspeppermint.com/2022/12/23/npsp_chatgpt/</guid>
+            <pubDate>Fri, 23 Dec 2022 23:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 12월 24일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[55년 경력 마무리하고 퇴임하는 ‘미국의 의사’ 파우치 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/12/18/npsp_fauci/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/11/27/npc_actinlivingpresent/</guid>
             <pubDate>Sun, 27 Nov 2022 23:15:48 GMT</pubDate>
             <content:encoded><![CDATA[2022년 11월 28일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 수리남 바우테르서 전 대통령의 그림자 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/11/24/npc_suriname/</link>
-            <guid>https://newspeppermint.com/2022/11/24/npc_suriname/</guid>
-            <pubDate>Thu, 24 Nov 2022 23:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 11월 25일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

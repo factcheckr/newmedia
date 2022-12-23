@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-12-23T22:13:06.957Z</updated>
+    <updated>2022-12-23T23:14:43.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지금까지와는 확실히 다른 AI, 챗GPT]]></title>
+        <id>https://newspeppermint.com/2022/12/23/npsp_chatgpt/</id>
+        <link href="https://newspeppermint.com/2022/12/23/npsp_chatgpt/"/>
+        <updated>2022-12-23T23:14:34.502Z</updated>
+        <content type="html"><![CDATA[2022년 12월 24일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[55년 경력 마무리하고 퇴임하는 ‘미국의 의사’ 파우치]]></title>
         <id>https://newspeppermint.com/2022/12/18/npsp_fauci/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/11/27/npc_actinlivingpresent/"/>
         <updated>2022-11-27T23:15:48.342Z</updated>
         <content type="html"><![CDATA[2022년 11월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 수리남 바우테르서 전 대통령의 그림자]]></title>
-        <id>https://newspeppermint.com/2022/11/24/npc_suriname/</id>
-        <link href="https://newspeppermint.com/2022/11/24/npc_suriname/"/>
-        <updated>2022-11-24T23:16:09.660Z</updated>
-        <content type="html"><![CDATA[2022년 11월 25일]]></content>
     </entry>
 </feed>
