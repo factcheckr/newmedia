@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-12-27T22:13:04.809Z</updated>
+    <updated>2022-12-27T23:14:36.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘몸통’ 트럼프를 기소해야 한다는 조사 결과, 다음은?]]></title>
+        <id>https://newspeppermint.com/2022/12/27/npsp_jan6committee/</id>
+        <link href="https://newspeppermint.com/2022/12/27/npsp_jan6committee/"/>
+        <updated>2022-12-27T23:14:27.669Z</updated>
+        <content type="html"><![CDATA[2022년 12월 28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지금까지와는 확실히 다른 AI, 챗GPT]]></title>
         <id>https://newspeppermint.com/2022/12/23/npsp_chatgpt/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/11/28/npsp_specialcounseltrump/"/>
         <updated>2022-11-28T23:15:48.483Z</updated>
         <content type="html"><![CDATA[2022년 11월 29일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 나를 위해 지금 현재에 충실합시다]]></title>
-        <id>https://newspeppermint.com/2022/11/27/npc_actinlivingpresent/</id>
-        <link href="https://newspeppermint.com/2022/11/27/npc_actinlivingpresent/"/>
-        <updated>2022-11-27T23:15:48.342Z</updated>
-        <content type="html"><![CDATA[2022년 11월 28일]]></content>
     </entry>
 </feed>

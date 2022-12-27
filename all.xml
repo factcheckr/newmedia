@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 22:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 23:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘몸통’ 트럼프를 기소해야 한다는 조사 결과, 다음은? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/12/27/npsp_jan6committee/</link>
+            <guid>https://newspeppermint.com/2022/12/27/npsp_jan6committee/</guid>
+            <pubDate>Tue, 27 Dec 2022 23:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 12월 28일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[지금까지와는 확실히 다른 AI, 챗GPT (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/12/23/npsp_chatgpt/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/11/28/npsp_specialcounseltrump/</guid>
             <pubDate>Mon, 28 Nov 2022 23:15:48 GMT</pubDate>
             <content:encoded><![CDATA[2022년 11월 29일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 나를 위해 지금 현재에 충실합시다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/11/27/npc_actinlivingpresent/</link>
-            <guid>https://newspeppermint.com/2022/11/27/npc_actinlivingpresent/</guid>
-            <pubDate>Sun, 27 Nov 2022 23:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 11월 28일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
