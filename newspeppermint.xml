@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-01-02T22:13:03.701Z</updated>
+    <updated>2023-01-02T23:14:03.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테슬라는 이제 ‘진짜’ 시장 경쟁 앞에 섰다]]></title>
+        <id>https://newspeppermint.com/2023/01/02/npsp_tesla/</id>
+        <link href="https://newspeppermint.com/2023/01/02/npsp_tesla/"/>
+        <updated>2023-01-02T23:13:53.776Z</updated>
+        <content type="html"><![CDATA[2023년 1월 3일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화성 이주만큼 어렵다는 레이저 핵융합, 20년 뒤면 가능할까]]></title>
         <id>https://newspeppermint.com/2022/12/28/npsp_fusionenergy/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/12/01/npc_usmidterm2022/"/>
         <updated>2022-12-01T06:19:46.051Z</updated>
         <content type="html"><![CDATA[2022년 12월 2일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 이란 여성들은 반정부 시위에서 왜 히잡을 불태웠나]]></title>
-        <id>https://newspeppermint.com/2022/11/29/npc_hijab/</id>
-        <link href="https://newspeppermint.com/2022/11/29/npc_hijab/"/>
-        <updated>2022-11-29T23:15:54.526Z</updated>
-        <content type="html"><![CDATA[2022년 11월 30일]]></content>
     </entry>
 </feed>
