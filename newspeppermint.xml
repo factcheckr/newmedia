@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-01-16T22:13:25.014Z</updated>
+    <updated>2023-01-16T23:14:33.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘안전한 의석’, ‘소액 기부 급증’은 미국 민주주의에 위협이 될까]]></title>
+        <id>https://newspeppermint.com/2023/01/16/npsp_usspeaker/</id>
+        <link href="https://newspeppermint.com/2023/01/16/npsp_usspeaker/"/>
+        <updated>2023-01-16T23:14:22.053Z</updated>
+        <content type="html"><![CDATA[2023년 1월 17일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[큰 키를 여전히 선호하는 이유가 있다]]></title>
         <id>https://newspeppermint.com/2023/01/12/npsp_shorttall/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/12/08/npsp_inflation/"/>
         <updated>2022-12-08T23:15:31.780Z</updated>
         <content type="html"><![CDATA[2022년 12월 9일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영원한 애도에 관하여: 어떤 자살 유족의 이야기]]></title>
-        <id>https://newspeppermint.com/2022/12/05/npsp_grief/</id>
-        <link href="https://newspeppermint.com/2022/12/05/npsp_grief/"/>
-        <updated>2022-12-05T23:14:30.349Z</updated>
-        <content type="html"><![CDATA[2022년 12월 6일]]></content>
     </entry>
 </feed>

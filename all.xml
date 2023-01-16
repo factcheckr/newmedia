@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 22:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 23:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘안전한 의석’, ‘소액 기부 급증’은 미국 민주주의에 위협이 될까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/01/16/npsp_usspeaker/</link>
+            <guid>https://newspeppermint.com/2023/01/16/npsp_usspeaker/</guid>
+            <pubDate>Mon, 16 Jan 2023 23:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 1월 17일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[큰 키를 여전히 선호하는 이유가 있다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/01/12/npsp_shorttall/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/12/08/npsp_inflation/</guid>
             <pubDate>Thu, 08 Dec 2022 23:15:31 GMT</pubDate>
             <content:encoded><![CDATA[2022년 12월 9일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영원한 애도에 관하여: 어떤 자살 유족의 이야기 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/12/05/npsp_grief/</link>
-            <guid>https://newspeppermint.com/2022/12/05/npsp_grief/</guid>
-            <pubDate>Mon, 05 Dec 2022 23:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 12월 6일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
