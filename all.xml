@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 06:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 07:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘과학자의 반란’은 올바른 판단이 될 수 있을까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/01/19/npsp_climatechangescience/</link>
+            <guid>https://newspeppermint.com/2023/01/19/npsp_climatechangescience/</guid>
+            <pubDate>Thu, 19 Jan 2023 07:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 1월 20일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘안전한 의석’, ‘소액 기부 급증’은 미국 민주주의에 위협이 될까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/01/16/npsp_usspeaker/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/12/13/npsp_freedomofspeech/</guid>
             <pubDate>Tue, 13 Dec 2022 23:14:45 GMT</pubDate>
             <content:encoded><![CDATA[2022년 12월 14일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘인플레이션도 불평등하다’는 주장이 놓친 것들 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/12/08/npsp_inflation/</link>
-            <guid>https://newspeppermint.com/2022/12/08/npsp_inflation/</guid>
-            <pubDate>Thu, 08 Dec 2022 23:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 12월 9일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
