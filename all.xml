@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 08:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 09:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“경쟁 금지를 금지”하려는 승부수, 통할까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/01/27/npsp_noncompeteskhan/</link>
+            <guid>https://newspeppermint.com/2023/01/27/npsp_noncompeteskhan/</guid>
+            <pubDate>Fri, 27 Jan 2023 09:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 1월 28일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘과학자의 반란’은 올바른 판단이 될 수 있을까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/01/19/npsp_climatechangescience/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/12/15/npsp_twitterentrainment/</guid>
             <pubDate>Fri, 16 Dec 2022 02:32:28 GMT</pubDate>
             <content:encoded><![CDATA[2022년 12월 16일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[동성애 차별이 ‘표현의 자유’ 위반에 해당하느냐는 논쟁 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/12/13/npsp_freedomofspeech/</link>
-            <guid>https://newspeppermint.com/2022/12/13/npsp_freedomofspeech/</guid>
-            <pubDate>Tue, 13 Dec 2022 23:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 12월 14일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

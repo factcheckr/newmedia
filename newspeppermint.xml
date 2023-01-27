@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-01-27T08:18:03.512Z</updated>
+    <updated>2023-01-27T09:14:07.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“경쟁 금지를 금지”하려는 승부수, 통할까]]></title>
+        <id>https://newspeppermint.com/2023/01/27/npsp_noncompeteskhan/</id>
+        <link href="https://newspeppermint.com/2023/01/27/npsp_noncompeteskhan/"/>
+        <updated>2023-01-27T09:13:59.981Z</updated>
+        <content type="html"><![CDATA[2023년 1월 28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘과학자의 반란’은 올바른 판단이 될 수 있을까]]></title>
         <id>https://newspeppermint.com/2023/01/19/npsp_climatechangescience/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/12/15/npsp_twitterentrainment/"/>
         <updated>2022-12-16T02:32:28.241Z</updated>
         <content type="html"><![CDATA[2022년 12월 16일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동성애 차별이 ‘표현의 자유’ 위반에 해당하느냐는 논쟁]]></title>
-        <id>https://newspeppermint.com/2022/12/13/npsp_freedomofspeech/</id>
-        <link href="https://newspeppermint.com/2022/12/13/npsp_freedomofspeech/"/>
-        <updated>2022-12-13T23:14:45.256Z</updated>
-        <content type="html"><![CDATA[2022년 12월 14일]]></content>
     </entry>
 </feed>
