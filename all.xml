@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 22:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 23:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그럼에도 ‘변하지 않는 것들’이 있다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/02/10/npsp_kleinbookstore/</link>
+            <guid>https://newspeppermint.com/2023/02/10/npsp_kleinbookstore/</guid>
+            <pubDate>Fri, 10 Feb 2023 23:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 2월 11일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[중국마저 인구 감소… 무엇을 할 것인가 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/02/06/npsp_chinapopulation/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/12/27/npsp_jan6committee/</guid>
             <pubDate>Tue, 27 Dec 2022 23:14:27 GMT</pubDate>
             <content:encoded><![CDATA[2022년 12월 28일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지금까지와는 확실히 다른 AI, 챗GPT (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/12/23/npsp_chatgpt/</link>
-            <guid>https://newspeppermint.com/2022/12/23/npsp_chatgpt/</guid>
-            <pubDate>Fri, 23 Dec 2022 23:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 12월 24일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

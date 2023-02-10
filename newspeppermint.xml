@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-02-10T22:14:03.438Z</updated>
+    <updated>2023-02-10T23:14:32.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그럼에도 ‘변하지 않는 것들’이 있다]]></title>
+        <id>https://newspeppermint.com/2023/02/10/npsp_kleinbookstore/</id>
+        <link href="https://newspeppermint.com/2023/02/10/npsp_kleinbookstore/"/>
+        <updated>2023-02-10T23:14:24.884Z</updated>
+        <content type="html"><![CDATA[2023년 2월 11일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국마저 인구 감소… 무엇을 할 것인가]]></title>
         <id>https://newspeppermint.com/2023/02/06/npsp_chinapopulation/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/12/27/npsp_jan6committee/"/>
         <updated>2022-12-27T23:14:27.669Z</updated>
         <content type="html"><![CDATA[2022년 12월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금까지와는 확실히 다른 AI, 챗GPT]]></title>
-        <id>https://newspeppermint.com/2022/12/23/npsp_chatgpt/</id>
-        <link href="https://newspeppermint.com/2022/12/23/npsp_chatgpt/"/>
-        <updated>2022-12-23T23:14:34.502Z</updated>
-        <content type="html"><![CDATA[2022년 12월 24일]]></content>
     </entry>
 </feed>
