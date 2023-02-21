@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-02-21T22:14:48.631Z</updated>
+    <updated>2023-02-21T23:15:03.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[죽음에서 멀어지는 인간은 어떻게 살아야 할까]]></title>
+        <id>https://newspeppermint.com/2023/02/21/npsp_eternallife/</id>
+        <link href="https://newspeppermint.com/2023/02/21/npsp_eternallife/"/>
+        <updated>2023-02-21T23:14:54.684Z</updated>
+        <content type="html"><![CDATA[2023년 2월 22일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유튜브 매트릭스에서 행복하게 살 수 있을까]]></title>
         <id>https://newspeppermint.com/2023/02/14/npsp_youtuber/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/01/02/npsp_tesla/"/>
         <updated>2023-01-02T23:13:53.776Z</updated>
         <content type="html"><![CDATA[2023년 1월 3일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화성 이주만큼 어렵다는 레이저 핵융합, 20년 뒤면 가능할까]]></title>
-        <id>https://newspeppermint.com/2022/12/28/npsp_fusionenergy/</id>
-        <link href="https://newspeppermint.com/2022/12/28/npsp_fusionenergy/"/>
-        <updated>2022-12-29T01:07:02.934Z</updated>
-        <content type="html"><![CDATA[2022년 12월 29일]]></content>
     </entry>
 </feed>
