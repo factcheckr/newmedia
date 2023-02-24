@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 22:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 23:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그들의 ‘선한 의도’가 불러온 무시무시한 나비 효과 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/02/24/npsp_phonicsliteracy/</link>
+            <guid>https://newspeppermint.com/2023/02/24/npsp_phonicsliteracy/</guid>
+            <pubDate>Fri, 24 Feb 2023 23:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 2월 25일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[죽음에서 멀어지는 인간은 어떻게 살아야 할까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/02/21/npsp_eternallife/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/01/06/npsp_resolution/</guid>
             <pubDate>Fri, 06 Jan 2023 23:13:53 GMT</pubDate>
             <content:encoded><![CDATA[2023년 1월 7일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[테슬라는 이제 ‘진짜’ 시장 경쟁 앞에 섰다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/01/02/npsp_tesla/</link>
-            <guid>https://newspeppermint.com/2023/01/02/npsp_tesla/</guid>
-            <pubDate>Mon, 02 Jan 2023 23:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 1월 3일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
