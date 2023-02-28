@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-02-28T22:15:13.630Z</updated>
+    <updated>2023-02-28T23:15:05.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은혜를 모르는 호모 사피엔스로 남을 것인가]]></title>
+        <id>https://newspeppermint.com/2023/02/28/npsp_horseshoecrab/</id>
+        <link href="https://newspeppermint.com/2023/02/28/npsp_horseshoecrab/"/>
+        <updated>2023-02-28T23:14:56.071Z</updated>
+        <content type="html"><![CDATA[2023년 3월 1일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신이 누군가를 사랑하는 지를 알 수 있는 ‘진짜’ 방법]]></title>
         <id>https://newspeppermint.com/2023/02/27/real_love/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/01/12/npsp_shorttall/"/>
         <updated>2023-01-12T23:15:22.326Z</updated>
         <content type="html"><![CDATA[2023년 1월 13일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어느 편에도 서지 않은 나라, 인도 이야기]]></title>
-        <id>https://newspeppermint.com/2023/01/09/npsp_warindia/</id>
-        <link href="https://newspeppermint.com/2023/01/09/npsp_warindia/"/>
-        <updated>2023-01-09T23:14:27.264Z</updated>
-        <content type="html"><![CDATA[2023년 1월 10일]]></content>
     </entry>
 </feed>

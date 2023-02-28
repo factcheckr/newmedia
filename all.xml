@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 22:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 23:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[은혜를 모르는 호모 사피엔스로 남을 것인가 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/02/28/npsp_horseshoecrab/</link>
+            <guid>https://newspeppermint.com/2023/02/28/npsp_horseshoecrab/</guid>
+            <pubDate>Tue, 28 Feb 2023 23:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 3월 1일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[당신이 누군가를 사랑하는 지를 알 수 있는 ‘진짜’ 방법 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/02/27/real_love/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/01/12/npsp_shorttall/</guid>
             <pubDate>Thu, 12 Jan 2023 23:15:22 GMT</pubDate>
             <content:encoded><![CDATA[2023년 1월 13일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어느 편에도 서지 않은 나라, 인도 이야기 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/01/09/npsp_warindia/</link>
-            <guid>https://newspeppermint.com/2023/01/09/npsp_warindia/</guid>
-            <pubDate>Mon, 09 Jan 2023 23:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 1월 10일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
