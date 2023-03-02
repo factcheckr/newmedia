@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-03-02T03:23:40.765Z</updated>
+    <updated>2023-03-02T04:18:36.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리가 미국의 전쟁 중독을 걱정해야 하는 이유]]></title>
+        <id>https://newspeppermint.com/2023/03/01/npsp_uswaraddiction/</id>
+        <link href="https://newspeppermint.com/2023/03/01/npsp_uswaraddiction/"/>
+        <updated>2023-03-02T04:18:27.818Z</updated>
+        <content type="html"><![CDATA[2023년 3월 2일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은혜를 모르는 호모 사피엔스로 남을 것인가]]></title>
         <id>https://newspeppermint.com/2023/02/28/npsp_horseshoecrab/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/01/16/npsp_usspeaker/"/>
         <updated>2023-01-16T23:14:22.053Z</updated>
         <content type="html"><![CDATA[2023년 1월 17일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[큰 키를 여전히 선호하는 이유가 있다]]></title>
-        <id>https://newspeppermint.com/2023/01/12/npsp_shorttall/</id>
-        <link href="https://newspeppermint.com/2023/01/12/npsp_shorttall/"/>
-        <updated>2023-01-12T23:15:22.326Z</updated>
-        <content type="html"><![CDATA[2023년 1월 13일]]></content>
     </entry>
 </feed>
