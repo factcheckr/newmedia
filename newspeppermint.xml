@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-03-06T22:14:55.864Z</updated>
+    <updated>2023-03-06T23:15:50.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마스크 논란은 과학의 문제 그 이상이었다]]></title>
+        <id>https://newspeppermint.com/2023/03/06/npsp_maskmandates/</id>
+        <link href="https://newspeppermint.com/2023/03/06/npsp_maskmandates/"/>
+        <updated>2023-03-06T23:15:38.657Z</updated>
+        <content type="html"><![CDATA[2023년 3월 7일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리가 미국의 전쟁 중독을 걱정해야 하는 이유]]></title>
         <id>https://newspeppermint.com/2023/03/01/npsp_uswaraddiction/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/01/19/npsp_climatechangescience/"/>
         <updated>2023-01-19T07:13:30.798Z</updated>
         <content type="html"><![CDATA[2023년 1월 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘안전한 의석’, ‘소액 기부 급증’은 미국 민주주의에 위협이 될까]]></title>
-        <id>https://newspeppermint.com/2023/01/16/npsp_usspeaker/</id>
-        <link href="https://newspeppermint.com/2023/01/16/npsp_usspeaker/"/>
-        <updated>2023-01-16T23:14:22.053Z</updated>
-        <content type="html"><![CDATA[2023년 1월 17일]]></content>
     </entry>
 </feed>

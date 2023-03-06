@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 22:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 23:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마스크 논란은 과학의 문제 그 이상이었다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/03/06/npsp_maskmandates/</link>
+            <guid>https://newspeppermint.com/2023/03/06/npsp_maskmandates/</guid>
+            <pubDate>Mon, 06 Mar 2023 23:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 3월 7일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[우리가 미국의 전쟁 중독을 걱정해야 하는 이유 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/03/01/npsp_uswaraddiction/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/01/19/npsp_climatechangescience/</guid>
             <pubDate>Thu, 19 Jan 2023 07:13:30 GMT</pubDate>
             <content:encoded><![CDATA[2023년 1월 20일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘안전한 의석’, ‘소액 기부 급증’은 미국 민주주의에 위협이 될까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/01/16/npsp_usspeaker/</link>
-            <guid>https://newspeppermint.com/2023/01/16/npsp_usspeaker/</guid>
-            <pubDate>Mon, 16 Jan 2023 23:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 1월 17일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
