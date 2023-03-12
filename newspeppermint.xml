@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-03-12T22:13:46.975Z</updated>
+    <updated>2023-03-12T23:13:54.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘얄팍한 나’로부터 벗어나려면 어떻게 하지?]]></title>
+        <id>https://newspeppermint.com/2023/03/12/npsp_art/</id>
+        <link href="https://newspeppermint.com/2023/03/12/npsp_art/"/>
+        <updated>2023-03-12T23:13:45.359Z</updated>
+        <content type="html"><![CDATA[2023년 3월 13일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유튜브는 서점인가 언론사인가]]></title>
         <id>https://newspeppermint.com/2023/03/08/npsp_gonzalezgoogle/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/01/31/npsp_noma/"/>
         <updated>2023-03-11T18:16:03.609Z</updated>
         <content type="html"><![CDATA[2023년 2월 1일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“경쟁 금지를 금지”하려는 승부수, 통할까]]></title>
-        <id>https://newspeppermint.com/2023/01/27/npsp_noncompeteskhan/</id>
-        <link href="https://newspeppermint.com/2023/01/27/npsp_noncompeteskhan/"/>
-        <updated>2023-03-11T18:16:03.610Z</updated>
-        <content type="html"><![CDATA[2023년 1월 28일]]></content>
     </entry>
 </feed>
