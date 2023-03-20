@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 22:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 23:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 미국 중간선거에서 ‘붉은 파도’가 없었던 이유는 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/03/20/npspre_midterm22/</link>
+            <guid>https://newspeppermint.com/2023/03/20/npspre_midterm22/</guid>
+            <pubDate>Mon, 20 Mar 2023 23:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 3월 21일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘각자도생’이냐 ‘공생’이냐 혹은 가운데 어딘가 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/03/19/npsp_dependence/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/02/14/npsp_youtuber/</guid>
             <pubDate>Tue, 14 Feb 2023 23:14:53 GMT</pubDate>
             <content:encoded><![CDATA[2023년 2월 15일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[그럼에도 ‘변하지 않는 것들’이 있다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/02/10/npsp_kleinbookstore/</link>
-            <guid>https://newspeppermint.com/2023/02/10/npsp_kleinbookstore/</guid>
-            <pubDate>Fri, 10 Feb 2023 23:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 2월 11일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
