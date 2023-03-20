@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 23:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 01:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘각자도생’이냐 ‘공생’이냐 혹은 가운데 어딘가 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/03/19/npsp_dependence/</link>
+            <guid>https://newspeppermint.com/2023/03/19/npsp_dependence/</guid>
+            <pubDate>Mon, 20 Mar 2023 01:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 3월 20일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“이러다 정말 큰일 난다”던 그의 경고, 큰일 났는데 이제 어쩔 것인가 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/03/19/npsp_svb/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/02/10/npsp_kleinbookstore/</guid>
             <pubDate>Fri, 10 Feb 2023 23:14:24 GMT</pubDate>
             <content:encoded><![CDATA[2023년 2월 11일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중국마저 인구 감소… 무엇을 할 것인가 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/02/06/npsp_chinapopulation/</link>
-            <guid>https://newspeppermint.com/2023/02/06/npsp_chinapopulation/</guid>
-            <pubDate>Tue, 07 Feb 2023 02:38:31 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 2월 7일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
