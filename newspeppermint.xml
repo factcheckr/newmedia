@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-03-21T22:12:18.492Z</updated>
+    <updated>2023-03-21T23:13:42.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 일론 머스크식 ‘언론의 자유’는 민주주의를 위협한다]]></title>
+        <id>https://newspeppermint.com/2023/03/21/npsbs_musktwitter/</id>
+        <link href="https://newspeppermint.com/2023/03/21/npsbs_musktwitter/"/>
+        <updated>2023-03-21T23:13:32.892Z</updated>
+        <content type="html"><![CDATA[2023년 3월 22일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 미국 중간선거에서 ‘붉은 파도’가 없었던 이유는]]></title>
         <id>https://newspeppermint.com/2023/03/20/npspre_midterm22/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/02/21/npsp_eternallife/"/>
         <updated>2023-03-11T18:16:03.602Z</updated>
         <content type="html"><![CDATA[2023년 2월 22일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜브 매트릭스에서 행복하게 살 수 있을까]]></title>
-        <id>https://newspeppermint.com/2023/02/14/npsp_youtuber/</id>
-        <link href="https://newspeppermint.com/2023/02/14/npsp_youtuber/"/>
-        <updated>2023-03-11T18:16:03.604Z</updated>
-        <content type="html"><![CDATA[2023년 2월 15일]]></content>
     </entry>
 </feed>
