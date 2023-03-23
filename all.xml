@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 06:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 07:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그러니 게으른 인간이여, 운동 시작을 생각이라도 하자 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/03/23/npsp_wfhhealth/</link>
+            <guid>https://newspeppermint.com/2023/03/23/npsp_wfhhealth/</guid>
+            <pubDate>Thu, 23 Mar 2023 07:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 3월 24일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 일론 머스크식 ‘언론의 자유’는 민주주의를 위협한다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/03/21/npsbs_musktwitter/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/02/24/npsp_phonicsliteracy/</guid>
             <pubDate>Fri, 24 Feb 2023 23:15:00 GMT</pubDate>
             <content:encoded><![CDATA[2023년 2월 25일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[죽음에서 멀어지는 인간은 어떻게 살아야 할까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/02/21/npsp_eternallife/</link>
-            <guid>https://newspeppermint.com/2023/02/21/npsp_eternallife/</guid>
-            <pubDate>Tue, 21 Feb 2023 23:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 2월 22일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

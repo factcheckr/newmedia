@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-03-23T06:17:56.995Z</updated>
+    <updated>2023-03-23T07:13:19.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그러니 게으른 인간이여, 운동 시작을 생각이라도 하자]]></title>
+        <id>https://newspeppermint.com/2023/03/23/npsp_wfhhealth/</id>
+        <link href="https://newspeppermint.com/2023/03/23/npsp_wfhhealth/"/>
+        <updated>2023-03-23T07:13:09.495Z</updated>
+        <content type="html"><![CDATA[2023년 3월 24일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 일론 머스크식 ‘언론의 자유’는 민주주의를 위협한다]]></title>
         <id>https://newspeppermint.com/2023/03/21/npsbs_musktwitter/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/02/24/npsp_phonicsliteracy/"/>
         <updated>2023-03-11T18:16:03.601Z</updated>
         <content type="html"><![CDATA[2023년 2월 25일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죽음에서 멀어지는 인간은 어떻게 살아야 할까]]></title>
-        <id>https://newspeppermint.com/2023/02/21/npsp_eternallife/</id>
-        <link href="https://newspeppermint.com/2023/02/21/npsp_eternallife/"/>
-        <updated>2023-03-11T18:16:03.602Z</updated>
-        <content type="html"><![CDATA[2023년 2월 22일]]></content>
     </entry>
 </feed>
