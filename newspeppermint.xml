@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-03-26T23:13:58.324Z</updated>
+    <updated>2023-03-27T01:04:37.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[틱톡의 문제는 단지 틱톡 만의 문제일까]]></title>
+        <id>https://newspeppermint.com/2023/03/26/npsp_tiktok/</id>
+        <link href="https://newspeppermint.com/2023/03/26/npsp_tiktok/"/>
+        <updated>2023-03-27T01:04:27.169Z</updated>
+        <content type="html"><![CDATA[2023년 3월 27일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 우리가 굳이 암호화폐를 사용할 이유가 뭐냐는 질문]]></title>
         <id>https://newspeppermint.com/2023/03/23/npsp_ftxcrypto/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/02/28/npsp_horseshoecrab/"/>
         <updated>2023-03-11T18:16:03.596Z</updated>
         <content type="html"><![CDATA[2023년 3월 1일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신이 누군가를 사랑하는 지를 알 수 있는 ‘진짜’ 방법]]></title>
-        <id>https://newspeppermint.com/2023/02/27/real_love/</id>
-        <link href="https://newspeppermint.com/2023/02/27/real_love/"/>
-        <updated>2023-03-11T18:16:03.597Z</updated>
-        <content type="html"><![CDATA[2023년 2월 28일]]></content>
     </entry>
 </feed>
