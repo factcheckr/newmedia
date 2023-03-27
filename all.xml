@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 22:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 23:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 대권 도전 선언한 트럼프, 정말 출마할 수 있을까? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/03/27/npsp_specialcounseltrump/</link>
+            <guid>https://newspeppermint.com/2023/03/27/npsp_specialcounseltrump/</guid>
+            <pubDate>Mon, 27 Mar 2023 23:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 3월 28일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[틱톡의 문제는 단지 틱톡 만의 문제일까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/03/26/npsp_tiktok/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/03/01/npsp_uswaraddiction/</guid>
             <pubDate>Thu, 02 Mar 2023 04:18:27 GMT</pubDate>
             <content:encoded><![CDATA[2023년 3월 2일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[은혜를 모르는 호모 사피엔스로 남을 것인가 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/02/28/npsp_horseshoecrab/</link>
-            <guid>https://newspeppermint.com/2023/02/28/npsp_horseshoecrab/</guid>
-            <pubDate>Tue, 28 Feb 2023 23:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 3월 1일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
