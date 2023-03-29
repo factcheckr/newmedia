@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-03-29T01:12:45.458Z</updated>
+    <updated>2023-03-29T02:41:33.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 전 세계적으로 비만이 급증한 이유, 우리가 알던 그게 아니라고?]]></title>
+        <id>https://newspeppermint.com/2023/03/28/npsp_obesity/</id>
+        <link href="https://newspeppermint.com/2023/03/28/npsp_obesity/"/>
+        <updated>2023-03-29T02:41:23.352Z</updated>
+        <content type="html"><![CDATA[2023년 3월 29일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 대권 도전 선언한 트럼프, 정말 출마할 수 있을까?]]></title>
         <id>https://newspeppermint.com/2023/03/27/npsp_specialcounseltrump/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/03/06/npsp_maskmandates/"/>
         <updated>2023-03-11T18:16:03.582Z</updated>
         <content type="html"><![CDATA[2023년 3월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리가 미국의 전쟁 중독을 걱정해야 하는 이유]]></title>
-        <id>https://newspeppermint.com/2023/03/01/npsp_uswaraddiction/</id>
-        <link href="https://newspeppermint.com/2023/03/01/npsp_uswaraddiction/"/>
-        <updated>2023-03-11T18:16:03.588Z</updated>
-        <content type="html"><![CDATA[2023년 3월 2일]]></content>
     </entry>
 </feed>
