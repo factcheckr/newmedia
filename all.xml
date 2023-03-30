@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 22:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 23:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 영원한 애도에 관하여: 어떤 자살 유족의 이야기 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/03/30/npsbs_grief/</link>
+            <guid>https://newspeppermint.com/2023/03/30/npsbs_grief/</guid>
+            <pubDate>Thu, 30 Mar 2023 23:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 3월 31일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[환상의 멀티버스 앞에서 잊지 말아야 할 것 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/03/30/npsp_multiverse/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/03/12/npsp_art/</guid>
             <pubDate>Sun, 12 Mar 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[2023년 3월 13일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유튜브는 서점인가 언론사인가 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/03/08/npsp_gonzalezgoogle/</link>
-            <guid>https://newspeppermint.com/2023/03/08/npsp_gonzalezgoogle/</guid>
-            <pubDate>Wed, 08 Mar 2023 23:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 3월 9일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
