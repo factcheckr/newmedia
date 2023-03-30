@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 15:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 16:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환상의 멀티버스 앞에서 잊지 말아야 할 것 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/03/30/npsp_multiverse/</link>
+            <guid>https://newspeppermint.com/2023/03/30/npsp_multiverse/</guid>
+            <pubDate>Thu, 30 Mar 2023 16:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 3월 31일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 전 세계적으로 비만이 급증한 이유, 우리가 알던 그게 아니라고? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/03/28/npsp_obesity/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/03/08/npsp_gonzalezgoogle/</guid>
             <pubDate>Wed, 08 Mar 2023 23:15:40 GMT</pubDate>
             <content:encoded><![CDATA[2023년 3월 9일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마스크 논란은 과학의 문제 그 이상이었다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/03/06/npsp_maskmandates/</link>
-            <guid>https://newspeppermint.com/2023/03/06/npsp_maskmandates/</guid>
-            <pubDate>Mon, 06 Mar 2023 23:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 3월 7일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
