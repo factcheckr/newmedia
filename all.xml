@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 22:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 23:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] ‘인플레이션도 불평등하다’는 주장이 놓친 것들 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/04/03/npsp_inflation/</link>
+            <guid>https://newspeppermint.com/2023/04/03/npsp_inflation/</guid>
+            <pubDate>Mon, 03 Apr 2023 23:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 4월 4일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[챗GPT-4 이후 쏟아진 우려들… 과대평가인가 기우인가 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/04/02/npsp_chatgptfriedmanharari/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2023/03/19/npsp_dependence/</link>
             <guid>https://newspeppermint.com/2023/03/19/npsp_dependence/</guid>
             <pubDate>Mon, 20 Mar 2023 01:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 3월 20일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“이러다 정말 큰일 난다”던 그의 경고, 큰일 났는데 이제 어쩔 것인가 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/03/19/npsp_svb/</link>
-            <guid>https://newspeppermint.com/2023/03/19/npsp_svb/</guid>
-            <pubDate>Sun, 19 Mar 2023 06:18:12 GMT</pubDate>
             <content:encoded><![CDATA[2023년 3월 20일]]></content:encoded>
         </item>
         <item>
