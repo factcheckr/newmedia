@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-04-05T22:12:38.557Z</updated>
+    <updated>2023-04-05T23:11:13.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동성애 차별이 ‘표현의 자유’ 위반에 해당하느냐는 논쟁]]></title>
+        <id>https://newspeppermint.com/2023/04/05/npsp_freedomofspeech/</id>
+        <link href="https://newspeppermint.com/2023/04/05/npsp_freedomofspeech/"/>
+        <updated>2023-04-05T23:11:03.268Z</updated>
+        <content type="html"><![CDATA[2023년 4월 6일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트럼프 기소의 의미, 미국서도 논란인 ‘정치검찰’]]></title>
         <id>https://newspeppermint.com/2023/04/05/npsp_trumpindicted/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/03/21/npsbs_musktwitter/"/>
         <updated>2023-03-21T23:13:32.892Z</updated>
         <content type="html"><![CDATA[2023년 3월 22일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 미국 중간선거에서 ‘붉은 파도’가 없었던 이유는]]></title>
-        <id>https://newspeppermint.com/2023/03/20/npspre_midterm22/</id>
-        <link href="https://newspeppermint.com/2023/03/20/npspre_midterm22/"/>
-        <updated>2023-03-20T23:14:20.128Z</updated>
-        <content type="html"><![CDATA[2023년 3월 21일]]></content>
     </entry>
 </feed>
