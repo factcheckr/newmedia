@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-04-06T14:12:34.287Z</updated>
+    <updated>2023-04-06T15:12:36.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[동성애 차별이 ‘표현의 자유’ 위반에 해당하느냐는 논쟁]]></title>
+        <title type="html"><![CDATA[[뉴페@스프] 동성애 차별이 ‘표현의 자유’ 위반에 해당하느냐는 논쟁]]></title>
         <id>https://newspeppermint.com/2023/04/05/npsp_freedomofspeech/</id>
         <link href="https://newspeppermint.com/2023/04/05/npsp_freedomofspeech/"/>
         <updated>2023-04-05T23:11:03.268Z</updated>
