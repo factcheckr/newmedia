@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-04-10T03:14:01.390Z</updated>
+    <updated>2023-04-10T04:15:56.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이 동네 지소연 언니’나 ‘저 동네 연경쌤’이 많아져야 해!]]></title>
+        <id>https://newspeppermint.com/2023/04/09/npsp_womensportslegend/</id>
+        <link href="https://newspeppermint.com/2023/04/09/npsp_womensportslegend/"/>
+        <updated>2023-04-10T04:15:46.260Z</updated>
+        <content type="html"><![CDATA[2023년 4월 10일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘동조 기계’ 소셜미디어에 맞서 내 시간표 지키려면]]></title>
         <id>https://newspeppermint.com/2023/04/06/npsp_twitterentrainment/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2023/03/23/npsp_ftxcrypto/</id>
         <link href="https://newspeppermint.com/2023/03/23/npsp_ftxcrypto/"/>
         <updated>2023-03-23T23:13:53.834Z</updated>
-        <content type="html"><![CDATA[2023년 3월 24일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그러니 게으른 인간이여, 운동 시작을 생각이라도 하자]]></title>
-        <id>https://newspeppermint.com/2023/03/23/npsp_wfhhealth/</id>
-        <link href="https://newspeppermint.com/2023/03/23/npsp_wfhhealth/"/>
-        <updated>2023-03-23T07:13:09.495Z</updated>
         <content type="html"><![CDATA[2023년 3월 24일]]></content>
     </entry>
 </feed>
