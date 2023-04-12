@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 23:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 01:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어려운 문제, 어떻게 하면 쉽게 바꿔 풀 수 있을까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/04/11/npsp_tradewarclimatechange/</link>
+            <guid>https://newspeppermint.com/2023/04/11/npsp_tradewarclimatechange/</guid>
+            <pubDate>Wed, 12 Apr 2023 01:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 4월 12일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 55년 경력 마무리하고 퇴임하는 ‘미국의 의사’ 파우치 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/04/10/npsp_fauci/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/03/27/npsp_specialcounseltrump/</guid>
             <pubDate>Mon, 27 Mar 2023 23:13:57 GMT</pubDate>
             <content:encoded><![CDATA[2023년 3월 28일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[틱톡의 문제는 단지 틱톡 만의 문제일까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/03/26/npsp_tiktok/</link>
-            <guid>https://newspeppermint.com/2023/03/26/npsp_tiktok/</guid>
-            <pubDate>Mon, 27 Mar 2023 01:04:27 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 3월 27일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

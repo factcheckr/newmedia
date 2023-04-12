@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-04-11T23:13:14.157Z</updated>
+    <updated>2023-04-12T01:02:53.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어려운 문제, 어떻게 하면 쉽게 바꿔 풀 수 있을까]]></title>
+        <id>https://newspeppermint.com/2023/04/11/npsp_tradewarclimatechange/</id>
+        <link href="https://newspeppermint.com/2023/04/11/npsp_tradewarclimatechange/"/>
+        <updated>2023-04-12T01:02:44.425Z</updated>
+        <content type="html"><![CDATA[2023년 4월 12일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 55년 경력 마무리하고 퇴임하는 ‘미국의 의사’ 파우치]]></title>
         <id>https://newspeppermint.com/2023/04/10/npsp_fauci/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/03/27/npsp_specialcounseltrump/"/>
         <updated>2023-03-27T23:13:57.736Z</updated>
         <content type="html"><![CDATA[2023년 3월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틱톡의 문제는 단지 틱톡 만의 문제일까]]></title>
-        <id>https://newspeppermint.com/2023/03/26/npsp_tiktok/</id>
-        <link href="https://newspeppermint.com/2023/03/26/npsp_tiktok/"/>
-        <updated>2023-03-27T01:04:27.169Z</updated>
-        <content type="html"><![CDATA[2023년 3월 27일]]></content>
     </entry>
 </feed>
