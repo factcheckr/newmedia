@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 22:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 23:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 지금까지와는 확실히 다른 AI, 챗GPT (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/04/13/npsp_chatgpt/</link>
+            <guid>https://newspeppermint.com/2023/04/13/npsp_chatgpt/</guid>
+            <pubDate>Thu, 13 Apr 2023 23:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 4월 14일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[어려운 문제, 어떻게 하면 쉽게 바꿔 풀 수 있을까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/04/11/npsp_tradewarclimatechange/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/03/28/npsp_obesity/</guid>
             <pubDate>Wed, 29 Mar 2023 02:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2023년 3월 29일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 대권 도전 선언한 트럼프, 정말 출마할 수 있을까? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/03/27/npsp_specialcounseltrump/</link>
-            <guid>https://newspeppermint.com/2023/03/27/npsp_specialcounseltrump/</guid>
-            <pubDate>Mon, 27 Mar 2023 23:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 3월 28일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
