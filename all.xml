@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 23:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 01:05:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“쟤도 안 하는데 왜 내가 해야 해?”에 대한 답을 내놔야 한다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/04/16/npsp_yachtclimatechange/</link>
+            <guid>https://newspeppermint.com/2023/04/16/npsp_yachtclimatechange/</guid>
+            <pubDate>Mon, 17 Apr 2023 01:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 4월 17일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 지금까지와는 확실히 다른 AI, 챗GPT (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/04/13/npsp_chatgpt/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/03/30/npsp_multiverse/</guid>
             <pubDate>Thu, 30 Mar 2023 16:18:28 GMT</pubDate>
             <content:encoded><![CDATA[2023년 3월 31일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 전 세계적으로 비만이 급증한 이유, 우리가 알던 그게 아니라고? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/03/28/npsp_obesity/</link>
-            <guid>https://newspeppermint.com/2023/03/28/npsp_obesity/</guid>
-            <pubDate>Wed, 29 Mar 2023 02:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 3월 29일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

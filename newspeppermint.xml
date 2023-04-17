@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-04-16T23:13:08.570Z</updated>
+    <updated>2023-04-17T01:05:46.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“쟤도 안 하는데 왜 내가 해야 해?”에 대한 답을 내놔야 한다]]></title>
+        <id>https://newspeppermint.com/2023/04/16/npsp_yachtclimatechange/</id>
+        <link href="https://newspeppermint.com/2023/04/16/npsp_yachtclimatechange/"/>
+        <updated>2023-04-17T01:05:36.291Z</updated>
+        <content type="html"><![CDATA[2023년 4월 17일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 지금까지와는 확실히 다른 AI, 챗GPT]]></title>
         <id>https://newspeppermint.com/2023/04/13/npsp_chatgpt/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/03/30/npsp_multiverse/"/>
         <updated>2023-03-30T16:18:28.343Z</updated>
         <content type="html"><![CDATA[2023년 3월 31일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 전 세계적으로 비만이 급증한 이유, 우리가 알던 그게 아니라고?]]></title>
-        <id>https://newspeppermint.com/2023/03/28/npsp_obesity/</id>
-        <link href="https://newspeppermint.com/2023/03/28/npsp_obesity/"/>
-        <updated>2023-03-29T02:41:23.352Z</updated>
-        <content type="html"><![CDATA[2023년 3월 29일]]></content>
     </entry>
 </feed>
