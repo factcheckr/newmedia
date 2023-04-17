@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 22:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 23:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] ‘몸통’ 트럼프를 기소해야 한다는 조사 결과, 다음은? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/04/17/npsp_jan6committee/</link>
+            <guid>https://newspeppermint.com/2023/04/17/npsp_jan6committee/</guid>
+            <pubDate>Mon, 17 Apr 2023 23:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 4월 18일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“쟤도 안 하는데 왜 내가 해야 해?”에 대한 답을 내놔야 한다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/04/16/npsp_yachtclimatechange/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2023/03/30/npsbs_grief/</link>
             <guid>https://newspeppermint.com/2023/03/30/npsbs_grief/</guid>
             <pubDate>Thu, 30 Mar 2023 23:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 3월 31일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[환상의 멀티버스 앞에서 잊지 말아야 할 것 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/03/30/npsp_multiverse/</link>
-            <guid>https://newspeppermint.com/2023/03/30/npsp_multiverse/</guid>
-            <pubDate>Thu, 30 Mar 2023 16:18:28 GMT</pubDate>
             <content:encoded><![CDATA[2023년 3월 31일]]></content:encoded>
         </item>
         <item>
