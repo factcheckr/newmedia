@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-04-19T22:12:37.589Z</updated>
+    <updated>2023-04-19T23:13:59.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 화성 이주만큼 어렵다는 레이저 핵융합, 20년 뒤면 가능할까]]></title>
+        <id>https://newspeppermint.com/2023/04/19/npsp_fusionenergy/</id>
+        <link href="https://newspeppermint.com/2023/04/19/npsp_fusionenergy/"/>
+        <updated>2023-04-19T23:13:48.860Z</updated>
+        <content type="html"><![CDATA[2023년 4월 20일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘카톡 답장의 속도’가 알려주는 나와 그 사람과의 관계]]></title>
         <id>https://newspeppermint.com/2023/04/19/npsp_emailurgencybias/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/04/03/npsp_inflation/"/>
         <updated>2023-04-03T23:12:53.252Z</updated>
         <content type="html"><![CDATA[2023년 4월 4일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[챗GPT-4 이후 쏟아진 우려들… 과대평가인가 기우인가]]></title>
-        <id>https://newspeppermint.com/2023/04/02/npsp_chatgptfriedmanharari/</id>
-        <link href="https://newspeppermint.com/2023/04/02/npsp_chatgptfriedmanharari/"/>
-        <updated>2023-04-03T04:16:23.053Z</updated>
-        <content type="html"><![CDATA[2023년 4월 3일]]></content>
     </entry>
 </feed>

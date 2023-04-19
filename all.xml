@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 22:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 23:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 화성 이주만큼 어렵다는 레이저 핵융합, 20년 뒤면 가능할까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/04/19/npsp_fusionenergy/</link>
+            <guid>https://newspeppermint.com/2023/04/19/npsp_fusionenergy/</guid>
+            <pubDate>Wed, 19 Apr 2023 23:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 4월 20일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘카톡 답장의 속도’가 알려주는 나와 그 사람과의 관계 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/04/19/npsp_emailurgencybias/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/04/03/npsp_inflation/</guid>
             <pubDate>Mon, 03 Apr 2023 23:12:53 GMT</pubDate>
             <content:encoded><![CDATA[2023년 4월 4일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[챗GPT-4 이후 쏟아진 우려들… 과대평가인가 기우인가 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/04/02/npsp_chatgptfriedmanharari/</link>
-            <guid>https://newspeppermint.com/2023/04/02/npsp_chatgptfriedmanharari/</guid>
-            <pubDate>Mon, 03 Apr 2023 04:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 4월 3일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
