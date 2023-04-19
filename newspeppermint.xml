@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-04-19T13:17:34.915Z</updated>
+    <updated>2023-04-19T14:19:09.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘카톡 답장의 속도’가 알려주는 나와 그 사람과의 관계]]></title>
+        <id>https://newspeppermint.com/2023/04/19/npsp_emailurgencybias/</id>
+        <link href="https://newspeppermint.com/2023/04/19/npsp_emailurgencybias/"/>
+        <updated>2023-04-19T14:19:00.228Z</updated>
+        <content type="html"><![CDATA[2023년 4월 20일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘몸통’ 트럼프를 기소해야 한다는 조사 결과, 다음은?]]></title>
         <id>https://newspeppermint.com/2023/04/17/npsp_jan6committee/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/04/02/npsp_chatgptfriedmanharari/"/>
         <updated>2023-04-03T04:16:23.053Z</updated>
         <content type="html"><![CDATA[2023년 4월 3일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 영원한 애도에 관하여: 어떤 자살 유족의 이야기]]></title>
-        <id>https://newspeppermint.com/2023/03/30/npsbs_grief/</id>
-        <link href="https://newspeppermint.com/2023/03/30/npsbs_grief/"/>
-        <updated>2023-03-30T23:14:53.804Z</updated>
-        <content type="html"><![CDATA[2023년 3월 31일]]></content>
     </entry>
 </feed>
