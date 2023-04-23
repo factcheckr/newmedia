@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 22:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 23:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아름다움이 진리요, 진리가 아름다움이리라 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/04/23/npsp_mathliterature/</link>
+            <guid>https://newspeppermint.com/2023/04/23/npsp_mathliterature/</guid>
+            <pubDate>Sun, 23 Apr 2023 23:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 4월 24일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 테슬라는 이제 ‘진짜’ 시장 경쟁 앞에 섰다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/04/20/npsp_tesla/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2023/04/05/npsp_freedomofspeech/</link>
             <guid>https://newspeppermint.com/2023/04/05/npsp_freedomofspeech/</guid>
             <pubDate>Wed, 05 Apr 2023 23:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 4월 6일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트럼프 기소의 의미, 미국서도 논란인 ‘정치검찰’ (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/04/05/npsp_trumpindicted/</link>
-            <guid>https://newspeppermint.com/2023/04/05/npsp_trumpindicted/</guid>
-            <pubDate>Wed, 05 Apr 2023 05:13:04 GMT</pubDate>
             <content:encoded><![CDATA[2023년 4월 6일]]></content:encoded>
         </item>
         <item>
