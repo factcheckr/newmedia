@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-04-25T22:12:42.541Z</updated>
+    <updated>2023-04-25T23:13:36.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 이번 새해에는 또, 어떤 결심을 하셨나요?]]></title>
+        <id>https://newspeppermint.com/2023/04/25/npsp_resolution/</id>
+        <link href="https://newspeppermint.com/2023/04/25/npsp_resolution/"/>
+        <updated>2023-04-25T23:13:27.964Z</updated>
+        <content type="html"><![CDATA[2023년 4월 26일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마지막 1명까지 사라지고 나면 어떻게 기억해야 하나]]></title>
         <id>https://newspeppermint.com/2023/04/25/npsp_holocaust/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/04/09/npsp_womensportslegend/"/>
         <updated>2023-04-10T04:15:46.260Z</updated>
         <content type="html"><![CDATA[2023년 4월 10일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] ‘동조 기계’ 소셜미디어에 맞서 내 시간표 지키려면]]></title>
-        <id>https://newspeppermint.com/2023/04/06/npsp_twitterentrainment/</id>
-        <link href="https://newspeppermint.com/2023/04/06/npsp_twitterentrainment/"/>
-        <updated>2023-04-06T23:12:54.348Z</updated>
-        <content type="html"><![CDATA[2023년 4월 7일]]></content>
     </entry>
 </feed>
