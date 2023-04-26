@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 15:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 16:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왜 극단의 다이어트, 극단의 운동을 하는 소년소녀가 탄생했나 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/04/26/npsp_anorexia/</link>
+            <guid>https://newspeppermint.com/2023/04/26/npsp_anorexia/</guid>
+            <pubDate>Wed, 26 Apr 2023 16:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 4월 27일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 이번 새해에는 또, 어떤 결심을 하셨나요? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/04/25/npsp_resolution/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/04/10/npsp_fauci/</guid>
             <pubDate>Mon, 10 Apr 2023 23:13:52 GMT</pubDate>
             <content:encoded><![CDATA[2023년 4월 11일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘이 동네 지소연 언니’나 ‘저 동네 연경쌤’이 많아져야 해! (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/04/09/npsp_womensportslegend/</link>
-            <guid>https://newspeppermint.com/2023/04/09/npsp_womensportslegend/</guid>
-            <pubDate>Mon, 10 Apr 2023 04:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 4월 10일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
