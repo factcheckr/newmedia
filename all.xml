@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 22:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 23:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 어느 편에도 서지 않은 나라, 인도 이야기 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/04/26/npsp_warindia/</link>
+            <guid>https://newspeppermint.com/2023/04/26/npsp_warindia/</guid>
+            <pubDate>Wed, 26 Apr 2023 23:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 4월 27일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[왜 극단의 다이어트, 극단의 운동을 하는 소년소녀가 탄생했나 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/04/26/npsp_anorexia/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/04/11/npsp_tradewarclimatechange/</guid>
             <pubDate>Wed, 12 Apr 2023 01:02:44 GMT</pubDate>
             <content:encoded><![CDATA[2023년 4월 12일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 55년 경력 마무리하고 퇴임하는 ‘미국의 의사’ 파우치 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/04/10/npsp_fauci/</link>
-            <guid>https://newspeppermint.com/2023/04/10/npsp_fauci/</guid>
-            <pubDate>Mon, 10 Apr 2023 23:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 4월 11일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
