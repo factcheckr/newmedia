@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 22:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 23:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 큰 키를 여전히 선호하는 이유가 있다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/04/27/npsp_shorttall/</link>
+            <guid>https://newspeppermint.com/2023/04/27/npsp_shorttall/</guid>
+            <pubDate>Thu, 27 Apr 2023 23:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 4월 28일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 어느 편에도 서지 않은 나라, 인도 이야기 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/04/26/npsp_warindia/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/04/13/npsp_chatgpt/</guid>
             <pubDate>Thu, 13 Apr 2023 23:13:50 GMT</pubDate>
             <content:encoded><![CDATA[2023년 4월 14일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어려운 문제, 어떻게 하면 쉽게 바꿔 풀 수 있을까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/04/11/npsp_tradewarclimatechange/</link>
-            <guid>https://newspeppermint.com/2023/04/11/npsp_tradewarclimatechange/</guid>
-            <pubDate>Wed, 12 Apr 2023 01:02:44 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 4월 12일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
