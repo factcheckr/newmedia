@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-04-30T22:11:41.733Z</updated>
+    <updated>2023-04-30T23:12:41.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] ‘안전한 의석’, ‘소액 기부 급증’은 미국 민주주의에 위협이 될까]]></title>
+        <id>https://newspeppermint.com/2023/04/30/npsp_usspeaker/</id>
+        <link href="https://newspeppermint.com/2023/04/30/npsp_usspeaker/"/>
+        <updated>2023-04-30T23:12:32.222Z</updated>
+        <content type="html"><![CDATA[2023년 5월 1일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 큰 키를 여전히 선호하는 이유가 있다]]></title>
         <id>https://newspeppermint.com/2023/04/27/npsp_shorttall/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/04/16/npsp_yachtclimatechange/"/>
         <updated>2023-04-17T01:05:36.291Z</updated>
         <content type="html"><![CDATA[2023년 4월 17일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 지금까지와는 확실히 다른 AI, 챗GPT]]></title>
-        <id>https://newspeppermint.com/2023/04/13/npsp_chatgpt/</id>
-        <link href="https://newspeppermint.com/2023/04/13/npsp_chatgpt/"/>
-        <updated>2023-04-13T23:13:50.296Z</updated>
-        <content type="html"><![CDATA[2023년 4월 14일]]></content>
     </entry>
 </feed>
