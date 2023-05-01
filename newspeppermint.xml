@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-05-01T22:13:16.346Z</updated>
+    <updated>2023-05-01T23:14:50.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] ‘과학자의 반란’은 올바른 판단이 될 수 있을까]]></title>
+        <id>https://newspeppermint.com/2023/05/01/npsp_climatechangescience/</id>
+        <link href="https://newspeppermint.com/2023/05/01/npsp_climatechangescience/"/>
+        <updated>2023-05-01T23:14:39.026Z</updated>
+        <content type="html"><![CDATA[2023년 5월 2일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“너 혼자 그런다고 뭐가 바뀌니”에 대한 답은]]></title>
         <id>https://newspeppermint.com/2023/05/01/npsp_ethicalconsumption/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/04/19/npsp_emailurgencybias/"/>
         <updated>2023-04-19T14:19:00.228Z</updated>
         <content type="html"><![CDATA[2023년 4월 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] ‘몸통’ 트럼프를 기소해야 한다는 조사 결과, 다음은?]]></title>
-        <id>https://newspeppermint.com/2023/04/17/npsp_jan6committee/</id>
-        <link href="https://newspeppermint.com/2023/04/17/npsp_jan6committee/"/>
-        <updated>2023-04-17T23:13:17.443Z</updated>
-        <content type="html"><![CDATA[2023년 4월 18일]]></content>
     </entry>
 </feed>

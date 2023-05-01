@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 22:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 23:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] ‘과학자의 반란’은 올바른 판단이 될 수 있을까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/05/01/npsp_climatechangescience/</link>
+            <guid>https://newspeppermint.com/2023/05/01/npsp_climatechangescience/</guid>
+            <pubDate>Mon, 01 May 2023 23:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 5월 2일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“너 혼자 그런다고 뭐가 바뀌니”에 대한 답은 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/05/01/npsp_ethicalconsumption/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/04/19/npsp_emailurgencybias/</guid>
             <pubDate>Wed, 19 Apr 2023 14:19:00 GMT</pubDate>
             <content:encoded><![CDATA[2023년 4월 20일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] ‘몸통’ 트럼프를 기소해야 한다는 조사 결과, 다음은? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/04/17/npsp_jan6committee/</link>
-            <guid>https://newspeppermint.com/2023/04/17/npsp_jan6committee/</guid>
-            <pubDate>Mon, 17 Apr 2023 23:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 4월 18일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
