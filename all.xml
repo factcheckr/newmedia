@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 12:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 13:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“너 혼자 그런다고 뭐가 바뀌니”에 대한 답은 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/05/01/npsp_ethicalconsumption/</link>
+            <guid>https://newspeppermint.com/2023/05/01/npsp_ethicalconsumption/</guid>
+            <pubDate>Mon, 01 May 2023 13:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 5월 2일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘안전한 의석’, ‘소액 기부 급증’은 미국 민주주의에 위협이 될까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/04/30/npsp_usspeaker/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/04/17/npsp_jan6committee/</guid>
             <pubDate>Mon, 17 Apr 2023 23:13:17 GMT</pubDate>
             <content:encoded><![CDATA[2023년 4월 18일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“쟤도 안 하는데 왜 내가 해야 해?”에 대한 답을 내놔야 한다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/04/16/npsp_yachtclimatechange/</link>
-            <guid>https://newspeppermint.com/2023/04/16/npsp_yachtclimatechange/</guid>
-            <pubDate>Mon, 17 Apr 2023 01:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 4월 17일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
