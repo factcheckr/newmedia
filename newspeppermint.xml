@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-05-03T02:29:15.759Z</updated>
+    <updated>2023-05-03T03:14:03.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘1등 뉴스’ ‘시청률 1위’ 앵커 해고는 무엇을 위한 결정이었나]]></title>
+        <id>https://newspeppermint.com/2023/05/02/npsp_tuckercarlson/</id>
+        <link href="https://newspeppermint.com/2023/05/02/npsp_tuckercarlson/"/>
+        <updated>2023-05-03T03:13:53.926Z</updated>
+        <content type="html"><![CDATA[2023년 5월 3일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “경쟁 금지를 금지”하려는 승부수, 통할까]]></title>
+        <id>https://newspeppermint.com/2023/05/02/npsp_noncompeteskhan/</id>
+        <link href="https://newspeppermint.com/2023/05/02/npsp_noncompeteskhan/"/>
+        <updated>2023-05-03T03:13:53.926Z</updated>
+        <content type="html"><![CDATA[2023년 5월 3일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘과학자의 반란’은 올바른 판단이 될 수 있을까]]></title>
         <id>https://newspeppermint.com/2023/05/01/npsp_climatechangescience/</id>
@@ -74,19 +88,5 @@
         <link href="https://newspeppermint.com/2023/04/20/npsp_tesla/"/>
         <updated>2023-04-21T02:30:28.883Z</updated>
         <content type="html"><![CDATA[2023년 4월 21일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 화성 이주만큼 어렵다는 레이저 핵융합, 20년 뒤면 가능할까]]></title>
-        <id>https://newspeppermint.com/2023/04/19/npsp_fusionenergy/</id>
-        <link href="https://newspeppermint.com/2023/04/19/npsp_fusionenergy/"/>
-        <updated>2023-04-19T23:13:48.860Z</updated>
-        <content type="html"><![CDATA[2023년 4월 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘카톡 답장의 속도’가 알려주는 나와 그 사람과의 관계]]></title>
-        <id>https://newspeppermint.com/2023/04/19/npsp_emailurgencybias/</id>
-        <link href="https://newspeppermint.com/2023/04/19/npsp_emailurgencybias/"/>
-        <updated>2023-04-19T14:19:00.228Z</updated>
-        <content type="html"><![CDATA[2023년 4월 20일]]></content>
     </entry>
 </feed>

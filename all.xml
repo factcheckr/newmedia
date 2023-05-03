@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 02:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 03:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘1등 뉴스’ ‘시청률 1위’ 앵커 해고는 무엇을 위한 결정이었나 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/05/02/npsp_tuckercarlson/</link>
+            <guid>https://newspeppermint.com/2023/05/02/npsp_tuckercarlson/</guid>
+            <pubDate>Wed, 03 May 2023 03:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 5월 3일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뉴페@스프] “경쟁 금지를 금지”하려는 승부수, 통할까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/05/02/npsp_noncompeteskhan/</link>
+            <guid>https://newspeppermint.com/2023/05/02/npsp_noncompeteskhan/</guid>
+            <pubDate>Wed, 03 May 2023 03:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 5월 3일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘과학자의 반란’은 올바른 판단이 될 수 있을까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/05/01/npsp_climatechangescience/</link>
@@ -76,20 +90,6 @@
             <guid>https://newspeppermint.com/2023/04/20/npsp_tesla/</guid>
             <pubDate>Fri, 21 Apr 2023 02:30:28 GMT</pubDate>
             <content:encoded><![CDATA[2023년 4월 21일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 화성 이주만큼 어렵다는 레이저 핵융합, 20년 뒤면 가능할까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/04/19/npsp_fusionenergy/</link>
-            <guid>https://newspeppermint.com/2023/04/19/npsp_fusionenergy/</guid>
-            <pubDate>Wed, 19 Apr 2023 23:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 4월 20일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘카톡 답장의 속도’가 알려주는 나와 그 사람과의 관계 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/04/19/npsp_emailurgencybias/</link>
-            <guid>https://newspeppermint.com/2023/04/19/npsp_emailurgencybias/</guid>
-            <pubDate>Wed, 19 Apr 2023 14:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 4월 20일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
