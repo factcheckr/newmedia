@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 22:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 23:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] ‘한 끼 63만 원’ 세계 최고 식당이 문을 닫은 이유는 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/05/03/npsp_noma/</link>
+            <guid>https://newspeppermint.com/2023/05/03/npsp_noma/</guid>
+            <pubDate>Wed, 03 May 2023 23:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 5월 4일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘1등 뉴스’ ‘시청률 1위’ 앵커 해고는 무엇을 위한 결정이었나 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/05/02/npsp_tuckercarlson/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/04/23/npsp_mathliterature/</guid>
             <pubDate>Sun, 23 Apr 2023 23:12:33 GMT</pubDate>
             <content:encoded><![CDATA[2023년 4월 24일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 테슬라는 이제 ‘진짜’ 시장 경쟁 앞에 섰다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/04/20/npsp_tesla/</link>
-            <guid>https://newspeppermint.com/2023/04/20/npsp_tesla/</guid>
-            <pubDate>Fri, 21 Apr 2023 02:30:28 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 4월 21일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
