@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 22:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 23:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 챗GPT가 일깨운 ‘결정적 시점’은 지금이다! (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/05/05/npsp_chatgpt-2/</link>
+            <guid>https://newspeppermint.com/2023/05/05/npsp_chatgpt-2/</guid>
+            <pubDate>Fri, 05 May 2023 23:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 5월 6일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘한 끼 63만 원’ 세계 최고 식당이 문을 닫은 이유는 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/05/03/npsp_noma/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/04/25/npsp_holocaust/</guid>
             <pubDate>Tue, 25 Apr 2023 06:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2023년 4월 26일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아름다움이 진리요, 진리가 아름다움이리라 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/04/23/npsp_mathliterature/</link>
-            <guid>https://newspeppermint.com/2023/04/23/npsp_mathliterature/</guid>
-            <pubDate>Sun, 23 Apr 2023 23:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 4월 24일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
