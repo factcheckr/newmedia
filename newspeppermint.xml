@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-05-08T22:12:40.396Z</updated>
+    <updated>2023-05-08T23:14:08.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 중국마저 인구 감소… 무엇을 할 것인가]]></title>
+        <id>https://newspeppermint.com/2023/05/08/npsp_chinapopulation/</id>
+        <link href="https://newspeppermint.com/2023/05/08/npsp_chinapopulation/"/>
+        <updated>2023-05-08T23:13:44.280Z</updated>
+        <content type="html"><![CDATA[2023년 5월 9일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마약과의 전쟁’이 놓치고 있는 게 있다]]></title>
         <id>https://newspeppermint.com/2023/05/08/npsp_addiction/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2023/04/26/npsp_warindia/</id>
         <link href="https://newspeppermint.com/2023/04/26/npsp_warindia/"/>
         <updated>2023-04-26T23:13:38.020Z</updated>
-        <content type="html"><![CDATA[2023년 4월 27일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 극단의 다이어트, 극단의 운동을 하는 소년소녀가 탄생했나]]></title>
-        <id>https://newspeppermint.com/2023/04/26/npsp_anorexia/</id>
-        <link href="https://newspeppermint.com/2023/04/26/npsp_anorexia/"/>
-        <updated>2023-04-26T16:17:31.215Z</updated>
         <content type="html"><![CDATA[2023년 4월 27일]]></content>
     </entry>
 </feed>
