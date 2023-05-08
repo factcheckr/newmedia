@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 01:02:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 02:33:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기후 위기 앞에선 어쩔 수 없는 선택을 할 수밖에 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/05/07/npsp_nuclearwaste/</link>
+            <guid>https://newspeppermint.com/2023/05/07/npsp_nuclearwaste/</guid>
+            <pubDate>Mon, 08 May 2023 02:33:09 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 5월 8일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 챗GPT가 일깨운 ‘결정적 시점’은 지금이다! (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/05/05/npsp_chatgpt-2/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2023/04/25/npsp_resolution/</link>
             <guid>https://newspeppermint.com/2023/04/25/npsp_resolution/</guid>
             <pubDate>Tue, 25 Apr 2023 23:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 4월 26일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마지막 1명까지 사라지고 나면 어떻게 기억해야 하나 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/04/25/npsp_holocaust/</link>
-            <guid>https://newspeppermint.com/2023/04/25/npsp_holocaust/</guid>
-            <pubDate>Tue, 25 Apr 2023 06:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2023년 4월 26일]]></content:encoded>
         </item>
         <item>
