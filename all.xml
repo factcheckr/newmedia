@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 22:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 23:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 유튜브 매트릭스에서 행복하게 살 수 있을까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/05/11/npsp_youtuber/</link>
+            <guid>https://newspeppermint.com/2023/05/11/npsp_youtuber/</guid>
+            <pubDate>Thu, 11 May 2023 23:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 5월 12일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 그럼에도 ‘변하지 않는 것들’이 있다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/05/10/npsp_barnesandnoble/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/05/01/npsp_ethicalconsumption/</guid>
             <pubDate>Mon, 01 May 2023 13:15:15 GMT</pubDate>
             <content:encoded><![CDATA[2023년 5월 2일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] ‘안전한 의석’, ‘소액 기부 급증’은 미국 민주주의에 위협이 될까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/04/30/npsp_usspeaker/</link>
-            <guid>https://newspeppermint.com/2023/04/30/npsp_usspeaker/</guid>
-            <pubDate>Sun, 30 Apr 2023 23:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 5월 1일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
