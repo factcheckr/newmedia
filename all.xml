@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 22:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 23:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 죽음에서 멀어지는 인간은 어떻게 살아야 할까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/05/14/npsp_eternallife/</link>
+            <guid>https://newspeppermint.com/2023/05/14/npsp_eternallife/</guid>
+            <pubDate>Sun, 14 May 2023 23:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 5월 15일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 유튜브 매트릭스에서 행복하게 살 수 있을까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/05/11/npsp_youtuber/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2023/05/01/npsp_climatechangescience/</link>
             <guid>https://newspeppermint.com/2023/05/01/npsp_climatechangescience/</guid>
             <pubDate>Mon, 01 May 2023 23:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 5월 2일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“너 혼자 그런다고 뭐가 바뀌니”에 대한 답은 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/05/01/npsp_ethicalconsumption/</link>
-            <guid>https://newspeppermint.com/2023/05/01/npsp_ethicalconsumption/</guid>
-            <pubDate>Mon, 01 May 2023 13:15:15 GMT</pubDate>
             <content:encoded><![CDATA[2023년 5월 2일]]></content:encoded>
         </item>
         <item>
