@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 22:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 23:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 그들의 ‘선한 의도’가 불러온 무시무시한 나비 효과 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/05/15/npsp_phonicsliteracy/</link>
+            <guid>https://newspeppermint.com/2023/05/15/npsp_phonicsliteracy/</guid>
+            <pubDate>Mon, 15 May 2023 23:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 5월 16일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이 문제는 영영 풀지 못할 것이다, 이래도 되나? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/05/14/npsp_usgunviolence/</link>
@@ -81,13 +88,6 @@
             <title><![CDATA[‘1등 뉴스’ ‘시청률 1위’ 앵커 해고는 무엇을 위한 결정이었나 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/05/02/npsp_tuckercarlson/</link>
             <guid>https://newspeppermint.com/2023/05/02/npsp_tuckercarlson/</guid>
-            <pubDate>Wed, 03 May 2023 03:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 5월 3일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] “경쟁 금지를 금지”하려는 승부수, 통할까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/05/02/npsp_noncompeteskhan/</link>
-            <guid>https://newspeppermint.com/2023/05/02/npsp_noncompeteskhan/</guid>
             <pubDate>Wed, 03 May 2023 03:13:53 GMT</pubDate>
             <content:encoded><![CDATA[2023년 5월 3일]]></content:encoded>
         </item>
