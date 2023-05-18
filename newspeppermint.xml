@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-05-18T13:16:02.282Z</updated>
+    <updated>2023-05-18T14:12:36.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“나한테 불리한데 왜 그래야 하지?”를 반박할 수 있을까]]></title>
+        <id>https://newspeppermint.com/2023/05/18/npsp_nothavingkids/</id>
+        <link href="https://newspeppermint.com/2023/05/18/npsp_nothavingkids/"/>
+        <updated>2023-05-18T14:12:25.907Z</updated>
+        <content type="html"><![CDATA[2023년 5월 19일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 은혜를 모르는 호모 사피엔스로 남을 것인가]]></title>
         <id>https://newspeppermint.com/2023/05/16/npsp_horseshoecrab/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/05/05/npsp_chatgpt-2/"/>
         <updated>2023-05-05T23:13:29.396Z</updated>
         <content type="html"><![CDATA[2023년 5월 6일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] ‘한 끼 63만 원’ 세계 최고 식당이 문을 닫은 이유는]]></title>
-        <id>https://newspeppermint.com/2023/05/03/npsp_noma/</id>
-        <link href="https://newspeppermint.com/2023/05/03/npsp_noma/"/>
-        <updated>2023-05-03T23:12:52.526Z</updated>
-        <content type="html"><![CDATA[2023년 5월 4일]]></content>
     </entry>
 </feed>
