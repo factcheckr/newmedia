@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-05-21T23:13:05.093Z</updated>
+    <updated>2023-05-22T01:08:35.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 마스크 논란은 과학의 문제 그 이상이었다]]></title>
+        <id>https://newspeppermint.com/2023/05/21/npsp_maskmandates/</id>
+        <link href="https://newspeppermint.com/2023/05/21/npsp_maskmandates/"/>
+        <updated>2023-05-22T01:08:25.040Z</updated>
+        <content type="html"><![CDATA[2023년 5월 22일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금의 정치적 양극화에 미디어는 얼마나 책임이 있을까]]></title>
+        <id>https://newspeppermint.com/2023/05/21/npsp_conservativemedia/</id>
+        <link href="https://newspeppermint.com/2023/05/21/npsp_conservativemedia/"/>
+        <updated>2023-05-22T01:08:25.044Z</updated>
+        <content type="html"><![CDATA[2023년 5월 22일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 우리가 미국의 전쟁 중독을 걱정해야 하는 이유]]></title>
         <id>https://newspeppermint.com/2023/05/18/npsp_uswaraddiction/</id>
@@ -74,19 +88,5 @@
         <link href="https://newspeppermint.com/2023/05/08/npsp_chinapopulation/"/>
         <updated>2023-05-08T23:13:44.280Z</updated>
         <content type="html"><![CDATA[2023년 5월 9일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마약과의 전쟁’이 놓치고 있는 게 있다]]></title>
-        <id>https://newspeppermint.com/2023/05/08/npsp_addiction/</id>
-        <link href="https://newspeppermint.com/2023/05/08/npsp_addiction/"/>
-        <updated>2023-05-08T22:12:30.821Z</updated>
-        <content type="html"><![CDATA[2023년 5월 9일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후 위기 앞에선 어쩔 수 없는 선택을 할 수밖에]]></title>
-        <id>https://newspeppermint.com/2023/05/07/npsp_nuclearwaste/</id>
-        <link href="https://newspeppermint.com/2023/05/07/npsp_nuclearwaste/"/>
-        <updated>2023-05-08T02:33:09.817Z</updated>
-        <content type="html"><![CDATA[2023년 5월 8일]]></content>
     </entry>
 </feed>
