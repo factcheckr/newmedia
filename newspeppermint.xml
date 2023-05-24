@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-05-24T03:14:11.832Z</updated>
+    <updated>2023-05-24T04:16:17.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쾌락에 고통이 뒤따른다는 건 과학적 진실]]></title>
+        <id>https://newspeppermint.com/2023/05/23/npsp_marijuanalegalization/</id>
+        <link href="https://newspeppermint.com/2023/05/23/npsp_marijuanalegalization/"/>
+        <updated>2023-05-24T04:16:07.906Z</updated>
+        <content type="html"><![CDATA[2023년 5월 24일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 이것은 인터넷의 미래가 달린 질문이다 : 유튜브는 서점인가 언론사인가]]></title>
         <id>https://newspeppermint.com/2023/05/23/npsp_gonzalezgoogle/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2023/05/10/npsp_barnesandnoble/</id>
         <link href="https://newspeppermint.com/2023/05/10/npsp_barnesandnoble/"/>
         <updated>2023-05-10T23:14:10.392Z</updated>
-        <content type="html"><![CDATA[2023년 5월 11일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전설의 투자자는 왜 ESG에 비판적일까]]></title>
-        <id>https://newspeppermint.com/2023/05/10/npsp_buffettesg/</id>
-        <link href="https://newspeppermint.com/2023/05/10/npsp_buffettesg/"/>
-        <updated>2023-05-10T15:13:01.480Z</updated>
         <content type="html"><![CDATA[2023년 5월 11일]]></content>
     </entry>
 </feed>
