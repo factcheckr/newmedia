@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 22:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 23:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] ‘얄팍한 나’로부터 벗어나려면 어떻게 하지? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/05/24/npsp_art/</link>
+            <guid>https://newspeppermint.com/2023/05/24/npsp_art/</guid>
+            <pubDate>Wed, 24 May 2023 23:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 5월 25일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[쾌락에 고통이 뒤따른다는 건 과학적 진실 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/05/23/npsp_marijuanalegalization/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/05/11/npsp_youtuber/</guid>
             <pubDate>Thu, 11 May 2023 23:14:34 GMT</pubDate>
             <content:encoded><![CDATA[2023년 5월 12일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 그럼에도 ‘변하지 않는 것들’이 있다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/05/10/npsp_barnesandnoble/</link>
-            <guid>https://newspeppermint.com/2023/05/10/npsp_barnesandnoble/</guid>
-            <pubDate>Wed, 10 May 2023 23:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 5월 11일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
