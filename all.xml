@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 22:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 23:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 결국 어떤 방식이 소비자에게 더 유리할까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/05/25/npsp_creditcardbenefit/</link>
+            <guid>https://newspeppermint.com/2023/05/25/npsp_creditcardbenefit/</guid>
+            <pubDate>Thu, 25 May 2023 23:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 5월 26일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘얄팍한 나’로부터 벗어나려면 어떻게 하지? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/05/24/npsp_art/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/05/14/npsp_eternallife/</guid>
             <pubDate>Sun, 14 May 2023 23:13:18 GMT</pubDate>
             <content:encoded><![CDATA[2023년 5월 15일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 유튜브 매트릭스에서 행복하게 살 수 있을까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/05/11/npsp_youtuber/</link>
-            <guid>https://newspeppermint.com/2023/05/11/npsp_youtuber/</guid>
-            <pubDate>Thu, 11 May 2023 23:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 5월 12일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
