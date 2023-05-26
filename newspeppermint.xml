@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-05-26T22:12:10.746Z</updated>
+    <updated>2023-05-26T23:13:12.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “이러다 정말 큰일 난다”던 그의 경고, 큰일 났는데 이제 어쩔 것인가]]></title>
+        <id>https://newspeppermint.com/2023/05/26/npsp_svb/</id>
+        <link href="https://newspeppermint.com/2023/05/26/npsp_svb/"/>
+        <updated>2023-05-26T23:13:01.044Z</updated>
+        <content type="html"><![CDATA[2023년 5월 27일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 결국 어떤 방식이 소비자에게 더 유리할까]]></title>
         <id>https://newspeppermint.com/2023/05/25/npsp_creditcardbenefit/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2023/05/14/npsp_usgunviolence/</id>
         <link href="https://newspeppermint.com/2023/05/14/npsp_usgunviolence/"/>
         <updated>2023-05-15T01:06:07.608Z</updated>
-        <content type="html"><![CDATA[2023년 5월 15일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 죽음에서 멀어지는 인간은 어떻게 살아야 할까]]></title>
-        <id>https://newspeppermint.com/2023/05/14/npsp_eternallife/</id>
-        <link href="https://newspeppermint.com/2023/05/14/npsp_eternallife/"/>
-        <updated>2023-05-14T23:13:18.947Z</updated>
         <content type="html"><![CDATA[2023년 5월 15일]]></content>
     </entry>
 </feed>
