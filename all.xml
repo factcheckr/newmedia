@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 22:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 23:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] ‘각자도생’이냐 ‘공생’이냐 혹은 가운데 어딘가 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/05/30/npsp_dependence/</link>
+            <guid>https://newspeppermint.com/2023/05/30/npsp_dependence/</guid>
+            <pubDate>Tue, 30 May 2023 23:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 5월 31일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[도시가 놀이터 되면 오프라인도 살아날 수 있을까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/05/30/npsp_playgroundcity/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/05/16/npsp_horseshoecrab/</guid>
             <pubDate>Tue, 16 May 2023 23:12:42 GMT</pubDate>
             <content:encoded><![CDATA[2023년 5월 17일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 그들의 ‘선한 의도’가 불러온 무시무시한 나비 효과 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/05/15/npsp_phonicsliteracy/</link>
-            <guid>https://newspeppermint.com/2023/05/15/npsp_phonicsliteracy/</guid>
-            <pubDate>Mon, 15 May 2023 23:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 5월 16일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
