@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-05-30T15:13:52.753Z</updated>
+    <updated>2023-05-30T16:15:22.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도시가 놀이터 되면 오프라인도 살아날 수 있을까]]></title>
+        <id>https://newspeppermint.com/2023/05/30/npsp_playgroundcity/</id>
+        <link href="https://newspeppermint.com/2023/05/30/npsp_playgroundcity/"/>
+        <updated>2023-05-30T16:15:13.751Z</updated>
+        <content type="html"><![CDATA[2023년 5월 31일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “이러다 정말 큰일 난다”던 그의 경고, 큰일 났는데 이제 어쩔 것인가]]></title>
         <id>https://newspeppermint.com/2023/05/26/npsp_svb/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/05/15/npsp_phonicsliteracy/"/>
         <updated>2023-05-15T23:13:11.244Z</updated>
         <content type="html"><![CDATA[2023년 5월 16일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 문제는 영영 풀지 못할 것이다, 이래도 되나?]]></title>
-        <id>https://newspeppermint.com/2023/05/14/npsp_usgunviolence/</id>
-        <link href="https://newspeppermint.com/2023/05/14/npsp_usgunviolence/"/>
-        <updated>2023-05-15T01:06:07.608Z</updated>
-        <content type="html"><![CDATA[2023년 5월 15일]]></content>
     </entry>
 </feed>
