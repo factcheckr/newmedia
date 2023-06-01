@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-05-31T23:12:50.194Z</updated>
+    <updated>2023-06-01T01:28:14.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삶의 모든 데서 ‘포모(FOMO)’는 아니지 않나요?]]></title>
+        <id>https://newspeppermint.com/2023/05/31/npsp_tyrannyofthebest/</id>
+        <link href="https://newspeppermint.com/2023/05/31/npsp_tyrannyofthebest/"/>
+        <updated>2023-06-01T01:27:49.163Z</updated>
+        <content type="html"><![CDATA[2023년 6월 1일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘각자도생’이냐 ‘공생’이냐 혹은 가운데 어딘가]]></title>
         <id>https://newspeppermint.com/2023/05/30/npsp_dependence/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/05/18/npsp_nothavingkids/"/>
         <updated>2023-05-18T14:12:25.907Z</updated>
         <content type="html"><![CDATA[2023년 5월 19일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 은혜를 모르는 호모 사피엔스로 남을 것인가]]></title>
-        <id>https://newspeppermint.com/2023/05/16/npsp_horseshoecrab/</id>
-        <link href="https://newspeppermint.com/2023/05/16/npsp_horseshoecrab/"/>
-        <updated>2023-05-16T23:12:42.510Z</updated>
-        <content type="html"><![CDATA[2023년 5월 17일]]></content>
     </entry>
 </feed>

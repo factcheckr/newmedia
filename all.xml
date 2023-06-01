@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 23:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 01:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삶의 모든 데서 ‘포모(FOMO)’는 아니지 않나요? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/05/31/npsp_tyrannyofthebest/</link>
+            <guid>https://newspeppermint.com/2023/05/31/npsp_tyrannyofthebest/</guid>
+            <pubDate>Thu, 01 Jun 2023 01:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 6월 1일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘각자도생’이냐 ‘공생’이냐 혹은 가운데 어딘가 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/05/30/npsp_dependence/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/05/18/npsp_nothavingkids/</guid>
             <pubDate>Thu, 18 May 2023 14:12:25 GMT</pubDate>
             <content:encoded><![CDATA[2023년 5월 19일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 은혜를 모르는 호모 사피엔스로 남을 것인가 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/05/16/npsp_horseshoecrab/</link>
-            <guid>https://newspeppermint.com/2023/05/16/npsp_horseshoecrab/</guid>
-            <pubDate>Tue, 16 May 2023 23:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 5월 17일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
