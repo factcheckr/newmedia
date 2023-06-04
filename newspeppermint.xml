@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-06-04T22:12:17.249Z</updated>
+    <updated>2023-06-04T23:13:38.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 그러니 게으른 인간이여, 운동 시작을 생각이라도 하자]]></title>
+        <id>https://newspeppermint.com/2023/06/04/npsp_wfhhealth/</id>
+        <link href="https://newspeppermint.com/2023/06/04/npsp_wfhhealth/"/>
+        <updated>2023-06-04T23:13:28.794Z</updated>
+        <content type="html"><![CDATA[2023년 6월 5일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삶의 모든 데서 ‘포모(FOMO)’는 아니지 않나요?]]></title>
         <id>https://newspeppermint.com/2023/05/31/npsp_tyrannyofthebest/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2023/05/18/npsp_uswaraddiction/</id>
         <link href="https://newspeppermint.com/2023/05/18/npsp_uswaraddiction/"/>
         <updated>2023-05-18T23:13:41.610Z</updated>
-        <content type="html"><![CDATA[2023년 5월 19일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“나한테 불리한데 왜 그래야 하지?”를 반박할 수 있을까]]></title>
-        <id>https://newspeppermint.com/2023/05/18/npsp_nothavingkids/</id>
-        <link href="https://newspeppermint.com/2023/05/18/npsp_nothavingkids/"/>
-        <updated>2023-05-18T14:12:25.907Z</updated>
         <content type="html"><![CDATA[2023년 5월 19일]]></content>
     </entry>
 </feed>
