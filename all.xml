@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 23:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 01:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매번 하는 고민 “그와의 관계를 어떻게 하는 게 좋을까” (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/06/06/npsp_ambivalentrelationship/</link>
+            <guid>https://newspeppermint.com/2023/06/06/npsp_ambivalentrelationship/</guid>
+            <pubDate>Wed, 07 Jun 2023 01:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 6월 7일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 틱톡의 문제는 단지 틱톡 만의 문제일까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/06/06/npsp_tiktok/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/05/23/npsp_gonzalezgoogle/</guid>
             <pubDate>Tue, 23 May 2023 23:12:58 GMT</pubDate>
             <content:encoded><![CDATA[2023년 5월 24일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 마스크 논란은 과학의 문제 그 이상이었다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/05/21/npsp_maskmandates/</link>
-            <guid>https://newspeppermint.com/2023/05/21/npsp_maskmandates/</guid>
-            <pubDate>Mon, 22 May 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 5월 22일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
