@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 22:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 23:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 환상의 멀티버스 앞에서 잊지 말아야 할 것 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/06/08/npsp_multiverse/</link>
+            <guid>https://newspeppermint.com/2023/06/08/npsp_multiverse/</guid>
+            <pubDate>Thu, 08 Jun 2023 23:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 6월 9일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[매번 하는 고민 “그와의 관계를 어떻게 하는 게 좋을까” (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/06/06/npsp_ambivalentrelationship/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2023/05/23/npsp_marijuanalegalization/</link>
             <guid>https://newspeppermint.com/2023/05/23/npsp_marijuanalegalization/</guid>
             <pubDate>Wed, 24 May 2023 04:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 5월 24일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 이것은 인터넷의 미래가 달린 질문이다 : 유튜브는 서점인가 언론사인가 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/05/23/npsp_gonzalezgoogle/</link>
-            <guid>https://newspeppermint.com/2023/05/23/npsp_gonzalezgoogle/</guid>
-            <pubDate>Tue, 23 May 2023 23:12:58 GMT</pubDate>
             <content:encoded><![CDATA[2023년 5월 24일]]></content:encoded>
         </item>
         <item>
