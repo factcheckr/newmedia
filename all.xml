@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 22:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 23:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 프리드먼의 기대와 우려, 하라리의 강력한 경고… AI는 어디까지 온 걸까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/06/11/npsp_chatgptfriedmanharari/</link>
+            <guid>https://newspeppermint.com/2023/06/11/npsp_chatgptfriedmanharari/</guid>
+            <pubDate>Sun, 11 Jun 2023 23:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 6월 12일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 환상의 멀티버스 앞에서 잊지 말아야 할 것 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/06/08/npsp_multiverse/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/05/24/npsp_art/</guid>
             <pubDate>Wed, 24 May 2023 23:13:00 GMT</pubDate>
             <content:encoded><![CDATA[2023년 5월 25일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쾌락에 고통이 뒤따른다는 건 과학적 진실 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/05/23/npsp_marijuanalegalization/</link>
-            <guid>https://newspeppermint.com/2023/05/23/npsp_marijuanalegalization/</guid>
-            <pubDate>Wed, 24 May 2023 04:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 5월 24일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
