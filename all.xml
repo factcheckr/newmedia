@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 22:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 23:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 트럼프 기소의 의미, 미국서도 논란인 ‘정치검찰’ (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/06/12/npsp_trumpindicted/</link>
+            <guid>https://newspeppermint.com/2023/06/12/npsp_trumpindicted/</guid>
+            <pubDate>Mon, 12 Jun 2023 23:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 6월 13일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[수십 년 된 소수자 우대정책, 2023년에도 공정할까? ‘공정’이란 가치는 어떻게 구현해야 하나 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/06/12/npsp_affirmativeaction/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/05/26/npsp_svb/</guid>
             <pubDate>Fri, 26 May 2023 23:13:01 GMT</pubDate>
             <content:encoded><![CDATA[2023년 5월 27일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 결국 어떤 방식이 소비자에게 더 유리할까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/05/25/npsp_creditcardbenefit/</link>
-            <guid>https://newspeppermint.com/2023/05/25/npsp_creditcardbenefit/</guid>
-            <pubDate>Thu, 25 May 2023 23:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 5월 26일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
