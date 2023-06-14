@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-06-14T09:12:51.272Z</updated>
+    <updated>2023-06-14T10:14:36.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다시 ‘코로나 대책’이 필요한 상황이 올 수 있는 이유]]></title>
+        <id>https://newspeppermint.com/2023/06/14/npsp_airquality/</id>
+        <link href="https://newspeppermint.com/2023/06/14/npsp_airquality/"/>
+        <updated>2023-06-14T10:14:27.718Z</updated>
+        <content type="html"><![CDATA[2023년 6월 15일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘이 동네 지소연 언니’나 ‘저 동네 연경쌤’이 많아져야 해!]]></title>
         <id>https://newspeppermint.com/2023/06/13/npsp_womensportslegend/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2023/05/30/npsp_dependence/</id>
         <link href="https://newspeppermint.com/2023/05/30/npsp_dependence/"/>
         <updated>2023-05-30T23:12:55.675Z</updated>
-        <content type="html"><![CDATA[2023년 5월 31일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도시가 놀이터 되면 오프라인도 살아날 수 있을까]]></title>
-        <id>https://newspeppermint.com/2023/05/30/npsp_playgroundcity/</id>
-        <link href="https://newspeppermint.com/2023/05/30/npsp_playgroundcity/"/>
-        <updated>2023-05-30T16:15:13.751Z</updated>
         <content type="html"><![CDATA[2023년 5월 31일]]></content>
     </entry>
 </feed>
