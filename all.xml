@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 22:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 23:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] “쟤도 안 하는데 왜 내가 해야 해?”에 대한 답을 내놔야 한다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/06/16/npsp_yachtclimatechange/</link>
+            <guid>https://newspeppermint.com/2023/06/16/npsp_yachtclimatechange/</guid>
+            <pubDate>Fri, 16 Jun 2023 23:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 6월 17일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 어려운 문제, 어떻게 하면 쉽게 바꿔 풀 수 있을까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/06/14/npsp_tradewarclimatechange/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/06/04/npsp_wfhhealth/</guid>
             <pubDate>Sun, 04 Jun 2023 23:13:28 GMT</pubDate>
             <content:encoded><![CDATA[2023년 6월 5일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삶의 모든 데서 ‘포모(FOMO)’는 아니지 않나요? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/05/31/npsp_tyrannyofthebest/</link>
-            <guid>https://newspeppermint.com/2023/05/31/npsp_tyrannyofthebest/</guid>
-            <pubDate>Thu, 01 Jun 2023 01:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 6월 1일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
