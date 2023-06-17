@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-06-17T08:15:48.370Z</updated>
+    <updated>2023-06-17T09:12:26.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 독창적인 방식으로 기존의 독창성을 해체한 ‘앤디 워홀’]]></title>
+        <id>https://newspeppermint.com/2023/06/17/npsp_warhol/</id>
+        <link href="https://newspeppermint.com/2023/06/17/npsp_warhol/"/>
+        <updated>2023-06-17T09:12:16.527Z</updated>
+        <content type="html"><![CDATA[2023년 6월 18일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “쟤도 안 하는데 왜 내가 해야 해?”에 대한 답을 내놔야 한다]]></title>
         <id>https://newspeppermint.com/2023/06/16/npsp_yachtclimatechange/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/06/05/npsp_aiphotoshop/"/>
         <updated>2023-06-05T23:12:54.000Z</updated>
         <content type="html"><![CDATA[2023년 6월 6일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 그러니 게으른 인간이여, 운동 시작을 생각이라도 하자]]></title>
-        <id>https://newspeppermint.com/2023/06/04/npsp_wfhhealth/</id>
-        <link href="https://newspeppermint.com/2023/06/04/npsp_wfhhealth/"/>
-        <updated>2023-06-04T23:13:28.794Z</updated>
-        <content type="html"><![CDATA[2023년 6월 5일]]></content>
     </entry>
 </feed>
