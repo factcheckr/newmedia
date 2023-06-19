@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 16:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 17:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또 기소된 트럼프, 그러든 말든 대선 가도는 탄탄해서 더 문제 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/06/19/npsp_trumpdocuments/</link>
+            <guid>https://newspeppermint.com/2023/06/19/npsp_trumpdocuments/</guid>
+            <pubDate>Mon, 19 Jun 2023 17:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 6월 20일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘카톡 답장의 속도’가 알려주는 나와 그 사람과의 관계 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/06/18/npsp_emailurgencybias/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2023/06/06/npsp_ambivalentrelationship/</link>
             <guid>https://newspeppermint.com/2023/06/06/npsp_ambivalentrelationship/</guid>
             <pubDate>Wed, 07 Jun 2023 01:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 6월 7일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 틱톡의 문제는 단지 틱톡 만의 문제일까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/06/06/npsp_tiktok/</link>
-            <guid>https://newspeppermint.com/2023/06/06/npsp_tiktok/</guid>
-            <pubDate>Tue, 06 Jun 2023 23:12:28 GMT</pubDate>
             <content:encoded><![CDATA[2023년 6월 7일]]></content:encoded>
         </item>
         <item>
