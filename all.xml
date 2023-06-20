@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 23:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 01:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 아름다움이 진리요, 진리가 아름다움이리라 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/06/19/npsp_mathliterature/</link>
+            <guid>https://newspeppermint.com/2023/06/19/npsp_mathliterature/</guid>
+            <pubDate>Tue, 20 Jun 2023 01:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 6월 20일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[또 기소된 트럼프, 그러든 말든 대선 가도는 탄탄해서 더 문제 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/06/19/npsp_trumpdocuments/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/06/08/npsp_multiverse/</guid>
             <pubDate>Thu, 08 Jun 2023 23:13:42 GMT</pubDate>
             <content:encoded><![CDATA[2023년 6월 9일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매번 하는 고민 “그와의 관계를 어떻게 하는 게 좋을까” (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/06/06/npsp_ambivalentrelationship/</link>
-            <guid>https://newspeppermint.com/2023/06/06/npsp_ambivalentrelationship/</guid>
-            <pubDate>Wed, 07 Jun 2023 01:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 6월 7일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

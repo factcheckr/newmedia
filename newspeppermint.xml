@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-06-19T23:13:50.833Z</updated>
+    <updated>2023-06-20T01:10:33.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 아름다움이 진리요, 진리가 아름다움이리라]]></title>
+        <id>https://newspeppermint.com/2023/06/19/npsp_mathliterature/</id>
+        <link href="https://newspeppermint.com/2023/06/19/npsp_mathliterature/"/>
+        <updated>2023-06-20T01:10:23.558Z</updated>
+        <content type="html"><![CDATA[2023년 6월 20일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[또 기소된 트럼프, 그러든 말든 대선 가도는 탄탄해서 더 문제]]></title>
         <id>https://newspeppermint.com/2023/06/19/npsp_trumpdocuments/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/06/08/npsp_multiverse/"/>
         <updated>2023-06-08T23:13:42.969Z</updated>
         <content type="html"><![CDATA[2023년 6월 9일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매번 하는 고민 “그와의 관계를 어떻게 하는 게 좋을까”]]></title>
-        <id>https://newspeppermint.com/2023/06/06/npsp_ambivalentrelationship/</id>
-        <link href="https://newspeppermint.com/2023/06/06/npsp_ambivalentrelationship/"/>
-        <updated>2023-06-07T01:18:09.261Z</updated>
-        <content type="html"><![CDATA[2023년 6월 7일]]></content>
     </entry>
 </feed>
