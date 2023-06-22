@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 22:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 23:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 마지막 1명까지 사라지고 나면 어떻게 기억해야 하나 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/06/22/npsp_holocaust/</link>
+            <guid>https://newspeppermint.com/2023/06/22/npsp_holocaust/</guid>
+            <pubDate>Thu, 22 Jun 2023 23:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 6월 23일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[넘치는 시간 정보, 그럼에도 문제는 알고리듬? 혹은 사람? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/06/21/npsp_time/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/06/12/npsp_affirmativeaction/</guid>
             <pubDate>Mon, 12 Jun 2023 13:16:34 GMT</pubDate>
             <content:encoded><![CDATA[2023년 6월 13일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 프리드먼의 기대와 우려, 하라리의 강력한 경고… AI는 어디까지 온 걸까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/06/11/npsp_chatgptfriedmanharari/</link>
-            <guid>https://newspeppermint.com/2023/06/11/npsp_chatgptfriedmanharari/</guid>
-            <pubDate>Sun, 11 Jun 2023 23:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 6월 12일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
