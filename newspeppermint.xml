@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-06-26T22:14:36.194Z</updated>
+    <updated>2023-06-26T23:15:03.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 왜 극단의 다이어트, 극단의 운동을 하는 소년소녀가 탄생했나]]></title>
+        <id>https://newspeppermint.com/2023/06/26/npsp_anorexia/</id>
+        <link href="https://newspeppermint.com/2023/06/26/npsp_anorexia/"/>
+        <updated>2023-06-26T23:14:46.080Z</updated>
+        <content type="html"><![CDATA[2023년 6월 27일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[언제고 남성성이 끝내 ‘사망’한다면 그 부고기사는 어떤 내용일까]]></title>
         <id>https://newspeppermint.com/2023/06/26/npsp_alienatedmen/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/06/13/npsp_womensportslegend/"/>
         <updated>2023-06-13T23:11:40.497Z</updated>
         <content type="html"><![CDATA[2023년 6월 14일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 트럼프 기소의 의미, 미국서도 논란인 ‘정치검찰’]]></title>
-        <id>https://newspeppermint.com/2023/06/12/npsp_trumpindicted/</id>
-        <link href="https://newspeppermint.com/2023/06/12/npsp_trumpindicted/"/>
-        <updated>2023-06-12T23:12:54.903Z</updated>
-        <content type="html"><![CDATA[2023년 6월 13일]]></content>
     </entry>
 </feed>
