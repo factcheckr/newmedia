@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-06-26T17:13:47.893Z</updated>
+    <updated>2023-06-26T18:18:49.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[언제고 남성성이 끝내 ‘사망’한다면 그 부고기사는 어떤 내용일까]]></title>
+        <id>https://newspeppermint.com/2023/06/26/npsp_alienatedmen/</id>
+        <link href="https://newspeppermint.com/2023/06/26/npsp_alienatedmen/"/>
+        <updated>2023-06-26T18:18:39.986Z</updated>
+        <content type="html"><![CDATA[2023년 6월 27일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 마지막 1명까지 사라지고 나면 어떻게 기억해야 하나]]></title>
         <id>https://newspeppermint.com/2023/06/22/npsp_holocaust/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2023/06/12/npsp_trumpindicted/</id>
         <link href="https://newspeppermint.com/2023/06/12/npsp_trumpindicted/"/>
         <updated>2023-06-12T23:12:54.903Z</updated>
-        <content type="html"><![CDATA[2023년 6월 13일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수십 년 된 소수자 우대정책, 2023년에도 공정할까? ‘공정’이란 가치는 어떻게 구현해야 하나]]></title>
-        <id>https://newspeppermint.com/2023/06/12/npsp_affirmativeaction/</id>
-        <link href="https://newspeppermint.com/2023/06/12/npsp_affirmativeaction/"/>
-        <updated>2023-06-12T13:16:34.745Z</updated>
         <content type="html"><![CDATA[2023년 6월 13일]]></content>
     </entry>
 </feed>
