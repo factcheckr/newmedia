@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 22:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 23:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 기후 위기 앞에선 어쩔 수 없는 선택을 할 수밖에 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/06/30/npsp_nuclearwaste/</link>
+            <guid>https://newspeppermint.com/2023/06/30/npsp_nuclearwaste/</guid>
+            <pubDate>Fri, 30 Jun 2023 23:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 7월 1일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘1등 뉴스’ ‘시청률 1위’ 앵커 해고는 무엇을 위한 결정이었나 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/06/29/npsp_tuckercarlson/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/06/17/npsp_warhol/</guid>
             <pubDate>Sat, 17 Jun 2023 09:12:16 GMT</pubDate>
             <content:encoded><![CDATA[2023년 6월 18일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] “쟤도 안 하는데 왜 내가 해야 해?”에 대한 답을 내놔야 한다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/06/16/npsp_yachtclimatechange/</link>
-            <guid>https://newspeppermint.com/2023/06/16/npsp_yachtclimatechange/</guid>
-            <pubDate>Fri, 16 Jun 2023 23:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 6월 17일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
