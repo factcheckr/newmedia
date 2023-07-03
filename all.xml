@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 04:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 05:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매번 헌법을 고쳐나가는 그곳, 올해 주요 판결은 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/07/03/npsp_scotus2023/</link>
+            <guid>https://newspeppermint.com/2023/07/03/npsp_scotus2023/</guid>
+            <pubDate>Mon, 03 Jul 2023 05:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 7월 4일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 기후 위기 앞에선 어쩔 수 없는 선택을 할 수밖에 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/06/30/npsp_nuclearwaste/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/06/18/npsp_emailurgencybias/</guid>
             <pubDate>Sun, 18 Jun 2023 23:12:57 GMT</pubDate>
             <content:encoded><![CDATA[2023년 6월 19일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 독창적인 방식으로 기존의 독창성을 해체한 ‘앤디 워홀’ (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/06/17/npsp_warhol/</link>
-            <guid>https://newspeppermint.com/2023/06/17/npsp_warhol/</guid>
-            <pubDate>Sat, 17 Jun 2023 09:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 6월 18일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
