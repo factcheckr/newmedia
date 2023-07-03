@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-07-03T22:14:36.630Z</updated>
+    <updated>2023-07-03T23:15:55.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] ‘마약과의 전쟁’이 놓치고 있는 게 있다]]></title>
+        <id>https://newspeppermint.com/2023/07/03/npsp_addiction/</id>
+        <link href="https://newspeppermint.com/2023/07/03/npsp_addiction/"/>
+        <updated>2023-07-03T23:15:45.992Z</updated>
+        <content type="html"><![CDATA[2023년 7월 4일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매번 헌법을 고쳐나가는 그곳, 올해 주요 판결은]]></title>
         <id>https://newspeppermint.com/2023/07/03/npsp_scotus2023/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/06/19/npsp_trumpdocuments/"/>
         <updated>2023-06-19T17:11:41.514Z</updated>
         <content type="html"><![CDATA[2023년 6월 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] ‘카톡 답장의 속도’가 알려주는 나와 그 사람과의 관계]]></title>
-        <id>https://newspeppermint.com/2023/06/18/npsp_emailurgencybias/</id>
-        <link href="https://newspeppermint.com/2023/06/18/npsp_emailurgencybias/"/>
-        <updated>2023-06-18T23:12:57.656Z</updated>
-        <content type="html"><![CDATA[2023년 6월 19일]]></content>
     </entry>
 </feed>
