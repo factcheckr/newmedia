@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-07-05T22:14:40.749Z</updated>
+    <updated>2023-07-05T23:14:58.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 전설의 투자자는 왜 ESG에 비판적일까]]></title>
+        <id>https://newspeppermint.com/2023/07/05/npsp_buffettesg/</id>
+        <link href="https://newspeppermint.com/2023/07/05/npsp_buffettesg/"/>
+        <updated>2023-07-05T23:14:47.749Z</updated>
+        <content type="html"><![CDATA[2023년 7월 6일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부자들의 일탈인가, 모험가의 비극일까… 잠수정 사고를 바라보는 두 가지 시선]]></title>
         <id>https://newspeppermint.com/2023/07/05/npsp_titanregulation/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/06/21/npsp_time/"/>
         <updated>2023-06-21T10:14:54.897Z</updated>
         <content type="html"><![CDATA[2023년 6월 22일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 아름다움이 진리요, 진리가 아름다움이리라]]></title>
-        <id>https://newspeppermint.com/2023/06/19/npsp_mathliterature/</id>
-        <link href="https://newspeppermint.com/2023/06/19/npsp_mathliterature/"/>
-        <updated>2023-06-20T01:10:23.558Z</updated>
-        <content type="html"><![CDATA[2023년 6월 20일]]></content>
     </entry>
 </feed>

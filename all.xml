@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 22:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 23:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 전설의 투자자는 왜 ESG에 비판적일까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/07/05/npsp_buffettesg/</link>
+            <guid>https://newspeppermint.com/2023/07/05/npsp_buffettesg/</guid>
+            <pubDate>Wed, 05 Jul 2023 23:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 7월 6일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[부자들의 일탈인가, 모험가의 비극일까… 잠수정 사고를 바라보는 두 가지 시선 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/07/05/npsp_titanregulation/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/06/21/npsp_time/</guid>
             <pubDate>Wed, 21 Jun 2023 10:14:54 GMT</pubDate>
             <content:encoded><![CDATA[2023년 6월 22일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 아름다움이 진리요, 진리가 아름다움이리라 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/06/19/npsp_mathliterature/</link>
-            <guid>https://newspeppermint.com/2023/06/19/npsp_mathliterature/</guid>
-            <pubDate>Tue, 20 Jun 2023 01:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 6월 20일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
