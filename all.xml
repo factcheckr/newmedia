@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 12:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 13:26:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부자들의 일탈인가, 모험가의 비극일까… 잠수정 사고를 바라보는 두 가지 시선 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/07/05/npsp_titanregulation/</link>
+            <guid>https://newspeppermint.com/2023/07/05/npsp_titanregulation/</guid>
+            <pubDate>Wed, 05 Jul 2023 13:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 7월 6일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘마약과의 전쟁’이 놓치고 있는 게 있다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/07/03/npsp_addiction/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2023/06/19/npsp_mathliterature/</link>
             <guid>https://newspeppermint.com/2023/06/19/npsp_mathliterature/</guid>
             <pubDate>Tue, 20 Jun 2023 01:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 6월 20일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[또 기소된 트럼프, 그러든 말든 대선 가도는 탄탄해서 더 문제 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/06/19/npsp_trumpdocuments/</link>
-            <guid>https://newspeppermint.com/2023/06/19/npsp_trumpdocuments/</guid>
-            <pubDate>Mon, 19 Jun 2023 17:11:41 GMT</pubDate>
             <content:encoded><![CDATA[2023년 6월 20일]]></content:encoded>
         </item>
         <item>
