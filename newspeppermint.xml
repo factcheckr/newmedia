@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-07-06T22:13:50.736Z</updated>
+    <updated>2023-07-06T23:15:09.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 이 문제는 영영 풀지 못할 것이다, 이래도 되나?]]></title>
+        <id>https://newspeppermint.com/2023/07/06/npsp_usgunviolence/</id>
+        <link href="https://newspeppermint.com/2023/07/06/npsp_usgunviolence/"/>
+        <updated>2023-07-06T23:14:59.568Z</updated>
+        <content type="html"><![CDATA[2023년 7월 7일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 전설의 투자자는 왜 ESG에 비판적일까]]></title>
         <id>https://newspeppermint.com/2023/07/05/npsp_buffettesg/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/06/22/npsp_holocaust/"/>
         <updated>2023-06-22T23:15:32.800Z</updated>
         <content type="html"><![CDATA[2023년 6월 23일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넘치는 시간 정보, 그럼에도 문제는 알고리듬? 혹은 사람?]]></title>
-        <id>https://newspeppermint.com/2023/06/21/npsp_time/</id>
-        <link href="https://newspeppermint.com/2023/06/21/npsp_time/"/>
-        <updated>2023-06-21T10:14:54.897Z</updated>
-        <content type="html"><![CDATA[2023년 6월 22일]]></content>
     </entry>
 </feed>
