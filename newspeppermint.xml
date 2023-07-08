@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-07-08T07:13:27.717Z</updated>
+    <updated>2023-07-08T08:17:11.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기후변화로 더욱 부족해진 전기… 뒤집어 접근해보자는 제안]]></title>
+        <id>https://newspeppermint.com/2023/07/08/npsp_saveelectricity/</id>
+        <link href="https://newspeppermint.com/2023/07/08/npsp_saveelectricity/"/>
+        <updated>2023-07-08T08:17:01.143Z</updated>
+        <content type="html"><![CDATA[2023년 7월 9일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 이 문제는 영영 풀지 못할 것이다, 이래도 되나?]]></title>
         <id>https://newspeppermint.com/2023/07/06/npsp_usgunviolence/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/06/26/npsp_alienatedmen/"/>
         <updated>2023-06-26T18:18:39.986Z</updated>
         <content type="html"><![CDATA[2023년 6월 27일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 마지막 1명까지 사라지고 나면 어떻게 기억해야 하나]]></title>
-        <id>https://newspeppermint.com/2023/06/22/npsp_holocaust/</id>
-        <link href="https://newspeppermint.com/2023/06/22/npsp_holocaust/"/>
-        <updated>2023-06-22T23:15:32.800Z</updated>
-        <content type="html"><![CDATA[2023년 6월 23일]]></content>
     </entry>
 </feed>
