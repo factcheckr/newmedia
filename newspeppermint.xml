@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-07-10T15:15:44.135Z</updated>
+    <updated>2023-07-10T16:19:38.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘부모 찬스’ 그 자체인 기여입학제가 유지되는 이유 그리고 전망]]></title>
+        <id>https://newspeppermint.com/2023/07/10/npsp_scotuslegacyadmission/</id>
+        <link href="https://newspeppermint.com/2023/07/10/npsp_scotuslegacyadmission/"/>
+        <updated>2023-07-10T16:19:28.302Z</updated>
+        <content type="html"><![CDATA[2023년 7월 11일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기후변화로 더욱 부족해진 전기… 뒤집어 접근해보자는 제안]]></title>
         <id>https://newspeppermint.com/2023/07/08/npsp_saveelectricity/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2023/06/26/npsp_anorexia/</id>
         <link href="https://newspeppermint.com/2023/06/26/npsp_anorexia/"/>
         <updated>2023-06-26T23:14:46.080Z</updated>
-        <content type="html"><![CDATA[2023년 6월 27일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언제고 남성성이 끝내 ‘사망’한다면 그 부고기사는 어떤 내용일까]]></title>
-        <id>https://newspeppermint.com/2023/06/26/npsp_alienatedmen/</id>
-        <link href="https://newspeppermint.com/2023/06/26/npsp_alienatedmen/"/>
-        <updated>2023-06-26T18:18:39.986Z</updated>
         <content type="html"><![CDATA[2023년 6월 27일]]></content>
     </entry>
 </feed>
