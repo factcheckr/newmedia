@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-07-11T22:13:43.684Z</updated>
+    <updated>2023-07-11T23:15:29.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 지금의 정치적 양극화에 미디어는 얼마나 책임이 있을까]]></title>
+        <id>https://newspeppermint.com/2023/07/11/npsp_conservativemedia/</id>
+        <link href="https://newspeppermint.com/2023/07/11/npsp_conservativemedia/"/>
+        <updated>2023-07-11T23:15:18.687Z</updated>
+        <content type="html"><![CDATA[2023년 7월 12일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “나한테 불리한데 왜 그래야 하지?”를 반박할 수 있을까]]></title>
         <id>https://newspeppermint.com/2023/07/10/npsp_nothavingkids/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2023/06/28/npsp_ethicalconsumption/</id>
         <link href="https://newspeppermint.com/2023/06/28/npsp_ethicalconsumption/"/>
         <updated>2023-06-28T23:16:38.033Z</updated>
-        <content type="html"><![CDATA[2023년 6월 29일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18년 전 세계를 놀라게 했던 ‘황우석 사태’와 그 이후]]></title>
-        <id>https://newspeppermint.com/2023/06/28/npsp_wshwang/</id>
-        <link href="https://newspeppermint.com/2023/06/28/npsp_wshwang/"/>
-        <updated>2023-06-28T10:16:32.225Z</updated>
         <content type="html"><![CDATA[2023년 6월 29일]]></content>
     </entry>
 </feed>
