@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 22:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 23:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 쾌락에 고통이 뒤따른다는 건 과학적 진실 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/07/17/npsp_marijuanalegalization/</link>
+            <guid>https://newspeppermint.com/2023/07/17/npsp_marijuanalegalization/</guid>
+            <pubDate>Mon, 17 Jul 2023 23:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 7월 18일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘푸틴의 위기’가 시진핑에게 미칠 영향은… 대만 침공 재고? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/07/17/npsp_xiputin/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/06/30/npsp_nuclearwaste/</guid>
             <pubDate>Fri, 30 Jun 2023 23:13:43 GMT</pubDate>
             <content:encoded><![CDATA[2023년 7월 1일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] ‘1등 뉴스’ ‘시청률 1위’ 앵커 해고는 무엇을 위한 결정이었나 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/06/29/npsp_tuckercarlson/</link>
-            <guid>https://newspeppermint.com/2023/06/29/npsp_tuckercarlson/</guid>
-            <pubDate>Thu, 29 Jun 2023 23:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 6월 30일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
