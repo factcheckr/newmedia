@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-07-19T06:17:09.795Z</updated>
+    <updated>2023-07-19T07:13:03.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소셜미디어 금지 실험, 청소년을 구원할 수 있을까]]></title>
+        <id>https://newspeppermint.com/2023/07/19/npsp_socialmediabanutah/</id>
+        <link href="https://newspeppermint.com/2023/07/19/npsp_socialmediabanutah/"/>
+        <updated>2023-07-19T07:12:52.669Z</updated>
+        <content type="html"><![CDATA[2023년 7월 20일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 쾌락에 고통이 뒤따른다는 건 과학적 진실]]></title>
         <id>https://newspeppermint.com/2023/07/17/npsp_marijuanalegalization/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/07/03/npsp_scotus2023/"/>
         <updated>2023-07-03T05:14:27.418Z</updated>
         <content type="html"><![CDATA[2023년 7월 4일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 기후 위기 앞에선 어쩔 수 없는 선택을 할 수밖에]]></title>
-        <id>https://newspeppermint.com/2023/06/30/npsp_nuclearwaste/</id>
-        <link href="https://newspeppermint.com/2023/06/30/npsp_nuclearwaste/"/>
-        <updated>2023-06-30T23:13:43.297Z</updated>
-        <content type="html"><![CDATA[2023년 7월 1일]]></content>
     </entry>
 </feed>
