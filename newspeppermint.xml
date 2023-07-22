@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-07-22T22:11:48.491Z</updated>
+    <updated>2023-07-22T23:12:36.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 삶의 모든 데서 ‘포모(FOMO)’는 아니지 않나요?]]></title>
+        <id>https://newspeppermint.com/2023/07/22/npsp_tyrannyofthebest/</id>
+        <link href="https://newspeppermint.com/2023/07/22/npsp_tyrannyofthebest/"/>
+        <updated>2023-07-22T23:12:26.352Z</updated>
+        <content type="html"><![CDATA[2023년 7월 23일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 도시가 놀이터 되면 오프라인도 살아날 수 있을까]]></title>
         <id>https://newspeppermint.com/2023/07/19/npsp_playgroundcity/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/07/05/npsp_titanregulation/"/>
         <updated>2023-07-05T13:26:48.855Z</updated>
         <content type="html"><![CDATA[2023년 7월 6일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] ‘마약과의 전쟁’이 놓치고 있는 게 있다]]></title>
-        <id>https://newspeppermint.com/2023/07/03/npsp_addiction/</id>
-        <link href="https://newspeppermint.com/2023/07/03/npsp_addiction/"/>
-        <updated>2023-07-03T23:15:45.992Z</updated>
-        <content type="html"><![CDATA[2023년 7월 4일]]></content>
     </entry>
 </feed>
