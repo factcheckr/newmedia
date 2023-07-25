@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 01:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 02:45:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] AI가 만들어낸 이미지의 위협, 과연 막을 수 있을까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/07/24/npsp_aiphotoshop/</link>
+            <guid>https://newspeppermint.com/2023/07/24/npsp_aiphotoshop/</guid>
+            <pubDate>Tue, 25 Jul 2023 02:45:17 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 7월 25일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[스레즈 ‘반짝 성공’ 그 이후… 우리가 알던 ‘소셜미디어 시대’는 막을 내리게 될까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/07/24/npsp_threadssocialmedia/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/07/06/npsp_usgunviolence/</guid>
             <pubDate>Thu, 06 Jul 2023 23:14:59 GMT</pubDate>
             <content:encoded><![CDATA[2023년 7월 7일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 전설의 투자자는 왜 ESG에 비판적일까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/07/05/npsp_buffettesg/</link>
-            <guid>https://newspeppermint.com/2023/07/05/npsp_buffettesg/</guid>
-            <pubDate>Wed, 05 Jul 2023 23:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 7월 6일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

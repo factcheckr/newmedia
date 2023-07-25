@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-07-25T01:14:16.823Z</updated>
+    <updated>2023-07-25T02:45:29.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] AI가 만들어낸 이미지의 위협, 과연 막을 수 있을까]]></title>
+        <id>https://newspeppermint.com/2023/07/24/npsp_aiphotoshop/</id>
+        <link href="https://newspeppermint.com/2023/07/24/npsp_aiphotoshop/"/>
+        <updated>2023-07-25T02:45:17.345Z</updated>
+        <content type="html"><![CDATA[2023년 7월 25일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스레즈 ‘반짝 성공’ 그 이후… 우리가 알던 ‘소셜미디어 시대’는 막을 내리게 될까]]></title>
         <id>https://newspeppermint.com/2023/07/24/npsp_threadssocialmedia/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/07/06/npsp_usgunviolence/"/>
         <updated>2023-07-06T23:14:59.568Z</updated>
         <content type="html"><![CDATA[2023년 7월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 전설의 투자자는 왜 ESG에 비판적일까]]></title>
-        <id>https://newspeppermint.com/2023/07/05/npsp_buffettesg/</id>
-        <link href="https://newspeppermint.com/2023/07/05/npsp_buffettesg/"/>
-        <updated>2023-07-05T23:14:47.749Z</updated>
-        <content type="html"><![CDATA[2023년 7월 6일]]></content>
     </entry>
 </feed>
