@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 01:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 02:34:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정치를 위해 과학적 사실을 부정하는 그 나라는 어디인가 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/07/25/npsp_politicizeclimate/</link>
+            <guid>https://newspeppermint.com/2023/07/25/npsp_politicizeclimate/</guid>
+            <pubDate>Wed, 26 Jul 2023 02:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 7월 26일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] AI가 만들어낸 이미지의 위협, 과연 막을 수 있을까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/07/24/npsp_aiphotoshop/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/07/08/npsp_saveelectricity/</guid>
             <pubDate>Sat, 08 Jul 2023 08:17:01 GMT</pubDate>
             <content:encoded><![CDATA[2023년 7월 9일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 이 문제는 영영 풀지 못할 것이다, 이래도 되나? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/07/06/npsp_usgunviolence/</link>
-            <guid>https://newspeppermint.com/2023/07/06/npsp_usgunviolence/</guid>
-            <pubDate>Thu, 06 Jul 2023 23:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 7월 7일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
