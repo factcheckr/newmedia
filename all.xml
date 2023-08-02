@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 12:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 13:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 무기는 과거의 원자폭탄 위력 이상이 될 것… 그러면 어떻게? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/08/02/npsp_oppenheimer/</link>
+            <guid>https://newspeppermint.com/2023/08/02/npsp_oppenheimer/</guid>
+            <pubDate>Wed, 02 Aug 2023 13:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 8월 3일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘줄 서서 먹는 맛집’, ‘나만 아는 보석 같은 식당’… 어디를 더 가고 싶을까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/07/31/npsp_influencerrestaurants/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/07/11/npsp_conservativemedia/</guid>
             <pubDate>Tue, 11 Jul 2023 23:15:18 GMT</pubDate>
             <content:encoded><![CDATA[2023년 7월 12일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] “나한테 불리한데 왜 그래야 하지?”를 반박할 수 있을까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/07/10/npsp_nothavingkids/</link>
-            <guid>https://newspeppermint.com/2023/07/10/npsp_nothavingkids/</guid>
-            <pubDate>Mon, 10 Jul 2023 23:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 7월 11일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
