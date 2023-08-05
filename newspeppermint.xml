@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-08-05T22:11:36.707Z</updated>
+    <updated>2023-08-05T23:12:14.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 더 독창적인 방식으로 기존의 독창성을 해체한 ‘앤디 워홀’]]></title>
+        <id>https://newspeppermint.com/2023/08/05/npsp_warhol/</id>
+        <link href="https://newspeppermint.com/2023/08/05/npsp_warhol/"/>
+        <updated>2023-08-05T23:12:04.485Z</updated>
+        <content type="html"><![CDATA[2023년 8월 6일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 다시 ‘코로나 대책’이 필요한 상황이 올 수 있는 이유]]></title>
         <id>https://newspeppermint.com/2023/08/02/npsp_airquality/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2023/07/17/npsp_marijuanalegalization/</id>
         <link href="https://newspeppermint.com/2023/07/17/npsp_marijuanalegalization/"/>
         <updated>2023-07-17T23:13:35.500Z</updated>
-        <content type="html"><![CDATA[2023년 7월 18일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘푸틴의 위기’가 시진핑에게 미칠 영향은… 대만 침공 재고?]]></title>
-        <id>https://newspeppermint.com/2023/07/17/npsp_xiputin/</id>
-        <link href="https://newspeppermint.com/2023/07/17/npsp_xiputin/"/>
-        <updated>2023-07-17T08:19:43.816Z</updated>
         <content type="html"><![CDATA[2023년 7월 18일]]></content>
     </entry>
 </feed>
