@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-08-07T07:12:37.980Z</updated>
+    <updated>2023-08-07T08:16:33.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[각자 다른 ‘평행 우주’에 살고 있는 여야 지지자들이 함께 맞이할 내년 선거]]></title>
+        <id>https://newspeppermint.com/2023/08/07/npsp_uselectionpolarization/</id>
+        <link href="https://newspeppermint.com/2023/08/07/npsp_uselectionpolarization/"/>
+        <updated>2023-08-07T08:16:23.474Z</updated>
+        <content type="html"><![CDATA[2023년 8월 8일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 더 독창적인 방식으로 기존의 독창성을 해체한 ‘앤디 워홀’]]></title>
         <id>https://newspeppermint.com/2023/08/05/npsp_warhol/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/07/19/npsp_socialmediabanutah/"/>
         <updated>2023-07-19T07:12:52.669Z</updated>
         <content type="html"><![CDATA[2023년 7월 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 쾌락에 고통이 뒤따른다는 건 과학적 진실]]></title>
-        <id>https://newspeppermint.com/2023/07/17/npsp_marijuanalegalization/</id>
-        <link href="https://newspeppermint.com/2023/07/17/npsp_marijuanalegalization/"/>
-        <updated>2023-07-17T23:13:35.500Z</updated>
-        <content type="html"><![CDATA[2023년 7월 18일]]></content>
     </entry>
 </feed>
