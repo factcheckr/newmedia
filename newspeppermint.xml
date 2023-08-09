@@ -2,7 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-08-09T09:15:42.054Z</updated>
+    <updated>2023-08-09T10:15:06.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[각자 다른 ‘평행 우주’에 살고 있는 여야 지지자들이 함께 맞이할 내년 선거]]></title>
+        <id>https://newspeppermint.com/2023/08/07/npsp_uselectionpolarization/</id>
+        <link href="https://newspeppermint.com/2023/08/07/npsp_uselectionpolarization/"/>
+        <updated>2023-08-09T10:14:56.437Z</updated>
+        <content type="html"><![CDATA[2023년 8월 8일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 더 독창적인 방식으로 기존의 독창성을 해체한 ‘앤디 워홀’]]></title>
+        <id>https://newspeppermint.com/2023/08/05/npsp_warhol/</id>
+        <link href="https://newspeppermint.com/2023/08/05/npsp_warhol/"/>
+        <updated>2023-08-09T10:14:56.440Z</updated>
+        <content type="html"><![CDATA[2023년 8월 6일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 다시 ‘코로나 대책’이 필요한 상황이 올 수 있는 이유]]></title>
+        <id>https://newspeppermint.com/2023/08/02/npsp_airquality/</id>
+        <link href="https://newspeppermint.com/2023/08/02/npsp_airquality/"/>
+        <updated>2023-08-09T10:14:56.449Z</updated>
+        <content type="html"><![CDATA[2023년 8월 3일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 무기는 과거의 원자폭탄 위력 이상이 될 것… 그러면 어떻게?]]></title>
+        <id>https://newspeppermint.com/2023/08/02/npsp_oppenheimer/</id>
+        <link href="https://newspeppermint.com/2023/08/02/npsp_oppenheimer/"/>
+        <updated>2023-08-09T10:14:56.452Z</updated>
+        <content type="html"><![CDATA[2023년 8월 3일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘줄 서서 먹는 맛집’, ‘나만 아는 보석 같은 식당’… 어디를 더 가고 싶을까]]></title>
+        <id>https://newspeppermint.com/2023/07/31/npsp_influencerrestaurants/</id>
+        <link href="https://newspeppermint.com/2023/07/31/npsp_influencerrestaurants/"/>
+        <updated>2023-08-09T10:14:56.455Z</updated>
+        <content type="html"><![CDATA[2023년 8월 1일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 매번 하는 고민 “그와의 관계를 어떻게 하는 게 좋을까”]]></title>
+        <id>https://newspeppermint.com/2023/07/26/npsp_ambivalentrelationship/</id>
+        <link href="https://newspeppermint.com/2023/07/26/npsp_ambivalentrelationship/"/>
+        <updated>2023-08-09T10:14:56.457Z</updated>
+        <content type="html"><![CDATA[2023년 7월 27일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정치를 위해 과학적 사실을 부정하는 그 나라는 어디인가]]></title>
+        <id>https://newspeppermint.com/2023/07/25/npsp_politicizeclimate/</id>
+        <link href="https://newspeppermint.com/2023/07/25/npsp_politicizeclimate/"/>
+        <updated>2023-08-09T10:14:56.462Z</updated>
+        <content type="html"><![CDATA[2023년 7월 26일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] AI가 만들어낸 이미지의 위협, 과연 막을 수 있을까]]></title>
+        <id>https://newspeppermint.com/2023/07/24/npsp_aiphotoshop/</id>
+        <link href="https://newspeppermint.com/2023/07/24/npsp_aiphotoshop/"/>
+        <updated>2023-08-09T10:14:56.468Z</updated>
+        <content type="html"><![CDATA[2023년 7월 25일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스레즈 ‘반짝 성공’ 그 이후… 우리가 알던 ‘소셜미디어 시대’는 막을 내리게 될까]]></title>
+        <id>https://newspeppermint.com/2023/07/24/npsp_threadssocialmedia/</id>
+        <link href="https://newspeppermint.com/2023/07/24/npsp_threadssocialmedia/"/>
+        <updated>2023-08-09T10:14:56.471Z</updated>
+        <content type="html"><![CDATA[2023년 7월 25일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 삶의 모든 데서 ‘포모(FOMO)’는 아니지 않나요?]]></title>
+        <id>https://newspeppermint.com/2023/07/22/npsp_tyrannyofthebest/</id>
+        <link href="https://newspeppermint.com/2023/07/22/npsp_tyrannyofthebest/"/>
+        <updated>2023-08-09T10:14:56.474Z</updated>
+        <content type="html"><![CDATA[2023년 7월 23일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 도시가 놀이터 되면 오프라인도 살아날 수 있을까]]></title>
+        <id>https://newspeppermint.com/2023/07/19/npsp_playgroundcity/</id>
+        <link href="https://newspeppermint.com/2023/07/19/npsp_playgroundcity/"/>
+        <updated>2023-08-09T10:14:56.477Z</updated>
+        <content type="html"><![CDATA[2023년 7월 20일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소셜미디어 금지 실험, 청소년을 구원할 수 있을까]]></title>
+        <id>https://newspeppermint.com/2023/07/19/npsp_socialmediabanutah/</id>
+        <link href="https://newspeppermint.com/2023/07/19/npsp_socialmediabanutah/"/>
+        <updated>2023-08-09T10:14:56.481Z</updated>
+        <content type="html"><![CDATA[2023년 7월 20일]]></content>
+    </entry>
 </feed>
