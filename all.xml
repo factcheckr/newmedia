@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 23:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 01:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모두가 모두를 믿지 못하게 되면 어떻게 해야 할까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/08/09/npsp_trustviolence/</link>
+            <guid>https://newspeppermint.com/2023/08/09/npsp_trustviolence/</guid>
+            <pubDate>Thu, 10 Aug 2023 01:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 8월 10일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[각자 다른 ‘평행 우주’에 살고 있는 여야 지지자들이 함께 맞이할 내년 선거 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/08/07/npsp_uselectionpolarization/</link>
@@ -81,13 +88,6 @@
             <title><![CDATA[[뉴페@스프] 도시가 놀이터 되면 오프라인도 살아날 수 있을까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/07/19/npsp_playgroundcity/</link>
             <guid>https://newspeppermint.com/2023/07/19/npsp_playgroundcity/</guid>
-            <pubDate>Wed, 09 Aug 2023 10:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 7월 20일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소셜미디어 금지 실험, 청소년을 구원할 수 있을까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/07/19/npsp_socialmediabanutah/</link>
-            <guid>https://newspeppermint.com/2023/07/19/npsp_socialmediabanutah/</guid>
             <pubDate>Wed, 09 Aug 2023 10:14:56 GMT</pubDate>
             <content:encoded><![CDATA[2023년 7월 20일]]></content:encoded>
         </item>

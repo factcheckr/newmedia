@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-08-09T23:13:07.946Z</updated>
+    <updated>2023-08-10T01:08:00.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모두가 모두를 믿지 못하게 되면 어떻게 해야 할까]]></title>
+        <id>https://newspeppermint.com/2023/08/09/npsp_trustviolence/</id>
+        <link href="https://newspeppermint.com/2023/08/09/npsp_trustviolence/"/>
+        <updated>2023-08-10T01:07:50.280Z</updated>
+        <content type="html"><![CDATA[2023년 8월 10일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[각자 다른 ‘평행 우주’에 살고 있는 여야 지지자들이 함께 맞이할 내년 선거]]></title>
         <id>https://newspeppermint.com/2023/08/07/npsp_uselectionpolarization/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2023/07/19/npsp_playgroundcity/</id>
         <link href="https://newspeppermint.com/2023/07/19/npsp_playgroundcity/"/>
         <updated>2023-08-09T10:14:56.477Z</updated>
-        <content type="html"><![CDATA[2023년 7월 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소셜미디어 금지 실험, 청소년을 구원할 수 있을까]]></title>
-        <id>https://newspeppermint.com/2023/07/19/npsp_socialmediabanutah/</id>
-        <link href="https://newspeppermint.com/2023/07/19/npsp_socialmediabanutah/"/>
-        <updated>2023-08-09T10:14:56.481Z</updated>
         <content type="html"><![CDATA[2023년 7월 20일]]></content>
     </entry>
 </feed>
