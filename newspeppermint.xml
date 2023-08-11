@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-08-10T23:12:36.109Z</updated>
+    <updated>2023-08-11T00:52:48.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수십 년 된 소수자 우대정책, 2023년에도 공정할까? ‘공정’이란 가치는 어떻게 구현해야 하나]]></title>
+        <id>https://newspeppermint.com/2023/08/10/npsp_affirmativeaction/</id>
+        <link href="https://newspeppermint.com/2023/08/10/npsp_affirmativeaction/"/>
+        <updated>2023-08-11T00:52:37.326Z</updated>
+        <content type="html"><![CDATA[2023년 8월 11일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모두가 모두를 믿지 못하게 되면 어떻게 해야 할까]]></title>
         <id>https://newspeppermint.com/2023/08/09/npsp_trustviolence/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/07/22/npsp_tyrannyofthebest/"/>
         <updated>2023-08-09T10:14:56.474Z</updated>
         <content type="html"><![CDATA[2023년 7월 23일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 도시가 놀이터 되면 오프라인도 살아날 수 있을까]]></title>
-        <id>https://newspeppermint.com/2023/07/19/npsp_playgroundcity/</id>
-        <link href="https://newspeppermint.com/2023/07/19/npsp_playgroundcity/"/>
-        <updated>2023-08-09T10:14:56.477Z</updated>
-        <content type="html"><![CDATA[2023년 7월 20일]]></content>
     </entry>
 </feed>
