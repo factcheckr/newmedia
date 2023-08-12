@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-08-12T22:10:51.742Z</updated>
+    <updated>2023-08-12T23:11:35.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 또 기소된 트럼프, 그러든 말든 대선 가도는 탄탄해서 더 문제]]></title>
+        <id>https://newspeppermint.com/2023/08/12/npsp_trumpdocuments/</id>
+        <link href="https://newspeppermint.com/2023/08/12/npsp_trumpdocuments/"/>
+        <updated>2023-08-12T23:11:25.298Z</updated>
+        <content type="html"><![CDATA[2023년 8월 13일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 수십 년 된 소수자 우대정책, 2023년에도 공정할까? ‘공정’이란 가치는 어떻게 구현해야 하나]]></title>
         <id>https://newspeppermint.com/2023/08/10/npsp_affirmativeaction/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/07/24/npsp_threadssocialmedia/"/>
         <updated>2023-08-09T10:14:56.471Z</updated>
         <content type="html"><![CDATA[2023년 7월 25일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 삶의 모든 데서 ‘포모(FOMO)’는 아니지 않나요?]]></title>
-        <id>https://newspeppermint.com/2023/07/22/npsp_tyrannyofthebest/</id>
-        <link href="https://newspeppermint.com/2023/07/22/npsp_tyrannyofthebest/"/>
-        <updated>2023-08-09T10:14:56.474Z</updated>
-        <content type="html"><![CDATA[2023년 7월 23일]]></content>
     </entry>
 </feed>
