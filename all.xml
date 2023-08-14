@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 09:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 10:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[좀처럼 집중 못 하는 당신을 위한 조언 : 하기 싫은 일과 하고 싶은 일의 ‘멀티태스킹’이라면? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/08/14/npsp_multitasking/</link>
+            <guid>https://newspeppermint.com/2023/08/14/npsp_multitasking/</guid>
+            <pubDate>Mon, 14 Aug 2023 10:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 8월 15일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 또 기소된 트럼프, 그러든 말든 대선 가도는 탄탄해서 더 문제 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/08/12/npsp_trumpdocuments/</link>
@@ -81,13 +88,6 @@
             <title><![CDATA[[뉴페@스프] AI가 만들어낸 이미지의 위협, 과연 막을 수 있을까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/07/24/npsp_aiphotoshop/</link>
             <guid>https://newspeppermint.com/2023/07/24/npsp_aiphotoshop/</guid>
-            <pubDate>Wed, 09 Aug 2023 10:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 7월 25일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스레즈 ‘반짝 성공’ 그 이후… 우리가 알던 ‘소셜미디어 시대’는 막을 내리게 될까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/07/24/npsp_threadssocialmedia/</link>
-            <guid>https://newspeppermint.com/2023/07/24/npsp_threadssocialmedia/</guid>
             <pubDate>Wed, 09 Aug 2023 10:14:56 GMT</pubDate>
             <content:encoded><![CDATA[2023년 7월 25일]]></content:encoded>
         </item>
