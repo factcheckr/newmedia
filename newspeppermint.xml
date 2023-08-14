@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-08-14T22:11:34.920Z</updated>
+    <updated>2023-08-14T23:12:18.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 넘치는 시간 정보, 그럼에도 문제는 알고리듬? 혹은 사람?]]></title>
+        <id>https://newspeppermint.com/2023/08/14/npsp_time/</id>
+        <link href="https://newspeppermint.com/2023/08/14/npsp_time/"/>
+        <updated>2023-08-14T23:12:06.766Z</updated>
+        <content type="html"><![CDATA[2023년 8월 15일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[좀처럼 집중 못 하는 당신을 위한 조언 : 하기 싫은 일과 하고 싶은 일의 ‘멀티태스킹’이라면?]]></title>
         <id>https://newspeppermint.com/2023/08/14/npsp_multitasking/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/07/25/npsp_politicizeclimate/"/>
         <updated>2023-08-09T10:14:56.462Z</updated>
         <content type="html"><![CDATA[2023년 7월 26일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] AI가 만들어낸 이미지의 위협, 과연 막을 수 있을까]]></title>
-        <id>https://newspeppermint.com/2023/07/24/npsp_aiphotoshop/</id>
-        <link href="https://newspeppermint.com/2023/07/24/npsp_aiphotoshop/"/>
-        <updated>2023-08-09T10:14:56.468Z</updated>
-        <content type="html"><![CDATA[2023년 7월 25일]]></content>
     </entry>
 </feed>
