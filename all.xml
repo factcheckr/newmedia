@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 22:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 23:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 언제고 남성성이 끝내 ‘사망’한다면 그 부고기사는 어떤 내용일까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/08/17/npsp_alienatedmen/</link>
+            <guid>https://newspeppermint.com/2023/08/17/npsp_alienatedmen/</guid>
+            <pubDate>Thu, 17 Aug 2023 23:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 8월 18일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[올 여름이 그래도 시원한 축에 들 것이라는 과학자들이 있다? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/08/16/npsp_climateweirding/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/07/31/npsp_influencerrestaurants/</guid>
             <pubDate>Wed, 09 Aug 2023 10:14:56 GMT</pubDate>
             <content:encoded><![CDATA[2023년 8월 1일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 매번 하는 고민 “그와의 관계를 어떻게 하는 게 좋을까” (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/07/26/npsp_ambivalentrelationship/</link>
-            <guid>https://newspeppermint.com/2023/07/26/npsp_ambivalentrelationship/</guid>
-            <pubDate>Wed, 09 Aug 2023 10:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 7월 27일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
