@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-08-19T12:21:00.550Z</updated>
+    <updated>2023-08-19T13:14:26.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그럼에도 ‘상온 초전도체’가 정말이라면 세상은 어떻게 바뀔까]]></title>
+        <id>https://newspeppermint.com/2023/08/19/npsp_lk99/</id>
+        <link href="https://newspeppermint.com/2023/08/19/npsp_lk99/"/>
+        <updated>2023-08-19T13:14:14.584Z</updated>
+        <content type="html"><![CDATA[2023년 8월 20일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 언제고 남성성이 끝내 ‘사망’한다면 그 부고기사는 어떤 내용일까]]></title>
         <id>https://newspeppermint.com/2023/08/17/npsp_alienatedmen/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/08/02/npsp_oppenheimer/"/>
         <updated>2023-08-09T10:14:56.452Z</updated>
         <content type="html"><![CDATA[2023년 8월 3일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘줄 서서 먹는 맛집’, ‘나만 아는 보석 같은 식당’… 어디를 더 가고 싶을까]]></title>
-        <id>https://newspeppermint.com/2023/07/31/npsp_influencerrestaurants/</id>
-        <link href="https://newspeppermint.com/2023/07/31/npsp_influencerrestaurants/"/>
-        <updated>2023-08-09T10:14:56.455Z</updated>
-        <content type="html"><![CDATA[2023년 8월 1일]]></content>
     </entry>
 </feed>
