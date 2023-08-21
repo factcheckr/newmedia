@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 02:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 03:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘시간의 불평등’에 가려진 근본적 요인을 봐야 할 때 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/08/20/npsp_timeinequality/</link>
+            <guid>https://newspeppermint.com/2023/08/20/npsp_timeinequality/</guid>
+            <pubDate>Mon, 21 Aug 2023 03:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 8월 21일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 18년 전 세계를 놀라게 했던 ‘황우석 사태’와 그 이후 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/08/19/npsp_wshwang/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/08/05/npsp_warhol/</guid>
             <pubDate>Wed, 09 Aug 2023 10:14:56 GMT</pubDate>
             <content:encoded><![CDATA[2023년 8월 6일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 다시 ‘코로나 대책’이 필요한 상황이 올 수 있는 이유 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/08/02/npsp_airquality/</link>
-            <guid>https://newspeppermint.com/2023/08/02/npsp_airquality/</guid>
-            <pubDate>Wed, 09 Aug 2023 10:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 8월 3일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
