@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-08-25T22:11:52.086Z</updated>
+    <updated>2023-08-25T23:13:19.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 매번 헌법을 고쳐나가는 그곳, 올해 주요 판결은]]></title>
+        <id>https://newspeppermint.com/2023/08/25/npsp_scotus2023/</id>
+        <link href="https://newspeppermint.com/2023/08/25/npsp_scotus2023/"/>
+        <updated>2023-08-25T23:13:09.772Z</updated>
+        <content type="html"><![CDATA[2023년 8월 26일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내 생각을 조종하는 자들을 극복하려면… ‘알고리듬’ 선택이 대안인가]]></title>
         <id>https://newspeppermint.com/2023/08/23/npsp_algorithm/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/08/09/npsp_trustviolence/"/>
         <updated>2023-08-10T01:07:50.280Z</updated>
         <content type="html"><![CDATA[2023년 8월 10일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[각자 다른 ‘평행 우주’에 살고 있는 여야 지지자들이 함께 맞이할 내년 선거]]></title>
-        <id>https://newspeppermint.com/2023/08/07/npsp_uselectionpolarization/</id>
-        <link href="https://newspeppermint.com/2023/08/07/npsp_uselectionpolarization/"/>
-        <updated>2023-08-09T10:14:56.437Z</updated>
-        <content type="html"><![CDATA[2023년 8월 8일]]></content>
     </entry>
 </feed>
