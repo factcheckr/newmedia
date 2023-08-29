@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 01:47:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 02:48:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 부자들의 일탈인가, 모험가의 비극일까… 잠수정 사고를 바라보는 두 가지 시선 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/08/28/npsp_titanregulation/</link>
+            <guid>https://newspeppermint.com/2023/08/28/npsp_titanregulation/</guid>
+            <pubDate>Tue, 29 Aug 2023 02:48:30 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 8월 29일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[중국 부동산 위기, 이번엔 뭐가 다른가? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/08/27/npsp_chinaeconomy/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/08/12/npsp_trumpdocuments/</guid>
             <pubDate>Sat, 12 Aug 2023 23:11:25 GMT</pubDate>
             <content:encoded><![CDATA[2023년 8월 13일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 수십 년 된 소수자 우대정책, 2023년에도 공정할까? ‘공정’이란 가치는 어떻게 구현해야 하나 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/08/10/npsp_affirmativeaction/</link>
-            <guid>https://newspeppermint.com/2023/08/10/npsp_affirmativeaction/</guid>
-            <pubDate>Fri, 11 Aug 2023 00:52:37 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 8월 11일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
