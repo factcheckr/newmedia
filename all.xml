@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 00:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 01:46:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그럼에도 불안한 인간은 이런 걸 만들어냈다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/08/29/npsp_insecurity/</link>
+            <guid>https://newspeppermint.com/2023/08/29/npsp_insecurity/</guid>
+            <pubDate>Wed, 30 Aug 2023 01:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 8월 30일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 부자들의 일탈인가, 모험가의 비극일까… 잠수정 사고를 바라보는 두 가지 시선 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/08/28/npsp_titanregulation/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/08/14/npsp_multitasking/</guid>
             <pubDate>Mon, 14 Aug 2023 10:13:43 GMT</pubDate>
             <content:encoded><![CDATA[2023년 8월 15일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 또 기소된 트럼프, 그러든 말든 대선 가도는 탄탄해서 더 문제 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/08/12/npsp_trumpdocuments/</link>
-            <guid>https://newspeppermint.com/2023/08/12/npsp_trumpdocuments/</guid>
-            <pubDate>Sat, 12 Aug 2023 23:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 8월 13일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
