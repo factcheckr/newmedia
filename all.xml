@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 22:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 23:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 기후변화로 더욱 부족해진 전기… 뒤집어 접근해보자는 제안 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/08/30/npsp_saveelectricity/</link>
+            <guid>https://newspeppermint.com/2023/08/30/npsp_saveelectricity/</guid>
+            <pubDate>Wed, 30 Aug 2023 23:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 8월 31일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[그럼에도 불안한 인간은 이런 걸 만들어냈다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/08/29/npsp_insecurity/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2023/08/14/npsp_time/</link>
             <guid>https://newspeppermint.com/2023/08/14/npsp_time/</guid>
             <pubDate>Mon, 14 Aug 2023 23:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 8월 15일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[좀처럼 집중 못 하는 당신을 위한 조언 : 하기 싫은 일과 하고 싶은 일의 ‘멀티태스킹’이라면? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/08/14/npsp_multitasking/</link>
-            <guid>https://newspeppermint.com/2023/08/14/npsp_multitasking/</guid>
-            <pubDate>Mon, 14 Aug 2023 10:13:43 GMT</pubDate>
             <content:encoded><![CDATA[2023년 8월 15일]]></content:encoded>
         </item>
         <item>
