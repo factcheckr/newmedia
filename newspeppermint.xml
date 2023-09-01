@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-09-01T22:11:51.584Z</updated>
+    <updated>2023-09-01T23:12:17.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] ‘부모 찬스’ 그 자체인 기여입학제가 유지되는 이유 그리고 전망]]></title>
+        <id>https://newspeppermint.com/2023/09/01/npsp_scotuslegacyadmission/</id>
+        <link href="https://newspeppermint.com/2023/09/01/npsp_scotuslegacyadmission/"/>
+        <updated>2023-09-01T23:12:06.964Z</updated>
+        <content type="html"><![CDATA[2023년 9월 2일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 기후변화로 더욱 부족해진 전기… 뒤집어 접근해보자는 제안]]></title>
         <id>https://newspeppermint.com/2023/08/30/npsp_saveelectricity/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/08/16/npsp_climateweirding/"/>
         <updated>2023-08-16T23:12:02.020Z</updated>
         <content type="html"><![CDATA[2023년 8월 17일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 넘치는 시간 정보, 그럼에도 문제는 알고리듬? 혹은 사람?]]></title>
-        <id>https://newspeppermint.com/2023/08/14/npsp_time/</id>
-        <link href="https://newspeppermint.com/2023/08/14/npsp_time/"/>
-        <updated>2023-08-14T23:12:06.766Z</updated>
-        <content type="html"><![CDATA[2023년 8월 15일]]></content>
     </entry>
 </feed>
