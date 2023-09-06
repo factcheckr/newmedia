@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 17:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 18:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘자유’라는 가면을 쓴 색깔론, 그들의 자유는 누구를 위한 걸까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/09/06/npsp_liberalism/</link>
+            <guid>https://newspeppermint.com/2023/09/06/npsp_liberalism/</guid>
+            <pubDate>Wed, 06 Sep 2023 18:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 9월 7일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[지구를 위해 미국인들이 해야 하는 일 중 하나는 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/09/03/npsp_nycrat/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/08/19/npsp_lk99/</guid>
             <pubDate>Sat, 19 Aug 2023 13:14:14 GMT</pubDate>
             <content:encoded><![CDATA[2023년 8월 20일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 언제고 남성성이 끝내 ‘사망’한다면 그 부고기사는 어떤 내용일까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/08/17/npsp_alienatedmen/</link>
-            <guid>https://newspeppermint.com/2023/08/17/npsp_alienatedmen/</guid>
-            <pubDate>Thu, 17 Aug 2023 23:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 8월 18일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

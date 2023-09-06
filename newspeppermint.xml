@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-09-06T17:11:30.145Z</updated>
+    <updated>2023-09-06T18:16:19.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘자유’라는 가면을 쓴 색깔론, 그들의 자유는 누구를 위한 걸까]]></title>
+        <id>https://newspeppermint.com/2023/09/06/npsp_liberalism/</id>
+        <link href="https://newspeppermint.com/2023/09/06/npsp_liberalism/"/>
+        <updated>2023-09-06T18:16:07.745Z</updated>
+        <content type="html"><![CDATA[2023년 9월 7일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지구를 위해 미국인들이 해야 하는 일 중 하나는]]></title>
         <id>https://newspeppermint.com/2023/09/03/npsp_nycrat/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/08/19/npsp_lk99/"/>
         <updated>2023-08-19T13:14:14.584Z</updated>
         <content type="html"><![CDATA[2023년 8월 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 언제고 남성성이 끝내 ‘사망’한다면 그 부고기사는 어떤 내용일까]]></title>
-        <id>https://newspeppermint.com/2023/08/17/npsp_alienatedmen/</id>
-        <link href="https://newspeppermint.com/2023/08/17/npsp_alienatedmen/"/>
-        <updated>2023-08-17T23:12:09.450Z</updated>
-        <content type="html"><![CDATA[2023년 8월 18일]]></content>
     </entry>
 </feed>
