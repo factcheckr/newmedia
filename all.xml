@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 22:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 23:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] AI는 의사라는 직업의 위기도 불러오게 될까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/09/06/npsp_aidoctor/</link>
+            <guid>https://newspeppermint.com/2023/09/06/npsp_aidoctor/</guid>
+            <pubDate>Wed, 06 Sep 2023 23:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 9월 7일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘자유’라는 가면을 쓴 색깔론, 그들의 자유는 누구를 위한 걸까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/09/06/npsp_liberalism/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2023/08/19/npsp_wshwang/</link>
             <guid>https://newspeppermint.com/2023/08/19/npsp_wshwang/</guid>
             <pubDate>Sat, 19 Aug 2023 23:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 8월 20일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[그럼에도 ‘상온 초전도체’가 정말이라면 세상은 어떻게 바뀔까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/08/19/npsp_lk99/</link>
-            <guid>https://newspeppermint.com/2023/08/19/npsp_lk99/</guid>
-            <pubDate>Sat, 19 Aug 2023 13:14:14 GMT</pubDate>
             <content:encoded><![CDATA[2023년 8월 20일]]></content:encoded>
         </item>
         <item>
