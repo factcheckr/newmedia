@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-09-08T22:12:09.363Z</updated>
+    <updated>2023-09-08T23:12:39.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] ‘푸틴의 위기’가 시진핑에게 미칠 영향은… 대만 침공 재고?]]></title>
+        <id>https://newspeppermint.com/2023/09/08/npsp_xiputin/</id>
+        <link href="https://newspeppermint.com/2023/09/08/npsp_xiputin/"/>
+        <updated>2023-09-08T23:12:29.878Z</updated>
+        <content type="html"><![CDATA[2023년 9월 9일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] AI는 의사라는 직업의 위기도 불러오게 될까]]></title>
         <id>https://newspeppermint.com/2023/09/06/npsp_aidoctor/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/08/20/npsp_timeinequality/"/>
         <updated>2023-08-21T03:13:29.585Z</updated>
         <content type="html"><![CDATA[2023년 8월 21일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 18년 전 세계를 놀라게 했던 ‘황우석 사태’와 그 이후]]></title>
-        <id>https://newspeppermint.com/2023/08/19/npsp_wshwang/</id>
-        <link href="https://newspeppermint.com/2023/08/19/npsp_wshwang/"/>
-        <updated>2023-08-19T23:11:36.873Z</updated>
-        <content type="html"><![CDATA[2023년 8월 20일]]></content>
     </entry>
 </feed>
