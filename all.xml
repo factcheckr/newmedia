@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 22:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 23:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 소셜미디어 금지 실험, 청소년을 구원할 수 있을까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/09/11/npsp_socialmediabanutah/</link>
+            <guid>https://newspeppermint.com/2023/09/11/npsp_socialmediabanutah/</guid>
+            <pubDate>Mon, 11 Sep 2023 23:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 9월 12일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[인간의 본성은 선이냐, 악이냐를 과학적 관점에서 본다면? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/09/11/npsp_generouspeople/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/08/25/npsp_scotus2023/</guid>
             <pubDate>Fri, 25 Aug 2023 23:13:09 GMT</pubDate>
             <content:encoded><![CDATA[2023년 8월 26일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[내 생각을 조종하는 자들을 극복하려면… ‘알고리듬’ 선택이 대안인가 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/08/23/npsp_algorithm/</link>
-            <guid>https://newspeppermint.com/2023/08/23/npsp_algorithm/</guid>
-            <pubDate>Wed, 23 Aug 2023 22:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 8월 24일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
