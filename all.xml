@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 05:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 06:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간의 본성은 선이냐, 악이냐를 과학적 관점에서 본다면? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/09/11/npsp_generouspeople/</link>
+            <guid>https://newspeppermint.com/2023/09/11/npsp_generouspeople/</guid>
+            <pubDate>Mon, 11 Sep 2023 06:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 9월 12일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘푸틴의 위기’가 시진핑에게 미칠 영향은… 대만 침공 재고? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/09/08/npsp_xiputin/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/08/23/npsp_algorithm/</guid>
             <pubDate>Wed, 23 Aug 2023 22:11:33 GMT</pubDate>
             <content:encoded><![CDATA[2023년 8월 24일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘시간의 불평등’에 가려진 근본적 요인을 봐야 할 때 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/08/20/npsp_timeinequality/</link>
-            <guid>https://newspeppermint.com/2023/08/20/npsp_timeinequality/</guid>
-            <pubDate>Mon, 21 Aug 2023 03:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 8월 21일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
