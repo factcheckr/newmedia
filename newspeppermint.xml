@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-09-13T02:19:43.221Z</updated>
+    <updated>2023-09-13T03:13:16.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노인이 대세가 되는 ‘정해진 미래’, 발상을 바꿔본다면?]]></title>
+        <id>https://newspeppermint.com/2023/09/12/npsp_techfortheold/</id>
+        <link href="https://newspeppermint.com/2023/09/12/npsp_techfortheold/"/>
+        <updated>2023-09-13T03:13:03.551Z</updated>
+        <content type="html"><![CDATA[2023년 9월 13일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 소셜미디어 금지 실험, 청소년을 구원할 수 있을까]]></title>
         <id>https://newspeppermint.com/2023/09/11/npsp_socialmediabanutah/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/08/27/npsp_chinaeconomy/"/>
         <updated>2023-08-28T01:48:06.927Z</updated>
         <content type="html"><![CDATA[2023년 8월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 매번 헌법을 고쳐나가는 그곳, 올해 주요 판결은]]></title>
-        <id>https://newspeppermint.com/2023/08/25/npsp_scotus2023/</id>
-        <link href="https://newspeppermint.com/2023/08/25/npsp_scotus2023/"/>
-        <updated>2023-08-25T23:13:09.772Z</updated>
-        <content type="html"><![CDATA[2023년 8월 26일]]></content>
     </entry>
 </feed>
