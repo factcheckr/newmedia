@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 02:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 03:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 정치를 위해 과학적 사실을 부정하는 그 나라는 어디인가 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/09/18/npsp_politicizeclimate/</link>
+            <guid>https://newspeppermint.com/2023/09/18/npsp_politicizeclimate/</guid>
+            <pubDate>Tue, 19 Sep 2023 03:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 9월 19일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[인기 없는 현직 대 강점 잃은 전직의 리턴 매치, 결과는 어떨까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/09/18/npsp_unpopularbiden/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/08/30/npsp_saveelectricity/</guid>
             <pubDate>Wed, 30 Aug 2023 23:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2023년 8월 31일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[그럼에도 불안한 인간은 이런 걸 만들어냈다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/08/29/npsp_insecurity/</link>
-            <guid>https://newspeppermint.com/2023/08/29/npsp_insecurity/</guid>
-            <pubDate>Wed, 30 Aug 2023 01:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 8월 30일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

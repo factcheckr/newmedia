@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-09-19T02:20:27.975Z</updated>
+    <updated>2023-09-19T03:13:35.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 정치를 위해 과학적 사실을 부정하는 그 나라는 어디인가]]></title>
+        <id>https://newspeppermint.com/2023/09/18/npsp_politicizeclimate/</id>
+        <link href="https://newspeppermint.com/2023/09/18/npsp_politicizeclimate/"/>
+        <updated>2023-09-19T03:13:25.812Z</updated>
+        <content type="html"><![CDATA[2023년 9월 19일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인기 없는 현직 대 강점 잃은 전직의 리턴 매치, 결과는 어떨까]]></title>
         <id>https://newspeppermint.com/2023/09/18/npsp_unpopularbiden/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/08/30/npsp_saveelectricity/"/>
         <updated>2023-08-30T23:12:21.563Z</updated>
         <content type="html"><![CDATA[2023년 8월 31일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그럼에도 불안한 인간은 이런 걸 만들어냈다]]></title>
-        <id>https://newspeppermint.com/2023/08/29/npsp_insecurity/</id>
-        <link href="https://newspeppermint.com/2023/08/29/npsp_insecurity/"/>
-        <updated>2023-08-30T01:46:11.176Z</updated>
-        <content type="html"><![CDATA[2023년 8월 30일]]></content>
     </entry>
 </feed>
