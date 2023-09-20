@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-09-20T22:12:16.912Z</updated>
+    <updated>2023-09-20T23:12:50.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] ‘줄 서서 먹는 맛집’, ‘나만 아는 보석 같은 식당’… 어디를 더 가고 싶을까]]></title>
+        <id>https://newspeppermint.com/2023/09/20/npsp_influencerrestaurants/</id>
+        <link href="https://newspeppermint.com/2023/09/20/npsp_influencerrestaurants/"/>
+        <updated>2023-09-20T23:12:40.513Z</updated>
+        <content type="html"><![CDATA[2023년 9월 21일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신이 비만치료제를 먹는다고 해서 실패한 것은 아니다]]></title>
         <id>https://newspeppermint.com/2023/09/19/npsp_obesitydrugantidepressants/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/09/03/npsp_nycrat/"/>
         <updated>2023-09-03T23:12:22.175Z</updated>
         <content type="html"><![CDATA[2023년 9월 4일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] ‘부모 찬스’ 그 자체인 기여입학제가 유지되는 이유 그리고 전망]]></title>
-        <id>https://newspeppermint.com/2023/09/01/npsp_scotuslegacyadmission/</id>
-        <link href="https://newspeppermint.com/2023/09/01/npsp_scotuslegacyadmission/"/>
-        <updated>2023-09-01T23:12:06.964Z</updated>
-        <content type="html"><![CDATA[2023년 9월 2일]]></content>
     </entry>
 </feed>
