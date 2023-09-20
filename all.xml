@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 01:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 02:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신이 비만치료제를 먹는다고 해서 실패한 것은 아니다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/09/19/npsp_obesitydrugantidepressants/</link>
+            <guid>https://newspeppermint.com/2023/09/19/npsp_obesitydrugantidepressants/</guid>
+            <pubDate>Wed, 20 Sep 2023 02:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 9월 20일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 정치를 위해 과학적 사실을 부정하는 그 나라는 어디인가 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/09/18/npsp_politicizeclimate/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/09/01/npsp_scotuslegacyadmission/</guid>
             <pubDate>Fri, 01 Sep 2023 23:12:06 GMT</pubDate>
             <content:encoded><![CDATA[2023년 9월 2일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 기후변화로 더욱 부족해진 전기… 뒤집어 접근해보자는 제안 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/08/30/npsp_saveelectricity/</link>
-            <guid>https://newspeppermint.com/2023/08/30/npsp_saveelectricity/</guid>
-            <pubDate>Wed, 30 Aug 2023 23:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 8월 31일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
