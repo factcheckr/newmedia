@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-09-25T02:21:13.971Z</updated>
+    <updated>2023-09-25T03:13:28.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[막 오른 ‘세기의 소송’… 구글은 독점 사업자인가 아닌가]]></title>
+        <id>https://newspeppermint.com/2023/09/24/npsp_usvgoogle/</id>
+        <link href="https://newspeppermint.com/2023/09/24/npsp_usvgoogle/"/>
+        <updated>2023-09-25T03:13:17.509Z</updated>
+        <content type="html"><![CDATA[2023년 9월 25일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘줄 서서 먹는 맛집’, ‘나만 아는 보석 같은 식당’… 어디를 더 가고 싶을까]]></title>
         <id>https://newspeppermint.com/2023/09/20/npsp_influencerrestaurants/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/09/06/npsp_liberalism/"/>
         <updated>2023-09-06T18:16:07.745Z</updated>
         <content type="html"><![CDATA[2023년 9월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지구를 위해 미국인들이 해야 하는 일 중 하나는]]></title>
-        <id>https://newspeppermint.com/2023/09/03/npsp_nycrat/</id>
-        <link href="https://newspeppermint.com/2023/09/03/npsp_nycrat/"/>
-        <updated>2023-09-03T23:12:22.175Z</updated>
-        <content type="html"><![CDATA[2023년 9월 4일]]></content>
     </entry>
 </feed>
