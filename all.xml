@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 00:56:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 01:50:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] AI 무기는 과거의 원자폭탄 위력 이상이 될 것… 그러면 어떻게? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/09/25/npsp_oppenheimer/</link>
+            <guid>https://newspeppermint.com/2023/09/25/npsp_oppenheimer/</guid>
+            <pubDate>Tue, 26 Sep 2023 01:50:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 9월 26일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[막 오른 ‘세기의 소송’… 구글은 독점 사업자인가 아닌가 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/09/24/npsp_usvgoogle/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2023/09/06/npsp_aidoctor/</link>
             <guid>https://newspeppermint.com/2023/09/06/npsp_aidoctor/</guid>
             <pubDate>Wed, 06 Sep 2023 23:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 9월 7일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘자유’라는 가면을 쓴 색깔론, 그들의 자유는 누구를 위한 걸까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/09/06/npsp_liberalism/</link>
-            <guid>https://newspeppermint.com/2023/09/06/npsp_liberalism/</guid>
-            <pubDate>Wed, 06 Sep 2023 18:16:07 GMT</pubDate>
             <content:encoded><![CDATA[2023년 9월 7일]]></content:encoded>
         </item>
         <item>
