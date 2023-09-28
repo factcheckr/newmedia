@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 12:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 13:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시험 문제를 꼭 정해진 시간에 빨리 풀어야만 할까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/09/28/npsp_testtimelimit/</link>
+            <guid>https://newspeppermint.com/2023/09/28/npsp_testtimelimit/</guid>
+            <pubDate>Thu, 28 Sep 2023 13:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 9월 29일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] AI 무기는 과거의 원자폭탄 위력 이상이 될 것… 그러면 어떻게? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/09/25/npsp_oppenheimer/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/09/08/npsp_xiputin/</guid>
             <pubDate>Fri, 08 Sep 2023 23:12:29 GMT</pubDate>
             <content:encoded><![CDATA[2023년 9월 9일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] AI는 의사라는 직업의 위기도 불러오게 될까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/09/06/npsp_aidoctor/</link>
-            <guid>https://newspeppermint.com/2023/09/06/npsp_aidoctor/</guid>
-            <pubDate>Wed, 06 Sep 2023 23:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 9월 7일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

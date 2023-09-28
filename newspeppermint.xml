@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-09-28T12:24:35.428Z</updated>
+    <updated>2023-09-28T13:16:46.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시험 문제를 꼭 정해진 시간에 빨리 풀어야만 할까]]></title>
+        <id>https://newspeppermint.com/2023/09/28/npsp_testtimelimit/</id>
+        <link href="https://newspeppermint.com/2023/09/28/npsp_testtimelimit/"/>
+        <updated>2023-09-28T13:16:35.530Z</updated>
+        <content type="html"><![CDATA[2023년 9월 29일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] AI 무기는 과거의 원자폭탄 위력 이상이 될 것… 그러면 어떻게?]]></title>
         <id>https://newspeppermint.com/2023/09/25/npsp_oppenheimer/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/09/08/npsp_xiputin/"/>
         <updated>2023-09-08T23:12:29.878Z</updated>
         <content type="html"><![CDATA[2023년 9월 9일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] AI는 의사라는 직업의 위기도 불러오게 될까]]></title>
-        <id>https://newspeppermint.com/2023/09/06/npsp_aidoctor/</id>
-        <link href="https://newspeppermint.com/2023/09/06/npsp_aidoctor/"/>
-        <updated>2023-09-06T23:12:13.376Z</updated>
-        <content type="html"><![CDATA[2023년 9월 7일]]></content>
     </entry>
 </feed>
