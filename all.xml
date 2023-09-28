@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 22:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 23:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 각자 다른 ‘평행 우주’에 살고 있는 여야 지지자들이 함께 맞이할 내년 선거 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/09/28/npsp_uselectionpolarization/</link>
+            <guid>https://newspeppermint.com/2023/09/28/npsp_uselectionpolarization/</guid>
+            <pubDate>Thu, 28 Sep 2023 23:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 9월 29일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[시험 문제를 꼭 정해진 시간에 빨리 풀어야만 할까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/09/28/npsp_testtimelimit/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/09/11/npsp_generouspeople/</guid>
             <pubDate>Mon, 11 Sep 2023 06:17:15 GMT</pubDate>
             <content:encoded><![CDATA[2023년 9월 12일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] ‘푸틴의 위기’가 시진핑에게 미칠 영향은… 대만 침공 재고? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/09/08/npsp_xiputin/</link>
-            <guid>https://newspeppermint.com/2023/09/08/npsp_xiputin/</guid>
-            <pubDate>Fri, 08 Sep 2023 23:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 9월 9일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
