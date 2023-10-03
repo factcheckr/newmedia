@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 00:56:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 01:52:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 모두가 모두를 믿지 못하게 되면 어떻게 해야 할까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/10/02/npsp_trustviolence/</link>
+            <guid>https://newspeppermint.com/2023/10/02/npsp_trustviolence/</guid>
+            <pubDate>Tue, 03 Oct 2023 01:52:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 10월 3일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[중국의 쇠퇴를 논하기 전에 생각해봐야 할 것들 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/10/02/npsp_chinadecline/</link>
+            <guid>https://newspeppermint.com/2023/10/02/npsp_chinadecline/</guid>
+            <pubDate>Tue, 03 Oct 2023 01:52:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 10월 3일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 각자 다른 ‘평행 우주’에 살고 있는 여야 지지자들이 함께 맞이할 내년 선거 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/09/28/npsp_uselectionpolarization/</link>
@@ -76,20 +90,6 @@
             <guid>https://newspeppermint.com/2023/09/12/npsp_techfortheold/</guid>
             <pubDate>Wed, 13 Sep 2023 03:13:03 GMT</pubDate>
             <content:encoded><![CDATA[2023년 9월 13일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 소셜미디어 금지 실험, 청소년을 구원할 수 있을까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/09/11/npsp_socialmediabanutah/</link>
-            <guid>https://newspeppermint.com/2023/09/11/npsp_socialmediabanutah/</guid>
-            <pubDate>Mon, 11 Sep 2023 23:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 9월 12일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인간의 본성은 선이냐, 악이냐를 과학적 관점에서 본다면? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/09/11/npsp_generouspeople/</link>
-            <guid>https://newspeppermint.com/2023/09/11/npsp_generouspeople/</guid>
-            <pubDate>Mon, 11 Sep 2023 06:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 9월 12일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
