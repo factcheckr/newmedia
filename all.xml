@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 22:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 23:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 좀처럼 집중 못 하는 당신을 위한 조언 : 하기 싫은 일과 하고 싶은 일의 ‘멀티태스킹’이라면? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/10/05/npsp_multitasking/</link>
+            <guid>https://newspeppermint.com/2023/10/05/npsp_multitasking/</guid>
+            <pubDate>Thu, 05 Oct 2023 23:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 10월 6일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[어쩌면 ‘외로움부’가 가장 필요한 나라는 대한민국 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/10/03/npsp_lonelinessepidemic/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/09/18/npsp_unpopularbiden/</guid>
             <pubDate>Mon, 18 Sep 2023 22:12:24 GMT</pubDate>
             <content:encoded><![CDATA[2023년 9월 19일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 스레즈 ‘반짝 성공’ 그 이후… 우리가 알던 ‘소셜미디어 시대’는 막을 내리게 될까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/09/13/npsp_threadssocialmedia/</link>
-            <guid>https://newspeppermint.com/2023/09/13/npsp_threadssocialmedia/</guid>
-            <pubDate>Wed, 13 Sep 2023 23:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 9월 14일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
