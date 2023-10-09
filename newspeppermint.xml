@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-10-09T17:13:00.012Z</updated>
+    <updated>2023-10-09T18:17:16.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인공지능의 시대, 우리가 찾아가야 할 균형점은 어디쯤일까]]></title>
+        <id>https://newspeppermint.com/2023/10/09/npsp_wgalaborinai/</id>
+        <link href="https://newspeppermint.com/2023/10/09/npsp_wgalaborinai/"/>
+        <updated>2023-10-09T18:17:06.884Z</updated>
+        <content type="html"><![CDATA[2023년 10월 10일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 좀처럼 집중 못 하는 당신을 위한 조언 : 하기 싫은 일과 하고 싶은 일의 ‘멀티태스킹’이라면?]]></title>
         <id>https://newspeppermint.com/2023/10/05/npsp_multitasking/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2023/09/18/npsp_politicizeclimate/</id>
         <link href="https://newspeppermint.com/2023/09/18/npsp_politicizeclimate/"/>
         <updated>2023-09-19T03:13:25.812Z</updated>
-        <content type="html"><![CDATA[2023년 9월 19일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인기 없는 현직 대 강점 잃은 전직의 리턴 매치, 결과는 어떨까]]></title>
-        <id>https://newspeppermint.com/2023/09/18/npsp_unpopularbiden/</id>
-        <link href="https://newspeppermint.com/2023/09/18/npsp_unpopularbiden/"/>
-        <updated>2023-09-18T22:12:24.685Z</updated>
         <content type="html"><![CDATA[2023년 9월 19일]]></content>
     </entry>
 </feed>

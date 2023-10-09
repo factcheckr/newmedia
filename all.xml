@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 17:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 18:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인공지능의 시대, 우리가 찾아가야 할 균형점은 어디쯤일까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/10/09/npsp_wgalaborinai/</link>
+            <guid>https://newspeppermint.com/2023/10/09/npsp_wgalaborinai/</guid>
+            <pubDate>Mon, 09 Oct 2023 18:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 10월 10일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 좀처럼 집중 못 하는 당신을 위한 조언 : 하기 싫은 일과 하고 싶은 일의 ‘멀티태스킹’이라면? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/10/05/npsp_multitasking/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2023/09/18/npsp_politicizeclimate/</link>
             <guid>https://newspeppermint.com/2023/09/18/npsp_politicizeclimate/</guid>
             <pubDate>Tue, 19 Sep 2023 03:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 9월 19일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인기 없는 현직 대 강점 잃은 전직의 리턴 매치, 결과는 어떨까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/09/18/npsp_unpopularbiden/</link>
-            <guid>https://newspeppermint.com/2023/09/18/npsp_unpopularbiden/</guid>
-            <pubDate>Mon, 18 Sep 2023 22:12:24 GMT</pubDate>
             <content:encoded><![CDATA[2023년 9월 19일]]></content:encoded>
         </item>
         <item>
