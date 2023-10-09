@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 22:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 23:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 올 여름이 그래도 시원한 축에 들 것이라는 과학자들이 있다? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/10/09/npsp_climateweirding/</link>
+            <guid>https://newspeppermint.com/2023/10/09/npsp_climateweirding/</guid>
+            <pubDate>Mon, 09 Oct 2023 23:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 10월 10일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[인공지능의 시대, 우리가 찾아가야 할 균형점은 어디쯤일까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/10/09/npsp_wgalaborinai/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/09/19/npsp_obesitydrugantidepressants/</guid>
             <pubDate>Wed, 20 Sep 2023 02:19:05 GMT</pubDate>
             <content:encoded><![CDATA[2023년 9월 20일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 정치를 위해 과학적 사실을 부정하는 그 나라는 어디인가 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/09/18/npsp_politicizeclimate/</link>
-            <guid>https://newspeppermint.com/2023/09/18/npsp_politicizeclimate/</guid>
-            <pubDate>Tue, 19 Sep 2023 03:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 9월 19일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
