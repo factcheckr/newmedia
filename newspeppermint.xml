@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-10-12T22:12:43.836Z</updated>
+    <updated>2023-10-12T23:13:08.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 그럼에도 ‘상온 초전도체’가 정말이라면 세상은 어떻게 바뀔까]]></title>
+        <id>https://newspeppermint.com/2023/10/12/npsp_lk99/</id>
+        <link href="https://newspeppermint.com/2023/10/12/npsp_lk99/"/>
+        <updated>2023-10-12T23:12:58.653Z</updated>
+        <content type="html"><![CDATA[2023년 10월 13일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[또다시 토요일에 시작된 전쟁… 이스라엘- 팔레스타인 갈등과 분쟁의 역사]]></title>
         <id>https://newspeppermint.com/2023/10/11/npsp_hamasisrael/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/09/25/npsp_oppenheimer/"/>
         <updated>2023-09-26T01:50:21.135Z</updated>
         <content type="html"><![CDATA[2023년 9월 26일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[막 오른 ‘세기의 소송’… 구글은 독점 사업자인가 아닌가]]></title>
-        <id>https://newspeppermint.com/2023/09/24/npsp_usvgoogle/</id>
-        <link href="https://newspeppermint.com/2023/09/24/npsp_usvgoogle/"/>
-        <updated>2023-09-25T03:13:17.509Z</updated>
-        <content type="html"><![CDATA[2023년 9월 25일]]></content>
     </entry>
 </feed>
