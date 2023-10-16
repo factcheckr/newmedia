@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 01:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 02:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“나이는 숫자에 불과”한 게 아니라는 것 말고 노화에 대해 정말 알아야 할 것들 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/10/15/npsp_gettingold/</link>
+            <guid>https://newspeppermint.com/2023/10/15/npsp_gettingold/</guid>
+            <pubDate>Mon, 16 Oct 2023 02:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 10월 16일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 그럼에도 ‘상온 초전도체’가 정말이라면 세상은 어떻게 바뀔까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/10/12/npsp_lk99/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/09/28/npsp_testtimelimit/</guid>
             <pubDate>Thu, 28 Sep 2023 13:16:35 GMT</pubDate>
             <content:encoded><![CDATA[2023년 9월 29일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] AI 무기는 과거의 원자폭탄 위력 이상이 될 것… 그러면 어떻게? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/09/25/npsp_oppenheimer/</link>
-            <guid>https://newspeppermint.com/2023/09/25/npsp_oppenheimer/</guid>
-            <pubDate>Tue, 26 Sep 2023 01:50:21 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 9월 26일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

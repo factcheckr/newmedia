@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-10-16T01:53:22.498Z</updated>
+    <updated>2023-10-16T02:22:51.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“나이는 숫자에 불과”한 게 아니라는 것 말고 노화에 대해 정말 알아야 할 것들]]></title>
+        <id>https://newspeppermint.com/2023/10/15/npsp_gettingold/</id>
+        <link href="https://newspeppermint.com/2023/10/15/npsp_gettingold/"/>
+        <updated>2023-10-16T02:22:39.494Z</updated>
+        <content type="html"><![CDATA[2023년 10월 16일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 그럼에도 ‘상온 초전도체’가 정말이라면 세상은 어떻게 바뀔까]]></title>
         <id>https://newspeppermint.com/2023/10/12/npsp_lk99/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/09/28/npsp_testtimelimit/"/>
         <updated>2023-09-28T13:16:35.530Z</updated>
         <content type="html"><![CDATA[2023년 9월 29일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] AI 무기는 과거의 원자폭탄 위력 이상이 될 것… 그러면 어떻게?]]></title>
-        <id>https://newspeppermint.com/2023/09/25/npsp_oppenheimer/</id>
-        <link href="https://newspeppermint.com/2023/09/25/npsp_oppenheimer/"/>
-        <updated>2023-09-26T01:50:21.135Z</updated>
-        <content type="html"><![CDATA[2023년 9월 26일]]></content>
     </entry>
 </feed>
