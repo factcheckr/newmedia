@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 22:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 23:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 내 생각을 조종하는 자들을 극복하려면… ‘알고리듬’ 선택이 대안인가 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/10/18/npsp_algorithm/</link>
+            <guid>https://newspeppermint.com/2023/10/18/npsp_algorithm/</guid>
+            <pubDate>Wed, 18 Oct 2023 23:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 10월 19일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[수상 기준이 어떻길래? 올해도 이어진 노벨평화상 논란 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/10/17/npsp_nobelpeaceprize/</link>
@@ -81,13 +88,6 @@
             <title><![CDATA[[뉴페@스프] 모두가 모두를 믿지 못하게 되면 어떻게 해야 할까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/10/02/npsp_trustviolence/</link>
             <guid>https://newspeppermint.com/2023/10/02/npsp_trustviolence/</guid>
-            <pubDate>Tue, 03 Oct 2023 01:52:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 10월 3일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중국의 쇠퇴를 논하기 전에 생각해봐야 할 것들 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/10/02/npsp_chinadecline/</link>
-            <guid>https://newspeppermint.com/2023/10/02/npsp_chinadecline/</guid>
             <pubDate>Tue, 03 Oct 2023 01:52:03 GMT</pubDate>
             <content:encoded><![CDATA[2023년 10월 3일]]></content:encoded>
         </item>
