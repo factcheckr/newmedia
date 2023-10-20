@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-10-20T22:11:44.919Z</updated>
+    <updated>2023-10-20T23:12:36.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 중국 부동산 위기, 이번엔 뭐가 다른가?]]></title>
+        <id>https://newspeppermint.com/2023/10/20/npsp_chinaeconomy/</id>
+        <link href="https://newspeppermint.com/2023/10/20/npsp_chinaeconomy/"/>
+        <updated>2023-10-20T23:12:26.098Z</updated>
+        <content type="html"><![CDATA[2023년 10월 21일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가자지구는 ‘창살 없는 무덤’이 돼 버릴 것인가]]></title>
         <id>https://newspeppermint.com/2023/10/19/npsp_israelhamas/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/10/05/npsp_multitasking/"/>
         <updated>2023-10-05T23:13:06.287Z</updated>
         <content type="html"><![CDATA[2023년 10월 6일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어쩌면 ‘외로움부’가 가장 필요한 나라는 대한민국]]></title>
-        <id>https://newspeppermint.com/2023/10/03/npsp_lonelinessepidemic/</id>
-        <link href="https://newspeppermint.com/2023/10/03/npsp_lonelinessepidemic/"/>
-        <updated>2023-10-04T02:21:26.901Z</updated>
-        <content type="html"><![CDATA[2023년 10월 4일]]></content>
     </entry>
 </feed>

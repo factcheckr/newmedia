@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 22:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 23:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 중국 부동산 위기, 이번엔 뭐가 다른가? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/10/20/npsp_chinaeconomy/</link>
+            <guid>https://newspeppermint.com/2023/10/20/npsp_chinaeconomy/</guid>
+            <pubDate>Fri, 20 Oct 2023 23:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 10월 21일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[가자지구는 ‘창살 없는 무덤’이 돼 버릴 것인가 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/10/19/npsp_israelhamas/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/10/05/npsp_multitasking/</guid>
             <pubDate>Thu, 05 Oct 2023 23:13:06 GMT</pubDate>
             <content:encoded><![CDATA[2023년 10월 6일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어쩌면 ‘외로움부’가 가장 필요한 나라는 대한민국 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/10/03/npsp_lonelinessepidemic/</link>
-            <guid>https://newspeppermint.com/2023/10/03/npsp_lonelinessepidemic/</guid>
-            <pubDate>Wed, 04 Oct 2023 02:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 10월 4일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
