@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-10-24T11:11:17.807Z</updated>
+    <updated>2023-10-24T12:24:15.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뛰어난 업적을 남기고도 공로를 인정받지 못한 여성의 역사]]></title>
+        <id>https://newspeppermint.com/2023/10/24/npsp_goldin/</id>
+        <link href="https://newspeppermint.com/2023/10/24/npsp_goldin/"/>
+        <updated>2023-10-24T12:24:03.745Z</updated>
+        <content type="html"><![CDATA[2023년 10월 25일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 중국 부동산 위기, 이번엔 뭐가 다른가?]]></title>
         <id>https://newspeppermint.com/2023/10/20/npsp_chinaeconomy/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/10/09/npsp_wgalaborinai/"/>
         <updated>2023-10-09T18:17:06.884Z</updated>
         <content type="html"><![CDATA[2023년 10월 10일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 좀처럼 집중 못 하는 당신을 위한 조언 : 하기 싫은 일과 하고 싶은 일의 ‘멀티태스킹’이라면?]]></title>
-        <id>https://newspeppermint.com/2023/10/05/npsp_multitasking/</id>
-        <link href="https://newspeppermint.com/2023/10/05/npsp_multitasking/"/>
-        <updated>2023-10-05T23:13:06.287Z</updated>
-        <content type="html"><![CDATA[2023년 10월 6일]]></content>
     </entry>
 </feed>
