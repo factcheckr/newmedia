@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 09:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 10:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예술은 정치로부터 자유로워야? 그렇게 단순하지만은 않은 문제 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/10/26/npsp_literaturewar/</link>
+            <guid>https://newspeppermint.com/2023/10/26/npsp_literaturewar/</guid>
+            <pubDate>Thu, 26 Oct 2023 10:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 10월 27일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뛰어난 업적을 남기고도 공로를 인정받지 못한 여성의 역사 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/10/24/npsp_goldin/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2023/10/09/npsp_climateweirding/</link>
             <guid>https://newspeppermint.com/2023/10/09/npsp_climateweirding/</guid>
             <pubDate>Mon, 09 Oct 2023 23:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 10월 10일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인공지능의 시대, 우리가 찾아가야 할 균형점은 어디쯤일까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/10/09/npsp_wgalaborinai/</link>
-            <guid>https://newspeppermint.com/2023/10/09/npsp_wgalaborinai/</guid>
-            <pubDate>Mon, 09 Oct 2023 18:17:06 GMT</pubDate>
             <content:encoded><![CDATA[2023년 10월 10일]]></content:encoded>
         </item>
         <item>
