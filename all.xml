@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Oct 2023 22:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 23:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] ‘자유’라는 가면을 쓴 색깔론, 그들의 자유는 누구를 위한 걸까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/10/28/npsp_liberalism/</link>
+            <guid>https://newspeppermint.com/2023/10/28/npsp_liberalism/</guid>
+            <pubDate>Sat, 28 Oct 2023 23:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 10월 29일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 지구를 위해 미국인들이 해야 하는 일 중 하나는 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/10/26/npsp_nycrat/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/10/11/npsp_hamasisrael/</guid>
             <pubDate>Thu, 12 Oct 2023 00:53:41 GMT</pubDate>
             <content:encoded><![CDATA[2023년 10월 12일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인공지능 그 자체보다는 여기에 대한 대응이 미래를 결정할 것 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/10/10/npsp_aiwar/</link>
-            <guid>https://newspeppermint.com/2023/10/10/npsp_aiwar/</guid>
-            <pubDate>Wed, 11 Oct 2023 01:49:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 10월 11일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
