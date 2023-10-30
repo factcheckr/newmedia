@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-10-30T15:14:10.501Z</updated>
+    <updated>2023-10-30T16:17:30.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당신이 먹는 것의 먹는 것까지 생각해 보자는 제안]]></title>
+        <id>https://newspeppermint.com/2023/10/30/npsp_seafoodchain/</id>
+        <link href="https://newspeppermint.com/2023/10/30/npsp_seafoodchain/"/>
+        <updated>2023-10-30T16:17:21.099Z</updated>
+        <content type="html"><![CDATA[2023년 10월 31일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘자유’라는 가면을 쓴 색깔론, 그들의 자유는 누구를 위한 걸까]]></title>
         <id>https://newspeppermint.com/2023/10/28/npsp_liberalism/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/10/12/npsp_lk99/"/>
         <updated>2023-10-12T23:12:58.653Z</updated>
         <content type="html"><![CDATA[2023년 10월 13일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또다시 토요일에 시작된 전쟁… 이스라엘- 팔레스타인 갈등과 분쟁의 역사]]></title>
-        <id>https://newspeppermint.com/2023/10/11/npsp_hamasisrael/</id>
-        <link href="https://newspeppermint.com/2023/10/11/npsp_hamasisrael/"/>
-        <updated>2023-10-12T00:53:41.392Z</updated>
-        <content type="html"><![CDATA[2023년 10월 12일]]></content>
     </entry>
 </feed>
