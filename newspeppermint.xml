@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-10-30T22:12:36.703Z</updated>
+    <updated>2023-10-30T23:13:03.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 인간의 본성은 선이냐, 악이냐를 과학적 관점에서 본다면?]]></title>
+        <id>https://newspeppermint.com/2023/10/30/npsp_generouspeople/</id>
+        <link href="https://newspeppermint.com/2023/10/30/npsp_generouspeople/"/>
+        <updated>2023-10-30T23:12:54.325Z</updated>
+        <content type="html"><![CDATA[2023년 10월 31일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신이 먹는 것의 먹는 것까지 생각해 보자는 제안]]></title>
         <id>https://newspeppermint.com/2023/10/30/npsp_seafoodchain/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/10/15/npsp_gettingold/"/>
         <updated>2023-10-16T02:22:39.494Z</updated>
         <content type="html"><![CDATA[2023년 10월 16일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 그럼에도 ‘상온 초전도체’가 정말이라면 세상은 어떻게 바뀔까]]></title>
-        <id>https://newspeppermint.com/2023/10/12/npsp_lk99/</id>
-        <link href="https://newspeppermint.com/2023/10/12/npsp_lk99/"/>
-        <updated>2023-10-12T23:12:58.653Z</updated>
-        <content type="html"><![CDATA[2023년 10월 13일]]></content>
     </entry>
 </feed>
