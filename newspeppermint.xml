@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-11-06T22:11:57.735Z</updated>
+    <updated>2023-11-06T23:12:35.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 인기 없는 현직 대 강점 잃은 전직의 리턴 매치, 결과는 어떨까]]></title>
+        <id>https://newspeppermint.com/2023/11/06/npsp_unpopularbiden/</id>
+        <link href="https://newspeppermint.com/2023/11/06/npsp_unpopularbiden/"/>
+        <updated>2023-11-06T23:12:26.329Z</updated>
+        <content type="html"><![CDATA[2023년 11월 7일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘역사적 승리’ 거둔 미국 자동차노조, 그들의 ‘Make America Great Again’은 이뤄질까?]]></title>
         <id>https://newspeppermint.com/2023/11/06/npsp_uaw/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/10/19/npsp_israelhamas/"/>
         <updated>2023-10-20T00:55:57.222Z</updated>
         <content type="html"><![CDATA[2023년 10월 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 내 생각을 조종하는 자들을 극복하려면… ‘알고리듬’ 선택이 대안인가]]></title>
-        <id>https://newspeppermint.com/2023/10/18/npsp_algorithm/</id>
-        <link href="https://newspeppermint.com/2023/10/18/npsp_algorithm/"/>
-        <updated>2023-10-18T23:12:58.332Z</updated>
-        <content type="html"><![CDATA[2023년 10월 19일]]></content>
     </entry>
 </feed>
