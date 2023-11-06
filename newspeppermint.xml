@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-11-06T04:15:59.376Z</updated>
+    <updated>2023-11-06T05:13:27.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘역사적 승리’ 거둔 미국 자동차노조, 그들의 ‘Make America Great Again’은 이뤄질까?]]></title>
+        <id>https://newspeppermint.com/2023/11/06/npsp_uaw/</id>
+        <link href="https://newspeppermint.com/2023/11/06/npsp_uaw/"/>
+        <updated>2023-11-06T05:13:17.724Z</updated>
+        <content type="html"><![CDATA[2023년 11월 7일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 노인이 대세가 되는 ‘정해진 미래’, 발상을 바꿔본다면?]]></title>
         <id>https://newspeppermint.com/2023/11/01/npsp_techfortheold/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/10/18/npsp_algorithm/"/>
         <updated>2023-10-18T23:12:58.332Z</updated>
         <content type="html"><![CDATA[2023년 10월 19일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수상 기준이 어떻길래? 올해도 이어진 노벨평화상 논란]]></title>
-        <id>https://newspeppermint.com/2023/10/17/npsp_nobelpeaceprize/</id>
-        <link href="https://newspeppermint.com/2023/10/17/npsp_nobelpeaceprize/"/>
-        <updated>2023-10-18T02:20:57.306Z</updated>
-        <content type="html"><![CDATA[2023년 10월 18일]]></content>
     </entry>
 </feed>
