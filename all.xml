@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 22:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 23:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 당신이 비만치료제를 먹는다고 실패한 것은 아니다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/11/08/npsp_obesitydrugantidepressants/</link>
+            <guid>https://newspeppermint.com/2023/11/08/npsp_obesitydrugantidepressants/</guid>
+            <pubDate>Wed, 08 Nov 2023 23:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 11월 9일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[인류 문명의 단계는 ‘온라인 쇼핑’에 이르렀다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/11/07/npsp_onlineshopping/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/10/24/npsp_goldin/</guid>
             <pubDate>Tue, 24 Oct 2023 12:24:03 GMT</pubDate>
             <content:encoded><![CDATA[2023년 10월 25일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 중국 부동산 위기, 이번엔 뭐가 다른가? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/10/20/npsp_chinaeconomy/</link>
-            <guid>https://newspeppermint.com/2023/10/20/npsp_chinaeconomy/</guid>
-            <pubDate>Fri, 20 Oct 2023 23:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 10월 21일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
