@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-11-08T02:22:13.458Z</updated>
+    <updated>2023-11-08T03:14:18.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인류 문명의 단계는 ‘온라인 쇼핑’에 이르렀다]]></title>
+        <id>https://newspeppermint.com/2023/11/07/npsp_onlineshopping/</id>
+        <link href="https://newspeppermint.com/2023/11/07/npsp_onlineshopping/"/>
+        <updated>2023-11-08T03:14:04.578Z</updated>
+        <content type="html"><![CDATA[2023년 11월 8일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 인기 없는 현직 대 강점 잃은 전직의 리턴 매치, 결과는 어떨까]]></title>
         <id>https://newspeppermint.com/2023/11/06/npsp_unpopularbiden/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/10/20/npsp_chinaeconomy/"/>
         <updated>2023-10-20T23:12:26.098Z</updated>
         <content type="html"><![CDATA[2023년 10월 21일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가자지구는 ‘창살 없는 무덤’이 돼 버릴 것인가]]></title>
-        <id>https://newspeppermint.com/2023/10/19/npsp_israelhamas/</id>
-        <link href="https://newspeppermint.com/2023/10/19/npsp_israelhamas/"/>
-        <updated>2023-10-20T00:55:57.222Z</updated>
-        <content type="html"><![CDATA[2023년 10월 20일]]></content>
     </entry>
 </feed>

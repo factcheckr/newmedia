@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 02:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 03:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인류 문명의 단계는 ‘온라인 쇼핑’에 이르렀다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/11/07/npsp_onlineshopping/</link>
+            <guid>https://newspeppermint.com/2023/11/07/npsp_onlineshopping/</guid>
+            <pubDate>Wed, 08 Nov 2023 03:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 11월 8일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 인기 없는 현직 대 강점 잃은 전직의 리턴 매치, 결과는 어떨까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/11/06/npsp_unpopularbiden/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/10/20/npsp_chinaeconomy/</guid>
             <pubDate>Fri, 20 Oct 2023 23:12:26 GMT</pubDate>
             <content:encoded><![CDATA[2023년 10월 21일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가자지구는 ‘창살 없는 무덤’이 돼 버릴 것인가 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/10/19/npsp_israelhamas/</link>
-            <guid>https://newspeppermint.com/2023/10/19/npsp_israelhamas/</guid>
-            <pubDate>Fri, 20 Oct 2023 00:55:57 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 10월 20일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
