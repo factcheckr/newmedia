@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 22:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 23:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 막 오른 ‘세기의 소송’… 구글은 독점 사업자인가 아닌가 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/11/10/npsp_usvgoogle/</link>
+            <guid>https://newspeppermint.com/2023/11/10/npsp_usvgoogle/</guid>
+            <pubDate>Fri, 10 Nov 2023 23:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 11월 11일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 당신이 비만치료제를 먹는다고 실패한 것은 아니다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/11/08/npsp_obesitydrugantidepressants/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/10/26/npsp_literaturewar/</guid>
             <pubDate>Thu, 26 Oct 2023 10:13:35 GMT</pubDate>
             <content:encoded><![CDATA[2023년 10월 27일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뛰어난 업적을 남기고도 공로를 인정받지 못한 여성의 역사 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/10/24/npsp_goldin/</link>
-            <guid>https://newspeppermint.com/2023/10/24/npsp_goldin/</guid>
-            <pubDate>Tue, 24 Oct 2023 12:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 10월 25일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
