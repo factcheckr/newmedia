@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 22:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 23:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매튜 페리가 남긴 진정한 유산: 타인의 취약성과 아픔을 보듬는 사회를 꿈꾸며 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/11/14/npsp_matthewperry/</link>
+            <guid>https://newspeppermint.com/2023/11/14/npsp_matthewperry/</guid>
+            <pubDate>Tue, 14 Nov 2023 23:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 11월 15일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[미국의 소극적인 태도가 오히려 중국을 도발할 가능성이 높다 하는 이유 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/11/12/npsp_uschinataiwan/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/10/28/npsp_liberalism/</guid>
             <pubDate>Sat, 28 Oct 2023 23:11:46 GMT</pubDate>
             <content:encoded><![CDATA[2023년 10월 29일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 지구를 위해 미국인들이 해야 하는 일 중 하나는 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/10/26/npsp_nycrat/</link>
-            <guid>https://newspeppermint.com/2023/10/26/npsp_nycrat/</guid>
-            <pubDate>Thu, 26 Oct 2023 23:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 10월 27일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
