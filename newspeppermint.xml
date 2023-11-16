@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-11-16T03:13:56.913Z</updated>
+    <updated>2023-11-16T04:15:57.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 시험 문제를 꼭 정해진 시간에 빨리 풀어야만 할까]]></title>
+        <id>https://newspeppermint.com/2023/11/16/npsp_testtimelimit/</id>
+        <link href="https://newspeppermint.com/2023/11/16/npsp_testtimelimit/"/>
+        <updated>2023-11-16T04:15:48.226Z</updated>
+        <content type="html"><![CDATA[2023년 11월 17일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매튜 페리가 남긴 진정한 유산: 타인의 취약성과 아픔을 보듬는 사회를 꿈꾸며]]></title>
         <id>https://newspeppermint.com/2023/11/14/npsp_matthewperry/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/10/30/npsp_seafoodchain/"/>
         <updated>2023-10-30T16:17:21.099Z</updated>
         <content type="html"><![CDATA[2023년 10월 31일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] ‘자유’라는 가면을 쓴 색깔론, 그들의 자유는 누구를 위한 걸까]]></title>
-        <id>https://newspeppermint.com/2023/10/28/npsp_liberalism/</id>
-        <link href="https://newspeppermint.com/2023/10/28/npsp_liberalism/"/>
-        <updated>2023-10-28T23:11:46.858Z</updated>
-        <content type="html"><![CDATA[2023년 10월 29일]]></content>
     </entry>
 </feed>
