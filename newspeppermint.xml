@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-11-19T22:12:00.356Z</updated>
+    <updated>2023-11-19T23:12:40.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2029년 화성으로 간다는 계획에 앞서 해야 할 것들]]></title>
+        <id>https://newspeppermint.com/2023/11/19/npsp_universehuman/</id>
+        <link href="https://newspeppermint.com/2023/11/19/npsp_universehuman/"/>
+        <updated>2023-11-19T23:12:32.656Z</updated>
+        <content type="html"><![CDATA[2023년 11월 20일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 중국의 쇠퇴를 논하기 전에 생각해봐야 할 것들]]></title>
         <id>https://newspeppermint.com/2023/11/17/npsp_chinadecline/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/10/31/npsp_pension/"/>
         <updated>2023-11-01T01:58:03.427Z</updated>
         <content type="html"><![CDATA[2023년 11월 1일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 인간의 본성은 선이냐, 악이냐를 과학적 관점에서 본다면?]]></title>
-        <id>https://newspeppermint.com/2023/10/30/npsp_generouspeople/</id>
-        <link href="https://newspeppermint.com/2023/10/30/npsp_generouspeople/"/>
-        <updated>2023-10-30T23:12:54.325Z</updated>
-        <content type="html"><![CDATA[2023년 10월 31일]]></content>
     </entry>
 </feed>
