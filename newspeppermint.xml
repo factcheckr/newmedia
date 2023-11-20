@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-11-20T22:12:56.994Z</updated>
+    <updated>2023-11-20T23:13:26.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 인공지능의 시대, 우리가 찾아가야 할 균형점은 어디쯤일까]]></title>
+        <id>https://newspeppermint.com/2023/11/20/npsp_wgalaborinai/</id>
+        <link href="https://newspeppermint.com/2023/11/20/npsp_wgalaborinai/"/>
+        <updated>2023-11-20T23:13:19.770Z</updated>
+        <content type="html"><![CDATA[2023년 11월 21일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2029년 화성으로 간다는 계획에 앞서 해야 할 것들]]></title>
         <id>https://newspeppermint.com/2023/11/19/npsp_universehuman/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/11/01/npsp_techfortheold/"/>
         <updated>2023-11-01T23:13:28.548Z</updated>
         <content type="html"><![CDATA[2023년 11월 2일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연금, 정해진 미래가 만든 ‘방 안의 코끼리’]]></title>
-        <id>https://newspeppermint.com/2023/10/31/npsp_pension/</id>
-        <link href="https://newspeppermint.com/2023/10/31/npsp_pension/"/>
-        <updated>2023-11-01T01:58:03.427Z</updated>
-        <content type="html"><![CDATA[2023년 11월 1일]]></content>
     </entry>
 </feed>
