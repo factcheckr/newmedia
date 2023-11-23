@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 16:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 17:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘그냥’ 결혼하기 싫은 여성이 한국에도 많은 이유 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/11/23/npsp_marriage/</link>
+            <guid>https://newspeppermint.com/2023/11/23/npsp_marriage/</guid>
+            <pubDate>Thu, 23 Nov 2023 17:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 11월 24일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 인공지능의 시대, 우리가 찾아가야 할 균형점은 어디쯤일까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/11/20/npsp_wgalaborinai/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/11/06/npsp_uaw/</guid>
             <pubDate>Mon, 06 Nov 2023 05:13:17 GMT</pubDate>
             <content:encoded><![CDATA[2023년 11월 7일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 노인이 대세가 되는 ‘정해진 미래’, 발상을 바꿔본다면? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/11/01/npsp_techfortheold/</link>
-            <guid>https://newspeppermint.com/2023/11/01/npsp_techfortheold/</guid>
-            <pubDate>Wed, 01 Nov 2023 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 11월 2일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
