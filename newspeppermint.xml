@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-11-25T22:11:31.981Z</updated>
+    <updated>2023-11-25T23:12:12.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 인공지능 그 자체보다는 여기에 대한 대응이 미래를 결정할 것]]></title>
+        <id>https://newspeppermint.com/2023/11/25/npsp_aiwar/</id>
+        <link href="https://newspeppermint.com/2023/11/25/npsp_aiwar/"/>
+        <updated>2023-11-25T23:12:03.641Z</updated>
+        <content type="html"><![CDATA[2023년 11월 26일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘그냥’ 결혼하기 싫은 여성이 한국에도 많은 이유]]></title>
         <id>https://newspeppermint.com/2023/11/23/npsp_marriage/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2023/11/06/npsp_unpopularbiden/</id>
         <link href="https://newspeppermint.com/2023/11/06/npsp_unpopularbiden/"/>
         <updated>2023-11-06T23:12:26.329Z</updated>
-        <content type="html"><![CDATA[2023년 11월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘역사적 승리’ 거둔 미국 자동차노조, 그들의 ‘Make America Great Again’은 이뤄질까?]]></title>
-        <id>https://newspeppermint.com/2023/11/06/npsp_uaw/</id>
-        <link href="https://newspeppermint.com/2023/11/06/npsp_uaw/"/>
-        <updated>2023-11-06T05:13:17.724Z</updated>
         <content type="html"><![CDATA[2023년 11월 7일]]></content>
     </entry>
 </feed>
