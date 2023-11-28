@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-11-28T00:59:23.741Z</updated>
+    <updated>2023-11-28T01:59:16.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 또다시 토요일에 시작된 전쟁… 이스라엘- 팔레스타인 갈등과 분쟁의 역사]]></title>
+        <id>https://newspeppermint.com/2023/11/27/npsp_hamasisrael/</id>
+        <link href="https://newspeppermint.com/2023/11/27/npsp_hamasisrael/"/>
+        <updated>2023-11-28T01:59:05.414Z</updated>
+        <content type="html"><![CDATA[2023년 11월 28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 인공지능 그 자체보다는 여기에 대한 대응이 미래를 결정할 것]]></title>
         <id>https://newspeppermint.com/2023/11/25/npsp_aiwar/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/11/07/npsp_onlineshopping/"/>
         <updated>2023-11-08T03:14:04.578Z</updated>
         <content type="html"><![CDATA[2023년 11월 8일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 인기 없는 현직 대 강점 잃은 전직의 리턴 매치, 결과는 어떨까]]></title>
-        <id>https://newspeppermint.com/2023/11/06/npsp_unpopularbiden/</id>
-        <link href="https://newspeppermint.com/2023/11/06/npsp_unpopularbiden/"/>
-        <updated>2023-11-06T23:12:26.329Z</updated>
-        <content type="html"><![CDATA[2023년 11월 7일]]></content>
     </entry>
 </feed>
