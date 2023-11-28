@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 22:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 23:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“인류를 위한 인공지능” 누가, 어떻게 할 것인가? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/11/28/npsp_openai/</link>
+            <guid>https://newspeppermint.com/2023/11/28/npsp_openai/</guid>
+            <pubDate>Tue, 28 Nov 2023 23:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 11월 29일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 또다시 토요일에 시작된 전쟁… 이스라엘- 팔레스타인 갈등과 분쟁의 역사 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/11/27/npsp_hamasisrael/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/11/08/npsp_obesitydrugantidepressants/</guid>
             <pubDate>Wed, 08 Nov 2023 23:12:52 GMT</pubDate>
             <content:encoded><![CDATA[2023년 11월 9일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인류 문명의 단계는 ‘온라인 쇼핑’에 이르렀다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/11/07/npsp_onlineshopping/</link>
-            <guid>https://newspeppermint.com/2023/11/07/npsp_onlineshopping/</guid>
-            <pubDate>Wed, 08 Nov 2023 03:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 11월 8일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
