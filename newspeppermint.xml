@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-12-04T22:12:46.824Z</updated>
+    <updated>2023-12-04T23:13:23.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 수상 기준이 어떻길래? 올해도 이어진 노벨평화상 논란]]></title>
+        <id>https://newspeppermint.com/2023/12/04/npsp_nobelpeaceprize/</id>
+        <link href="https://newspeppermint.com/2023/12/04/npsp_nobelpeaceprize/"/>
+        <updated>2023-12-04T23:13:14.907Z</updated>
+        <content type="html"><![CDATA[2023년 12월 5일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년은 ‘덜지출 챌린지’ 계획해보면 어떨까요?]]></title>
         <id>https://newspeppermint.com/2023/12/03/npsp_patagonia/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/11/14/npsp_matthewperry/"/>
         <updated>2023-11-14T23:13:08.537Z</updated>
         <content type="html"><![CDATA[2023년 11월 15일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국의 소극적인 태도가 오히려 중국을 도발할 가능성이 높다 하는 이유]]></title>
-        <id>https://newspeppermint.com/2023/11/12/npsp_uschinataiwan/</id>
-        <link href="https://newspeppermint.com/2023/11/12/npsp_uschinataiwan/"/>
-        <updated>2023-11-12T16:14:51.609Z</updated>
-        <content type="html"><![CDATA[2023년 11월 13일]]></content>
     </entry>
 </feed>

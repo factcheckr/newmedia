@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 22:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 23:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 수상 기준이 어떻길래? 올해도 이어진 노벨평화상 논란 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/12/04/npsp_nobelpeaceprize/</link>
+            <guid>https://newspeppermint.com/2023/12/04/npsp_nobelpeaceprize/</guid>
+            <pubDate>Mon, 04 Dec 2023 23:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 12월 5일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2024년은 ‘덜지출 챌린지’ 계획해보면 어떨까요? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/12/03/npsp_patagonia/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/11/14/npsp_matthewperry/</guid>
             <pubDate>Tue, 14 Nov 2023 23:13:08 GMT</pubDate>
             <content:encoded><![CDATA[2023년 11월 15일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미국의 소극적인 태도가 오히려 중국을 도발할 가능성이 높다 하는 이유 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/11/12/npsp_uschinataiwan/</link>
-            <guid>https://newspeppermint.com/2023/11/12/npsp_uschinataiwan/</guid>
-            <pubDate>Sun, 12 Nov 2023 16:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 11월 13일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
