@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 01:59:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 02:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전쟁 중인 나라보다 낮은 출생률, 우리가 해야 할 고민은 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/12/05/npsp_koreadissapearing/</link>
+            <guid>https://newspeppermint.com/2023/12/05/npsp_koreadissapearing/</guid>
+            <pubDate>Wed, 06 Dec 2023 02:30:47 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 12월 6일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 수상 기준이 어떻길래? 올해도 이어진 노벨평화상 논란 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/12/04/npsp_nobelpeaceprize/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/11/16/npsp_testtimelimit/</guid>
             <pubDate>Thu, 16 Nov 2023 04:15:48 GMT</pubDate>
             <content:encoded><![CDATA[2023년 11월 17일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매튜 페리가 남긴 진정한 유산: 타인의 취약성과 아픔을 보듬는 사회를 꿈꾸며 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/11/14/npsp_matthewperry/</link>
-            <guid>https://newspeppermint.com/2023/11/14/npsp_matthewperry/</guid>
-            <pubDate>Tue, 14 Nov 2023 23:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 11월 15일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

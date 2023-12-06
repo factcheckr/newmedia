@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-12-06T01:59:28.310Z</updated>
+    <updated>2023-12-06T02:30:59.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전쟁 중인 나라보다 낮은 출생률, 우리가 해야 할 고민은]]></title>
+        <id>https://newspeppermint.com/2023/12/05/npsp_koreadissapearing/</id>
+        <link href="https://newspeppermint.com/2023/12/05/npsp_koreadissapearing/"/>
+        <updated>2023-12-06T02:30:47.315Z</updated>
+        <content type="html"><![CDATA[2023년 12월 6일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 수상 기준이 어떻길래? 올해도 이어진 노벨평화상 논란]]></title>
         <id>https://newspeppermint.com/2023/12/04/npsp_nobelpeaceprize/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/11/16/npsp_testtimelimit/"/>
         <updated>2023-11-16T04:15:48.226Z</updated>
         <content type="html"><![CDATA[2023년 11월 17일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매튜 페리가 남긴 진정한 유산: 타인의 취약성과 아픔을 보듬는 사회를 꿈꾸며]]></title>
-        <id>https://newspeppermint.com/2023/11/14/npsp_matthewperry/</id>
-        <link href="https://newspeppermint.com/2023/11/14/npsp_matthewperry/"/>
-        <updated>2023-11-14T23:13:08.537Z</updated>
-        <content type="html"><![CDATA[2023년 11월 15일]]></content>
     </entry>
 </feed>
