@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-12-07T22:12:46.020Z</updated>
+    <updated>2023-12-07T23:13:30.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 가자지구는 ‘창살 없는 무덤’이 돼 버릴 것인가]]></title>
+        <id>https://newspeppermint.com/2023/12/07/npsp_israelhamas/</id>
+        <link href="https://newspeppermint.com/2023/12/07/npsp_israelhamas/"/>
+        <updated>2023-12-07T23:13:21.272Z</updated>
+        <content type="html"><![CDATA[2023년 12월 8일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전쟁 중인 나라보다 낮은 출생률, 우리가 해야 할 고민은]]></title>
         <id>https://newspeppermint.com/2023/12/05/npsp_koreadissapearing/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/11/17/npsp_chinadecline/"/>
         <updated>2023-11-17T23:12:49.028Z</updated>
         <content type="html"><![CDATA[2023년 11월 18일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 시험 문제를 꼭 정해진 시간에 빨리 풀어야만 할까]]></title>
-        <id>https://newspeppermint.com/2023/11/16/npsp_testtimelimit/</id>
-        <link href="https://newspeppermint.com/2023/11/16/npsp_testtimelimit/"/>
-        <updated>2023-11-16T04:15:48.226Z</updated>
-        <content type="html"><![CDATA[2023년 11월 17일]]></content>
     </entry>
 </feed>

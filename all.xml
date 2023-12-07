@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 22:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 23:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 가자지구는 ‘창살 없는 무덤’이 돼 버릴 것인가 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/12/07/npsp_israelhamas/</link>
+            <guid>https://newspeppermint.com/2023/12/07/npsp_israelhamas/</guid>
+            <pubDate>Thu, 07 Dec 2023 23:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 12월 8일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[전쟁 중인 나라보다 낮은 출생률, 우리가 해야 할 고민은 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/12/05/npsp_koreadissapearing/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/11/17/npsp_chinadecline/</guid>
             <pubDate>Fri, 17 Nov 2023 23:12:49 GMT</pubDate>
             <content:encoded><![CDATA[2023년 11월 18일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 시험 문제를 꼭 정해진 시간에 빨리 풀어야만 할까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/11/16/npsp_testtimelimit/</link>
-            <guid>https://newspeppermint.com/2023/11/16/npsp_testtimelimit/</guid>
-            <pubDate>Thu, 16 Nov 2023 04:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 11월 17일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
