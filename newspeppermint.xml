@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-12-11T04:17:30.052Z</updated>
+    <updated>2023-12-11T05:13:35.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인간은 합리적이지만 또 비합리적인데요…]]></title>
+        <id>https://newspeppermint.com/2023/12/11/npsp_nudge/</id>
+        <link href="https://newspeppermint.com/2023/12/11/npsp_nudge/"/>
+        <updated>2023-12-11T05:13:26.246Z</updated>
+        <content type="html"><![CDATA[2023년 12월 12일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 가자지구는 ‘창살 없는 무덤’이 돼 버릴 것인가]]></title>
         <id>https://newspeppermint.com/2023/12/07/npsp_israelhamas/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/11/19/npsp_universehuman/"/>
         <updated>2023-11-19T23:12:32.656Z</updated>
         <content type="html"><![CDATA[2023년 11월 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 중국의 쇠퇴를 논하기 전에 생각해봐야 할 것들]]></title>
-        <id>https://newspeppermint.com/2023/11/17/npsp_chinadecline/</id>
-        <link href="https://newspeppermint.com/2023/11/17/npsp_chinadecline/"/>
-        <updated>2023-11-17T23:12:49.028Z</updated>
-        <content type="html"><![CDATA[2023년 11월 18일]]></content>
     </entry>
 </feed>
