@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 22:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 23:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 뛰어난 업적을 남기고도 공로를 인정받지 못한 여성의 역사 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/12/11/npsp_goldin/</link>
+            <guid>https://newspeppermint.com/2023/12/11/npsp_goldin/</guid>
+            <pubDate>Mon, 11 Dec 2023 23:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 12월 12일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[인간은 합리적이지만 또 비합리적인데요… (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/12/11/npsp_nudge/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/11/20/npsp_wgalaborinai/</guid>
             <pubDate>Mon, 20 Nov 2023 23:13:19 GMT</pubDate>
             <content:encoded><![CDATA[2023년 11월 21일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2029년 화성으로 간다는 계획에 앞서 해야 할 것들 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/11/19/npsp_universehuman/</link>
-            <guid>https://newspeppermint.com/2023/11/19/npsp_universehuman/</guid>
-            <pubDate>Sun, 19 Nov 2023 23:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 11월 20일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
