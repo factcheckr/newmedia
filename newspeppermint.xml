@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-12-15T22:12:10.591Z</updated>
+    <updated>2023-12-15T23:13:33.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 당신이 먹는 것의 먹는 것까지 생각해 보자는 제안]]></title>
+        <id>https://newspeppermint.com/2023/12/15/npsp_seafoodchain/</id>
+        <link href="https://newspeppermint.com/2023/12/15/npsp_seafoodchain/"/>
+        <updated>2023-12-15T23:13:24.147Z</updated>
+        <content type="html"><![CDATA[2023년 12월 16일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 예술은 정치로부터 자유로워야? 그렇게 단순하지만은 않은 문제]]></title>
         <id>https://newspeppermint.com/2023/12/13/npsp_literaturewar/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/11/27/npsp_hamasisrael/"/>
         <updated>2023-11-28T01:59:05.414Z</updated>
         <content type="html"><![CDATA[2023년 11월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 인공지능 그 자체보다는 여기에 대한 대응이 미래를 결정할 것]]></title>
-        <id>https://newspeppermint.com/2023/11/25/npsp_aiwar/</id>
-        <link href="https://newspeppermint.com/2023/11/25/npsp_aiwar/"/>
-        <updated>2023-11-25T23:12:03.641Z</updated>
-        <content type="html"><![CDATA[2023년 11월 26일]]></content>
     </entry>
 </feed>
