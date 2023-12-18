@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 23:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 00:59:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사람들 착각이 아니라 그들이 ‘진짜 현실’을 못 보는 것 아닐까요 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2023/12/17/npsp_vibecession/</link>
+            <guid>https://newspeppermint.com/2023/12/17/npsp_vibecession/</guid>
+            <pubDate>Mon, 18 Dec 2023 00:59:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 12월 18일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 당신이 먹는 것의 먹는 것까지 생각해 보자는 제안 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2023/12/15/npsp_seafoodchain/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/11/28/npsp_openai/</guid>
             <pubDate>Tue, 28 Nov 2023 23:12:53 GMT</pubDate>
             <content:encoded><![CDATA[2023년 11월 29일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 또다시 토요일에 시작된 전쟁… 이스라엘- 팔레스타인 갈등과 분쟁의 역사 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/11/27/npsp_hamasisrael/</link>
-            <guid>https://newspeppermint.com/2023/11/27/npsp_hamasisrael/</guid>
-            <pubDate>Tue, 28 Nov 2023 01:59:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 11월 28일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
