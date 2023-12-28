@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-12-28T22:11:58.637Z</updated>
+    <updated>2023-12-28T23:14:01.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 인류 문명의 단계는 ‘온라인 쇼핑’에 이르렀다]]></title>
+        <id>https://newspeppermint.com/2023/12/28/npsp_onlineshopping/</id>
+        <link href="https://newspeppermint.com/2023/12/28/npsp_onlineshopping/"/>
+        <updated>2023-12-28T23:13:51.769Z</updated>
+        <content type="html"><![CDATA[2023년 12월 29일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘법치’와 ‘민주주의’ 기로에 선 미국?]]></title>
         <id>https://newspeppermint.com/2023/12/27/npsp_coloradotrump/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/12/05/npsp_koreadissapearing/"/>
         <updated>2023-12-06T02:30:47.315Z</updated>
         <content type="html"><![CDATA[2023년 12월 6일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 수상 기준이 어떻길래? 올해도 이어진 노벨평화상 논란]]></title>
-        <id>https://newspeppermint.com/2023/12/04/npsp_nobelpeaceprize/</id>
-        <link href="https://newspeppermint.com/2023/12/04/npsp_nobelpeaceprize/"/>
-        <updated>2023-12-04T23:13:14.907Z</updated>
-        <content type="html"><![CDATA[2023년 12월 5일]]></content>
     </entry>
 </feed>
