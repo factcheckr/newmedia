@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2023-12-31T22:11:41.144Z</updated>
+    <updated>2023-12-31T23:13:19.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 미국의 소극적인 태도가 오히려 중국을 도발할 가능성이 높다 하는 이유]]></title>
+        <id>https://newspeppermint.com/2023/12/31/npsp_uschinataiwan/</id>
+        <link href="https://newspeppermint.com/2023/12/31/npsp_uschinataiwan/"/>
+        <updated>2023-12-31T23:13:10.338Z</updated>
+        <content type="html"><![CDATA[2024년 1월 1일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 인류 문명의 단계는 ‘온라인 쇼핑’에 이르렀다]]></title>
         <id>https://newspeppermint.com/2023/12/28/npsp_onlineshopping/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/12/07/npsp_israelhamas/"/>
         <updated>2023-12-07T23:13:21.272Z</updated>
         <content type="html"><![CDATA[2023년 12월 8일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전쟁 중인 나라보다 낮은 출생률, 우리가 해야 할 고민은]]></title>
-        <id>https://newspeppermint.com/2023/12/05/npsp_koreadissapearing/</id>
-        <link href="https://newspeppermint.com/2023/12/05/npsp_koreadissapearing/"/>
-        <updated>2023-12-06T02:30:47.315Z</updated>
-        <content type="html"><![CDATA[2023년 12월 6일]]></content>
     </entry>
 </feed>
