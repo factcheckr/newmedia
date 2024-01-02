@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-01-02T22:12:42.268Z</updated>
+    <updated>2024-01-02T23:13:26.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 어쩌면 세상에서 가장 어려운 ‘공통분모 찾기’]]></title>
+        <id>https://newspeppermint.com/2024/01/02/npsp_discoursetoxic/</id>
+        <link href="https://newspeppermint.com/2024/01/02/npsp_discoursetoxic/"/>
+        <updated>2024-01-02T23:13:17.761Z</updated>
+        <content type="html"><![CDATA[2024년 1월 3일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 미국의 소극적인 태도가 오히려 중국을 도발할 가능성이 높다 하는 이유]]></title>
         <id>https://newspeppermint.com/2023/12/31/npsp_uschinataiwan/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/12/11/npsp_nudge/"/>
         <updated>2023-12-11T05:13:26.246Z</updated>
         <content type="html"><![CDATA[2023년 12월 12일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 가자지구는 ‘창살 없는 무덤’이 돼 버릴 것인가]]></title>
-        <id>https://newspeppermint.com/2023/12/07/npsp_israelhamas/</id>
-        <link href="https://newspeppermint.com/2023/12/07/npsp_israelhamas/"/>
-        <updated>2023-12-07T23:13:21.272Z</updated>
-        <content type="html"><![CDATA[2023년 12월 8일]]></content>
     </entry>
 </feed>
