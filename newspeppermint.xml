@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-01-08T22:11:48.124Z</updated>
+    <updated>2024-01-08T23:13:50.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 2029년 화성으로 간다는 계획에 앞서 해야 할 것들]]></title>
+        <id>https://newspeppermint.com/2024/01/08/npsp_universehuman/</id>
+        <link href="https://newspeppermint.com/2024/01/08/npsp_universehuman/"/>
+        <updated>2024-01-08T23:13:42.274Z</updated>
+        <content type="html"><![CDATA[2024년 1월 9일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“작심삼일 그만” 균형 잡힌 새해 결심을 위하여]]></title>
         <id>https://newspeppermint.com/2024/01/07/npsp_foodnoise/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/12/12/npsp_collegeamericandream/"/>
         <updated>2023-12-13T01:59:15.221Z</updated>
         <content type="html"><![CDATA[2023년 12월 13일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 뛰어난 업적을 남기고도 공로를 인정받지 못한 여성의 역사]]></title>
-        <id>https://newspeppermint.com/2023/12/11/npsp_goldin/</id>
-        <link href="https://newspeppermint.com/2023/12/11/npsp_goldin/"/>
-        <updated>2023-12-11T23:13:14.948Z</updated>
-        <content type="html"><![CDATA[2023년 12월 12일]]></content>
     </entry>
 </feed>
