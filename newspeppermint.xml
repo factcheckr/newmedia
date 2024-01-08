@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-01-08T02:00:51.214Z</updated>
+    <updated>2024-01-08T02:32:54.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“작심삼일 그만” 균형 잡힌 새해 결심을 위하여]]></title>
+        <id>https://newspeppermint.com/2024/01/07/npsp_foodnoise/</id>
+        <link href="https://newspeppermint.com/2024/01/07/npsp_foodnoise/"/>
+        <updated>2024-01-08T02:32:44.593Z</updated>
+        <content type="html"><![CDATA[2024년 1월 8일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 어쩌면 세상에서 가장 어려운 ‘공통분모 찾기’]]></title>
         <id>https://newspeppermint.com/2024/01/02/npsp_discoursetoxic/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2023/12/11/npsp_goldin/</id>
         <link href="https://newspeppermint.com/2023/12/11/npsp_goldin/"/>
         <updated>2023-12-11T23:13:14.948Z</updated>
-        <content type="html"><![CDATA[2023년 12월 12일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간은 합리적이지만 또 비합리적인데요…]]></title>
-        <id>https://newspeppermint.com/2023/12/11/npsp_nudge/</id>
-        <link href="https://newspeppermint.com/2023/12/11/npsp_nudge/"/>
-        <updated>2023-12-11T05:13:26.246Z</updated>
         <content type="html"><![CDATA[2023년 12월 12일]]></content>
     </entry>
 </feed>
