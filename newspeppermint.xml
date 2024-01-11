@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-01-11T10:14:32.615Z</updated>
+    <updated>2024-01-11T11:11:57.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[타인의 고통에 우리는 어떻게 대처해야 할까]]></title>
+        <id>https://newspeppermint.com/2024/01/11/npsp_compassion/</id>
+        <link href="https://newspeppermint.com/2024/01/11/npsp_compassion/"/>
+        <updated>2024-01-11T11:11:48.035Z</updated>
+        <content type="html"><![CDATA[2024년 1월 12일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 2029년 화성으로 간다는 계획에 앞서 해야 할 것들]]></title>
         <id>https://newspeppermint.com/2024/01/08/npsp_universehuman/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/12/13/npsp_literaturewar/"/>
         <updated>2023-12-13T23:13:45.910Z</updated>
         <content type="html"><![CDATA[2023년 12월 14일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘기회의 평등’에 기반했던 아메리칸 드림에 빨간 불이 켜진 까닭은]]></title>
-        <id>https://newspeppermint.com/2023/12/12/npsp_collegeamericandream/</id>
-        <link href="https://newspeppermint.com/2023/12/12/npsp_collegeamericandream/"/>
-        <updated>2023-12-13T01:59:15.221Z</updated>
-        <content type="html"><![CDATA[2023년 12월 13일]]></content>
     </entry>
 </feed>
