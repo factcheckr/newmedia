@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 22:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 23:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] ‘그냥’ 결혼하기 싫은 여성이 한국에도 많은 이유 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/01/12/npsp_marriage/</link>
+            <guid>https://newspeppermint.com/2024/01/12/npsp_marriage/</guid>
+            <pubDate>Fri, 12 Jan 2024 23:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 1월 13일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[타인의 고통에 우리는 어떻게 대처해야 할까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/01/11/npsp_compassion/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/12/15/npsp_seafoodchain/</guid>
             <pubDate>Fri, 15 Dec 2023 23:13:24 GMT</pubDate>
             <content:encoded><![CDATA[2023년 12월 16일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 예술은 정치로부터 자유로워야? 그렇게 단순하지만은 않은 문제 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/12/13/npsp_literaturewar/</link>
-            <guid>https://newspeppermint.com/2023/12/13/npsp_literaturewar/</guid>
-            <pubDate>Wed, 13 Dec 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 12월 14일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
