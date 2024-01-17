@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 04:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 05:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장르가 된 범죄실화물, 어떻게 소비하는 게 정답일까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/01/17/npsp_truecrimestory/</link>
+            <guid>https://newspeppermint.com/2024/01/17/npsp_truecrimestory/</guid>
+            <pubDate>Wed, 17 Jan 2024 05:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 1월 18일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘그냥’ 결혼하기 싫은 여성이 한국에도 많은 이유 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/01/12/npsp_marriage/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/12/17/npsp_vibecession/</guid>
             <pubDate>Mon, 18 Dec 2023 00:59:48 GMT</pubDate>
             <content:encoded><![CDATA[2023년 12월 18일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 당신이 먹는 것의 먹는 것까지 생각해 보자는 제안 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/12/15/npsp_seafoodchain/</link>
-            <guid>https://newspeppermint.com/2023/12/15/npsp_seafoodchain/</guid>
-            <pubDate>Fri, 15 Dec 2023 23:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 12월 16일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
