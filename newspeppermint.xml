@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-01-22T04:17:16.660Z</updated>
+    <updated>2024-01-22T05:13:37.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘트럼프 대세론’ 굳혀줄 부통령 후보는 누구일까?]]></title>
+        <id>https://newspeppermint.com/2024/01/22/npsp_trumpveep/</id>
+        <link href="https://newspeppermint.com/2024/01/22/npsp_trumpveep/"/>
+        <updated>2024-01-22T05:13:29.776Z</updated>
+        <content type="html"><![CDATA[2024년 1월 23일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “인류를 위한 인공지능” 누가, 어떻게 할 것인가?]]></title>
         <id>https://newspeppermint.com/2024/01/19/npsp_openai/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/12/24/npsp_uaw/"/>
         <updated>2023-12-24T23:12:26.262Z</updated>
         <content type="html"><![CDATA[2023년 12월 25일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 연금, 정해진 미래가 만든 ‘방 안의 코끼리’]]></title>
-        <id>https://newspeppermint.com/2023/12/19/npsp_pension/</id>
-        <link href="https://newspeppermint.com/2023/12/19/npsp_pension/"/>
-        <updated>2023-12-19T23:10:50.869Z</updated>
-        <content type="html"><![CDATA[2023년 12월 20일]]></content>
     </entry>
 </feed>
