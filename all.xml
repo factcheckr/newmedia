@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 23:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 01:02:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몰려드는 이민자들, 미국 정치권이 해결할 수 있을까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/01/23/npsp_2024electionimmigration/</link>
+            <guid>https://newspeppermint.com/2024/01/23/npsp_2024electionimmigration/</guid>
+            <pubDate>Wed, 24 Jan 2024 01:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 1월 24일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘트럼프 대세론’ 굳혀줄 부통령 후보는 누구일까? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/01/22/npsp_trumpveep/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/12/27/npsp_coloradotrump/</guid>
             <pubDate>Thu, 28 Dec 2023 03:13:38 GMT</pubDate>
             <content:encoded><![CDATA[2023년 12월 28일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] ‘역사적 승리’ 거둔 미국 자동차노조, 그들의 ‘Make America Great Again’은 이뤄질까? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/12/24/npsp_uaw/</link>
-            <guid>https://newspeppermint.com/2023/12/24/npsp_uaw/</guid>
-            <pubDate>Sun, 24 Dec 2023 23:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 12월 25일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
