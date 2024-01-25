@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-01-25T03:14:11.816Z</updated>
+    <updated>2024-01-25T04:17:30.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 2024년은 ‘덜지출 챌린지’ 계획해보면 어떨까요?]]></title>
+        <id>https://newspeppermint.com/2024/01/24/npsp_patagonia/</id>
+        <link href="https://newspeppermint.com/2024/01/24/npsp_patagonia/"/>
+        <updated>2024-01-25T04:17:21.358Z</updated>
+        <content type="html"><![CDATA[2024년 1월 25일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몰려드는 이민자들, 미국 정치권이 해결할 수 있을까]]></title>
         <id>https://newspeppermint.com/2024/01/23/npsp_2024electionimmigration/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2023/12/28/npsp_onlineshopping/"/>
         <updated>2023-12-28T23:13:51.769Z</updated>
         <content type="html"><![CDATA[2023년 12월 29일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘법치’와 ‘민주주의’ 기로에 선 미국?]]></title>
-        <id>https://newspeppermint.com/2023/12/27/npsp_coloradotrump/</id>
-        <link href="https://newspeppermint.com/2023/12/27/npsp_coloradotrump/"/>
-        <updated>2023-12-28T03:13:38.272Z</updated>
-        <content type="html"><![CDATA[2023년 12월 28일]]></content>
     </entry>
 </feed>
