@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 06:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 07:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘장바구니 물가 상승’이나 ‘손실 회피 성향’이라고만 넘길 수 없는 것들 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/01/29/npsp_inflationsnickers/</link>
+            <guid>https://newspeppermint.com/2024/01/29/npsp_inflationsnickers/</guid>
+            <pubDate>Mon, 29 Jan 2024 07:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 1월 30일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 2024년은 ‘덜지출 챌린지’ 계획해보면 어떨까요? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/01/24/npsp_patagonia/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2023/12/31/npsp_uschinataiwan/</guid>
             <pubDate>Sun, 31 Dec 2023 23:13:10 GMT</pubDate>
             <content:encoded><![CDATA[2024년 1월 1일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 인류 문명의 단계는 ‘온라인 쇼핑’에 이르렀다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2023/12/28/npsp_onlineshopping/</link>
-            <guid>https://newspeppermint.com/2023/12/28/npsp_onlineshopping/</guid>
-            <pubDate>Thu, 28 Dec 2023 23:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 12월 29일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
