@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-01-31T22:12:28.437Z</updated>
+    <updated>2024-01-31T23:13:08.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 전쟁 중인 나라보다 낮은 출생률, 우리가 해야 할 고민은]]></title>
+        <id>https://newspeppermint.com/2024/01/31/npsp_koreadissapearing/</id>
+        <link href="https://newspeppermint.com/2024/01/31/npsp_koreadissapearing/"/>
+        <updated>2024-01-31T23:12:59.748Z</updated>
+        <content type="html"><![CDATA[2024년 2월 1일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포퓰리즘 시대 전쟁이 된 선거, 결국 그들 손에 달렸다]]></title>
         <id>https://newspeppermint.com/2024/01/31/npsp_swatting/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/01/07/npsp_foodnoise/"/>
         <updated>2024-01-08T02:32:44.593Z</updated>
         <content type="html"><![CDATA[2024년 1월 8일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 어쩌면 세상에서 가장 어려운 ‘공통분모 찾기’]]></title>
-        <id>https://newspeppermint.com/2024/01/02/npsp_discoursetoxic/</id>
-        <link href="https://newspeppermint.com/2024/01/02/npsp_discoursetoxic/"/>
-        <updated>2024-01-02T23:13:17.761Z</updated>
-        <content type="html"><![CDATA[2024년 1월 3일]]></content>
     </entry>
 </feed>
