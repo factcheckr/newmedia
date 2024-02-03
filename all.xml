@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 22:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 23:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 인간은 합리적이지만 또 비합리적인데요… (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/02/03/npsp_nudge/</link>
+            <guid>https://newspeppermint.com/2024/02/03/npsp_nudge/</guid>
+            <pubDate>Sat, 03 Feb 2024 23:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 2월 4일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 전쟁 중인 나라보다 낮은 출생률, 우리가 해야 할 고민은 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/01/31/npsp_koreadissapearing/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/01/08/npsp_universehuman/</guid>
             <pubDate>Mon, 08 Jan 2024 23:13:42 GMT</pubDate>
             <content:encoded><![CDATA[2024년 1월 9일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“작심삼일 그만” 균형 잡힌 새해 결심을 위하여 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/01/07/npsp_foodnoise/</link>
-            <guid>https://newspeppermint.com/2024/01/07/npsp_foodnoise/</guid>
-            <pubDate>Mon, 08 Jan 2024 02:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 1월 8일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
