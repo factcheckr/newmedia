@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-02-12T22:11:41.978Z</updated>
+    <updated>2024-02-12T23:13:23.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 사람들 착각이 아니라 그들이 ‘진짜 현실’을 못 보는 것 아닐까요]]></title>
+        <id>https://newspeppermint.com/2024/02/12/npsp_vibecession/</id>
+        <link href="https://newspeppermint.com/2024/02/12/npsp_vibecession/"/>
+        <updated>2024-02-12T23:13:11.653Z</updated>
+        <content type="html"><![CDATA[2024년 2월 13일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부자들에게 더욱 더 보장된 ‘표현의 자유’는 괜찮을까]]></title>
         <id>https://newspeppermint.com/2024/02/12/npsp_wealthpower/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/01/19/npsp_openai/"/>
         <updated>2024-01-19T04:16:33.456Z</updated>
         <content type="html"><![CDATA[2024년 1월 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장르가 된 범죄실화물, 어떻게 소비하는 게 정답일까]]></title>
-        <id>https://newspeppermint.com/2024/01/17/npsp_truecrimestory/</id>
-        <link href="https://newspeppermint.com/2024/01/17/npsp_truecrimestory/"/>
-        <updated>2024-01-17T05:13:02.845Z</updated>
-        <content type="html"><![CDATA[2024년 1월 18일]]></content>
     </entry>
 </feed>
