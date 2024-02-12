@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-02-12T04:16:23.057Z</updated>
+    <updated>2024-02-12T05:13:22.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부자들에게 더욱 더 보장된 ‘표현의 자유’는 괜찮을까]]></title>
+        <id>https://newspeppermint.com/2024/02/12/npsp_wealthpower/</id>
+        <link href="https://newspeppermint.com/2024/02/12/npsp_wealthpower/"/>
+        <updated>2024-02-12T05:13:13.953Z</updated>
+        <content type="html"><![CDATA[2024년 2월 13일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이것은 “혁신의 탈을 쓴 불평등”인가 아닌가]]></title>
         <id>https://newspeppermint.com/2024/02/06/npsp_gigworkers/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/01/17/npsp_truecrimestory/"/>
         <updated>2024-01-17T05:13:02.845Z</updated>
         <content type="html"><![CDATA[2024년 1월 18일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] ‘그냥’ 결혼하기 싫은 여성이 한국에도 많은 이유]]></title>
-        <id>https://newspeppermint.com/2024/01/12/npsp_marriage/</id>
-        <link href="https://newspeppermint.com/2024/01/12/npsp_marriage/"/>
-        <updated>2024-01-12T23:12:45.643Z</updated>
-        <content type="html"><![CDATA[2024년 1월 13일]]></content>
     </entry>
 </feed>

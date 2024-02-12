@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 04:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 05:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부자들에게 더욱 더 보장된 ‘표현의 자유’는 괜찮을까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/02/12/npsp_wealthpower/</link>
+            <guid>https://newspeppermint.com/2024/02/12/npsp_wealthpower/</guid>
+            <pubDate>Mon, 12 Feb 2024 05:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 2월 13일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이것은 “혁신의 탈을 쓴 불평등”인가 아닌가 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/02/06/npsp_gigworkers/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/01/17/npsp_truecrimestory/</guid>
             <pubDate>Wed, 17 Jan 2024 05:13:02 GMT</pubDate>
             <content:encoded><![CDATA[2024년 1월 18일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] ‘그냥’ 결혼하기 싫은 여성이 한국에도 많은 이유 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/01/12/npsp_marriage/</link>
-            <guid>https://newspeppermint.com/2024/01/12/npsp_marriage/</guid>
-            <pubDate>Fri, 12 Jan 2024 23:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 1월 13일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
