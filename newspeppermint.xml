@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-02-15T22:11:46.519Z</updated>
+    <updated>2024-02-15T23:13:19.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 그저 ‘착한 소비’만으로는 부족할 수 있습니다]]></title>
+        <id>https://newspeppermint.com/2024/02/15/npsp_cashmerecost/</id>
+        <link href="https://newspeppermint.com/2024/02/15/npsp_cashmerecost/"/>
+        <updated>2024-02-15T23:13:10.669Z</updated>
+        <content type="html"><![CDATA[2024년 2월 16일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 사람들 착각이 아니라 그들이 ‘진짜 현실’을 못 보는 것 아닐까요]]></title>
         <id>https://newspeppermint.com/2024/02/12/npsp_vibecession/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/01/22/npsp_trumpveep/"/>
         <updated>2024-01-22T05:13:29.776Z</updated>
         <content type="html"><![CDATA[2024년 1월 23일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “인류를 위한 인공지능” 누가, 어떻게 할 것인가?]]></title>
-        <id>https://newspeppermint.com/2024/01/19/npsp_openai/</id>
-        <link href="https://newspeppermint.com/2024/01/19/npsp_openai/"/>
-        <updated>2024-01-19T04:16:33.456Z</updated>
-        <content type="html"><![CDATA[2024년 1월 20일]]></content>
     </entry>
 </feed>
