@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 05:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 06:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[점점 더 커지는 불평등의 ‘사각지대’가 있다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/02/26/npsp_inequalitymart/</link>
+            <guid>https://newspeppermint.com/2024/02/26/npsp_inequalitymart/</guid>
+            <pubDate>Mon, 26 Feb 2024 06:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 2월 27일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘법치’와 ‘민주주의’ 기로에 선 미국? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/02/19/npsp_coloradotrump/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/01/29/npsp_inflationsnickers/</guid>
             <pubDate>Mon, 29 Jan 2024 07:12:10 GMT</pubDate>
             <content:encoded><![CDATA[2024년 1월 30일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 2024년은 ‘덜지출 챌린지’ 계획해보면 어떨까요? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/01/24/npsp_patagonia/</link>
-            <guid>https://newspeppermint.com/2024/01/24/npsp_patagonia/</guid>
-            <pubDate>Thu, 25 Jan 2024 04:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 1월 25일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
