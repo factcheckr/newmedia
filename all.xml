@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 22:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 23:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 타인의 고통에 우리는 어떻게 대처해야 할까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/03/04/npsp_compassion/</link>
+            <guid>https://newspeppermint.com/2024/03/04/npsp_compassion/</guid>
+            <pubDate>Mon, 04 Mar 2024 23:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 3월 5일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[습관처럼 익숙한 것 너머를 쳐다볼 때 비로소 보이는 것 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/03/04/npsp_failtonotice/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/02/03/npsp_nudge/</guid>
             <pubDate>Sat, 03 Feb 2024 23:12:50 GMT</pubDate>
             <content:encoded><![CDATA[2024년 2월 4일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 전쟁 중인 나라보다 낮은 출생률, 우리가 해야 할 고민은 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/01/31/npsp_koreadissapearing/</link>
-            <guid>https://newspeppermint.com/2024/01/31/npsp_koreadissapearing/</guid>
-            <pubDate>Wed, 31 Jan 2024 23:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 2월 1일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
