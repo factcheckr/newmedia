@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 03:43:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 04:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[습관처럼 익숙한 것 너머를 쳐다볼 때 비로소 보이는 것 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/03/04/npsp_failtonotice/</link>
+            <guid>https://newspeppermint.com/2024/03/04/npsp_failtonotice/</guid>
+            <pubDate>Mon, 04 Mar 2024 04:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 3월 5일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] “작심삼일 그만” 균형 잡힌 새해 결심을 위하여 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/02/26/npsp_foodnoise/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2024/01/31/npsp_koreadissapearing/</link>
             <guid>https://newspeppermint.com/2024/01/31/npsp_koreadissapearing/</guid>
             <pubDate>Wed, 31 Jan 2024 23:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 2월 1일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[포퓰리즘 시대 전쟁이 된 선거, 결국 그들 손에 달렸다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/01/31/npsp_swatting/</link>
-            <guid>https://newspeppermint.com/2024/01/31/npsp_swatting/</guid>
-            <pubDate>Wed, 31 Jan 2024 16:15:12 GMT</pubDate>
             <content:encoded><![CDATA[2024년 2월 1일]]></content:encoded>
         </item>
         <item>
