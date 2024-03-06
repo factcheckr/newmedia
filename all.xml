@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 13:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 14:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경합지 잡긴 잡아야 하는데… 바이든의 딜레마, 돌파구 있을까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/03/06/npsp_michiganevchina/</link>
+            <guid>https://newspeppermint.com/2024/03/06/npsp_michiganevchina/</guid>
+            <pubDate>Wed, 06 Mar 2024 14:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 3월 7일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 타인의 고통에 우리는 어떻게 대처해야 할까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/03/04/npsp_compassion/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/02/05/npsp_collegeamericandream/</guid>
             <pubDate>Mon, 05 Feb 2024 23:13:15 GMT</pubDate>
             <content:encoded><![CDATA[2024년 2월 6일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 인간은 합리적이지만 또 비합리적인데요… (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/02/03/npsp_nudge/</link>
-            <guid>https://newspeppermint.com/2024/02/03/npsp_nudge/</guid>
-            <pubDate>Sat, 03 Feb 2024 23:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 2월 4일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
