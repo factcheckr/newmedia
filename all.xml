@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 22:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 23:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] ‘트럼프 대세론’ 굳혀줄 부통령 후보는 누구일까? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/03/12/npsp_trumpveep/</link>
+            <guid>https://newspeppermint.com/2024/03/12/npsp_trumpveep/</guid>
+            <pubDate>Tue, 12 Mar 2024 23:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 3월 13일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Z세대 가치관에 문제 있다? 그런데 부모인 X세대가 더 문제다? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/03/12/npsp_gendergapgeneration/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2024/02/12/npsp_vibecession/</link>
             <guid>https://newspeppermint.com/2024/02/12/npsp_vibecession/</guid>
             <pubDate>Mon, 12 Feb 2024 23:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 2월 13일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부자들에게 더욱 더 보장된 ‘표현의 자유’는 괜찮을까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/02/12/npsp_wealthpower/</link>
-            <guid>https://newspeppermint.com/2024/02/12/npsp_wealthpower/</guid>
-            <pubDate>Mon, 12 Feb 2024 05:13:13 GMT</pubDate>
             <content:encoded><![CDATA[2024년 2월 13일]]></content:encoded>
         </item>
         <item>
