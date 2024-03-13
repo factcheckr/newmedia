@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-03-13T13:14:05.970Z</updated>
+    <updated>2024-03-13T14:12:41.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[곧 닥칠 ‘고령 사회’, 우리가 던져야 할 질문은 따로 있다]]></title>
+        <id>https://newspeppermint.com/2024/03/13/npsp_agingsociety/</id>
+        <link href="https://newspeppermint.com/2024/03/13/npsp_agingsociety/"/>
+        <updated>2024-03-13T14:12:33.995Z</updated>
+        <content type="html"><![CDATA[2024년 3월 14일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘트럼프 대세론’ 굳혀줄 부통령 후보는 누구일까?]]></title>
         <id>https://newspeppermint.com/2024/03/12/npsp_trumpveep/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/02/15/npsp_cashmerecost/"/>
         <updated>2024-02-15T23:13:10.669Z</updated>
         <content type="html"><![CDATA[2024년 2월 16일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 사람들 착각이 아니라 그들이 ‘진짜 현실’을 못 보는 것 아닐까요]]></title>
-        <id>https://newspeppermint.com/2024/02/12/npsp_vibecession/</id>
-        <link href="https://newspeppermint.com/2024/02/12/npsp_vibecession/"/>
-        <updated>2024-02-12T23:13:11.653Z</updated>
-        <content type="html"><![CDATA[2024년 2월 13일]]></content>
     </entry>
 </feed>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 13:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 14:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[곧 닥칠 ‘고령 사회’, 우리가 던져야 할 질문은 따로 있다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/03/13/npsp_agingsociety/</link>
+            <guid>https://newspeppermint.com/2024/03/13/npsp_agingsociety/</guid>
+            <pubDate>Wed, 13 Mar 2024 14:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 3월 14일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘트럼프 대세론’ 굳혀줄 부통령 후보는 누구일까? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/03/12/npsp_trumpveep/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/02/15/npsp_cashmerecost/</guid>
             <pubDate>Thu, 15 Feb 2024 23:13:10 GMT</pubDate>
             <content:encoded><![CDATA[2024년 2월 16일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 사람들 착각이 아니라 그들이 ‘진짜 현실’을 못 보는 것 아닐까요 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/02/12/npsp_vibecession/</link>
-            <guid>https://newspeppermint.com/2024/02/12/npsp_vibecession/</guid>
-            <pubDate>Mon, 12 Feb 2024 23:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 2월 13일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
