@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-03-17T22:11:29.339Z</updated>
+    <updated>2024-03-17T23:14:11.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여긴 굶주리고 저긴 식량 남고…이 또한 ‘정치의 실패’다]]></title>
+        <id>https://newspeppermint.com/2024/03/17/npsp_famine/</id>
+        <link href="https://newspeppermint.com/2024/03/17/npsp_famine/"/>
+        <updated>2024-03-17T23:14:02.144Z</updated>
+        <content type="html"><![CDATA[2024년 3월 18일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 몰려드는 이민자들, 미국 정치권이 해결할 수 있을까]]></title>
         <id>https://newspeppermint.com/2024/03/16/npsp_2024electionimmigration/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2024/02/19/npsp_coloradotrump/</id>
         <link href="https://newspeppermint.com/2024/02/19/npsp_coloradotrump/"/>
         <updated>2024-02-19T23:12:35.266Z</updated>
-        <content type="html"><![CDATA[2024년 2월 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대통령 건강 문제’ 외면하는 민주당은 금기를 깰 수 있을까?]]></title>
-        <id>https://newspeppermint.com/2024/02/19/npsp_bidenage/</id>
-        <link href="https://newspeppermint.com/2024/02/19/npsp_bidenage/"/>
-        <updated>2024-02-19T05:13:33.663Z</updated>
         <content type="html"><![CDATA[2024년 2월 20일]]></content>
     </entry>
 </feed>
