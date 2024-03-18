@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 22:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 23:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] ‘장바구니 물가 상승’이나 ‘손실 회피 성향’이라고만 넘길 수 없는 것들 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/03/18/npsp_inflationsnickers/</link>
+            <guid>https://newspeppermint.com/2024/03/18/npsp_inflationsnickers/</guid>
+            <pubDate>Mon, 18 Mar 2024 23:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 3월 19일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[여긴 굶주리고 저긴 식량 남고…이 또한 ‘정치의 실패’다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/03/17/npsp_famine/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/02/26/npsp_inequalitymart/</guid>
             <pubDate>Mon, 26 Feb 2024 06:17:36 GMT</pubDate>
             <content:encoded><![CDATA[2024년 2월 27일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] ‘법치’와 ‘민주주의’ 기로에 선 미국? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/02/19/npsp_coloradotrump/</link>
-            <guid>https://newspeppermint.com/2024/02/19/npsp_coloradotrump/</guid>
-            <pubDate>Mon, 19 Feb 2024 23:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 2월 20일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
