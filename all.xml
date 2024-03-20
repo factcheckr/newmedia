@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 14:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 20:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영어 아닌 외국어 사용이 문제라고? ‘효율적 소통’ 이면에도 문제가 있다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/03/20/npsp_englishofficial/</link>
+            <guid>https://newspeppermint.com/2024/03/20/npsp_englishofficial/</guid>
+            <pubDate>Wed, 20 Mar 2024 20:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 3월 21일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘장바구니 물가 상승’이나 ‘손실 회피 성향’이라고만 넘길 수 없는 것들 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/03/18/npsp_inflationsnickers/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2024/02/26/npsp_foodnoise/</link>
             <guid>https://newspeppermint.com/2024/02/26/npsp_foodnoise/</guid>
             <pubDate>Mon, 26 Feb 2024 23:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 2월 27일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[점점 더 커지는 불평등의 ‘사각지대’가 있다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/02/26/npsp_inequalitymart/</link>
-            <guid>https://newspeppermint.com/2024/02/26/npsp_inequalitymart/</guid>
-            <pubDate>Mon, 26 Feb 2024 06:17:36 GMT</pubDate>
             <content:encoded><![CDATA[2024년 2월 27일]]></content:encoded>
         </item>
         <item>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-03-20T14:13:05.569Z</updated>
+    <updated>2024-03-20T20:14:24.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영어 아닌 외국어 사용이 문제라고? ‘효율적 소통’ 이면에도 문제가 있다]]></title>
+        <id>https://newspeppermint.com/2024/03/20/npsp_englishofficial/</id>
+        <link href="https://newspeppermint.com/2024/03/20/npsp_englishofficial/"/>
+        <updated>2024-03-20T20:14:16.917Z</updated>
+        <content type="html"><![CDATA[2024년 3월 21일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘장바구니 물가 상승’이나 ‘손실 회피 성향’이라고만 넘길 수 없는 것들]]></title>
         <id>https://newspeppermint.com/2024/03/18/npsp_inflationsnickers/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2024/02/26/npsp_foodnoise/</id>
         <link href="https://newspeppermint.com/2024/02/26/npsp_foodnoise/"/>
         <updated>2024-02-26T23:13:34.335Z</updated>
-        <content type="html"><![CDATA[2024년 2월 27일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[점점 더 커지는 불평등의 ‘사각지대’가 있다]]></title>
-        <id>https://newspeppermint.com/2024/02/26/npsp_inequalitymart/</id>
-        <link href="https://newspeppermint.com/2024/02/26/npsp_inequalitymart/"/>
-        <updated>2024-02-26T06:17:36.472Z</updated>
         <content type="html"><![CDATA[2024년 2월 27일]]></content>
     </entry>
 </feed>
