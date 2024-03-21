@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-03-21T22:12:37.671Z</updated>
+    <updated>2024-03-21T23:14:43.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 포퓰리즘 시대 전쟁이 된 선거, 결국 그들 손에 달렸다]]></title>
+        <id>https://newspeppermint.com/2024/03/21/npsp_swatting/</id>
+        <link href="https://newspeppermint.com/2024/03/21/npsp_swatting/"/>
+        <updated>2024-03-21T23:14:35.585Z</updated>
+        <content type="html"><![CDATA[2024년 3월 22일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영어 아닌 외국어 사용이 문제라고? ‘효율적 소통’ 이면에도 문제가 있다]]></title>
         <id>https://newspeppermint.com/2024/03/20/npsp_englishofficial/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/03/04/npsp_failtonotice/"/>
         <updated>2024-03-04T04:42:57.676Z</updated>
         <content type="html"><![CDATA[2024년 3월 5일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “작심삼일 그만” 균형 잡힌 새해 결심을 위하여]]></title>
-        <id>https://newspeppermint.com/2024/02/26/npsp_foodnoise/</id>
-        <link href="https://newspeppermint.com/2024/02/26/npsp_foodnoise/"/>
-        <updated>2024-02-26T23:13:34.335Z</updated>
-        <content type="html"><![CDATA[2024년 2월 27일]]></content>
     </entry>
 </feed>

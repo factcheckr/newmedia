@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 22:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 23:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 포퓰리즘 시대 전쟁이 된 선거, 결국 그들 손에 달렸다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/03/21/npsp_swatting/</link>
+            <guid>https://newspeppermint.com/2024/03/21/npsp_swatting/</guid>
+            <pubDate>Thu, 21 Mar 2024 23:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 3월 22일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[영어 아닌 외국어 사용이 문제라고? ‘효율적 소통’ 이면에도 문제가 있다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/03/20/npsp_englishofficial/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/03/04/npsp_failtonotice/</guid>
             <pubDate>Mon, 04 Mar 2024 04:42:57 GMT</pubDate>
             <content:encoded><![CDATA[2024년 3월 5일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] “작심삼일 그만” 균형 잡힌 새해 결심을 위하여 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/02/26/npsp_foodnoise/</link>
-            <guid>https://newspeppermint.com/2024/02/26/npsp_foodnoise/</guid>
-            <pubDate>Mon, 26 Feb 2024 23:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 2월 27일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
