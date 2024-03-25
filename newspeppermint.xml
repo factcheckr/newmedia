@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-03-25T02:21:50.970Z</updated>
+    <updated>2024-03-25T03:16:27.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잠시 찾아왔다가 금방 사라진 ‘복지국가’ 미국, 그리고 지금은?]]></title>
+        <id>https://newspeppermint.com/2024/03/24/npsp_ussocialsafety/</id>
+        <link href="https://newspeppermint.com/2024/03/24/npsp_ussocialsafety/"/>
+        <updated>2024-03-25T03:16:19.909Z</updated>
+        <content type="html"><![CDATA[2024년 3월 25일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 포퓰리즘 시대 전쟁이 된 선거, 결국 그들 손에 달렸다]]></title>
         <id>https://newspeppermint.com/2024/03/21/npsp_swatting/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2024/03/04/npsp_compassion/</id>
         <link href="https://newspeppermint.com/2024/03/04/npsp_compassion/"/>
         <updated>2024-03-04T23:13:41.855Z</updated>
-        <content type="html"><![CDATA[2024년 3월 5일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[습관처럼 익숙한 것 너머를 쳐다볼 때 비로소 보이는 것]]></title>
-        <id>https://newspeppermint.com/2024/03/04/npsp_failtonotice/</id>
-        <link href="https://newspeppermint.com/2024/03/04/npsp_failtonotice/"/>
-        <updated>2024-03-04T04:42:57.676Z</updated>
         <content type="html"><![CDATA[2024년 3월 5일]]></content>
     </entry>
 </feed>
