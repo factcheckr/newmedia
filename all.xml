@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 03:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 04:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국이 ‘서구의 대안’? 아니라는 게 확실해지고 있다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/03/27/npsp_chinaandthewest/</link>
+            <guid>https://newspeppermint.com/2024/03/27/npsp_chinaandthewest/</guid>
+            <pubDate>Wed, 27 Mar 2024 04:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 3월 28일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[잠시 찾아왔다가 금방 사라진 ‘복지국가’ 미국, 그리고 지금은? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/03/24/npsp_ussocialsafety/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/03/06/npsp_michiganevchina/</guid>
             <pubDate>Wed, 06 Mar 2024 14:11:21 GMT</pubDate>
             <content:encoded><![CDATA[2024년 3월 7일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 타인의 고통에 우리는 어떻게 대처해야 할까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/03/04/npsp_compassion/</link>
-            <guid>https://newspeppermint.com/2024/03/04/npsp_compassion/</guid>
-            <pubDate>Mon, 04 Mar 2024 23:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 3월 5일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
