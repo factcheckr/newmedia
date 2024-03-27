@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-03-27T22:14:09.734Z</updated>
+    <updated>2024-03-27T23:13:20.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 이것은 “혁신의 탈을 쓴 불평등”인가 아닌가]]></title>
+        <id>https://newspeppermint.com/2024/03/27/npsp_gigworkers/</id>
+        <link href="https://newspeppermint.com/2024/03/27/npsp_gigworkers/"/>
+        <updated>2024-03-27T23:13:09.735Z</updated>
+        <content type="html"><![CDATA[2024년 3월 28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국이 ‘서구의 대안’? 아니라는 게 확실해지고 있다]]></title>
         <id>https://newspeppermint.com/2024/03/27/npsp_chinaandthewest/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/03/08/npsp_truecrimestory/"/>
         <updated>2024-03-08T23:14:28.589Z</updated>
         <content type="html"><![CDATA[2024년 3월 9일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경합지 잡긴 잡아야 하는데… 바이든의 딜레마, 돌파구 있을까]]></title>
-        <id>https://newspeppermint.com/2024/03/06/npsp_michiganevchina/</id>
-        <link href="https://newspeppermint.com/2024/03/06/npsp_michiganevchina/"/>
-        <updated>2024-03-06T14:11:21.966Z</updated>
-        <content type="html"><![CDATA[2024년 3월 7일]]></content>
     </entry>
 </feed>
