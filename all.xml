@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 22:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 23:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자본주의가 가장 마지막에 줄여야 하는 비용은 이것 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/04/01/npsp_techlayoffs/</link>
+            <guid>https://newspeppermint.com/2024/04/01/npsp_techlayoffs/</guid>
+            <pubDate>Mon, 01 Apr 2024 23:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 4월 2일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 이것은 “혁신의 탈을 쓴 불평등”인가 아닌가 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/03/27/npsp_gigworkers/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/03/12/npsp_gendergapgeneration/</guid>
             <pubDate>Tue, 12 Mar 2024 04:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024년 3월 13일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 장르가 된 범죄실화물, 어떻게 소비하는 게 정답일까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/03/08/npsp_truecrimestory/</link>
-            <guid>https://newspeppermint.com/2024/03/08/npsp_truecrimestory/</guid>
-            <pubDate>Fri, 08 Mar 2024 23:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 3월 9일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
