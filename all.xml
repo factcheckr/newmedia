@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 22:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 23:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환율도 제각각, 음식값도 매일 달라지는 ‘메시의 나라’, “다시 위대”해질 수 있을까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/04/03/npsp_javiermilei/</link>
+            <guid>https://newspeppermint.com/2024/04/03/npsp_javiermilei/</guid>
+            <pubDate>Wed, 03 Apr 2024 23:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 4월 4일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[자본주의가 가장 마지막에 줄여야 하는 비용은 이것 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/04/01/npsp_techlayoffs/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2024/03/12/npsp_trumpveep/</link>
             <guid>https://newspeppermint.com/2024/03/12/npsp_trumpveep/</guid>
             <pubDate>Wed, 13 Mar 2024 01:50:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 3월 13일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Z세대 가치관에 문제 있다? 그런데 부모인 X세대가 더 문제다? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/03/12/npsp_gendergapgeneration/</link>
-            <guid>https://newspeppermint.com/2024/03/12/npsp_gendergapgeneration/</guid>
-            <pubDate>Tue, 12 Mar 2024 04:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024년 3월 13일]]></content:encoded>
         </item>
         <item>
