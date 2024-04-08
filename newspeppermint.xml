@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-04-08T01:53:20.546Z</updated>
+    <updated>2024-04-08T02:22:53.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인간보다 로봇에 더 혜택이 많은 미국, 우리는?]]></title>
+        <id>https://newspeppermint.com/2024/04/07/npsp_aijobs/</id>
+        <link href="https://newspeppermint.com/2024/04/07/npsp_aijobs/"/>
+        <updated>2024-04-08T02:22:45.258Z</updated>
+        <content type="html"><![CDATA[2024년 4월 8일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 부자들에게 더욱 더 보장된 ‘표현의 자유’는 괜찮을까]]></title>
         <id>https://newspeppermint.com/2024/04/04/npsp_wealthpower/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/03/16/npsp_2024electionimmigration/"/>
         <updated>2024-03-16T23:13:52.370Z</updated>
         <content type="html"><![CDATA[2024년 3월 17일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곧 닥칠 ‘고령 사회’, 우리가 던져야 할 질문은 따로 있다]]></title>
-        <id>https://newspeppermint.com/2024/03/13/npsp_agingsociety/</id>
-        <link href="https://newspeppermint.com/2024/03/13/npsp_agingsociety/"/>
-        <updated>2024-03-13T14:12:33.995Z</updated>
-        <content type="html"><![CDATA[2024년 3월 14일]]></content>
     </entry>
 </feed>
