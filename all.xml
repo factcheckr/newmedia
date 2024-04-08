@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 22:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 23:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] ‘대통령 건강 문제’ 외면하는 민주당은 금기를 깰 수 있을까? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/04/08/npsp_bidenage/</link>
+            <guid>https://newspeppermint.com/2024/04/08/npsp_bidenage/</guid>
+            <pubDate>Mon, 08 Apr 2024 23:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 4월 9일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[인간보다 로봇에 더 혜택이 많은 미국, 우리는? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/04/07/npsp_aijobs/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/03/17/npsp_famine/</guid>
             <pubDate>Sun, 07 Apr 2024 16:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2024년 3월 18일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 몰려드는 이민자들, 미국 정치권이 해결할 수 있을까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/03/16/npsp_2024electionimmigration/</link>
-            <guid>https://newspeppermint.com/2024/03/16/npsp_2024electionimmigration/</guid>
-            <pubDate>Sun, 07 Apr 2024 16:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 3월 17일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
