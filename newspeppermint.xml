@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-04-10T02:21:24.385Z</updated>
+    <updated>2024-04-10T03:15:56.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선거 패자도 ‘정치 보복’ 걱정 안 해도 되는 미국]]></title>
+        <id>https://newspeppermint.com/2024/04/09/npsp_democracyelection/</id>
+        <link href="https://newspeppermint.com/2024/04/09/npsp_democracyelection/"/>
+        <updated>2024-04-10T03:15:47.669Z</updated>
+        <content type="html"><![CDATA[2024년 4월 10일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘대통령 건강 문제’ 외면하는 민주당은 금기를 깰 수 있을까?]]></title>
         <id>https://newspeppermint.com/2024/04/08/npsp_bidenage/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/03/18/npsp_inflationsnickers/"/>
         <updated>2024-03-18T23:13:34.641Z</updated>
         <content type="html"><![CDATA[2024년 3월 19일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여긴 굶주리고 저긴 식량 남고…이 또한 ‘정치의 실패’다]]></title>
-        <id>https://newspeppermint.com/2024/03/17/npsp_famine/</id>
-        <link href="https://newspeppermint.com/2024/03/17/npsp_famine/"/>
-        <updated>2024-03-17T23:14:02.144Z</updated>
-        <content type="html"><![CDATA[2024년 3월 18일]]></content>
     </entry>
 </feed>

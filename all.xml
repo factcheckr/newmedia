@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Apr 2024 02:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 03:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선거 패자도 ‘정치 보복’ 걱정 안 해도 되는 미국 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/04/09/npsp_democracyelection/</link>
+            <guid>https://newspeppermint.com/2024/04/09/npsp_democracyelection/</guid>
+            <pubDate>Wed, 10 Apr 2024 03:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 4월 10일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘대통령 건강 문제’ 외면하는 민주당은 금기를 깰 수 있을까? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/04/08/npsp_bidenage/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/03/18/npsp_inflationsnickers/</guid>
             <pubDate>Sun, 07 Apr 2024 16:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2024년 3월 19일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여긴 굶주리고 저긴 식량 남고…이 또한 ‘정치의 실패’다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/03/17/npsp_famine/</link>
-            <guid>https://newspeppermint.com/2024/03/17/npsp_famine/</guid>
-            <pubDate>Sun, 07 Apr 2024 16:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 3월 18일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
