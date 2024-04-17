@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 22:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 23:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 점점 더 커지는 불평등의 ‘사각지대’가 있다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/04/17/npsp_inequalitymart/</link>
+            <guid>https://newspeppermint.com/2024/04/17/npsp_inequalitymart/</guid>
+            <pubDate>Wed, 17 Apr 2024 23:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 4월 18일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[선거제 허점 악용해도 견제할 방법, 저기도 없네?! (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/04/17/npsp_electoralcollege/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/03/24/npsp_ussocialsafety/</guid>
             <pubDate>Sun, 07 Apr 2024 16:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2024년 3월 25일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 포퓰리즘 시대 전쟁이 된 선거, 결국 그들 손에 달렸다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/03/21/npsp_swatting/</link>
-            <guid>https://newspeppermint.com/2024/03/21/npsp_swatting/</guid>
-            <pubDate>Sun, 07 Apr 2024 16:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 3월 22일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
