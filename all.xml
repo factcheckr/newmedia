@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 09:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 10:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘사이다 발언’에 박수 갈채? 그에 앞서 생각해 볼 두 가지 용기 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/04/22/npsp_openletters/</link>
+            <guid>https://newspeppermint.com/2024/04/22/npsp_openletters/</guid>
+            <pubDate>Mon, 22 Apr 2024 10:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 4월 23일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 점점 더 커지는 불평등의 ‘사각지대’가 있다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/04/17/npsp_inequalitymart/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/03/27/npsp_chinaandthewest/</guid>
             <pubDate>Sun, 07 Apr 2024 16:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2024년 3월 28일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[잠시 찾아왔다가 금방 사라진 ‘복지국가’ 미국, 그리고 지금은? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/03/24/npsp_ussocialsafety/</link>
-            <guid>https://newspeppermint.com/2024/03/24/npsp_ussocialsafety/</guid>
-            <pubDate>Sun, 07 Apr 2024 16:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 3월 25일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

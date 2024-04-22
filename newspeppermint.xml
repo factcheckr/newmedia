@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-04-22T09:14:47.991Z</updated>
+    <updated>2024-04-22T10:15:55.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘사이다 발언’에 박수 갈채? 그에 앞서 생각해 볼 두 가지 용기]]></title>
+        <id>https://newspeppermint.com/2024/04/22/npsp_openletters/</id>
+        <link href="https://newspeppermint.com/2024/04/22/npsp_openletters/"/>
+        <updated>2024-04-22T10:15:48.624Z</updated>
+        <content type="html"><![CDATA[2024년 4월 23일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 점점 더 커지는 불평등의 ‘사각지대’가 있다]]></title>
         <id>https://newspeppermint.com/2024/04/17/npsp_inequalitymart/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/03/27/npsp_chinaandthewest/"/>
         <updated>2024-03-27T04:17:28.375Z</updated>
         <content type="html"><![CDATA[2024년 3월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잠시 찾아왔다가 금방 사라진 ‘복지국가’ 미국, 그리고 지금은?]]></title>
-        <id>https://newspeppermint.com/2024/03/24/npsp_ussocialsafety/</id>
-        <link href="https://newspeppermint.com/2024/03/24/npsp_ussocialsafety/"/>
-        <updated>2024-03-25T03:16:19.909Z</updated>
-        <content type="html"><![CDATA[2024년 3월 25일]]></content>
     </entry>
 </feed>
