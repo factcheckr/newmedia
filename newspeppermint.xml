@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-04-22T22:14:06.780Z</updated>
+    <updated>2024-04-22T23:13:16.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 습관처럼 익숙한 것 너머를 쳐다볼 때 비로소 보이는 것]]></title>
+        <id>https://newspeppermint.com/2024/04/22/npsp_failtonotice/</id>
+        <link href="https://newspeppermint.com/2024/04/22/npsp_failtonotice/"/>
+        <updated>2024-04-22T23:13:07.820Z</updated>
+        <content type="html"><![CDATA[2024년 4월 23일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘사이다 발언’에 박수 갈채? 그에 앞서 생각해 볼 두 가지 용기]]></title>
         <id>https://newspeppermint.com/2024/04/22/npsp_openletters/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2024/03/27/npsp_gigworkers/</id>
         <link href="https://newspeppermint.com/2024/03/27/npsp_gigworkers/"/>
         <updated>2024-03-27T23:13:09.735Z</updated>
-        <content type="html"><![CDATA[2024년 3월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국이 ‘서구의 대안’? 아니라는 게 확실해지고 있다]]></title>
-        <id>https://newspeppermint.com/2024/03/27/npsp_chinaandthewest/</id>
-        <link href="https://newspeppermint.com/2024/03/27/npsp_chinaandthewest/"/>
-        <updated>2024-03-27T04:17:28.375Z</updated>
         <content type="html"><![CDATA[2024년 3월 28일]]></content>
     </entry>
 </feed>

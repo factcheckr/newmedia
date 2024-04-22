@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 22:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 23:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 습관처럼 익숙한 것 너머를 쳐다볼 때 비로소 보이는 것 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/04/22/npsp_failtonotice/</link>
+            <guid>https://newspeppermint.com/2024/04/22/npsp_failtonotice/</guid>
+            <pubDate>Mon, 22 Apr 2024 23:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 4월 23일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘사이다 발언’에 박수 갈채? 그에 앞서 생각해 볼 두 가지 용기 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/04/22/npsp_openletters/</link>
@@ -81,13 +88,6 @@
             <title><![CDATA[[뉴페@스프] 이것은 “혁신의 탈을 쓴 불평등”인가 아닌가 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/03/27/npsp_gigworkers/</link>
             <guid>https://newspeppermint.com/2024/03/27/npsp_gigworkers/</guid>
-            <pubDate>Sun, 07 Apr 2024 16:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 3월 28일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중국이 ‘서구의 대안’? 아니라는 게 확실해지고 있다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/03/27/npsp_chinaandthewest/</link>
-            <guid>https://newspeppermint.com/2024/03/27/npsp_chinaandthewest/</guid>
             <pubDate>Sun, 07 Apr 2024 16:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2024년 3월 28일]]></content:encoded>
         </item>
