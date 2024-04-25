@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-04-25T10:14:13.513Z</updated>
+    <updated>2024-04-25T11:12:23.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데이트 상대로 ‘심리 상담’ 받는 사람을 선호한다고? 운동만 자기 관리가 아니다]]></title>
+        <id>https://newspeppermint.com/2024/04/25/npsp_mindsos/</id>
+        <link href="https://newspeppermint.com/2024/04/25/npsp_mindsos/"/>
+        <updated>2024-04-25T11:12:15.241Z</updated>
+        <content type="html"><![CDATA[2024년 4월 26일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 습관처럼 익숙한 것 너머를 쳐다볼 때 비로소 보이는 것]]></title>
         <id>https://newspeppermint.com/2024/04/22/npsp_failtonotice/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/04/01/npsp_techlayoffs/"/>
         <updated>2024-04-01T23:14:39.661Z</updated>
         <content type="html"><![CDATA[2024년 4월 2일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 이것은 “혁신의 탈을 쓴 불평등”인가 아닌가]]></title>
-        <id>https://newspeppermint.com/2024/03/27/npsp_gigworkers/</id>
-        <link href="https://newspeppermint.com/2024/03/27/npsp_gigworkers/"/>
-        <updated>2024-03-27T23:13:09.735Z</updated>
-        <content type="html"><![CDATA[2024년 3월 28일]]></content>
     </entry>
 </feed>

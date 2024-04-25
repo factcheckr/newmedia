@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 10:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 11:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이트 상대로 ‘심리 상담’ 받는 사람을 선호한다고? 운동만 자기 관리가 아니다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/04/25/npsp_mindsos/</link>
+            <guid>https://newspeppermint.com/2024/04/25/npsp_mindsos/</guid>
+            <pubDate>Thu, 25 Apr 2024 11:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 4월 26일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 습관처럼 익숙한 것 너머를 쳐다볼 때 비로소 보이는 것 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/04/22/npsp_failtonotice/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/04/01/npsp_techlayoffs/</guid>
             <pubDate>Sun, 07 Apr 2024 16:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2024년 4월 2일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 이것은 “혁신의 탈을 쓴 불평등”인가 아닌가 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/03/27/npsp_gigworkers/</link>
-            <guid>https://newspeppermint.com/2024/03/27/npsp_gigworkers/</guid>
-            <pubDate>Sun, 07 Apr 2024 16:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 3월 28일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
