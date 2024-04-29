@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-04-29T00:58:51.105Z</updated>
+    <updated>2024-04-29T01:56:39.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기후변화로 인한 ‘변화’가 이 정도였어? 뜻밖의 결과들]]></title>
+        <id>https://newspeppermint.com/2024/04/28/npsp_climatechangeimpact/</id>
+        <link href="https://newspeppermint.com/2024/04/28/npsp_climatechangeimpact/"/>
+        <updated>2024-04-29T01:56:31.938Z</updated>
+        <content type="html"><![CDATA[2024년 4월 29일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 경합지 잡긴 잡아야 하는데… 바이든의 딜레마, 돌파구 있을까]]></title>
         <id>https://newspeppermint.com/2024/04/25/npsp_michiganevchina/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/04/04/npsp_wealthpower/"/>
         <updated>2024-04-04T23:14:05.043Z</updated>
         <content type="html"><![CDATA[2024년 4월 5일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환율도 제각각, 음식값도 매일 달라지는 ‘메시의 나라’, “다시 위대”해질 수 있을까]]></title>
-        <id>https://newspeppermint.com/2024/04/03/npsp_javiermilei/</id>
-        <link href="https://newspeppermint.com/2024/04/03/npsp_javiermilei/"/>
-        <updated>2024-04-03T23:12:33.579Z</updated>
-        <content type="html"><![CDATA[2024년 4월 4일]]></content>
     </entry>
 </feed>
