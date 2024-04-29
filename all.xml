@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 22:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 23:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] Z세대 가치관에 문제 있다? 그런데 부모인 X세대가 더 문제다? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/04/29/npsp_gendergapgeneration/</link>
+            <guid>https://newspeppermint.com/2024/04/29/npsp_gendergapgeneration/</guid>
+            <pubDate>Mon, 29 Apr 2024 23:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 4월 30일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[기후변화로 인한 ‘변화’가 이 정도였어? 뜻밖의 결과들 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/04/28/npsp_climatechangeimpact/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/04/07/npsp_aijobs/</guid>
             <pubDate>Mon, 08 Apr 2024 02:22:45 GMT</pubDate>
             <content:encoded><![CDATA[2024년 4월 8일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 부자들에게 더욱 더 보장된 ‘표현의 자유’는 괜찮을까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/04/04/npsp_wealthpower/</link>
-            <guid>https://newspeppermint.com/2024/04/04/npsp_wealthpower/</guid>
-            <pubDate>Sun, 07 Apr 2024 16:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 4월 5일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
