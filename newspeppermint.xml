@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-05-01T15:13:23.112Z</updated>
+    <updated>2024-05-01T16:17:15.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“숨 쉬는 건 범죄가 아니다”…노숙도 마찬가지? 간단치 않은 사정들]]></title>
+        <id>https://newspeppermint.com/2024/05/01/npsbs_scotushomeless/</id>
+        <link href="https://newspeppermint.com/2024/05/01/npsbs_scotushomeless/"/>
+        <updated>2024-05-01T16:17:08.193Z</updated>
+        <content type="html"><![CDATA[2024년 5월 2일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] Z세대 가치관에 문제 있다? 그런데 부모인 X세대가 더 문제다?]]></title>
         <id>https://newspeppermint.com/2024/04/29/npsp_gendergapgeneration/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/04/08/npsp_bidenage/"/>
         <updated>2024-04-08T23:13:49.385Z</updated>
         <content type="html"><![CDATA[2024년 4월 9일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간보다 로봇에 더 혜택이 많은 미국, 우리는?]]></title>
-        <id>https://newspeppermint.com/2024/04/07/npsp_aijobs/</id>
-        <link href="https://newspeppermint.com/2024/04/07/npsp_aijobs/"/>
-        <updated>2024-04-08T02:22:45.258Z</updated>
-        <content type="html"><![CDATA[2024년 4월 8일]]></content>
     </entry>
 </feed>
