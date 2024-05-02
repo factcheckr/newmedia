@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 22:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 23:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 곧 닥칠 ‘고령 사회’, 우리가 던져야 할 질문은 따로 있다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/05/02/npsp_agingsociety/</link>
+            <guid>https://newspeppermint.com/2024/05/02/npsp_agingsociety/</guid>
+            <pubDate>Thu, 02 May 2024 23:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 5월 3일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“숨 쉬는 건 범죄가 아니다”…노숙도 마찬가지? 간단치 않은 사정들 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/05/01/npsbs_scotushomeless/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/04/09/npsp_democracyelection/</guid>
             <pubDate>Wed, 10 Apr 2024 03:15:47 GMT</pubDate>
             <content:encoded><![CDATA[2024년 4월 10일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] ‘대통령 건강 문제’ 외면하는 민주당은 금기를 깰 수 있을까? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/04/08/npsp_bidenage/</link>
-            <guid>https://newspeppermint.com/2024/04/08/npsp_bidenage/</guid>
-            <pubDate>Mon, 08 Apr 2024 23:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 4월 9일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-05-02T22:13:25.568Z</updated>
+    <updated>2024-05-02T23:15:23.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 곧 닥칠 ‘고령 사회’, 우리가 던져야 할 질문은 따로 있다]]></title>
+        <id>https://newspeppermint.com/2024/05/02/npsp_agingsociety/</id>
+        <link href="https://newspeppermint.com/2024/05/02/npsp_agingsociety/"/>
+        <updated>2024-05-02T23:15:14.820Z</updated>
+        <content type="html"><![CDATA[2024년 5월 3일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“숨 쉬는 건 범죄가 아니다”…노숙도 마찬가지? 간단치 않은 사정들]]></title>
         <id>https://newspeppermint.com/2024/05/01/npsbs_scotushomeless/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/04/09/npsp_democracyelection/"/>
         <updated>2024-04-10T03:15:47.669Z</updated>
         <content type="html"><![CDATA[2024년 4월 10일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] ‘대통령 건강 문제’ 외면하는 민주당은 금기를 깰 수 있을까?]]></title>
-        <id>https://newspeppermint.com/2024/04/08/npsp_bidenage/</id>
-        <link href="https://newspeppermint.com/2024/04/08/npsp_bidenage/"/>
-        <updated>2024-04-08T23:13:49.385Z</updated>
-        <content type="html"><![CDATA[2024년 4월 9일]]></content>
     </entry>
 </feed>
