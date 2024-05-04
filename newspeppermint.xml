@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-05-04T13:14:24.466Z</updated>
+    <updated>2024-05-04T14:13:20.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국과 미국이 기술 협력한다? 이게 쉽지 않은 이유]]></title>
+        <id>https://newspeppermint.com/2024/05/04/npsp_chinagreenpolicy/</id>
+        <link href="https://newspeppermint.com/2024/05/04/npsp_chinagreenpolicy/"/>
+        <updated>2024-05-04T14:13:11.911Z</updated>
+        <content type="html"><![CDATA[2024년 5월 5일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 곧 닥칠 ‘고령 사회’, 우리가 던져야 할 질문은 따로 있다]]></title>
         <id>https://newspeppermint.com/2024/05/02/npsp_agingsociety/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/04/14/npsp_birthdearth/"/>
         <updated>2024-04-15T04:28:38.458Z</updated>
         <content type="html"><![CDATA[2024년 4월 15일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선거 패자도 ‘정치 보복’ 걱정 안 해도 되는 미국]]></title>
-        <id>https://newspeppermint.com/2024/04/09/npsp_democracyelection/</id>
-        <link href="https://newspeppermint.com/2024/04/09/npsp_democracyelection/"/>
-        <updated>2024-04-10T03:15:47.669Z</updated>
-        <content type="html"><![CDATA[2024년 4월 10일]]></content>
     </entry>
 </feed>
