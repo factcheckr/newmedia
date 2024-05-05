@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 May 2024 22:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 23:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 대학 캠퍼스 시위를 외면할 수 없는 ‘바이든의 딜레마’ (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/05/05/npsp_campusprotestbiden/</link>
+            <guid>https://newspeppermint.com/2024/05/05/npsp_campusprotestbiden/</guid>
+            <pubDate>Sun, 05 May 2024 23:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 5월 6일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[중국과 미국이 기술 협력한다? 이게 쉽지 않은 이유 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/05/04/npsp_chinagreenpolicy/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/04/17/npsp_electoralcollege/</guid>
             <pubDate>Wed, 17 Apr 2024 07:14:28 GMT</pubDate>
             <content:encoded><![CDATA[2024년 4월 18일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[계속 심각하니 어느새 간과하는 걸까, 저출생 문제 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/04/14/npsp_birthdearth/</link>
-            <guid>https://newspeppermint.com/2024/04/14/npsp_birthdearth/</guid>
-            <pubDate>Mon, 15 Apr 2024 04:28:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 4월 15일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
