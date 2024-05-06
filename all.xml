@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 May 2024 22:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 23:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 여긴 굶주리고 저긴 식량 남고…이 또한 ‘정치의 실패’다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/05/06/npsp_famine/</link>
+            <guid>https://newspeppermint.com/2024/05/06/npsp_famine/</guid>
+            <pubDate>Mon, 06 May 2024 23:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 5월 7일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[미국 대학 캠퍼스 시위를 외면할 수 없는 ‘바이든의 딜레마’ (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/05/05/npsp_campusprotestbiden/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2024/04/17/npsp_inequalitymart/</link>
             <guid>https://newspeppermint.com/2024/04/17/npsp_inequalitymart/</guid>
             <pubDate>Wed, 17 Apr 2024 23:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 4월 18일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[선거제 허점 악용해도 견제할 방법, 저기도 없네?! (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/04/17/npsp_electoralcollege/</link>
-            <guid>https://newspeppermint.com/2024/04/17/npsp_electoralcollege/</guid>
-            <pubDate>Wed, 17 Apr 2024 07:14:28 GMT</pubDate>
             <content:encoded><![CDATA[2024년 4월 18일]]></content:encoded>
         </item>
         <item>
