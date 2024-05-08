@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 06:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 07:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“스마트폰이 정신건강에 문제야”…그렇긴 한데 다른 이유가 더 있다면? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/05/08/npsp_mentalhealthsmartphone/</link>
+            <guid>https://newspeppermint.com/2024/05/08/npsp_mentalhealthsmartphone/</guid>
+            <pubDate>Wed, 08 May 2024 07:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 5월 9일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 여긴 굶주리고 저긴 식량 남고…이 또한 ‘정치의 실패’다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/05/06/npsp_famine/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/04/22/npsp_openletters/</guid>
             <pubDate>Mon, 22 Apr 2024 10:15:48 GMT</pubDate>
             <content:encoded><![CDATA[2024년 4월 23일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 점점 더 커지는 불평등의 ‘사각지대’가 있다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/04/17/npsp_inequalitymart/</link>
-            <guid>https://newspeppermint.com/2024/04/17/npsp_inequalitymart/</guid>
-            <pubDate>Wed, 17 Apr 2024 23:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 4월 18일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
