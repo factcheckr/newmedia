@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-05-10T22:13:50.565Z</updated>
+    <updated>2024-05-10T23:13:55.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 영어 아닌 외국어 사용이 문제라고? ‘효율적 소통’ 이면에도 문제가 있다]]></title>
+        <id>https://newspeppermint.com/2024/05/10/npsp_englishofficial/</id>
+        <link href="https://newspeppermint.com/2024/05/10/npsp_englishofficial/"/>
+        <updated>2024-05-10T23:13:48.058Z</updated>
+        <content type="html"><![CDATA[2024년 5월 11일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“스마트폰이 정신건강에 문제야”…그렇긴 한데 다른 이유가 더 있다면?]]></title>
         <id>https://newspeppermint.com/2024/05/08/npsp_mentalhealthsmartphone/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2024/04/22/npsp_failtonotice/</id>
         <link href="https://newspeppermint.com/2024/04/22/npsp_failtonotice/"/>
         <updated>2024-04-22T23:13:07.820Z</updated>
-        <content type="html"><![CDATA[2024년 4월 23일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사이다 발언’에 박수 갈채? 그에 앞서 생각해 볼 두 가지 용기]]></title>
-        <id>https://newspeppermint.com/2024/04/22/npsp_openletters/</id>
-        <link href="https://newspeppermint.com/2024/04/22/npsp_openletters/"/>
-        <updated>2024-04-22T10:15:48.624Z</updated>
         <content type="html"><![CDATA[2024년 4월 23일]]></content>
     </entry>
 </feed>
