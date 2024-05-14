@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-05-14T22:13:38.056Z</updated>
+    <updated>2024-05-14T23:13:25.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 잠시 찾아왔다가 금방 사라진 ‘복지국가’ 미국, 그리고 지금은?]]></title>
+        <id>https://newspeppermint.com/2024/05/14/npsp_ussocialsafety/</id>
+        <link href="https://newspeppermint.com/2024/05/14/npsp_ussocialsafety/"/>
+        <updated>2024-05-14T23:13:18.880Z</updated>
+        <content type="html"><![CDATA[2024년 5월 15일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드래곤볼의 ‘원기옥’처럼? 억만장자에게 세금을 걷자는 “증세 동맹” 가능할까]]></title>
         <id>https://newspeppermint.com/2024/05/13/npsp_taxbillionaires/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2024/04/25/npsp_michiganevchina/</id>
         <link href="https://newspeppermint.com/2024/04/25/npsp_michiganevchina/"/>
         <updated>2024-04-25T23:13:54.641Z</updated>
-        <content type="html"><![CDATA[2024년 4월 26일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이트 상대로 ‘심리 상담’ 받는 사람을 선호한다고? 운동만 자기 관리가 아니다]]></title>
-        <id>https://newspeppermint.com/2024/04/25/npsp_mindsos/</id>
-        <link href="https://newspeppermint.com/2024/04/25/npsp_mindsos/"/>
-        <updated>2024-04-25T11:12:15.241Z</updated>
         <content type="html"><![CDATA[2024년 4월 26일]]></content>
     </entry>
 </feed>
