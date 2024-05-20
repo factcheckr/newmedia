@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-05-20T18:18:04.314Z</updated>
+    <updated>2024-05-20T19:11:17.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[만악의 근원은 그놈이었네… “이미 늦었다”면 뭘 할 수 있을까]]></title>
+        <id>https://newspeppermint.com/2024/05/20/npsp_pollenallergy/</id>
+        <link href="https://newspeppermint.com/2024/05/20/npsp_pollenallergy/"/>
+        <updated>2024-05-20T19:11:09.560Z</updated>
+        <content type="html"><![CDATA[2024년 5월 21일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 중국이 ‘서구의 대안’? 아니라는 게 확실해지고 있다]]></title>
         <id>https://newspeppermint.com/2024/05/17/npsp_chinaandthewest/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/04/29/npsp_gendergapgeneration/"/>
         <updated>2024-04-29T23:13:11.174Z</updated>
         <content type="html"><![CDATA[2024년 4월 30일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후변화로 인한 ‘변화’가 이 정도였어? 뜻밖의 결과들]]></title>
-        <id>https://newspeppermint.com/2024/04/28/npsp_climatechangeimpact/</id>
-        <link href="https://newspeppermint.com/2024/04/28/npsp_climatechangeimpact/"/>
-        <updated>2024-04-29T01:56:31.938Z</updated>
-        <content type="html"><![CDATA[2024년 4월 29일]]></content>
     </entry>
 </feed>
