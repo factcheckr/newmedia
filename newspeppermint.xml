@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-05-20T22:14:18.571Z</updated>
+    <updated>2024-05-20T23:14:43.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 자본주의가 가장 마지막에 줄여야 하는 비용은 이것]]></title>
+        <id>https://newspeppermint.com/2024/05/20/npsp_techlayoffs/</id>
+        <link href="https://newspeppermint.com/2024/05/20/npsp_techlayoffs/"/>
+        <updated>2024-05-20T23:14:36.518Z</updated>
+        <content type="html"><![CDATA[2024년 5월 21일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[만악의 근원은 그놈이었네… “이미 늦었다”면 뭘 할 수 있을까]]></title>
         <id>https://newspeppermint.com/2024/05/20/npsp_pollenallergy/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/05/01/npsbs_scotushomeless/"/>
         <updated>2024-05-01T16:17:08.193Z</updated>
         <content type="html"><![CDATA[2024년 5월 2일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] Z세대 가치관에 문제 있다? 그런데 부모인 X세대가 더 문제다?]]></title>
-        <id>https://newspeppermint.com/2024/04/29/npsp_gendergapgeneration/</id>
-        <link href="https://newspeppermint.com/2024/04/29/npsp_gendergapgeneration/"/>
-        <updated>2024-04-29T23:13:11.174Z</updated>
-        <content type="html"><![CDATA[2024년 4월 30일]]></content>
     </entry>
 </feed>
