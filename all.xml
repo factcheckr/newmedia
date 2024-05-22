@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 02:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 03:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[둘이 같은 목소리 낼 때도 있네? ‘두 번째 차이나 쇼크’ 어떻게 될까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/05/21/npsp_chinashock/</link>
+            <guid>https://newspeppermint.com/2024/05/21/npsp_chinashock/</guid>
+            <pubDate>Wed, 22 May 2024 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 5월 22일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 자본주의가 가장 마지막에 줄여야 하는 비용은 이것 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/05/20/npsp_techlayoffs/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/05/02/npsp_agingsociety/</guid>
             <pubDate>Thu, 02 May 2024 23:15:14 GMT</pubDate>
             <content:encoded><![CDATA[2024년 5월 3일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“숨 쉬는 건 범죄가 아니다”…노숙도 마찬가지? 간단치 않은 사정들 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/05/01/npsbs_scotushomeless/</link>
-            <guid>https://newspeppermint.com/2024/05/01/npsbs_scotushomeless/</guid>
-            <pubDate>Wed, 01 May 2024 16:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 5월 2일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
