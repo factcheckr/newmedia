@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-05-23T22:13:23.048Z</updated>
+    <updated>2024-05-23T23:14:29.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 환율도 제각각, 음식값도 매일 달라지는 ‘메시의 나라’, “다시 위대”해질 수 있을까]]></title>
+        <id>https://newspeppermint.com/2024/05/23/npsp_javiermilei/</id>
+        <link href="https://newspeppermint.com/2024/05/23/npsp_javiermilei/"/>
+        <updated>2024-05-23T23:14:21.759Z</updated>
+        <content type="html"><![CDATA[2024년 5월 24일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[둘이 같은 목소리 낼 때도 있네? ‘두 번째 차이나 쇼크’ 어떻게 될까]]></title>
         <id>https://newspeppermint.com/2024/05/21/npsp_chinashock/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/05/04/npsp_chinagreenpolicy/"/>
         <updated>2024-05-04T14:13:11.911Z</updated>
         <content type="html"><![CDATA[2024년 5월 5일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 곧 닥칠 ‘고령 사회’, 우리가 던져야 할 질문은 따로 있다]]></title>
-        <id>https://newspeppermint.com/2024/05/02/npsp_agingsociety/</id>
-        <link href="https://newspeppermint.com/2024/05/02/npsp_agingsociety/"/>
-        <updated>2024-05-02T23:15:14.820Z</updated>
-        <content type="html"><![CDATA[2024년 5월 3일]]></content>
     </entry>
 </feed>
