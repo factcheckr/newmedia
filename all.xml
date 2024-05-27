@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 22:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 23:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 인간보다 로봇에 더 혜택이 많은 미국, 우리는? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/05/27/npsp_aijobs/</link>
+            <guid>https://newspeppermint.com/2024/05/27/npsp_aijobs/</guid>
+            <pubDate>Mon, 27 May 2024 23:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 5월 28일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“정의 구현” 대 “마녀사냥”, 프레임 전쟁의 승자와 패자는 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/05/26/npsp_trumptrialelection/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/05/06/npsp_famine/</guid>
             <pubDate>Mon, 06 May 2024 23:13:18 GMT</pubDate>
             <content:encoded><![CDATA[2024년 5월 7일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미국 대학 캠퍼스 시위를 외면할 수 없는 ‘바이든의 딜레마’ (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/05/05/npsp_campusprotestbiden/</link>
-            <guid>https://newspeppermint.com/2024/05/05/npsp_campusprotestbiden/</guid>
-            <pubDate>Sun, 05 May 2024 23:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 5월 6일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

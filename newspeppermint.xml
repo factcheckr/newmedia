@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-05-27T22:12:39.823Z</updated>
+    <updated>2024-05-27T23:14:40.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 인간보다 로봇에 더 혜택이 많은 미국, 우리는?]]></title>
+        <id>https://newspeppermint.com/2024/05/27/npsp_aijobs/</id>
+        <link href="https://newspeppermint.com/2024/05/27/npsp_aijobs/"/>
+        <updated>2024-05-27T23:14:32.643Z</updated>
+        <content type="html"><![CDATA[2024년 5월 28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“정의 구현” 대 “마녀사냥”, 프레임 전쟁의 승자와 패자는]]></title>
         <id>https://newspeppermint.com/2024/05/26/npsp_trumptrialelection/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/05/06/npsp_famine/"/>
         <updated>2024-05-06T23:13:18.961Z</updated>
         <content type="html"><![CDATA[2024년 5월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 대학 캠퍼스 시위를 외면할 수 없는 ‘바이든의 딜레마’]]></title>
-        <id>https://newspeppermint.com/2024/05/05/npsp_campusprotestbiden/</id>
-        <link href="https://newspeppermint.com/2024/05/05/npsp_campusprotestbiden/"/>
-        <updated>2024-05-05T23:13:01.371Z</updated>
-        <content type="html"><![CDATA[2024년 5월 6일]]></content>
     </entry>
 </feed>
