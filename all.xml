@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 22:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 23:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전례 없는 흥행 돌풍의 벌써 ‘레전드’…그런데 프로 되니까 수익 증발했다? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/05/28/npsp_caitlinclark/</link>
+            <guid>https://newspeppermint.com/2024/05/28/npsp_caitlinclark/</guid>
+            <pubDate>Tue, 28 May 2024 23:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 5월 29일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 인간보다 로봇에 더 혜택이 많은 미국, 우리는? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/05/27/npsp_aijobs/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/05/08/npsp_mentalhealthsmartphone/</guid>
             <pubDate>Wed, 08 May 2024 07:14:24 GMT</pubDate>
             <content:encoded><![CDATA[2024년 5월 9일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 여긴 굶주리고 저긴 식량 남고…이 또한 ‘정치의 실패’다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/05/06/npsp_famine/</link>
-            <guid>https://newspeppermint.com/2024/05/06/npsp_famine/</guid>
-            <pubDate>Mon, 06 May 2024 23:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 5월 7일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
