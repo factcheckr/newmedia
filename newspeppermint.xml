@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-05-31T22:13:09.836Z</updated>
+    <updated>2024-05-31T23:13:52.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 선거 패자도 ‘정치 보복’ 걱정 안 해도 되는 미국]]></title>
+        <id>https://newspeppermint.com/2024/05/31/npsp_democracyelection/</id>
+        <link href="https://newspeppermint.com/2024/05/31/npsp_democracyelection/"/>
+        <updated>2024-05-31T23:13:43.518Z</updated>
+        <content type="html"><![CDATA[2024년 6월 1일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전례 없는 흥행 돌풍의 벌써 ‘레전드’…그런데 프로 되니까 수익 증발했다?]]></title>
         <id>https://newspeppermint.com/2024/05/28/npsp_caitlinclark/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/05/10/npsp_englishofficial/"/>
         <updated>2024-05-10T23:13:48.058Z</updated>
         <content type="html"><![CDATA[2024년 5월 11일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“스마트폰이 정신건강에 문제야”…그렇긴 한데 다른 이유가 더 있다면?]]></title>
-        <id>https://newspeppermint.com/2024/05/08/npsp_mentalhealthsmartphone/</id>
-        <link href="https://newspeppermint.com/2024/05/08/npsp_mentalhealthsmartphone/"/>
-        <updated>2024-05-08T07:14:24.855Z</updated>
-        <content type="html"><![CDATA[2024년 5월 9일]]></content>
     </entry>
 </feed>
