@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jun 2024 23:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 01:02:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI와 같이 살아도 ‘외로움’을 느낄 수밖에 없는 이유 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/06/02/npsp_aillmloneliness/</link>
+            <guid>https://newspeppermint.com/2024/06/02/npsp_aillmloneliness/</guid>
+            <pubDate>Mon, 03 Jun 2024 01:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 6월 3일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 선거 패자도 ‘정치 보복’ 걱정 안 해도 되는 미국 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/05/31/npsp_democracyelection/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/05/13/npsp_taxbillionaires/</guid>
             <pubDate>Tue, 14 May 2024 01:57:52 GMT</pubDate>
             <content:encoded><![CDATA[2024년 5월 14일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 영어 아닌 외국어 사용이 문제라고? ‘효율적 소통’ 이면에도 문제가 있다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/05/10/npsp_englishofficial/</link>
-            <guid>https://newspeppermint.com/2024/05/10/npsp_englishofficial/</guid>
-            <pubDate>Fri, 10 May 2024 23:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 5월 11일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
