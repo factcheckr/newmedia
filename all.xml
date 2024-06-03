@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 22:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 23:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 계속 심각하니 어느새 간과하는 걸까, 저출생 문제 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/06/03/npsp_birthdearth/</link>
+            <guid>https://newspeppermint.com/2024/06/03/npsp_birthdearth/</guid>
+            <pubDate>Mon, 03 Jun 2024 23:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 6월 4일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[AI와 같이 살아도 ‘외로움’을 느낄 수밖에 없는 이유 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/06/02/npsp_aillmloneliness/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/05/14/npsp_ussocialsafety/</guid>
             <pubDate>Tue, 14 May 2024 23:13:18 GMT</pubDate>
             <content:encoded><![CDATA[2024년 5월 15일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[드래곤볼의 ‘원기옥’처럼? 억만장자에게 세금을 걷자는 “증세 동맹” 가능할까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/05/13/npsp_taxbillionaires/</link>
-            <guid>https://newspeppermint.com/2024/05/13/npsp_taxbillionaires/</guid>
-            <pubDate>Tue, 14 May 2024 01:57:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 5월 14일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
