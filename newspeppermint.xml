@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-06-05T21:15:10.216Z</updated>
+    <updated>2024-06-05T22:14:02.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘억만장자들만의 세상’, 이제는 대놓고 펼쳐진다]]></title>
+        <id>https://newspeppermint.com/2024/06/05/npsp_buylongerlife/</id>
+        <link href="https://newspeppermint.com/2024/06/05/npsp_buylongerlife/"/>
+        <updated>2024-06-05T22:13:54.201Z</updated>
+        <content type="html"><![CDATA[2024년 6월 6일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 계속 심각하니 어느새 간과하는 걸까, 저출생 문제]]></title>
         <id>https://newspeppermint.com/2024/06/03/npsp_birthdearth/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/05/17/npsp_chinaandthewest/"/>
         <updated>2024-05-17T23:15:03.462Z</updated>
         <content type="html"><![CDATA[2024년 5월 18일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 잠시 찾아왔다가 금방 사라진 ‘복지국가’ 미국, 그리고 지금은?]]></title>
-        <id>https://newspeppermint.com/2024/05/14/npsp_ussocialsafety/</id>
-        <link href="https://newspeppermint.com/2024/05/14/npsp_ussocialsafety/"/>
-        <updated>2024-05-14T23:13:18.880Z</updated>
-        <content type="html"><![CDATA[2024년 5월 15일]]></content>
     </entry>
 </feed>
