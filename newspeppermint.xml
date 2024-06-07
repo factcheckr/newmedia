@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-06-07T22:14:02.554Z</updated>
+    <updated>2024-06-07T23:16:01.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 선거제 허점 악용해도 견제할 방법, 저기도 없네?!]]></title>
+        <id>https://newspeppermint.com/2024/06/07/npsp_electoralcollege/</id>
+        <link href="https://newspeppermint.com/2024/06/07/npsp_electoralcollege/"/>
+        <updated>2024-06-07T23:15:54.689Z</updated>
+        <content type="html"><![CDATA[2024년 6월 8일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘억만장자들만의 세상’, 이제는 대놓고 펼쳐진다]]></title>
         <id>https://newspeppermint.com/2024/06/05/npsp_buylongerlife/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/05/20/npsp_pollenallergy/"/>
         <updated>2024-05-20T19:11:09.560Z</updated>
         <content type="html"><![CDATA[2024년 5월 21일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 중국이 ‘서구의 대안’? 아니라는 게 확실해지고 있다]]></title>
-        <id>https://newspeppermint.com/2024/05/17/npsp_chinaandthewest/</id>
-        <link href="https://newspeppermint.com/2024/05/17/npsp_chinaandthewest/"/>
-        <updated>2024-05-17T23:15:03.462Z</updated>
-        <content type="html"><![CDATA[2024년 5월 18일]]></content>
     </entry>
 </feed>
