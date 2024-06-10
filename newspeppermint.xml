@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-06-10T22:14:53.278Z</updated>
+    <updated>2024-06-10T23:14:36.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] ‘사이다 발언’에 박수 갈채? 그에 앞서 생각해 볼 두 가지 용기]]></title>
+        <id>https://newspeppermint.com/2024/06/10/npsp_openletters/</id>
+        <link href="https://newspeppermint.com/2024/06/10/npsp_openletters/"/>
+        <updated>2024-06-10T23:14:28.629Z</updated>
+        <content type="html"><![CDATA[2024년 6월 11일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국이 자칫하면 ‘한국 꼴’ 될 수 있다고? 달갑지 않은 최신 ‘K-트렌드’]]></title>
         <id>https://newspeppermint.com/2024/06/10/npsp_birthrategendernorm/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/05/21/npsp_chinashock/"/>
         <updated>2024-05-22T03:17:06.750Z</updated>
         <content type="html"><![CDATA[2024년 5월 22일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 자본주의가 가장 마지막에 줄여야 하는 비용은 이것]]></title>
-        <id>https://newspeppermint.com/2024/05/20/npsp_techlayoffs/</id>
-        <link href="https://newspeppermint.com/2024/05/20/npsp_techlayoffs/"/>
-        <updated>2024-05-20T23:14:36.518Z</updated>
-        <content type="html"><![CDATA[2024년 5월 21일]]></content>
     </entry>
 </feed>
