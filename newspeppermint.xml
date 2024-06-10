@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-06-10T03:16:11.990Z</updated>
+    <updated>2024-06-10T04:19:15.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국이 자칫하면 ‘한국 꼴’ 될 수 있다고? 달갑지 않은 최신 ‘K-트렌드’]]></title>
+        <id>https://newspeppermint.com/2024/06/10/npsp_birthrategendernorm/</id>
+        <link href="https://newspeppermint.com/2024/06/10/npsp_birthrategendernorm/"/>
+        <updated>2024-06-10T04:19:06.824Z</updated>
+        <content type="html"><![CDATA[2024년 6월 11일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 선거제 허점 악용해도 견제할 방법, 저기도 없네?!]]></title>
         <id>https://newspeppermint.com/2024/06/07/npsp_electoralcollege/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2024/05/20/npsp_techlayoffs/</id>
         <link href="https://newspeppermint.com/2024/05/20/npsp_techlayoffs/"/>
         <updated>2024-05-20T23:14:36.518Z</updated>
-        <content type="html"><![CDATA[2024년 5월 21일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만악의 근원은 그놈이었네… “이미 늦었다”면 뭘 할 수 있을까]]></title>
-        <id>https://newspeppermint.com/2024/05/20/npsp_pollenallergy/</id>
-        <link href="https://newspeppermint.com/2024/05/20/npsp_pollenallergy/"/>
-        <updated>2024-05-20T19:11:09.560Z</updated>
         <content type="html"><![CDATA[2024년 5월 21일]]></content>
     </entry>
 </feed>
