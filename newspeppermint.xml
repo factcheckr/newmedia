@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-06-14T22:14:24.325Z</updated>
+    <updated>2024-06-14T23:14:03.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 데이트 상대로 ‘심리 상담’ 받는 사람을 선호한다고? 운동만 자기 관리가 아니다]]></title>
+        <id>https://newspeppermint.com/2024/06/14/npsp_mindsos/</id>
+        <link href="https://newspeppermint.com/2024/06/14/npsp_mindsos/"/>
+        <updated>2024-06-14T23:13:55.453Z</updated>
+        <content type="html"><![CDATA[2024년 6월 15일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘사이다 발언’에 박수 갈채? 그에 앞서 생각해 볼 두 가지 용기]]></title>
         <id>https://newspeppermint.com/2024/06/10/npsp_openletters/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/05/23/npsp_javiermilei/"/>
         <updated>2024-05-23T23:14:21.759Z</updated>
         <content type="html"><![CDATA[2024년 5월 24일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[둘이 같은 목소리 낼 때도 있네? ‘두 번째 차이나 쇼크’ 어떻게 될까]]></title>
-        <id>https://newspeppermint.com/2024/05/21/npsp_chinashock/</id>
-        <link href="https://newspeppermint.com/2024/05/21/npsp_chinashock/"/>
-        <updated>2024-05-22T03:17:06.750Z</updated>
-        <content type="html"><![CDATA[2024년 5월 22일]]></content>
     </entry>
 </feed>
