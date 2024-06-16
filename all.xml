@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jun 2024 23:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jun 2024 01:07:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘인구소멸’ 한국을 위해 할 수 있는 일 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/06/15/npsp_aging/</link>
+            <guid>https://newspeppermint.com/2024/06/15/npsp_aging/</guid>
+            <pubDate>Sun, 16 Jun 2024 01:07:02 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 6월 16일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 데이트 상대로 ‘심리 상담’ 받는 사람을 선호한다고? 운동만 자기 관리가 아니다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/06/14/npsp_mindsos/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/05/26/npsp_trumptrialelection/</guid>
             <pubDate>Sun, 26 May 2024 23:14:43 GMT</pubDate>
             <content:encoded><![CDATA[2024년 5월 27일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 환율도 제각각, 음식값도 매일 달라지는 ‘메시의 나라’, “다시 위대”해질 수 있을까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/05/23/npsp_javiermilei/</link>
-            <guid>https://newspeppermint.com/2024/05/23/npsp_javiermilei/</guid>
-            <pubDate>Thu, 23 May 2024 23:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 5월 24일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

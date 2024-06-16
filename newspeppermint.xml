@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-06-15T23:14:17.363Z</updated>
+    <updated>2024-06-16T01:07:11.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘인구소멸’ 한국을 위해 할 수 있는 일]]></title>
+        <id>https://newspeppermint.com/2024/06/15/npsp_aging/</id>
+        <link href="https://newspeppermint.com/2024/06/15/npsp_aging/"/>
+        <updated>2024-06-16T01:07:02.817Z</updated>
+        <content type="html"><![CDATA[2024년 6월 16일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 데이트 상대로 ‘심리 상담’ 받는 사람을 선호한다고? 운동만 자기 관리가 아니다]]></title>
         <id>https://newspeppermint.com/2024/06/14/npsp_mindsos/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/05/26/npsp_trumptrialelection/"/>
         <updated>2024-05-26T23:14:43.026Z</updated>
         <content type="html"><![CDATA[2024년 5월 27일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 환율도 제각각, 음식값도 매일 달라지는 ‘메시의 나라’, “다시 위대”해질 수 있을까]]></title>
-        <id>https://newspeppermint.com/2024/05/23/npsp_javiermilei/</id>
-        <link href="https://newspeppermint.com/2024/05/23/npsp_javiermilei/"/>
-        <updated>2024-05-23T23:14:21.759Z</updated>
-        <content type="html"><![CDATA[2024년 5월 24일]]></content>
     </entry>
 </feed>
