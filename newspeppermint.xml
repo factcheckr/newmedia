@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-06-16T22:14:26.934Z</updated>
+    <updated>2024-06-16T23:17:34.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 기후변화로 인한 ‘변화’가 이 정도였어? 뜻밖의 결과들]]></title>
+        <id>https://newspeppermint.com/2024/06/16/npsp_climatechangeimpact/</id>
+        <link href="https://newspeppermint.com/2024/06/16/npsp_climatechangeimpact/"/>
+        <updated>2024-06-16T23:17:26.008Z</updated>
+        <content type="html"><![CDATA[2024년 6월 17일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인구소멸’ 한국을 위해 할 수 있는 일]]></title>
         <id>https://newspeppermint.com/2024/06/15/npsp_aging/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/05/27/npsp_aijobs/"/>
         <updated>2024-05-27T23:14:32.643Z</updated>
         <content type="html"><![CDATA[2024년 5월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“정의 구현” 대 “마녀사냥”, 프레임 전쟁의 승자와 패자는]]></title>
-        <id>https://newspeppermint.com/2024/05/26/npsp_trumptrialelection/</id>
-        <link href="https://newspeppermint.com/2024/05/26/npsp_trumptrialelection/"/>
-        <updated>2024-05-26T23:14:43.026Z</updated>
-        <content type="html"><![CDATA[2024년 5월 27일]]></content>
     </entry>
 </feed>
