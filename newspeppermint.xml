@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-06-18T01:02:53.489Z</updated>
+    <updated>2024-06-18T02:31:08.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일론 머스크의 관심 값이 64조 원… 인류의 희망을 거는 대가, 맞나요?]]></title>
+        <id>https://newspeppermint.com/2024/06/17/npsp_muskpaypackage/</id>
+        <link href="https://newspeppermint.com/2024/06/17/npsp_muskpaypackage/"/>
+        <updated>2024-06-18T02:30:58.996Z</updated>
+        <content type="html"><![CDATA[2024년 6월 18일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 기후변화로 인한 ‘변화’가 이 정도였어? 뜻밖의 결과들]]></title>
         <id>https://newspeppermint.com/2024/06/16/npsp_climatechangeimpact/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/05/28/npsp_caitlinclark/"/>
         <updated>2024-05-28T23:15:37.073Z</updated>
         <content type="html"><![CDATA[2024년 5월 29일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 인간보다 로봇에 더 혜택이 많은 미국, 우리는?]]></title>
-        <id>https://newspeppermint.com/2024/05/27/npsp_aijobs/</id>
-        <link href="https://newspeppermint.com/2024/05/27/npsp_aijobs/"/>
-        <updated>2024-05-27T23:14:32.643Z</updated>
-        <content type="html"><![CDATA[2024년 5월 28일]]></content>
     </entry>
 </feed>

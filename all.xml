@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 01:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 02:31:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일론 머스크의 관심 값이 64조 원… 인류의 희망을 거는 대가, 맞나요? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/06/17/npsp_muskpaypackage/</link>
+            <guid>https://newspeppermint.com/2024/06/17/npsp_muskpaypackage/</guid>
+            <pubDate>Tue, 18 Jun 2024 02:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 6월 18일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 기후변화로 인한 ‘변화’가 이 정도였어? 뜻밖의 결과들 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/06/16/npsp_climatechangeimpact/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/05/28/npsp_caitlinclark/</guid>
             <pubDate>Tue, 28 May 2024 23:15:37 GMT</pubDate>
             <content:encoded><![CDATA[2024년 5월 29일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 인간보다 로봇에 더 혜택이 많은 미국, 우리는? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/05/27/npsp_aijobs/</link>
-            <guid>https://newspeppermint.com/2024/05/27/npsp_aijobs/</guid>
-            <pubDate>Mon, 27 May 2024 23:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 5월 28일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
