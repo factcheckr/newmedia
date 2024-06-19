@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 22:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 23:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] “숨 쉬는 건 범죄가 아니다”…노숙도 마찬가지? 간단치 않은 사정들 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/06/19/npsbs_scotushomeless/</link>
+            <guid>https://newspeppermint.com/2024/06/19/npsbs_scotushomeless/</guid>
+            <pubDate>Wed, 19 Jun 2024 23:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 6월 20일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[일론 머스크의 관심 값이 64조 원… 인류의 희망을 거는 대가, 맞나요? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/06/17/npsp_muskpaypackage/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/05/31/npsp_democracyelection/</guid>
             <pubDate>Fri, 31 May 2024 23:13:43 GMT</pubDate>
             <content:encoded><![CDATA[2024년 6월 1일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전례 없는 흥행 돌풍의 벌써 ‘레전드’…그런데 프로 되니까 수익 증발했다? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/05/28/npsp_caitlinclark/</link>
-            <guid>https://newspeppermint.com/2024/05/28/npsp_caitlinclark/</guid>
-            <pubDate>Tue, 28 May 2024 23:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 5월 29일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
