@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-06-23T23:14:05.818Z</updated>
+    <updated>2024-06-24T01:03:56.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“밖에서 편하게 사회생활하니까 애 키우는 게 고된 줄 모른다” 맞는 말일까?]]></title>
+        <id>https://newspeppermint.com/2024/06/23/npsp_dadbrain/</id>
+        <link href="https://newspeppermint.com/2024/06/23/npsp_dadbrain/"/>
+        <updated>2024-06-24T01:03:47.551Z</updated>
+        <content type="html"><![CDATA[2024년 6월 24일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “숨 쉬는 건 범죄가 아니다”…노숙도 마찬가지? 간단치 않은 사정들]]></title>
         <id>https://newspeppermint.com/2024/06/19/npsbs_scotushomeless/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/06/02/npsp_aillmloneliness/"/>
         <updated>2024-06-03T01:02:09.071Z</updated>
         <content type="html"><![CDATA[2024년 6월 3일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 선거 패자도 ‘정치 보복’ 걱정 안 해도 되는 미국]]></title>
-        <id>https://newspeppermint.com/2024/05/31/npsp_democracyelection/</id>
-        <link href="https://newspeppermint.com/2024/05/31/npsp_democracyelection/"/>
-        <updated>2024-05-31T23:13:43.518Z</updated>
-        <content type="html"><![CDATA[2024년 6월 1일]]></content>
     </entry>
 </feed>
