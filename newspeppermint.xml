@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-06-24T23:16:03.340Z</updated>
+    <updated>2024-06-25T01:02:36.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[흡연 이상으로 해로운 소셜미디어? “지금은 비상상황”… 여기에 공감하나요?]]></title>
+        <id>https://newspeppermint.com/2024/06/24/npsp_socialmediasurgeongeneral/</id>
+        <link href="https://newspeppermint.com/2024/06/24/npsp_socialmediasurgeongeneral/"/>
+        <updated>2024-06-25T01:02:26.802Z</updated>
+        <content type="html"><![CDATA[2024년 6월 25일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“밖에서 편하게 사회생활하니까 애 키우는 게 고된 줄 모른다” 맞는 말일까?]]></title>
         <id>https://newspeppermint.com/2024/06/23/npsp_dadbrain/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/06/03/npsp_birthdearth/"/>
         <updated>2024-06-03T23:15:10.815Z</updated>
         <content type="html"><![CDATA[2024년 6월 4일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI와 같이 살아도 ‘외로움’을 느낄 수밖에 없는 이유]]></title>
-        <id>https://newspeppermint.com/2024/06/02/npsp_aillmloneliness/</id>
-        <link href="https://newspeppermint.com/2024/06/02/npsp_aillmloneliness/"/>
-        <updated>2024-06-03T01:02:09.071Z</updated>
-        <content type="html"><![CDATA[2024년 6월 3일]]></content>
     </entry>
 </feed>
