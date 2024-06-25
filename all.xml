@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 22:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 23:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 중국과 미국이 기술 협력한다? 이게 쉽지 않은 이유 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/06/25/npsp_chinagreenpolicy/</link>
+            <guid>https://newspeppermint.com/2024/06/25/npsp_chinagreenpolicy/</guid>
+            <pubDate>Tue, 25 Jun 2024 23:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 6월 26일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[흡연 이상으로 해로운 소셜미디어? “지금은 비상상황”… 여기에 공감하나요? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/06/24/npsp_socialmediasurgeongeneral/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/06/05/npsp_buylongerlife/</guid>
             <pubDate>Wed, 05 Jun 2024 22:13:54 GMT</pubDate>
             <content:encoded><![CDATA[2024년 6월 6일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 계속 심각하니 어느새 간과하는 걸까, 저출생 문제 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/06/03/npsp_birthdearth/</link>
-            <guid>https://newspeppermint.com/2024/06/03/npsp_birthdearth/</guid>
-            <pubDate>Mon, 03 Jun 2024 23:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 6월 4일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
