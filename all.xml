@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 09:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 10:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“그렇게만 할 거면… 올림픽 왜 하니?” 배제와 포용, 답은 정해져 있다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/06/28/npsp_sextestingolympics/</link>
+            <guid>https://newspeppermint.com/2024/06/28/npsp_sextestingolympics/</guid>
+            <pubDate>Fri, 28 Jun 2024 10:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 6월 29일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 중국과 미국이 기술 협력한다? 이게 쉽지 않은 이유 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/06/25/npsp_chinagreenpolicy/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/06/07/npsp_electoralcollege/</guid>
             <pubDate>Fri, 07 Jun 2024 23:15:54 GMT</pubDate>
             <content:encoded><![CDATA[2024년 6월 8일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘억만장자들만의 세상’, 이제는 대놓고 펼쳐진다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/06/05/npsp_buylongerlife/</link>
-            <guid>https://newspeppermint.com/2024/06/05/npsp_buylongerlife/</guid>
-            <pubDate>Wed, 05 Jun 2024 22:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 6월 6일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

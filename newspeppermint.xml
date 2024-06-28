@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-06-28T09:15:41.688Z</updated>
+    <updated>2024-06-28T10:15:30.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“그렇게만 할 거면… 올림픽 왜 하니?” 배제와 포용, 답은 정해져 있다]]></title>
+        <id>https://newspeppermint.com/2024/06/28/npsp_sextestingolympics/</id>
+        <link href="https://newspeppermint.com/2024/06/28/npsp_sextestingolympics/"/>
+        <updated>2024-06-28T10:15:22.141Z</updated>
+        <content type="html"><![CDATA[2024년 6월 29일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 중국과 미국이 기술 협력한다? 이게 쉽지 않은 이유]]></title>
         <id>https://newspeppermint.com/2024/06/25/npsp_chinagreenpolicy/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/06/07/npsp_electoralcollege/"/>
         <updated>2024-06-07T23:15:54.689Z</updated>
         <content type="html"><![CDATA[2024년 6월 8일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘억만장자들만의 세상’, 이제는 대놓고 펼쳐진다]]></title>
-        <id>https://newspeppermint.com/2024/06/05/npsp_buylongerlife/</id>
-        <link href="https://newspeppermint.com/2024/06/05/npsp_buylongerlife/"/>
-        <updated>2024-06-05T22:13:54.201Z</updated>
-        <content type="html"><![CDATA[2024년 6월 6일]]></content>
     </entry>
 </feed>
