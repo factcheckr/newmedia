@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jun 2024 22:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jun 2024 23:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] “스마트폰이 정신건강에 문제야”…그렇긴 한데 다른 이유가 더 있다면? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/06/30/npsp_mentalhealthsmartphone/</link>
+            <guid>https://newspeppermint.com/2024/06/30/npsp_mentalhealthsmartphone/</guid>
+            <pubDate>Sun, 30 Jun 2024 23:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 7월 1일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 미국 대학 캠퍼스 시위를 외면할 수 없는 ‘바이든의 딜레마’ (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/06/28/npsp_campusprotestbiden/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2024/06/10/npsp_openletters/</link>
             <guid>https://newspeppermint.com/2024/06/10/npsp_openletters/</guid>
             <pubDate>Mon, 10 Jun 2024 23:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 6월 11일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미국이 자칫하면 ‘한국 꼴’ 될 수 있다고? 달갑지 않은 최신 ‘K-트렌드’ (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/06/10/npsp_birthrategendernorm/</link>
-            <guid>https://newspeppermint.com/2024/06/10/npsp_birthrategendernorm/</guid>
-            <pubDate>Mon, 10 Jun 2024 04:19:06 GMT</pubDate>
             <content:encoded><![CDATA[2024년 6월 11일]]></content:encoded>
         </item>
         <item>
