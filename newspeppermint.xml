@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-07-02T07:15:07.905Z</updated>
+    <updated>2024-07-02T08:19:29.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[만약 바이든이 후보 사퇴한다면? 이렇게 진행될 겁니다]]></title>
+        <id>https://newspeppermint.com/2024/07/02/npsp_openconvention/</id>
+        <link href="https://newspeppermint.com/2024/07/02/npsp_openconvention/"/>
+        <updated>2024-07-02T08:19:23.359Z</updated>
+        <content type="html"><![CDATA[2024년 7월 3일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “스마트폰이 정신건강에 문제야”…그렇긴 한데 다른 이유가 더 있다면?]]></title>
         <id>https://newspeppermint.com/2024/06/30/npsp_mentalhealthsmartphone/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/06/14/npsp_mindsos/"/>
         <updated>2024-06-14T23:13:55.453Z</updated>
         <content type="html"><![CDATA[2024년 6월 15일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] ‘사이다 발언’에 박수 갈채? 그에 앞서 생각해 볼 두 가지 용기]]></title>
-        <id>https://newspeppermint.com/2024/06/10/npsp_openletters/</id>
-        <link href="https://newspeppermint.com/2024/06/10/npsp_openletters/"/>
-        <updated>2024-06-10T23:14:28.629Z</updated>
-        <content type="html"><![CDATA[2024년 6월 11일]]></content>
     </entry>
 </feed>
