@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-07-03T22:14:11.370Z</updated>
+    <updated>2024-07-03T23:16:57.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 드래곤볼의 ‘원기옥’처럼? 억만장자에게 세금을 걷자는 “증세 동맹” 가능할까]]></title>
+        <id>https://newspeppermint.com/2024/07/03/npsp_taxbillionaires/</id>
+        <link href="https://newspeppermint.com/2024/07/03/npsp_taxbillionaires/"/>
+        <updated>2024-07-03T23:16:50.405Z</updated>
+        <content type="html"><![CDATA[2024년 7월 4일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[만약 바이든이 후보 사퇴한다면? 이렇게 진행될 겁니다]]></title>
         <id>https://newspeppermint.com/2024/07/02/npsp_openconvention/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/06/15/npsp_aging/"/>
         <updated>2024-06-16T01:07:02.817Z</updated>
         <content type="html"><![CDATA[2024년 6월 16일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 데이트 상대로 ‘심리 상담’ 받는 사람을 선호한다고? 운동만 자기 관리가 아니다]]></title>
-        <id>https://newspeppermint.com/2024/06/14/npsp_mindsos/</id>
-        <link href="https://newspeppermint.com/2024/06/14/npsp_mindsos/"/>
-        <updated>2024-06-14T23:13:55.453Z</updated>
-        <content type="html"><![CDATA[2024년 6월 15일]]></content>
     </entry>
 </feed>
