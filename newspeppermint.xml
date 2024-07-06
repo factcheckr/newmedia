@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-07-06T05:14:55.449Z</updated>
+    <updated>2024-07-06T06:18:26.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“마녀사냥에 복수” 다짐하는 그, 정말로 ‘제왕적 대통령’ 될까]]></title>
+        <id>https://newspeppermint.com/2024/07/06/npsp_imperialpresidency/</id>
+        <link href="https://newspeppermint.com/2024/07/06/npsp_imperialpresidency/"/>
+        <updated>2024-07-06T06:18:17.060Z</updated>
+        <content type="html"><![CDATA[2024년 7월 7일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 드래곤볼의 ‘원기옥’처럼? 억만장자에게 세금을 걷자는 “증세 동맹” 가능할까]]></title>
         <id>https://newspeppermint.com/2024/07/03/npsp_taxbillionaires/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/06/16/npsp_climatechangeimpact/"/>
         <updated>2024-06-16T23:17:26.008Z</updated>
         <content type="html"><![CDATA[2024년 6월 17일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인구소멸’ 한국을 위해 할 수 있는 일]]></title>
-        <id>https://newspeppermint.com/2024/06/15/npsp_aging/</id>
-        <link href="https://newspeppermint.com/2024/06/15/npsp_aging/"/>
-        <updated>2024-06-16T01:07:02.817Z</updated>
-        <content type="html"><![CDATA[2024년 6월 16일]]></content>
     </entry>
 </feed>
