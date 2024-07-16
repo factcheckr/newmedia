@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-07-16T01:05:53.693Z</updated>
+    <updated>2024-07-16T02:34:06.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘조지 클루니, 너마저…’ 바이든의 속내가 어떻든 지금은 ‘트럼프의 시간’]]></title>
+        <id>https://newspeppermint.com/2024/07/15/npsp_rnctrump/</id>
+        <link href="https://newspeppermint.com/2024/07/15/npsp_rnctrump/"/>
+        <updated>2024-07-16T02:33:56.979Z</updated>
+        <content type="html"><![CDATA[2024년 7월 16일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 만악의 근원은 그놈이었네… “이미 늦었다”면 뭘 할 수 있을까]]></title>
         <id>https://newspeppermint.com/2024/07/07/npsp_pollenallergy/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/06/19/npsbs_scotushomeless/"/>
         <updated>2024-06-19T23:14:43.821Z</updated>
         <content type="html"><![CDATA[2024년 6월 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일론 머스크의 관심 값이 64조 원… 인류의 희망을 거는 대가, 맞나요?]]></title>
-        <id>https://newspeppermint.com/2024/06/17/npsp_muskpaypackage/</id>
-        <link href="https://newspeppermint.com/2024/06/17/npsp_muskpaypackage/"/>
-        <updated>2024-06-18T02:30:58.996Z</updated>
-        <content type="html"><![CDATA[2024년 6월 18일]]></content>
     </entry>
 </feed>
