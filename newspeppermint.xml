@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-07-17T22:14:47.543Z</updated>
+    <updated>2024-07-17T23:15:58.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 둘이 같은 목소리 낼 때도 있네? ‘두 번째 차이나 쇼크’ 어떻게 될까]]></title>
+        <id>https://newspeppermint.com/2024/07/17/npsp_chinashock/</id>
+        <link href="https://newspeppermint.com/2024/07/17/npsp_chinashock/"/>
+        <updated>2024-07-17T23:15:50.623Z</updated>
+        <content type="html"><![CDATA[2024년 7월 18일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘조지 클루니, 너마저…’ 바이든의 속내가 어떻든 지금은 ‘트럼프의 시간’]]></title>
         <id>https://newspeppermint.com/2024/07/15/npsp_rnctrump/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/06/23/npsp_dadbrain/"/>
         <updated>2024-06-24T01:03:47.551Z</updated>
         <content type="html"><![CDATA[2024년 6월 24일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “숨 쉬는 건 범죄가 아니다”…노숙도 마찬가지? 간단치 않은 사정들]]></title>
-        <id>https://newspeppermint.com/2024/06/19/npsbs_scotushomeless/</id>
-        <link href="https://newspeppermint.com/2024/06/19/npsbs_scotushomeless/"/>
-        <updated>2024-06-19T23:14:43.821Z</updated>
-        <content type="html"><![CDATA[2024년 6월 20일]]></content>
     </entry>
 </feed>
