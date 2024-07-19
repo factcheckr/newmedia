@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-07-19T02:03:14.337Z</updated>
+    <updated>2024-07-19T02:33:32.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트럼프의 픽은 ‘리틀 트럼프’… 그가 그리는 더 큰 그림은]]></title>
+        <id>https://newspeppermint.com/2024/07/18/npsp_jdvance/</id>
+        <link href="https://newspeppermint.com/2024/07/18/npsp_jdvance/"/>
+        <updated>2024-07-19T02:33:24.130Z</updated>
+        <content type="html"><![CDATA[2024년 7월 19일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 둘이 같은 목소리 낼 때도 있네? ‘두 번째 차이나 쇼크’ 어떻게 될까]]></title>
         <id>https://newspeppermint.com/2024/07/17/npsp_chinashock/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/06/24/npsp_socialmediasurgeongeneral/"/>
         <updated>2024-06-25T01:02:26.802Z</updated>
         <content type="html"><![CDATA[2024년 6월 25일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“밖에서 편하게 사회생활하니까 애 키우는 게 고된 줄 모른다” 맞는 말일까?]]></title>
-        <id>https://newspeppermint.com/2024/06/23/npsp_dadbrain/</id>
-        <link href="https://newspeppermint.com/2024/06/23/npsp_dadbrain/"/>
-        <updated>2024-06-24T01:03:47.551Z</updated>
-        <content type="html"><![CDATA[2024년 6월 24일]]></content>
     </entry>
 </feed>

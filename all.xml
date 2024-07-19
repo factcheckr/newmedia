@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 02:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 02:33:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트럼프의 픽은 ‘리틀 트럼프’… 그가 그리는 더 큰 그림은 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/07/18/npsp_jdvance/</link>
+            <guid>https://newspeppermint.com/2024/07/18/npsp_jdvance/</guid>
+            <pubDate>Fri, 19 Jul 2024 02:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 7월 19일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 둘이 같은 목소리 낼 때도 있네? ‘두 번째 차이나 쇼크’ 어떻게 될까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/07/17/npsp_chinashock/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/06/24/npsp_socialmediasurgeongeneral/</guid>
             <pubDate>Tue, 25 Jun 2024 01:02:26 GMT</pubDate>
             <content:encoded><![CDATA[2024년 6월 25일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“밖에서 편하게 사회생활하니까 애 키우는 게 고된 줄 모른다” 맞는 말일까? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/06/23/npsp_dadbrain/</link>
-            <guid>https://newspeppermint.com/2024/06/23/npsp_dadbrain/</guid>
-            <pubDate>Mon, 24 Jun 2024 01:03:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 6월 24일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
