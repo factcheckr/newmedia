@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 03:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 04:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“구국의 결단” 바이든 그 이후… 절대 놓치면 안 되는 것들이 있다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/07/22/npsp_bidenharristrumpvance/</link>
+            <guid>https://newspeppermint.com/2024/07/22/npsp_bidenharristrumpvance/</guid>
+            <pubDate>Tue, 23 Jul 2024 04:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 7월 23일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] “정의 구현” 대 “마녀사냥”, 프레임 전쟁의 승자와 패자는 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/07/21/npsp_trumptrialelection/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/06/28/npsp_sextestingolympics/</guid>
             <pubDate>Fri, 28 Jun 2024 10:15:22 GMT</pubDate>
             <content:encoded><![CDATA[2024년 6월 29일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 중국과 미국이 기술 협력한다? 이게 쉽지 않은 이유 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/06/25/npsp_chinagreenpolicy/</link>
-            <guid>https://newspeppermint.com/2024/06/25/npsp_chinagreenpolicy/</guid>
-            <pubDate>Tue, 25 Jun 2024 23:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 6월 26일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
