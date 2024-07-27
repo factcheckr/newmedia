@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-07-27T21:13:05.966Z</updated>
+    <updated>2024-07-27T22:16:36.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왜 저 나라가 스포츠 강국이냐… 올림픽 메달 개수보다 조금 더 ‘공정’한 방법은]]></title>
+        <id>https://newspeppermint.com/2024/07/27/npsp_olympicmedalcounts/</id>
+        <link href="https://newspeppermint.com/2024/07/27/npsp_olympicmedalcounts/"/>
+        <updated>2024-07-27T22:16:28.740Z</updated>
+        <content type="html"><![CDATA[2024년 7월 28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 전례 없는 흥행 돌풍의 벌써 ‘레전드’…그런데 프로 되니까 수익 증발했다?]]></title>
         <id>https://newspeppermint.com/2024/07/24/npsp_caitlinclark/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/06/30/npsp_mentalhealthsmartphone/"/>
         <updated>2024-06-30T23:15:46.708Z</updated>
         <content type="html"><![CDATA[2024년 7월 1일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 미국 대학 캠퍼스 시위를 외면할 수 없는 ‘바이든의 딜레마’]]></title>
-        <id>https://newspeppermint.com/2024/06/28/npsp_campusprotestbiden/</id>
-        <link href="https://newspeppermint.com/2024/06/28/npsp_campusprotestbiden/"/>
-        <updated>2024-06-28T23:15:15.532Z</updated>
-        <content type="html"><![CDATA[2024년 6월 29일]]></content>
     </entry>
 </feed>
