@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-07-28T22:14:49.612Z</updated>
+    <updated>2024-07-28T23:15:16.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] AI와 같이 살아도 ‘외로움’을 느낄 수밖에 없는 이유]]></title>
+        <id>https://newspeppermint.com/2024/07/28/npsp_aillmloneliness/</id>
+        <link href="https://newspeppermint.com/2024/07/28/npsp_aillmloneliness/"/>
+        <updated>2024-07-28T23:15:07.887Z</updated>
+        <content type="html"><![CDATA[2024년 7월 29일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왜 저 나라가 스포츠 강국이냐… 올림픽 메달 개수보다 조금 더 ‘공정’한 방법은]]></title>
         <id>https://newspeppermint.com/2024/07/27/npsp_olympicmedalcounts/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/07/02/npsp_openconvention/"/>
         <updated>2024-07-02T08:19:23.359Z</updated>
         <content type="html"><![CDATA[2024년 7월 3일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “스마트폰이 정신건강에 문제야”…그렇긴 한데 다른 이유가 더 있다면?]]></title>
-        <id>https://newspeppermint.com/2024/06/30/npsp_mentalhealthsmartphone/</id>
-        <link href="https://newspeppermint.com/2024/06/30/npsp_mentalhealthsmartphone/"/>
-        <updated>2024-06-30T23:15:46.708Z</updated>
-        <content type="html"><![CDATA[2024년 7월 1일]]></content>
     </entry>
 </feed>
