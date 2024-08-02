@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 23:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 01:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 민주당과 해리스의 최우선 과제?… “두 마리 토끼 쫓는 셈” (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/08/01/npsp_harrisvtrump/</link>
+            <guid>https://newspeppermint.com/2024/08/01/npsp_harrisvtrump/</guid>
+            <pubDate>Fri, 02 Aug 2024 01:04:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 8월 2일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘억만장자들만의 세상’, 이제는 대놓고 펼쳐진다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/07/30/npsp_buylongerlife/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/07/07/npsp_pollenallergy/</guid>
             <pubDate>Sun, 07 Jul 2024 23:15:24 GMT</pubDate>
             <content:encoded><![CDATA[2024년 7월 8일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“마녀사냥에 복수” 다짐하는 그, 정말로 ‘제왕적 대통령’ 될까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/07/06/npsp_imperialpresidency/</link>
-            <guid>https://newspeppermint.com/2024/07/06/npsp_imperialpresidency/</guid>
-            <pubDate>Sat, 06 Jul 2024 06:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 7월 7일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
