@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-08-05T23:16:19.948Z</updated>
+    <updated>2024-08-06T01:05:06.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예약이 ‘하늘의 별 따기’인 식당들, 이런 것까지 할 수 있을까]]></title>
+        <id>https://newspeppermint.com/2024/08/05/npsp_finedining/</id>
+        <link href="https://newspeppermint.com/2024/08/05/npsp_finedining/"/>
+        <updated>2024-08-06T01:04:58.108Z</updated>
+        <content type="html"><![CDATA[2024년 8월 6일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 미국이 자칫하면 ‘한국 꼴’ 될 수 있다고? 달갑지 않은 최신 ‘K-트렌드’]]></title>
         <id>https://newspeppermint.com/2024/08/02/npsp_birthrategendernorm/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/07/17/npsp_chinashock/"/>
         <updated>2024-07-17T23:15:50.623Z</updated>
         <content type="html"><![CDATA[2024년 7월 18일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘조지 클루니, 너마저…’ 바이든의 속내가 어떻든 지금은 ‘트럼프의 시간’]]></title>
-        <id>https://newspeppermint.com/2024/07/15/npsp_rnctrump/</id>
-        <link href="https://newspeppermint.com/2024/07/15/npsp_rnctrump/"/>
-        <updated>2024-07-16T02:33:56.979Z</updated>
-        <content type="html"><![CDATA[2024년 7월 16일]]></content>
     </entry>
 </feed>
