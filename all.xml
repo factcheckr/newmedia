@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 22:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 23:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] ‘인구소멸’ 한국을 위해 할 수 있는 일 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/08/06/npsp_aging/</link>
+            <guid>https://newspeppermint.com/2024/08/06/npsp_aging/</guid>
+            <pubDate>Tue, 06 Aug 2024 23:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 8월 7일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[예약이 ‘하늘의 별 따기’인 식당들, 이런 것까지 할 수 있을까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/08/05/npsp_finedining/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/07/18/npsp_jdvance/</guid>
             <pubDate>Fri, 19 Jul 2024 02:33:24 GMT</pubDate>
             <content:encoded><![CDATA[2024년 7월 19일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 둘이 같은 목소리 낼 때도 있네? ‘두 번째 차이나 쇼크’ 어떻게 될까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/07/17/npsp_chinashock/</link>
-            <guid>https://newspeppermint.com/2024/07/17/npsp_chinashock/</guid>
-            <pubDate>Wed, 17 Jul 2024 23:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 7월 18일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

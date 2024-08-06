@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-08-06T22:14:14.226Z</updated>
+    <updated>2024-08-06T23:15:01.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] ‘인구소멸’ 한국을 위해 할 수 있는 일]]></title>
+        <id>https://newspeppermint.com/2024/08/06/npsp_aging/</id>
+        <link href="https://newspeppermint.com/2024/08/06/npsp_aging/"/>
+        <updated>2024-08-06T23:14:52.137Z</updated>
+        <content type="html"><![CDATA[2024년 8월 7일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예약이 ‘하늘의 별 따기’인 식당들, 이런 것까지 할 수 있을까]]></title>
         <id>https://newspeppermint.com/2024/08/05/npsp_finedining/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/07/18/npsp_jdvance/"/>
         <updated>2024-07-19T02:33:24.130Z</updated>
         <content type="html"><![CDATA[2024년 7월 19일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 둘이 같은 목소리 낼 때도 있네? ‘두 번째 차이나 쇼크’ 어떻게 될까]]></title>
-        <id>https://newspeppermint.com/2024/07/17/npsp_chinashock/</id>
-        <link href="https://newspeppermint.com/2024/07/17/npsp_chinashock/"/>
-        <updated>2024-07-17T23:15:50.623Z</updated>
-        <content type="html"><![CDATA[2024년 7월 18일]]></content>
     </entry>
 </feed>
