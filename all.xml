@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 19:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 20:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“여론조사 믿기 어렵다”는 반응까지… 8월을 해리스의 시간이라 하는 이유 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/08/13/npsp_harristrump/</link>
+            <guid>https://newspeppermint.com/2024/08/13/npsp_harristrump/</guid>
+            <pubDate>Tue, 13 Aug 2024 20:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 8월 14일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘인구소멸’ 한국을 위해 할 수 있는 일 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/08/06/npsp_aging/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/07/21/npsp_trumptrialelection/</guid>
             <pubDate>Sun, 21 Jul 2024 23:14:54 GMT</pubDate>
             <content:encoded><![CDATA[2024년 7월 22일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트럼프의 픽은 ‘리틀 트럼프’… 그가 그리는 더 큰 그림은 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/07/18/npsp_jdvance/</link>
-            <guid>https://newspeppermint.com/2024/07/18/npsp_jdvance/</guid>
-            <pubDate>Fri, 19 Jul 2024 02:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 7월 19일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
