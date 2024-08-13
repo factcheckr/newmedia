@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 22:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 23:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 일론 머스크의 관심 값이 64조 원… 인류의 희망을 거는 대가, 맞나요? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/08/13/npsp_muskpaypackage/</link>
+            <guid>https://newspeppermint.com/2024/08/13/npsp_muskpaypackage/</guid>
+            <pubDate>Tue, 13 Aug 2024 23:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 8월 14일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“여론조사 믿기 어렵다”는 반응까지… 8월을 해리스의 시간이라 하는 이유 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/08/13/npsp_harristrump/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/07/22/npsp_bidenharristrumpvance/</guid>
             <pubDate>Tue, 23 Jul 2024 04:17:30 GMT</pubDate>
             <content:encoded><![CDATA[2024년 7월 23일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] “정의 구현” 대 “마녀사냥”, 프레임 전쟁의 승자와 패자는 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/07/21/npsp_trumptrialelection/</link>
-            <guid>https://newspeppermint.com/2024/07/21/npsp_trumptrialelection/</guid>
-            <pubDate>Sun, 21 Jul 2024 23:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 7월 22일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
