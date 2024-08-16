@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-08-16T22:14:52.991Z</updated>
+    <updated>2024-08-16T23:15:44.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “밖에서 편하게 사회생활하니까 애 키우는 게 고된 줄 모른다” 맞는 말일까?]]></title>
+        <id>https://newspeppermint.com/2024/08/16/npsp_dadbrain/</id>
+        <link href="https://newspeppermint.com/2024/08/16/npsp_dadbrain/"/>
+        <updated>2024-08-16T23:15:36.326Z</updated>
+        <content type="html"><![CDATA[2024년 8월 17일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘구글 소송’ 승리한 미국 정부… 구글, 어떻게 할 것인가]]></title>
         <id>https://newspeppermint.com/2024/08/16/npsp_googleantitrust/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/07/27/npsp_olympicmedalcounts/"/>
         <updated>2024-07-27T22:16:28.740Z</updated>
         <content type="html"><![CDATA[2024년 7월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 전례 없는 흥행 돌풍의 벌써 ‘레전드’…그런데 프로 되니까 수익 증발했다?]]></title>
-        <id>https://newspeppermint.com/2024/07/24/npsp_caitlinclark/</id>
-        <link href="https://newspeppermint.com/2024/07/24/npsp_caitlinclark/"/>
-        <updated>2024-07-24T23:15:34.904Z</updated>
-        <content type="html"><![CDATA[2024년 7월 25일]]></content>
     </entry>
 </feed>
