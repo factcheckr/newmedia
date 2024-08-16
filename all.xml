@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 11:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 12:28:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘구글 소송’ 승리한 미국 정부… 구글, 어떻게 할 것인가 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/08/16/npsp_googleantitrust/</link>
+            <guid>https://newspeppermint.com/2024/08/16/npsp_googleantitrust/</guid>
+            <pubDate>Fri, 16 Aug 2024 12:28:51 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 8월 17일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 일론 머스크의 관심 값이 64조 원… 인류의 희망을 거는 대가, 맞나요? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/08/13/npsp_muskpaypackage/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/07/24/npsp_caitlinclark/</guid>
             <pubDate>Wed, 24 Jul 2024 23:15:34 GMT</pubDate>
             <content:encoded><![CDATA[2024년 7월 25일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“구국의 결단” 바이든 그 이후… 절대 놓치면 안 되는 것들이 있다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/07/22/npsp_bidenharristrumpvance/</link>
-            <guid>https://newspeppermint.com/2024/07/22/npsp_bidenharristrumpvance/</guid>
-            <pubDate>Tue, 23 Jul 2024 04:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 7월 23일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

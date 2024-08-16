@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-08-16T11:13:49.701Z</updated>
+    <updated>2024-08-16T12:28:59.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘구글 소송’ 승리한 미국 정부… 구글, 어떻게 할 것인가]]></title>
+        <id>https://newspeppermint.com/2024/08/16/npsp_googleantitrust/</id>
+        <link href="https://newspeppermint.com/2024/08/16/npsp_googleantitrust/"/>
+        <updated>2024-08-16T12:28:51.693Z</updated>
+        <content type="html"><![CDATA[2024년 8월 17일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 일론 머스크의 관심 값이 64조 원… 인류의 희망을 거는 대가, 맞나요?]]></title>
         <id>https://newspeppermint.com/2024/08/13/npsp_muskpaypackage/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/07/24/npsp_caitlinclark/"/>
         <updated>2024-07-24T23:15:34.904Z</updated>
         <content type="html"><![CDATA[2024년 7월 25일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“구국의 결단” 바이든 그 이후… 절대 놓치면 안 되는 것들이 있다]]></title>
-        <id>https://newspeppermint.com/2024/07/22/npsp_bidenharristrumpvance/</id>
-        <link href="https://newspeppermint.com/2024/07/22/npsp_bidenharristrumpvance/"/>
-        <updated>2024-07-23T04:17:30.838Z</updated>
-        <content type="html"><![CDATA[2024년 7월 23일]]></content>
     </entry>
 </feed>
