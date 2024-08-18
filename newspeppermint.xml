@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-08-18T22:14:17.246Z</updated>
+    <updated>2024-08-18T23:15:51.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 흡연 이상으로 해로운 소셜미디어? “지금은 비상상황”… 여기에 공감하나요?]]></title>
+        <id>https://newspeppermint.com/2024/08/18/npsp_socialmediasurgeongeneral/</id>
+        <link href="https://newspeppermint.com/2024/08/18/npsp_socialmediasurgeongeneral/"/>
+        <updated>2024-08-18T23:15:41.389Z</updated>
+        <content type="html"><![CDATA[2024년 8월 19일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “밖에서 편하게 사회생활하니까 애 키우는 게 고된 줄 모른다” 맞는 말일까?]]></title>
         <id>https://newspeppermint.com/2024/08/16/npsp_dadbrain/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/07/28/npsp_aillmloneliness/"/>
         <updated>2024-07-28T23:15:07.887Z</updated>
         <content type="html"><![CDATA[2024년 7월 29일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 저 나라가 스포츠 강국이냐… 올림픽 메달 개수보다 조금 더 ‘공정’한 방법은]]></title>
-        <id>https://newspeppermint.com/2024/07/27/npsp_olympicmedalcounts/</id>
-        <link href="https://newspeppermint.com/2024/07/27/npsp_olympicmedalcounts/"/>
-        <updated>2024-07-27T22:16:28.740Z</updated>
-        <content type="html"><![CDATA[2024년 7월 28일]]></content>
     </entry>
 </feed>
