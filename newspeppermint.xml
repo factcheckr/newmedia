@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-08-20T19:12:23.777Z</updated>
+    <updated>2024-08-20T20:18:08.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이민자들이 몰려온다”는데… 문제 못 풀게 발목 잡은 건 누구였나]]></title>
+        <id>https://newspeppermint.com/2024/08/20/npsp_usimmigrationelection/</id>
+        <link href="https://newspeppermint.com/2024/08/20/npsp_usimmigrationelection/"/>
+        <updated>2024-08-20T20:18:01.013Z</updated>
+        <content type="html"><![CDATA[2024년 8월 21일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 흡연 이상으로 해로운 소셜미디어? “지금은 비상상황”… 여기에 공감하나요?]]></title>
         <id>https://newspeppermint.com/2024/08/18/npsp_socialmediasurgeongeneral/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/07/29/npsp_foreignlanguage/"/>
         <updated>2024-07-30T03:18:45.203Z</updated>
         <content type="html"><![CDATA[2024년 7월 30일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] AI와 같이 살아도 ‘외로움’을 느낄 수밖에 없는 이유]]></title>
-        <id>https://newspeppermint.com/2024/07/28/npsp_aillmloneliness/</id>
-        <link href="https://newspeppermint.com/2024/07/28/npsp_aillmloneliness/"/>
-        <updated>2024-07-28T23:15:07.887Z</updated>
-        <content type="html"><![CDATA[2024년 7월 29일]]></content>
     </entry>
 </feed>
