@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 22:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 23:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] “그렇게만 할 거면… 올림픽 왜 하니?” 배제와 포용, 답은 정해져 있다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/08/21/npsp_sextestingolympics/</link>
+            <guid>https://newspeppermint.com/2024/08/21/npsp_sextestingolympics/</guid>
+            <pubDate>Wed, 21 Aug 2024 23:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 8월 22일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“이민자들이 몰려온다”는데… 문제 못 풀게 발목 잡은 건 누구였나 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/08/20/npsp_usimmigrationelection/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/07/30/npsp_buylongerlife/</guid>
             <pubDate>Tue, 30 Jul 2024 23:13:42 GMT</pubDate>
             <content:encoded><![CDATA[2024년 7월 31일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘영어 울렁증’ 사라지는데도 외국어 공부는 왜 해야 하냐 묻는다면 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/07/29/npsp_foreignlanguage/</link>
-            <guid>https://newspeppermint.com/2024/07/29/npsp_foreignlanguage/</guid>
-            <pubDate>Tue, 30 Jul 2024 03:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 7월 30일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
