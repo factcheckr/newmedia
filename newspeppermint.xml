@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-08-23T01:06:21.203Z</updated>
+    <updated>2024-08-23T02:35:58.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 만약 바이든이 후보 사퇴한다면? 이렇게 진행될 겁니다]]></title>
+        <id>https://newspeppermint.com/2024/08/22/npsp_openconvention/</id>
+        <link href="https://newspeppermint.com/2024/08/22/npsp_openconvention/"/>
+        <updated>2024-08-23T02:35:50.274Z</updated>
+        <content type="html"><![CDATA[2024년 8월 23일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘주머니 사정’이 선거 승패 가른다면 누가 더 유리할까?]]></title>
         <id>https://newspeppermint.com/2024/08/22/npsp_economicplanharristrump/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/08/02/npsp_birthrategendernorm/"/>
         <updated>2024-08-02T23:14:07.185Z</updated>
         <content type="html"><![CDATA[2024년 8월 3일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 민주당과 해리스의 최우선 과제?… “두 마리 토끼 쫓는 셈”]]></title>
-        <id>https://newspeppermint.com/2024/08/01/npsp_harrisvtrump/</id>
-        <link href="https://newspeppermint.com/2024/08/01/npsp_harrisvtrump/"/>
-        <updated>2024-08-02T01:04:37.250Z</updated>
-        <content type="html"><![CDATA[2024년 8월 2일]]></content>
     </entry>
 </feed>

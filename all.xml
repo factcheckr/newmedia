@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 01:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 02:35:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 만약 바이든이 후보 사퇴한다면? 이렇게 진행될 겁니다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/08/22/npsp_openconvention/</link>
+            <guid>https://newspeppermint.com/2024/08/22/npsp_openconvention/</guid>
+            <pubDate>Fri, 23 Aug 2024 02:35:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 8월 23일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘주머니 사정’이 선거 승패 가른다면 누가 더 유리할까? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/08/22/npsp_economicplanharristrump/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/08/02/npsp_birthrategendernorm/</guid>
             <pubDate>Fri, 02 Aug 2024 23:14:07 GMT</pubDate>
             <content:encoded><![CDATA[2024년 8월 3일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지금 민주당과 해리스의 최우선 과제?… “두 마리 토끼 쫓는 셈” (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/08/01/npsp_harrisvtrump/</link>
-            <guid>https://newspeppermint.com/2024/08/01/npsp_harrisvtrump/</guid>
-            <pubDate>Fri, 02 Aug 2024 01:04:37 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 8월 2일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
