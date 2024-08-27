@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 12:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 13:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 최초의 여성 대통령이 탄생한다면, 이런 ‘최초들’도 함께 겪게 될 것 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/08/27/npsp_madamepresident/</link>
+            <guid>https://newspeppermint.com/2024/08/27/npsp_madamepresident/</guid>
+            <pubDate>Tue, 27 Aug 2024 13:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 8월 28일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] “마녀사냥에 복수” 다짐하는 그, 정말로 ‘제왕적 대통령’ 될까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/08/25/npsp_imperialpresidency/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/08/06/npsp_aging/</guid>
             <pubDate>Tue, 06 Aug 2024 23:14:52 GMT</pubDate>
             <content:encoded><![CDATA[2024년 8월 7일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[예약이 ‘하늘의 별 따기’인 식당들, 이런 것까지 할 수 있을까 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/08/05/npsp_finedining/</link>
-            <guid>https://newspeppermint.com/2024/08/05/npsp_finedining/</guid>
-            <pubDate>Tue, 06 Aug 2024 01:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 8월 6일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
