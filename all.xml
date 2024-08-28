@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 22:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 23:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] “수입품에 10% 일괄 관세를” 트럼프의 이토록 허술한 공약이 먹히는 이유 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/08/28/npsp_trumptariffs/</link>
+            <guid>https://newspeppermint.com/2024/08/28/npsp_trumptariffs/</guid>
+            <pubDate>Wed, 28 Aug 2024 23:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 8월 29일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[미국 최초의 여성 대통령이 탄생한다면, 이런 ‘최초들’도 함께 겪게 될 것 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/08/27/npsp_madamepresident/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/08/13/npsp_harristrump/</guid>
             <pubDate>Tue, 13 Aug 2024 20:15:41 GMT</pubDate>
             <content:encoded><![CDATA[2024년 8월 14일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] ‘인구소멸’ 한국을 위해 할 수 있는 일 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/08/06/npsp_aging/</link>
-            <guid>https://newspeppermint.com/2024/08/06/npsp_aging/</guid>
-            <pubDate>Tue, 06 Aug 2024 23:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 8월 7일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
