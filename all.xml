@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 01:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 02:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘문제투성이 중국의 일대일로 정책’? 이 관점에서 보면 다르다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/08/29/npsp_chinaeconomy-2/</link>
+            <guid>https://newspeppermint.com/2024/08/29/npsp_chinaeconomy-2/</guid>
+            <pubDate>Fri, 30 Aug 2024 02:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 8월 30일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] “수입품에 10% 일괄 관세를” 트럼프의 이토록 허술한 공약이 먹히는 이유 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/08/28/npsp_trumptariffs/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2024/08/13/npsp_muskpaypackage/</link>
             <guid>https://newspeppermint.com/2024/08/13/npsp_muskpaypackage/</guid>
             <pubDate>Tue, 13 Aug 2024 23:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 8월 14일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“여론조사 믿기 어렵다”는 반응까지… 8월을 해리스의 시간이라 하는 이유 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/08/13/npsp_harristrump/</link>
-            <guid>https://newspeppermint.com/2024/08/13/npsp_harristrump/</guid>
-            <pubDate>Tue, 13 Aug 2024 20:15:41 GMT</pubDate>
             <content:encoded><![CDATA[2024년 8월 14일]]></content:encoded>
         </item>
         <item>
