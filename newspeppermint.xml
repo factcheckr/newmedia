@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-09-03T02:38:59.348Z</updated>
+    <updated>2024-09-03T03:17:41.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스벅 주문법이 3천8백억 개? 창업자 호소까지 불러온 뜻밖의 악순환]]></title>
+        <id>https://newspeppermint.com/2024/09/02/npsp_starbucks/</id>
+        <link href="https://newspeppermint.com/2024/09/02/npsp_starbucks/"/>
+        <updated>2024-09-03T03:17:33.301Z</updated>
+        <content type="html"><![CDATA[2024년 9월 3일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘조지 클루니, 너마저…’ 바이든의 속내가 어떻든 지금은 ‘트럼프의 시간’]]></title>
         <id>https://newspeppermint.com/2024/08/30/npsp_rnctrump/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2024/08/16/npsp_dadbrain/</id>
         <link href="https://newspeppermint.com/2024/08/16/npsp_dadbrain/"/>
         <updated>2024-08-16T23:15:36.326Z</updated>
-        <content type="html"><![CDATA[2024년 8월 17일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘구글 소송’ 승리한 미국 정부… 구글, 어떻게 할 것인가]]></title>
-        <id>https://newspeppermint.com/2024/08/16/npsp_googleantitrust/</id>
-        <link href="https://newspeppermint.com/2024/08/16/npsp_googleantitrust/"/>
-        <updated>2024-08-16T12:28:51.693Z</updated>
         <content type="html"><![CDATA[2024년 8월 17일]]></content>
     </entry>
 </feed>
