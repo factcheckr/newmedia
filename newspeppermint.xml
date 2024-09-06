@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-09-05T23:16:08.997Z</updated>
+    <updated>2024-09-06T01:09:14.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이야기꽃 피우다 뜨끔했던 친구의 말… “조금씩 내 삶이 달라졌다”]]></title>
+        <id>https://newspeppermint.com/2024/09/05/npsp_gossip/</id>
+        <link href="https://newspeppermint.com/2024/09/05/npsp_gossip/"/>
+        <updated>2024-09-06T01:09:05.338Z</updated>
+        <content type="html"><![CDATA[2024년 9월 6일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 트럼프의 픽은 ‘리틀 트럼프’… 그가 그리는 더 큰 그림은]]></title>
         <id>https://newspeppermint.com/2024/09/04/npsp_jdvance/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/08/20/npsp_usimmigrationelection/"/>
         <updated>2024-08-20T20:18:01.013Z</updated>
         <content type="html"><![CDATA[2024년 8월 21일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 흡연 이상으로 해로운 소셜미디어? “지금은 비상상황”… 여기에 공감하나요?]]></title>
-        <id>https://newspeppermint.com/2024/08/18/npsp_socialmediasurgeongeneral/</id>
-        <link href="https://newspeppermint.com/2024/08/18/npsp_socialmediasurgeongeneral/"/>
-        <updated>2024-08-18T23:15:41.389Z</updated>
-        <content type="html"><![CDATA[2024년 8월 19일]]></content>
     </entry>
 </feed>
