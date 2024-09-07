@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Sep 2024 22:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2024 23:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] “구국의 결단” 바이든 그 이후… 절대 놓치면 안 되는 것들이 있다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/09/07/npsp_bidenharristrumpvance/</link>
+            <guid>https://newspeppermint.com/2024/09/07/npsp_bidenharristrumpvance/</guid>
+            <pubDate>Sat, 07 Sep 2024 23:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 9월 8일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이야기꽃 피우다 뜨끔했던 친구의 말… “조금씩 내 삶이 달라졌다” (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/09/05/npsp_gossip/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/08/21/npsp_sextestingolympics/</guid>
             <pubDate>Wed, 21 Aug 2024 23:15:00 GMT</pubDate>
             <content:encoded><![CDATA[2024년 8월 22일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“이민자들이 몰려온다”는데… 문제 못 풀게 발목 잡은 건 누구였나 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/08/20/npsp_usimmigrationelection/</link>
-            <guid>https://newspeppermint.com/2024/08/20/npsp_usimmigrationelection/</guid>
-            <pubDate>Tue, 20 Aug 2024 20:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 8월 21일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
