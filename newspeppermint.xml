@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-09-09T23:17:07.095Z</updated>
+    <updated>2024-09-10T01:10:13.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“‘진짜 노동자’의 절망, 내가 누구보다 잘 안다” 미국 대선의 진짜 승부처는 여기]]></title>
+        <id>https://newspeppermint.com/2024/09/09/npsp_laborfriendly/</id>
+        <link href="https://newspeppermint.com/2024/09/09/npsp_laborfriendly/"/>
+        <updated>2024-09-10T01:10:04.063Z</updated>
+        <content type="html"><![CDATA[2024년 9월 10일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “구국의 결단” 바이든 그 이후… 절대 놓치면 안 되는 것들이 있다]]></title>
         <id>https://newspeppermint.com/2024/09/07/npsp_bidenharristrumpvance/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/08/22/npsp_economicplanharristrump/"/>
         <updated>2024-08-23T01:06:13.491Z</updated>
         <content type="html"><![CDATA[2024년 8월 23일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “그렇게만 할 거면… 올림픽 왜 하니?” 배제와 포용, 답은 정해져 있다]]></title>
-        <id>https://newspeppermint.com/2024/08/21/npsp_sextestingolympics/</id>
-        <link href="https://newspeppermint.com/2024/08/21/npsp_sextestingolympics/"/>
-        <updated>2024-08-21T23:15:00.963Z</updated>
-        <content type="html"><![CDATA[2024년 8월 22일]]></content>
     </entry>
 </feed>
