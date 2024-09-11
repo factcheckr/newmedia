@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-09-11T22:15:54.450Z</updated>
+    <updated>2024-09-11T23:16:32.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 왜 저 나라가 스포츠 강국이냐… 올림픽 메달 개수보다 조금 더 ‘공정’한 방법은]]></title>
+        <id>https://newspeppermint.com/2024/09/11/npsp_olympicmedalcounts/</id>
+        <link href="https://newspeppermint.com/2024/09/11/npsp_olympicmedalcounts/"/>
+        <updated>2024-09-11T23:16:23.253Z</updated>
+        <content type="html"><![CDATA[2024년 9월 12일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공격의 고삐 쥔 트럼프, TV 토론으로 승리 방정식 재현할까?]]></title>
         <id>https://newspeppermint.com/2024/09/10/npsp_trumpharrisdebate/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/08/25/npsp_imperialpresidency/"/>
         <updated>2024-08-25T23:15:36.317Z</updated>
         <content type="html"><![CDATA[2024년 8월 26일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 만약 바이든이 후보 사퇴한다면? 이렇게 진행될 겁니다]]></title>
-        <id>https://newspeppermint.com/2024/08/22/npsp_openconvention/</id>
-        <link href="https://newspeppermint.com/2024/08/22/npsp_openconvention/"/>
-        <updated>2024-08-23T02:35:50.274Z</updated>
-        <content type="html"><![CDATA[2024년 8월 23일]]></content>
     </entry>
 </feed>
