@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-09-10T23:15:15.448Z</updated>
+    <updated>2024-09-11T01:09:56.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공격의 고삐 쥔 트럼프, TV 토론으로 승리 방정식 재현할까?]]></title>
+        <id>https://newspeppermint.com/2024/09/10/npsp_trumpharrisdebate/</id>
+        <link href="https://newspeppermint.com/2024/09/10/npsp_trumpharrisdebate/"/>
+        <updated>2024-09-11T01:09:46.910Z</updated>
+        <content type="html"><![CDATA[2024년 9월 11일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“‘진짜 노동자’의 절망, 내가 누구보다 잘 안다” 미국 대선의 진짜 승부처는 여기]]></title>
         <id>https://newspeppermint.com/2024/09/09/npsp_laborfriendly/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2024/08/22/npsp_openconvention/</id>
         <link href="https://newspeppermint.com/2024/08/22/npsp_openconvention/"/>
         <updated>2024-08-23T02:35:50.274Z</updated>
-        <content type="html"><![CDATA[2024년 8월 23일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘주머니 사정’이 선거 승패 가른다면 누가 더 유리할까?]]></title>
-        <id>https://newspeppermint.com/2024/08/22/npsp_economicplanharristrump/</id>
-        <link href="https://newspeppermint.com/2024/08/22/npsp_economicplanharristrump/"/>
-        <updated>2024-08-23T01:06:13.491Z</updated>
         <content type="html"><![CDATA[2024년 8월 23일]]></content>
     </entry>
 </feed>
