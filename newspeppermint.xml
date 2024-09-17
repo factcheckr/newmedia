@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-09-17T22:14:52.001Z</updated>
+    <updated>2024-09-17T23:18:07.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] ‘영어 울렁증’ 사라지는데도 외국어 공부는 왜 해야 하냐 묻는다면]]></title>
+        <id>https://newspeppermint.com/2024/09/17/npsp_foreignlanguage/</id>
+        <link href="https://newspeppermint.com/2024/09/17/npsp_foreignlanguage/"/>
+        <updated>2024-09-17T23:18:00.729Z</updated>
+        <content type="html"><![CDATA[2024년 9월 18일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독서의 대가로 돈을 준다고? 중요했던 건 이것과 ‘거리 두기’였다]]></title>
         <id>https://newspeppermint.com/2024/09/17/npsp_readingbooks/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/08/28/npsp_trumptariffs/"/>
         <updated>2024-08-28T23:15:40.332Z</updated>
         <content type="html"><![CDATA[2024년 8월 29일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 최초의 여성 대통령이 탄생한다면, 이런 ‘최초들’도 함께 겪게 될 것]]></title>
-        <id>https://newspeppermint.com/2024/08/27/npsp_madamepresident/</id>
-        <link href="https://newspeppermint.com/2024/08/27/npsp_madamepresident/"/>
-        <updated>2024-08-27T13:19:21.429Z</updated>
-        <content type="html"><![CDATA[2024년 8월 28일]]></content>
     </entry>
 </feed>
