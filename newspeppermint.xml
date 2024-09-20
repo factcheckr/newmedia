@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-09-20T22:16:23.175Z</updated>
+    <updated>2024-09-20T23:15:56.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 지금 민주당과 해리스의 최우선 과제?… “두 마리 토끼 쫓는 셈”]]></title>
+        <id>https://newspeppermint.com/2024/09/20/npsp_harrisvtrump/</id>
+        <link href="https://newspeppermint.com/2024/09/20/npsp_harrisvtrump/"/>
+        <updated>2024-09-20T23:15:47.829Z</updated>
+        <content type="html"><![CDATA[2024년 9월 21일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘영어 울렁증’ 사라지는데도 외국어 공부는 왜 해야 하냐 묻는다면]]></title>
         <id>https://newspeppermint.com/2024/09/17/npsp_foreignlanguage/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/08/29/npsp_chinaeconomy-2/"/>
         <updated>2024-08-30T02:39:58.844Z</updated>
         <content type="html"><![CDATA[2024년 8월 30일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “수입품에 10% 일괄 관세를” 트럼프의 이토록 허술한 공약이 먹히는 이유]]></title>
-        <id>https://newspeppermint.com/2024/08/28/npsp_trumptariffs/</id>
-        <link href="https://newspeppermint.com/2024/08/28/npsp_trumptariffs/"/>
-        <updated>2024-08-28T23:15:40.332Z</updated>
-        <content type="html"><![CDATA[2024년 8월 29일]]></content>
     </entry>
 </feed>
