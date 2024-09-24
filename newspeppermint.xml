@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-09-24T13:24:05.763Z</updated>
+    <updated>2024-09-24T14:14:24.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사람들이 끌리는 데는 이유가 있다… ‘이름 결정론’ 따져보니]]></title>
+        <id>https://newspeppermint.com/2024/09/24/npsp_namedestiny/</id>
+        <link href="https://newspeppermint.com/2024/09/24/npsp_namedestiny/"/>
+        <updated>2024-09-24T14:14:15.432Z</updated>
+        <content type="html"><![CDATA[2024년 9월 25일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“삶이 송두리째 흔들릴 것” 미국 대선판에 등장한 문건… 정작 묻히고 있는 건]]></title>
         <id>https://newspeppermint.com/2024/09/23/npsp_project2025/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/09/02/npsp_starbucks/"/>
         <updated>2024-09-03T03:17:33.301Z</updated>
         <content type="html"><![CDATA[2024년 9월 3일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] ‘조지 클루니, 너마저…’ 바이든의 속내가 어떻든 지금은 ‘트럼프의 시간’]]></title>
-        <id>https://newspeppermint.com/2024/08/30/npsp_rnctrump/</id>
-        <link href="https://newspeppermint.com/2024/08/30/npsp_rnctrump/"/>
-        <updated>2024-08-30T23:16:20.492Z</updated>
-        <content type="html"><![CDATA[2024년 8월 31일]]></content>
     </entry>
 </feed>
