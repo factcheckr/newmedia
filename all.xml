@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 22:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 23:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 예약이 ‘하늘의 별 따기’인 식당들, 이런 것까지 할 수 있을까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/09/24/npsp_finedining/</link>
+            <guid>https://newspeppermint.com/2024/09/24/npsp_finedining/</guid>
+            <pubDate>Tue, 24 Sep 2024 23:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 9월 25일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[사람들이 끌리는 데는 이유가 있다… ‘이름 결정론’ 따져보니 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/09/24/npsp_namedestiny/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/09/04/npsp_jdvance/</guid>
             <pubDate>Wed, 04 Sep 2024 23:16:23 GMT</pubDate>
             <content:encoded><![CDATA[2024년 9월 5일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스벅 주문법이 3천8백억 개? 창업자 호소까지 불러온 뜻밖의 악순환 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/09/02/npsp_starbucks/</link>
-            <guid>https://newspeppermint.com/2024/09/02/npsp_starbucks/</guid>
-            <pubDate>Tue, 03 Sep 2024 03:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 9월 3일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
