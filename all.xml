@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 02:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 03:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“레드라인 순식간에 넘었다”… 삐삐 폭탄이 다시 불러온 ‘공포의 계절’ (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/09/26/npsp_israelpagerterror/</link>
+            <guid>https://newspeppermint.com/2024/09/26/npsp_israelpagerterror/</guid>
+            <pubDate>Fri, 27 Sep 2024 03:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 9월 27일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 예약이 ‘하늘의 별 따기’인 식당들, 이런 것까지 할 수 있을까 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/09/24/npsp_finedining/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/09/05/npsp_gossip/</guid>
             <pubDate>Fri, 06 Sep 2024 01:09:05 GMT</pubDate>
             <content:encoded><![CDATA[2024년 9월 6일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 트럼프의 픽은 ‘리틀 트럼프’… 그가 그리는 더 큰 그림은 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/09/04/npsp_jdvance/</link>
-            <guid>https://newspeppermint.com/2024/09/04/npsp_jdvance/</guid>
-            <pubDate>Wed, 04 Sep 2024 23:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 9월 5일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
