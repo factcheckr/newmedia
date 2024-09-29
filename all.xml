@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Sep 2024 22:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Sep 2024 23:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] “여론조사 믿기 어렵다”는 반응까지… 8월을 해리스의 시간이라 하는 이유 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/09/29/npsp_harristrump/</link>
+            <guid>https://newspeppermint.com/2024/09/29/npsp_harristrump/</guid>
+            <pubDate>Sun, 29 Sep 2024 23:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 9월 30일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“레드라인 순식간에 넘었다”… 삐삐 폭탄이 다시 불러온 ‘공포의 계절’ (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/09/26/npsp_israelpagerterror/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/09/07/npsp_bidenharristrumpvance/</guid>
             <pubDate>Sat, 07 Sep 2024 23:14:27 GMT</pubDate>
             <content:encoded><![CDATA[2024년 9월 8일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이야기꽃 피우다 뜨끔했던 친구의 말… “조금씩 내 삶이 달라졌다” (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/09/05/npsp_gossip/</link>
-            <guid>https://newspeppermint.com/2024/09/05/npsp_gossip/</guid>
-            <pubDate>Fri, 06 Sep 2024 01:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 9월 6일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

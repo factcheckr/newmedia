@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-09-29T22:14:14.516Z</updated>
+    <updated>2024-09-29T23:14:57.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “여론조사 믿기 어렵다”는 반응까지… 8월을 해리스의 시간이라 하는 이유]]></title>
+        <id>https://newspeppermint.com/2024/09/29/npsp_harristrump/</id>
+        <link href="https://newspeppermint.com/2024/09/29/npsp_harristrump/"/>
+        <updated>2024-09-29T23:14:47.975Z</updated>
+        <content type="html"><![CDATA[2024년 9월 30일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“레드라인 순식간에 넘었다”… 삐삐 폭탄이 다시 불러온 ‘공포의 계절’]]></title>
         <id>https://newspeppermint.com/2024/09/26/npsp_israelpagerterror/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/09/07/npsp_bidenharristrumpvance/"/>
         <updated>2024-09-07T23:14:27.525Z</updated>
         <content type="html"><![CDATA[2024년 9월 8일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이야기꽃 피우다 뜨끔했던 친구의 말… “조금씩 내 삶이 달라졌다”]]></title>
-        <id>https://newspeppermint.com/2024/09/05/npsp_gossip/</id>
-        <link href="https://newspeppermint.com/2024/09/05/npsp_gossip/"/>
-        <updated>2024-09-06T01:09:05.338Z</updated>
-        <content type="html"><![CDATA[2024년 9월 6일]]></content>
     </entry>
 </feed>
