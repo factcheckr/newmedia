@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-10-01T01:19:52.730Z</updated>
+    <updated>2024-10-01T02:58:01.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“돈 때문이 아니다” 최고 부자들이 트럼프에게 정치 후원금을 내는 이유]]></title>
+        <id>https://newspeppermint.com/2024/09/30/npsp_musktrump/</id>
+        <link href="https://newspeppermint.com/2024/09/30/npsp_musktrump/"/>
+        <updated>2024-10-01T02:57:53.139Z</updated>
+        <content type="html"><![CDATA[2024년 10월 1일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “여론조사 믿기 어렵다”는 반응까지… 8월을 해리스의 시간이라 하는 이유]]></title>
         <id>https://newspeppermint.com/2024/09/29/npsp_harristrump/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/09/09/npsp_laborfriendly/"/>
         <updated>2024-09-10T01:10:04.063Z</updated>
         <content type="html"><![CDATA[2024년 9월 10일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “구국의 결단” 바이든 그 이후… 절대 놓치면 안 되는 것들이 있다]]></title>
-        <id>https://newspeppermint.com/2024/09/07/npsp_bidenharristrumpvance/</id>
-        <link href="https://newspeppermint.com/2024/09/07/npsp_bidenharristrumpvance/"/>
-        <updated>2024-09-07T23:14:27.525Z</updated>
-        <content type="html"><![CDATA[2024년 9월 8일]]></content>
     </entry>
 </feed>
