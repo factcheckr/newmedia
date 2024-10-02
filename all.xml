@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 22:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 23:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] ‘구글 소송’ 승리한 미국 정부… 구글, 어떻게 할 것인가 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/10/02/npsp_googleantitrust/</link>
+            <guid>https://newspeppermint.com/2024/10/02/npsp_googleantitrust/</guid>
+            <pubDate>Wed, 02 Oct 2024 23:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 10월 3일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“돈 때문이 아니다” 최고 부자들이 트럼프에게 정치 후원금을 내는 이유 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/09/30/npsp_musktrump/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/09/10/npsp_trumpharrisdebate/</guid>
             <pubDate>Wed, 11 Sep 2024 01:09:46 GMT</pubDate>
             <content:encoded><![CDATA[2024년 9월 11일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“‘진짜 노동자’의 절망, 내가 누구보다 잘 안다” 미국 대선의 진짜 승부처는 여기 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/09/09/npsp_laborfriendly/</link>
-            <guid>https://newspeppermint.com/2024/09/09/npsp_laborfriendly/</guid>
-            <pubDate>Tue, 10 Sep 2024 01:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 9월 10일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

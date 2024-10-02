@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-10-02T22:16:56.373Z</updated>
+    <updated>2024-10-02T23:16:02.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] ‘구글 소송’ 승리한 미국 정부… 구글, 어떻게 할 것인가]]></title>
+        <id>https://newspeppermint.com/2024/10/02/npsp_googleantitrust/</id>
+        <link href="https://newspeppermint.com/2024/10/02/npsp_googleantitrust/"/>
+        <updated>2024-10-02T23:15:53.429Z</updated>
+        <content type="html"><![CDATA[2024년 10월 3일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“돈 때문이 아니다” 최고 부자들이 트럼프에게 정치 후원금을 내는 이유]]></title>
         <id>https://newspeppermint.com/2024/09/30/npsp_musktrump/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/09/10/npsp_trumpharrisdebate/"/>
         <updated>2024-09-11T01:09:46.910Z</updated>
         <content type="html"><![CDATA[2024년 9월 11일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“‘진짜 노동자’의 절망, 내가 누구보다 잘 안다” 미국 대선의 진짜 승부처는 여기]]></title>
-        <id>https://newspeppermint.com/2024/09/09/npsp_laborfriendly/</id>
-        <link href="https://newspeppermint.com/2024/09/09/npsp_laborfriendly/"/>
-        <updated>2024-09-10T01:10:04.063Z</updated>
-        <content type="html"><![CDATA[2024년 9월 10일]]></content>
     </entry>
 </feed>
