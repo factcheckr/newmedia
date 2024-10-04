@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-10-04T02:49:03.108Z</updated>
+    <updated>2024-10-04T03:21:24.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이겼지만 상대도 지지 않은 토론… ‘올해의 궤변’ 후보도 나왔다]]></title>
+        <id>https://newspeppermint.com/2024/10/03/npsp_vpdebate/</id>
+        <link href="https://newspeppermint.com/2024/10/03/npsp_vpdebate/"/>
+        <updated>2024-10-04T03:21:15.081Z</updated>
+        <content type="html"><![CDATA[2024년 10월 4일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘구글 소송’ 승리한 미국 정부… 구글, 어떻게 할 것인가]]></title>
         <id>https://newspeppermint.com/2024/10/02/npsp_googleantitrust/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/09/11/npsp_olympicmedalcounts/"/>
         <updated>2024-09-11T23:16:23.253Z</updated>
         <content type="html"><![CDATA[2024년 9월 12일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공격의 고삐 쥔 트럼프, TV 토론으로 승리 방정식 재현할까?]]></title>
-        <id>https://newspeppermint.com/2024/09/10/npsp_trumpharrisdebate/</id>
-        <link href="https://newspeppermint.com/2024/09/10/npsp_trumpharrisdebate/"/>
-        <updated>2024-09-11T01:09:46.910Z</updated>
-        <content type="html"><![CDATA[2024년 9월 11일]]></content>
     </entry>
 </feed>

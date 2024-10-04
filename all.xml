@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 02:49:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 03:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이겼지만 상대도 지지 않은 토론… ‘올해의 궤변’ 후보도 나왔다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/10/03/npsp_vpdebate/</link>
+            <guid>https://newspeppermint.com/2024/10/03/npsp_vpdebate/</guid>
+            <pubDate>Fri, 04 Oct 2024 03:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 10월 4일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘구글 소송’ 승리한 미국 정부… 구글, 어떻게 할 것인가 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/10/02/npsp_googleantitrust/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/09/11/npsp_olympicmedalcounts/</guid>
             <pubDate>Wed, 11 Sep 2024 23:16:23 GMT</pubDate>
             <content:encoded><![CDATA[2024년 9월 12일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공격의 고삐 쥔 트럼프, TV 토론으로 승리 방정식 재현할까? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/09/10/npsp_trumpharrisdebate/</link>
-            <guid>https://newspeppermint.com/2024/09/10/npsp_trumpharrisdebate/</guid>
-            <pubDate>Wed, 11 Sep 2024 01:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 9월 11일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
