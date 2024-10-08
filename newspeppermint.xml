@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-10-08T01:13:24.508Z</updated>
+    <updated>2024-10-08T02:52:01.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[젊은 남성들의 박탈감을 파고들어라? 더 확실한 요소 있는데도 성별 격차 주목받는 이유]]></title>
+        <id>https://newspeppermint.com/2024/10/07/npsp_genzgenderpolitics/</id>
+        <link href="https://newspeppermint.com/2024/10/07/npsp_genzgenderpolitics/"/>
+        <updated>2024-10-08T02:51:52.480Z</updated>
+        <content type="html"><![CDATA[2024년 10월 8일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이겼지만 상대도 지지 않은 토론… ‘올해의 궤변’ 후보도 나왔다]]></title>
         <id>https://newspeppermint.com/2024/10/03/npsp_vpdebate/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/09/17/npsp_readingbooks/"/>
         <updated>2024-09-17T05:16:32.622Z</updated>
         <content type="html"><![CDATA[2024년 9월 18일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 왜 저 나라가 스포츠 강국이냐… 올림픽 메달 개수보다 조금 더 ‘공정’한 방법은]]></title>
-        <id>https://newspeppermint.com/2024/09/11/npsp_olympicmedalcounts/</id>
-        <link href="https://newspeppermint.com/2024/09/11/npsp_olympicmedalcounts/"/>
-        <updated>2024-09-11T23:16:23.253Z</updated>
-        <content type="html"><![CDATA[2024년 9월 12일]]></content>
     </entry>
 </feed>

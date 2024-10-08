@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 01:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 02:52:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젊은 남성들의 박탈감을 파고들어라? 더 확실한 요소 있는데도 성별 격차 주목받는 이유 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/10/07/npsp_genzgenderpolitics/</link>
+            <guid>https://newspeppermint.com/2024/10/07/npsp_genzgenderpolitics/</guid>
+            <pubDate>Tue, 08 Oct 2024 02:51:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 10월 8일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이겼지만 상대도 지지 않은 토론… ‘올해의 궤변’ 후보도 나왔다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/10/03/npsp_vpdebate/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/09/17/npsp_readingbooks/</guid>
             <pubDate>Tue, 17 Sep 2024 05:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024년 9월 18일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 왜 저 나라가 스포츠 강국이냐… 올림픽 메달 개수보다 조금 더 ‘공정’한 방법은 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/09/11/npsp_olympicmedalcounts/</link>
-            <guid>https://newspeppermint.com/2024/09/11/npsp_olympicmedalcounts/</guid>
-            <pubDate>Wed, 11 Sep 2024 23:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 9월 12일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
