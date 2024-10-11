@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 23:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 01:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘전력상 압도적인 우위인데…’ 1년째 전쟁 중인 이스라엘의 속사정 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/10/10/npsp_waringazaisrael/</link>
+            <guid>https://newspeppermint.com/2024/10/10/npsp_waringazaisrael/</guid>
+            <pubDate>Fri, 11 Oct 2024 01:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 10월 11일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] “이민자들이 몰려온다”는데… 문제 못 풀게 발목 잡은 건 누구였나 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/10/08/npsp_usimmigrationelection/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/09/20/npsp_harrisvtrump/</guid>
             <pubDate>Fri, 20 Sep 2024 23:15:47 GMT</pubDate>
             <content:encoded><![CDATA[2024년 9월 21일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] ‘영어 울렁증’ 사라지는데도 외국어 공부는 왜 해야 하냐 묻는다면 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/09/17/npsp_foreignlanguage/</link>
-            <guid>https://newspeppermint.com/2024/09/17/npsp_foreignlanguage/</guid>
-            <pubDate>Tue, 17 Sep 2024 23:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 9월 18일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
