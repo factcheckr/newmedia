@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-10-18T22:15:21.024Z</updated>
+    <updated>2024-10-18T23:15:30.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 미국 최초의 여성 대통령이 탄생한다면, 이런 ‘최초들’도 함께 겪게 될 것]]></title>
+        <id>https://newspeppermint.com/2024/10/18/npsp_madamepresident/</id>
+        <link href="https://newspeppermint.com/2024/10/18/npsp_madamepresident/"/>
+        <updated>2024-10-18T23:15:21.606Z</updated>
+        <content type="html"><![CDATA[2024년 10월 19일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“응원하는 야구팀보다 강한” 지지정당 대물림… 근데 ‘대전환’ 올 수 있다고?]]></title>
         <id>https://newspeppermint.com/2024/10/17/npsp_greatrealignment/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/09/26/npsp_israelpagerterror/"/>
         <updated>2024-09-27T03:21:51.578Z</updated>
         <content type="html"><![CDATA[2024년 9월 27일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 예약이 ‘하늘의 별 따기’인 식당들, 이런 것까지 할 수 있을까]]></title>
-        <id>https://newspeppermint.com/2024/09/24/npsp_finedining/</id>
-        <link href="https://newspeppermint.com/2024/09/24/npsp_finedining/"/>
-        <updated>2024-09-24T23:15:41.187Z</updated>
-        <content type="html"><![CDATA[2024년 9월 25일]]></content>
     </entry>
 </feed>
