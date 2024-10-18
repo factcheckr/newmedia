@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 01:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 02:50:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“응원하는 야구팀보다 강한” 지지정당 대물림… 근데 ‘대전환’ 올 수 있다고? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/10/17/npsp_greatrealignment/</link>
+            <guid>https://newspeppermint.com/2024/10/17/npsp_greatrealignment/</guid>
+            <pubDate>Fri, 18 Oct 2024 02:50:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 10월 18일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘이건 내 목소리?’ 나도 모를 정도로 감쪽같이 속였는데… 역설적으로 따라온 부작용 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/10/16/npsp_aivoicebot/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2024/09/24/npsp_finedining/</link>
             <guid>https://newspeppermint.com/2024/09/24/npsp_finedining/</guid>
             <pubDate>Tue, 24 Sep 2024 23:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 9월 25일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사람들이 끌리는 데는 이유가 있다… ‘이름 결정론’ 따져보니 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/09/24/npsp_namedestiny/</link>
-            <guid>https://newspeppermint.com/2024/09/24/npsp_namedestiny/</guid>
-            <pubDate>Tue, 24 Sep 2024 14:14:15 GMT</pubDate>
             <content:encoded><![CDATA[2024년 9월 25일]]></content:encoded>
         </item>
         <item>
