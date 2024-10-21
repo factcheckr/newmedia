@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-10-21T22:15:53.866Z</updated>
+    <updated>2024-10-21T23:16:15.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘문제투성이 중국의 일대일로 정책’? 이 관점에서 보면 다르다]]></title>
+        <id>https://newspeppermint.com/2024/10/21/npsp_chinaeconomy-2/</id>
+        <link href="https://newspeppermint.com/2024/10/21/npsp_chinaeconomy-2/"/>
+        <updated>2024-10-21T23:16:07.714Z</updated>
+        <content type="html"><![CDATA[2024년 10월 22일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 미국 최초의 여성 대통령이 탄생한다면, 이런 ‘최초들’도 함께 겪게 될 것]]></title>
         <id>https://newspeppermint.com/2024/10/18/npsp_madamepresident/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/09/29/npsp_harristrump/"/>
         <updated>2024-09-29T23:14:47.975Z</updated>
         <content type="html"><![CDATA[2024년 9월 30일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“레드라인 순식간에 넘었다”… 삐삐 폭탄이 다시 불러온 ‘공포의 계절’]]></title>
-        <id>https://newspeppermint.com/2024/09/26/npsp_israelpagerterror/</id>
-        <link href="https://newspeppermint.com/2024/09/26/npsp_israelpagerterror/"/>
-        <updated>2024-09-27T03:21:51.578Z</updated>
-        <content type="html"><![CDATA[2024년 9월 27일]]></content>
     </entry>
 </feed>
