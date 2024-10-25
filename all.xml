@@ -4,11 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 23:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 01:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘문제투성이 중국의 일대일로 정책’? 이 관점에서 보면 다르다 (뉴스페퍼민트)]]></title>
+            <title><![CDATA[“나 땐 좋았어” 반복하는 트럼프, ‘경제’에 발목 잡히는 해리스 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/10/24/npsp_uselectioneconomy/</link>
+            <guid>https://newspeppermint.com/2024/10/24/npsp_uselectioneconomy/</guid>
+            <pubDate>Fri, 25 Oct 2024 01:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 10월 25일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뉴페@스프] ‘문제투성이 중국의 일대일로 정책’? 이 관점에서 보면 다르다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/10/21/npsp_chinaeconomy-2/</link>
             <guid>https://newspeppermint.com/2024/10/21/npsp_chinaeconomy-2/</guid>
             <pubDate>Mon, 21 Oct 2024 23:16:07 GMT</pubDate>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/09/30/npsp_musktrump/</guid>
             <pubDate>Tue, 01 Oct 2024 02:57:53 GMT</pubDate>
             <content:encoded><![CDATA[2024년 10월 1일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] “여론조사 믿기 어렵다”는 반응까지… 8월을 해리스의 시간이라 하는 이유 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/09/29/npsp_harristrump/</link>
-            <guid>https://newspeppermint.com/2024/09/29/npsp_harristrump/</guid>
-            <pubDate>Sun, 29 Sep 2024 23:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 9월 30일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
