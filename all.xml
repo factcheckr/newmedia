@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Oct 2024 22:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 23:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 이야기꽃 피우다 뜨끔했던 친구의 말… “조금씩 내 삶이 달라졌다” (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/10/27/npsp_gossip/</link>
+            <guid>https://newspeppermint.com/2024/10/27/npsp_gossip/</guid>
+            <pubDate>Sun, 27 Oct 2024 23:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 10월 28일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 스벅 주문법이 3천8백억 개? 창업자 호소까지 불러온 뜻밖의 악순환 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/10/25/npsp_starbucks/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/10/03/npsp_vpdebate/</guid>
             <pubDate>Fri, 04 Oct 2024 03:21:15 GMT</pubDate>
             <content:encoded><![CDATA[2024년 10월 4일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] ‘구글 소송’ 승리한 미국 정부… 구글, 어떻게 할 것인가 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/10/02/npsp_googleantitrust/</link>
-            <guid>https://newspeppermint.com/2024/10/02/npsp_googleantitrust/</guid>
-            <pubDate>Wed, 02 Oct 2024 23:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 10월 3일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
