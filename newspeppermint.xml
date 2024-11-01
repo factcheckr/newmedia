@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-11-01T01:19:47.891Z</updated>
+    <updated>2024-11-01T02:58:43.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“‘기생충’처럼 무시당한 이들의 분노” vs “트럼프 지지자들, 책임 돌리지 말라”]]></title>
+        <id>https://newspeppermint.com/2024/10/31/npsp_liberalelitism/</id>
+        <link href="https://newspeppermint.com/2024/10/31/npsp_liberalelitism/"/>
+        <updated>2024-11-01T02:58:35.660Z</updated>
+        <content type="html"><![CDATA[2024년 11월 1일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “‘진짜 노동자’의 절망, 내가 누구보다 잘 안다” 미국 대선의 진짜 승부처는 여기]]></title>
         <id>https://newspeppermint.com/2024/10/30/npsp_laborfriendly/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/10/10/npsp_waringazaisrael/"/>
         <updated>2024-10-11T01:13:04.714Z</updated>
         <content type="html"><![CDATA[2024년 10월 11일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “이민자들이 몰려온다”는데… 문제 못 풀게 발목 잡은 건 누구였나]]></title>
-        <id>https://newspeppermint.com/2024/10/08/npsp_usimmigrationelection/</id>
-        <link href="https://newspeppermint.com/2024/10/08/npsp_usimmigrationelection/"/>
-        <updated>2024-10-08T23:17:03.260Z</updated>
-        <content type="html"><![CDATA[2024년 10월 9일]]></content>
     </entry>
 </feed>

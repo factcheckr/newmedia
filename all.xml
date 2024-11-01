@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 01:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 02:58:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“‘기생충’처럼 무시당한 이들의 분노” vs “트럼프 지지자들, 책임 돌리지 말라” (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/10/31/npsp_liberalelitism/</link>
+            <guid>https://newspeppermint.com/2024/10/31/npsp_liberalelitism/</guid>
+            <pubDate>Fri, 01 Nov 2024 02:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 11월 1일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] “‘진짜 노동자’의 절망, 내가 누구보다 잘 안다” 미국 대선의 진짜 승부처는 여기 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/10/30/npsp_laborfriendly/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/10/10/npsp_waringazaisrael/</guid>
             <pubDate>Fri, 11 Oct 2024 01:13:04 GMT</pubDate>
             <content:encoded><![CDATA[2024년 10월 11일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] “이민자들이 몰려온다”는데… 문제 못 풀게 발목 잡은 건 누구였나 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/10/08/npsp_usimmigrationelection/</link>
-            <guid>https://newspeppermint.com/2024/10/08/npsp_usimmigrationelection/</guid>
-            <pubDate>Tue, 08 Oct 2024 23:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 10월 9일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
