@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 22:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 23:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 공격의 고삐 쥔 트럼프, TV 토론으로 승리 방정식 재현할까? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/11/01/npsp_trumpharrisdebate/</link>
+            <guid>https://newspeppermint.com/2024/11/01/npsp_trumpharrisdebate/</guid>
+            <pubDate>Fri, 01 Nov 2024 23:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 11월 2일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“‘기생충’처럼 무시당한 이들의 분노” vs “트럼프 지지자들, 책임 돌리지 말라” (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/10/31/npsp_liberalelitism/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/10/13/npsp_economicplanharristrump/</guid>
             <pubDate>Sun, 13 Oct 2024 23:16:01 GMT</pubDate>
             <content:encoded><![CDATA[2024년 10월 14일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘전력상 압도적인 우위인데…’ 1년째 전쟁 중인 이스라엘의 속사정 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/10/10/npsp_waringazaisrael/</link>
-            <guid>https://newspeppermint.com/2024/10/10/npsp_waringazaisrael/</guid>
-            <pubDate>Fri, 11 Oct 2024 01:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 10월 11일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
