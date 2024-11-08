@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 22:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 23:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] 독서의 대가로 돈을 준다고? 중요했던 건 이것과 ‘거리 두기’였다 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/11/08/npsp_readingbooks/</link>
+            <guid>https://newspeppermint.com/2024/11/08/npsp_readingbooks/</guid>
+            <pubDate>Fri, 08 Nov 2024 23:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 11월 9일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“진짜 승자는 트럼프 아닌 이 사람?… 트럼프 2기를 예측해봤습니다” (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/11/07/npsp_trump2/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/10/17/npsp_greatrealignment/</guid>
             <pubDate>Fri, 18 Oct 2024 02:50:32 GMT</pubDate>
             <content:encoded><![CDATA[2024년 10월 18일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘이건 내 목소리?’ 나도 모를 정도로 감쪽같이 속였는데… 역설적으로 따라온 부작용 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/10/16/npsp_aivoicebot/</link>
-            <guid>https://newspeppermint.com/2024/10/16/npsp_aivoicebot/</guid>
-            <pubDate>Wed, 16 Oct 2024 23:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 10월 17일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

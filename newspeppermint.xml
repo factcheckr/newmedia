@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-11-08T22:16:07.732Z</updated>
+    <updated>2024-11-08T23:15:51.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 독서의 대가로 돈을 준다고? 중요했던 건 이것과 ‘거리 두기’였다]]></title>
+        <id>https://newspeppermint.com/2024/11/08/npsp_readingbooks/</id>
+        <link href="https://newspeppermint.com/2024/11/08/npsp_readingbooks/"/>
+        <updated>2024-11-08T23:15:40.733Z</updated>
+        <content type="html"><![CDATA[2024년 11월 9일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“진짜 승자는 트럼프 아닌 이 사람?… 트럼프 2기를 예측해봤습니다”]]></title>
         <id>https://newspeppermint.com/2024/11/07/npsp_trump2/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/10/17/npsp_greatrealignment/"/>
         <updated>2024-10-18T02:50:32.505Z</updated>
         <content type="html"><![CDATA[2024년 10월 18일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이건 내 목소리?’ 나도 모를 정도로 감쪽같이 속였는데… 역설적으로 따라온 부작용]]></title>
-        <id>https://newspeppermint.com/2024/10/16/npsp_aivoicebot/</id>
-        <link href="https://newspeppermint.com/2024/10/16/npsp_aivoicebot/"/>
-        <updated>2024-10-16T23:17:10.877Z</updated>
-        <content type="html"><![CDATA[2024년 10월 17일]]></content>
     </entry>
 </feed>
