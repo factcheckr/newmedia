@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-11-12T22:15:12.212Z</updated>
+    <updated>2024-11-12T23:16:05.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “삶이 송두리째 흔들릴 것” 미국 대선판에 등장한 문건… 정작 묻히고 있는 건]]></title>
+        <id>https://newspeppermint.com/2024/11/12/npsp_project2025/</id>
+        <link href="https://newspeppermint.com/2024/11/12/npsp_project2025/"/>
+        <updated>2024-11-12T23:15:55.995Z</updated>
+        <content type="html"><![CDATA[2024년 11월 13일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“뻔한 정답 놓고 고집 부린 결과”… 선거 진 민주당 앞의 갈림길]]></title>
         <id>https://newspeppermint.com/2024/11/11/npsp_voterstoelite/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/10/21/npsp_chinaeconomy-2/"/>
         <updated>2024-10-21T23:16:07.714Z</updated>
         <content type="html"><![CDATA[2024년 10월 22일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 미국 최초의 여성 대통령이 탄생한다면, 이런 ‘최초들’도 함께 겪게 될 것]]></title>
-        <id>https://newspeppermint.com/2024/10/18/npsp_madamepresident/</id>
-        <link href="https://newspeppermint.com/2024/10/18/npsp_madamepresident/"/>
-        <updated>2024-10-18T23:15:21.606Z</updated>
-        <content type="html"><![CDATA[2024년 10월 19일]]></content>
     </entry>
 </feed>
