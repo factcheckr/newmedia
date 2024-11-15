@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-11-15T22:17:27.927Z</updated>
+    <updated>2024-11-15T23:16:08.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 사람들이 끌리는 데는 이유가 있다… ‘이름 결정론’ 따져보니]]></title>
+        <id>https://newspeppermint.com/2024/11/15/npsp_namedestiny/</id>
+        <link href="https://newspeppermint.com/2024/11/15/npsp_namedestiny/"/>
+        <updated>2024-11-15T23:15:58.894Z</updated>
+        <content type="html"><![CDATA[2024년 11월 16일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘예스맨의 절대 충성’ 원하는 트럼프…단 하나의 해답 “귀를 열어라”]]></title>
         <id>https://newspeppermint.com/2024/11/14/npsp_trump2ndtermcabinet/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/10/25/npsp_starbucks/"/>
         <updated>2024-10-25T23:16:54.417Z</updated>
         <content type="html"><![CDATA[2024년 10월 26일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“나 땐 좋았어” 반복하는 트럼프, ‘경제’에 발목 잡히는 해리스]]></title>
-        <id>https://newspeppermint.com/2024/10/24/npsp_uselectioneconomy/</id>
-        <link href="https://newspeppermint.com/2024/10/24/npsp_uselectioneconomy/"/>
-        <updated>2024-10-25T01:14:50.772Z</updated>
-        <content type="html"><![CDATA[2024년 10월 25일]]></content>
     </entry>
 </feed>
