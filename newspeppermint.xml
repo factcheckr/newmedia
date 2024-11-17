@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-11-17T22:15:20.876Z</updated>
+    <updated>2024-11-17T23:16:12.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “레드라인 순식간에 넘었다”… 삐삐 폭탄이 다시 불러온 ‘공포의 계절’]]></title>
+        <id>https://newspeppermint.com/2024/11/17/npsp_israelpagerterror/</id>
+        <link href="https://newspeppermint.com/2024/11/17/npsp_israelpagerterror/"/>
+        <updated>2024-11-17T23:16:03.125Z</updated>
+        <content type="html"><![CDATA[2024년 11월 18일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 사람들이 끌리는 데는 이유가 있다… ‘이름 결정론’ 따져보니]]></title>
         <id>https://newspeppermint.com/2024/11/15/npsp_namedestiny/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/10/27/npsp_gossip/"/>
         <updated>2024-10-27T23:16:50.162Z</updated>
         <content type="html"><![CDATA[2024년 10월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 스벅 주문법이 3천8백억 개? 창업자 호소까지 불러온 뜻밖의 악순환]]></title>
-        <id>https://newspeppermint.com/2024/10/25/npsp_starbucks/</id>
-        <link href="https://newspeppermint.com/2024/10/25/npsp_starbucks/"/>
-        <updated>2024-10-25T23:16:54.417Z</updated>
-        <content type="html"><![CDATA[2024년 10월 26일]]></content>
     </entry>
 </feed>
