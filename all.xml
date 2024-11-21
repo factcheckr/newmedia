@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 22:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 23:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“설마설마했는데 결국?”… 이 사람이 트럼프의 미래일까 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/11/21/npsp_trumporban/</link>
+            <guid>https://newspeppermint.com/2024/11/21/npsp_trumporban/</guid>
+            <pubDate>Thu, 21 Nov 2024 23:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 11월 22일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] “돈 때문이 아니다” 최고 부자들이 트럼프에게 정치 후원금을 내는 이유 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/11/19/npsp_musktrump/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/10/31/npsp_liberalelitism/</guid>
             <pubDate>Fri, 01 Nov 2024 02:58:35 GMT</pubDate>
             <content:encoded><![CDATA[2024년 11월 1일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] “‘진짜 노동자’의 절망, 내가 누구보다 잘 안다” 미국 대선의 진짜 승부처는 여기 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/10/30/npsp_laborfriendly/</link>
-            <guid>https://newspeppermint.com/2024/10/30/npsp_laborfriendly/</guid>
-            <pubDate>Wed, 30 Oct 2024 23:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 10월 31일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
