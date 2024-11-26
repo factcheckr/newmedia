@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Nov 2024 01:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 02:57:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트럼프도 실은 이 사람 원했다?… ‘트럼프 2기’가 맞닥뜨린 딜레마 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/11/25/npsp_trumpcabinetlighthizer/</link>
+            <guid>https://newspeppermint.com/2024/11/25/npsp_trumpcabinetlighthizer/</guid>
+            <pubDate>Tue, 26 Nov 2024 02:57:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 11월 26일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 이겼지만 상대도 지지 않은 토론… ‘올해의 궤변’ 후보도 나왔다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/11/22/npsp_vpdebate/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/11/07/npsp_trump2/</guid>
             <pubDate>Fri, 08 Nov 2024 03:19:59 GMT</pubDate>
             <content:encoded><![CDATA[2024년 11월 8일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 공격의 고삐 쥔 트럼프, TV 토론으로 승리 방정식 재현할까? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/11/01/npsp_trumpharrisdebate/</link>
-            <guid>https://newspeppermint.com/2024/11/01/npsp_trumpharrisdebate/</guid>
-            <pubDate>Fri, 01 Nov 2024 23:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 11월 2일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
