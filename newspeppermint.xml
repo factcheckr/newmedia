@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-11-27T22:16:33.841Z</updated>
+    <updated>2024-11-27T23:17:02.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 젊은 남성들의 박탈감을 파고들어라? 더 확실한 요소 있는데도 성별 격차 주목받는 이유]]></title>
+        <id>https://newspeppermint.com/2024/11/27/npsp_genzgenderpolitics/</id>
+        <link href="https://newspeppermint.com/2024/11/27/npsp_genzgenderpolitics/"/>
+        <updated>2024-11-27T23:16:54.056Z</updated>
+        <content type="html"><![CDATA[2024년 11월 28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트럼프도 실은 이 사람 원했다?… ‘트럼프 2기’가 맞닥뜨린 딜레마]]></title>
         <id>https://newspeppermint.com/2024/11/25/npsp_trumpcabinetlighthizer/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/11/08/npsp_readingbooks/"/>
         <updated>2024-11-08T23:15:40.733Z</updated>
         <content type="html"><![CDATA[2024년 11월 9일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“진짜 승자는 트럼프 아닌 이 사람?… 트럼프 2기를 예측해봤습니다”]]></title>
-        <id>https://newspeppermint.com/2024/11/07/npsp_trump2/</id>
-        <link href="https://newspeppermint.com/2024/11/07/npsp_trump2/"/>
-        <updated>2024-11-08T03:19:59.913Z</updated>
-        <content type="html"><![CDATA[2024년 11월 8일]]></content>
     </entry>
 </feed>
