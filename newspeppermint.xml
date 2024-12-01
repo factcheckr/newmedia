@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-12-01T22:15:28.345Z</updated>
+    <updated>2024-12-01T23:16:36.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방해되면 손발 다 잘라버린다?… “트럼프 2기, 이 사람은 무소불위”]]></title>
+        <id>https://newspeppermint.com/2024/12/01/npsp_trumpmusk/</id>
+        <link href="https://newspeppermint.com/2024/12/01/npsp_trumpmusk/"/>
+        <updated>2024-12-01T23:16:29.761Z</updated>
+        <content type="html"><![CDATA[2024년 12월 2일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘전력상 압도적인 우위인데…’ 1년째 전쟁 중인 이스라엘의 속사정]]></title>
         <id>https://newspeppermint.com/2024/12/01/npsp_waringazaisrael/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/11/12/npsp_project2025/"/>
         <updated>2024-11-12T23:15:55.995Z</updated>
         <content type="html"><![CDATA[2024년 11월 13일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“뻔한 정답 놓고 고집 부린 결과”… 선거 진 민주당 앞의 갈림길]]></title>
-        <id>https://newspeppermint.com/2024/11/11/npsp_voterstoelite/</id>
-        <link href="https://newspeppermint.com/2024/11/11/npsp_voterstoelite/"/>
-        <updated>2024-11-12T03:18:28.102Z</updated>
-        <content type="html"><![CDATA[2024년 11월 12일]]></content>
     </entry>
 </feed>
