@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-12-02T23:18:32.292Z</updated>
+    <updated>2024-12-03T01:20:23.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트럼프, 대놓고 겨냥하는데… “오히려 기회, 중국은 계획대로 움직이는 중”]]></title>
+        <id>https://newspeppermint.com/2024/12/02/npsp_trumpchina/</id>
+        <link href="https://newspeppermint.com/2024/12/02/npsp_trumpchina/"/>
+        <updated>2024-12-03T01:20:16.096Z</updated>
+        <content type="html"><![CDATA[2024년 12월 3일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방해되면 손발 다 잘라버린다?… “트럼프 2기, 이 사람은 무소불위”]]></title>
         <id>https://newspeppermint.com/2024/12/01/npsp_trumpmusk/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/11/14/npsp_trump2ndtermcabinet/"/>
         <updated>2024-11-15T01:17:32.819Z</updated>
         <content type="html"><![CDATA[2024년 11월 15일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “삶이 송두리째 흔들릴 것” 미국 대선판에 등장한 문건… 정작 묻히고 있는 건]]></title>
-        <id>https://newspeppermint.com/2024/11/12/npsp_project2025/</id>
-        <link href="https://newspeppermint.com/2024/11/12/npsp_project2025/"/>
-        <updated>2024-11-12T23:15:55.995Z</updated>
-        <content type="html"><![CDATA[2024년 11월 13일]]></content>
     </entry>
 </feed>
