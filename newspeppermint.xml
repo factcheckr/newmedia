@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-12-11T05:17:10.902Z</updated>
+    <updated>2024-12-11T06:25:21.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“부정 선거” 우기던 트럼프가 계엄령이라는 카드는 내쳤던 이유]]></title>
+        <id>https://newspeppermint.com/2024/12/11/npsp_martiallaw/</id>
+        <link href="https://newspeppermint.com/2024/12/11/npsp_martiallaw/"/>
+        <updated>2024-12-11T06:25:13.330Z</updated>
+        <content type="html"><![CDATA[2024년 12월 12일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트럼프, 대놓고 겨냥하는데… “오히려 기회, 중국은 계획대로 움직이는 중”]]></title>
         <id>https://newspeppermint.com/2024/12/02/npsp_trumpchina/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/11/15/npsp_namedestiny/"/>
         <updated>2024-11-15T23:15:58.894Z</updated>
         <content type="html"><![CDATA[2024년 11월 16일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘예스맨의 절대 충성’ 원하는 트럼프…단 하나의 해답 “귀를 열어라”]]></title>
-        <id>https://newspeppermint.com/2024/11/14/npsp_trump2ndtermcabinet/</id>
-        <link href="https://newspeppermint.com/2024/11/14/npsp_trump2ndtermcabinet/"/>
-        <updated>2024-11-15T01:17:32.819Z</updated>
-        <content type="html"><![CDATA[2024년 11월 15일]]></content>
     </entry>
 </feed>
