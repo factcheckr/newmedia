@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 22:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 23:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[살해범 옹호가 “정의 구현”? ‘피 묻은 돈’을 진정 해결하려면… (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/12/17/npsp_helathcarecrime/</link>
+            <guid>https://newspeppermint.com/2024/12/17/npsp_helathcarecrime/</guid>
+            <pubDate>Tue, 17 Dec 2024 23:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 12월 18일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[미국도 네 번뿐이었는데 우리는? 잦은 탄핵이 좋은 건 아니지만… (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/12/13/npsp_impeachpresident/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/11/18/npsp_rfkjrhhs/</guid>
             <pubDate>Tue, 19 Nov 2024 02:55:51 GMT</pubDate>
             <content:encoded><![CDATA[2024년 11월 19일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] “레드라인 순식간에 넘었다”… 삐삐 폭탄이 다시 불러온 ‘공포의 계절’ (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/11/17/npsp_israelpagerterror/</link>
-            <guid>https://newspeppermint.com/2024/11/17/npsp_israelpagerterror/</guid>
-            <pubDate>Sun, 17 Nov 2024 23:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 11월 18일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
