@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-12-18T22:16:43.840Z</updated>
+    <updated>2024-12-18T23:15:59.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] ‘이건 내 목소리?’ 나도 모를 정도로 감쪽같이 속였는데… 역설적으로 따라온 부작용]]></title>
+        <id>https://newspeppermint.com/2024/12/18/npsp_aivoicebot/</id>
+        <link href="https://newspeppermint.com/2024/12/18/npsp_aivoicebot/"/>
+        <updated>2024-12-18T23:15:50.498Z</updated>
+        <content type="html"><![CDATA[2024년 12월 19일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[살해범 옹호가 “정의 구현”? ‘피 묻은 돈’을 진정 해결하려면…]]></title>
         <id>https://newspeppermint.com/2024/12/17/npsp_helathcarecrime/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/11/19/npsp_musktrump/"/>
         <updated>2024-11-19T23:16:23.860Z</updated>
         <content type="html"><![CDATA[2024년 11월 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘백신 음모론자’가 미국 보건 수장 되다… “인신공격은 답 아냐”]]></title>
-        <id>https://newspeppermint.com/2024/11/18/npsp_rfkjrhhs/</id>
-        <link href="https://newspeppermint.com/2024/11/18/npsp_rfkjrhhs/"/>
-        <updated>2024-11-19T02:55:51.480Z</updated>
-        <content type="html"><![CDATA[2024년 11월 19일]]></content>
     </entry>
 </feed>

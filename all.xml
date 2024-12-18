@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 22:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 23:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] ‘이건 내 목소리?’ 나도 모를 정도로 감쪽같이 속였는데… 역설적으로 따라온 부작용 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/12/18/npsp_aivoicebot/</link>
+            <guid>https://newspeppermint.com/2024/12/18/npsp_aivoicebot/</guid>
+            <pubDate>Wed, 18 Dec 2024 23:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 12월 19일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[살해범 옹호가 “정의 구현”? ‘피 묻은 돈’을 진정 해결하려면… (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/12/17/npsp_helathcarecrime/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/11/19/npsp_musktrump/</guid>
             <pubDate>Tue, 19 Nov 2024 23:16:23 GMT</pubDate>
             <content:encoded><![CDATA[2024년 11월 20일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘백신 음모론자’가 미국 보건 수장 되다… “인신공격은 답 아냐” (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/11/18/npsp_rfkjrhhs/</link>
-            <guid>https://newspeppermint.com/2024/11/18/npsp_rfkjrhhs/</guid>
-            <pubDate>Tue, 19 Nov 2024 02:55:51 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 11월 19일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
