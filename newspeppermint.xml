@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-12-20T23:15:20.147Z</updated>
+    <updated>2024-12-21T01:12:56.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “응원하는 야구팀보다 강한” 지지정당 대물림… 근데 ‘대전환’ 올 수 있다고?]]></title>
+        <id>https://newspeppermint.com/2024/12/20/npsp_greatrealignment/</id>
+        <link href="https://newspeppermint.com/2024/12/20/npsp_greatrealignment/"/>
+        <updated>2024-12-21T01:12:47.267Z</updated>
+        <content type="html"><![CDATA[2024년 12월 21일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘이건 내 목소리?’ 나도 모를 정도로 감쪽같이 속였는데… 역설적으로 따라온 부작용]]></title>
         <id>https://newspeppermint.com/2024/12/18/npsp_aivoicebot/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/11/21/npsp_trumporban/"/>
         <updated>2024-11-21T23:16:30.452Z</updated>
         <content type="html"><![CDATA[2024년 11월 22일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “돈 때문이 아니다” 최고 부자들이 트럼프에게 정치 후원금을 내는 이유]]></title>
-        <id>https://newspeppermint.com/2024/11/19/npsp_musktrump/</id>
-        <link href="https://newspeppermint.com/2024/11/19/npsp_musktrump/"/>
-        <updated>2024-11-19T23:16:23.860Z</updated>
-        <content type="html"><![CDATA[2024년 11월 20일]]></content>
     </entry>
 </feed>
