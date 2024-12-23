@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 22:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 23:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외신도 놀란 ‘탄핵 집회 이색 깃발’…’센스 경쟁’이 불러온 뜻밖의 효과 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/12/23/npsp_humor/</link>
+            <guid>https://newspeppermint.com/2024/12/23/npsp_humor/</guid>
+            <pubDate>Mon, 23 Dec 2024 23:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 12월 24일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] “나 땐 좋았어” 반복하는 트럼프, ‘경제’에 발목 잡히는 해리스 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/12/22/npsp_uselectioneconomy/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/11/25/npsp_trumpcabinetlighthizer/</guid>
             <pubDate>Tue, 26 Nov 2024 02:57:24 GMT</pubDate>
             <content:encoded><![CDATA[2024년 11월 26일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 이겼지만 상대도 지지 않은 토론… ‘올해의 궤변’ 후보도 나왔다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/11/22/npsp_vpdebate/</link>
-            <guid>https://newspeppermint.com/2024/11/22/npsp_vpdebate/</guid>
-            <pubDate>Fri, 22 Nov 2024 23:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 11월 23일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
