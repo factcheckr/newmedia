@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-12-23T01:15:24.879Z</updated>
+    <updated>2024-12-23T02:50:34.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “나 땐 좋았어” 반복하는 트럼프, ‘경제’에 발목 잡히는 해리스]]></title>
+        <id>https://newspeppermint.com/2024/12/22/npsp_uselectioneconomy/</id>
+        <link href="https://newspeppermint.com/2024/12/22/npsp_uselectioneconomy/"/>
+        <updated>2024-12-23T02:50:25.783Z</updated>
+        <content type="html"><![CDATA[2024년 12월 23일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “응원하는 야구팀보다 강한” 지지정당 대물림… 근데 ‘대전환’ 올 수 있다고?]]></title>
         <id>https://newspeppermint.com/2024/12/20/npsp_greatrealignment/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/11/22/npsp_vpdebate/"/>
         <updated>2024-11-22T23:17:16.575Z</updated>
         <content type="html"><![CDATA[2024년 11월 23일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“설마설마했는데 결국?”… 이 사람이 트럼프의 미래일까]]></title>
-        <id>https://newspeppermint.com/2024/11/21/npsp_trumporban/</id>
-        <link href="https://newspeppermint.com/2024/11/21/npsp_trumporban/"/>
-        <updated>2024-11-21T23:16:30.452Z</updated>
-        <content type="html"><![CDATA[2024년 11월 22일]]></content>
     </entry>
 </feed>
