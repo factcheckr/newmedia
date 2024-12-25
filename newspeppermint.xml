@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-12-25T22:14:45.940Z</updated>
+    <updated>2024-12-25T23:15:26.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 이번 대선은 50:50? “트럼프도, 해리스도 아닌 뜻밖의 변수는…”]]></title>
+        <id>https://newspeppermint.com/2024/12/25/npsp_electionsilvergut/</id>
+        <link href="https://newspeppermint.com/2024/12/25/npsp_electionsilvergut/"/>
+        <updated>2024-12-25T23:15:17.940Z</updated>
+        <content type="html"><![CDATA[2024년 12월 26일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외신도 놀란 ‘탄핵 집회 이색 깃발’…’센스 경쟁’이 불러온 뜻밖의 효과]]></title>
         <id>https://newspeppermint.com/2024/12/23/npsp_humor/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/11/27/npsp_genzgenderpolitics/"/>
         <updated>2024-11-27T23:16:54.056Z</updated>
         <content type="html"><![CDATA[2024년 11월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트럼프도 실은 이 사람 원했다?… ‘트럼프 2기’가 맞닥뜨린 딜레마]]></title>
-        <id>https://newspeppermint.com/2024/11/25/npsp_trumpcabinetlighthizer/</id>
-        <link href="https://newspeppermint.com/2024/11/25/npsp_trumpcabinetlighthizer/"/>
-        <updated>2024-11-26T02:57:24.608Z</updated>
-        <content type="html"><![CDATA[2024년 11월 26일]]></content>
     </entry>
 </feed>
