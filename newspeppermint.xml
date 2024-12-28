@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-12-27T23:15:35.533Z</updated>
+    <updated>2024-12-28T01:12:19.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“트럼프, 저 좀 만나주세요”…’얼굴 도장’ 찍으려 줄 선 기업인들]]></title>
+        <id>https://newspeppermint.com/2024/12/27/npsp_wfh/</id>
+        <link href="https://newspeppermint.com/2024/12/27/npsp_wfh/"/>
+        <updated>2024-12-28T01:12:10.154Z</updated>
+        <content type="html"><![CDATA[2024년 12월 28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 이번 대선은 50:50? “트럼프도, 해리스도 아닌 뜻밖의 변수는…”]]></title>
         <id>https://newspeppermint.com/2024/12/25/npsp_electionsilvergut/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/12/01/npsp_waringazaisrael/"/>
         <updated>2024-12-01T22:15:19.445Z</updated>
         <content type="html"><![CDATA[2024년 12월 2일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 젊은 남성들의 박탈감을 파고들어라? 더 확실한 요소 있는데도 성별 격차 주목받는 이유]]></title>
-        <id>https://newspeppermint.com/2024/11/27/npsp_genzgenderpolitics/</id>
-        <link href="https://newspeppermint.com/2024/11/27/npsp_genzgenderpolitics/"/>
-        <updated>2024-11-27T23:16:54.056Z</updated>
-        <content type="html"><![CDATA[2024년 11월 28일]]></content>
     </entry>
 </feed>
