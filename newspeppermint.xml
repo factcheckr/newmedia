@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-12-29T22:14:36.646Z</updated>
+    <updated>2024-12-29T23:15:09.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “‘기생충’처럼 무시당한 이들의 분노” vs “트럼프 지지자들, 책임 돌리지 말라”]]></title>
+        <id>https://newspeppermint.com/2024/12/29/npsp_liberalelitism/</id>
+        <link href="https://newspeppermint.com/2024/12/29/npsp_liberalelitism/"/>
+        <updated>2024-12-29T23:15:00.741Z</updated>
+        <content type="html"><![CDATA[2024년 12월 30일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“트럼프, 저 좀 만나주세요”…’얼굴 도장’ 찍으려 줄 선 기업인들]]></title>
         <id>https://newspeppermint.com/2024/12/27/npsp_wfh/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2024/12/01/npsp_trumpmusk/</id>
         <link href="https://newspeppermint.com/2024/12/01/npsp_trumpmusk/"/>
         <updated>2024-12-01T23:16:29.761Z</updated>
-        <content type="html"><![CDATA[2024년 12월 2일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] ‘전력상 압도적인 우위인데…’ 1년째 전쟁 중인 이스라엘의 속사정]]></title>
-        <id>https://newspeppermint.com/2024/12/01/npsp_waringazaisrael/</id>
-        <link href="https://newspeppermint.com/2024/12/01/npsp_waringazaisrael/"/>
-        <updated>2024-12-01T22:15:19.445Z</updated>
         <content type="html"><![CDATA[2024년 12월 2일]]></content>
     </entry>
 </feed>

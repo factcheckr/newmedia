@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Dec 2024 22:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Dec 2024 23:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] “‘기생충’처럼 무시당한 이들의 분노” vs “트럼프 지지자들, 책임 돌리지 말라” (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/12/29/npsp_liberalelitism/</link>
+            <guid>https://newspeppermint.com/2024/12/29/npsp_liberalelitism/</guid>
+            <pubDate>Sun, 29 Dec 2024 23:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 12월 30일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“트럼프, 저 좀 만나주세요”…’얼굴 도장’ 찍으려 줄 선 기업인들 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/12/27/npsp_wfh/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2024/12/01/npsp_trumpmusk/</link>
             <guid>https://newspeppermint.com/2024/12/01/npsp_trumpmusk/</guid>
             <pubDate>Sun, 01 Dec 2024 23:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 12월 2일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] ‘전력상 압도적인 우위인데…’ 1년째 전쟁 중인 이스라엘의 속사정 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/12/01/npsp_waringazaisrael/</link>
-            <guid>https://newspeppermint.com/2024/12/01/npsp_waringazaisrael/</guid>
-            <pubDate>Sun, 01 Dec 2024 22:15:19 GMT</pubDate>
             <content:encoded><![CDATA[2024년 12월 2일]]></content:encoded>
         </item>
         <item>
