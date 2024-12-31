@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 22:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 23:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] “내 표 찾아내” 닦달하고, 가짜뉴스 퍼뜨리고…미국 대선일, 혼란의 시작되나 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2024/12/31/npsp_closerace/</link>
+            <guid>https://newspeppermint.com/2024/12/31/npsp_closerace/</guid>
+            <pubDate>Tue, 31 Dec 2024 23:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 1월 1일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“지독한 구두쇠” 욕하며 읽었는데 반전… 물질만능 사회에 주는 울림 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2024/12/30/npsp_christmascarol/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/12/11/npsp_martiallaw/</guid>
             <pubDate>Wed, 11 Dec 2024 06:25:13 GMT</pubDate>
             <content:encoded><![CDATA[2024년 12월 12일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트럼프, 대놓고 겨냥하는데… “오히려 기회, 중국은 계획대로 움직이는 중” (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/12/02/npsp_trumpchina/</link>
-            <guid>https://newspeppermint.com/2024/12/02/npsp_trumpchina/</guid>
-            <pubDate>Tue, 03 Dec 2024 01:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 12월 3일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
