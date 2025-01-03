@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-01-03T04:19:47.967Z</updated>
+    <updated>2025-01-03T05:16:20.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일상 덮친 참사 트라우마… 슬픔을 제대로 받아들이는 법]]></title>
+        <id>https://newspeppermint.com/2025/01/03/npsp_grief-2/</id>
+        <link href="https://newspeppermint.com/2025/01/03/npsp_grief-2/"/>
+        <updated>2025-01-03T05:16:12.806Z</updated>
+        <content type="html"><![CDATA[2025년 1월 4일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “내 표 찾아내” 닦달하고, 가짜뉴스 퍼뜨리고…미국 대선일, 혼란의 시작되나]]></title>
         <id>https://newspeppermint.com/2024/12/31/npsp_closerace/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/12/13/npsp_impeachpresident/"/>
         <updated>2024-12-14T01:17:44.021Z</updated>
         <content type="html"><![CDATA[2024년 12월 14일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“부정 선거” 우기던 트럼프가 계엄령이라는 카드는 내쳤던 이유]]></title>
-        <id>https://newspeppermint.com/2024/12/11/npsp_martiallaw/</id>
-        <link href="https://newspeppermint.com/2024/12/11/npsp_martiallaw/"/>
-        <updated>2024-12-11T06:25:13.330Z</updated>
-        <content type="html"><![CDATA[2024년 12월 12일]]></content>
     </entry>
 </feed>
