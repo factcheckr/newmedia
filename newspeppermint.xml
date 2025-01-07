@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-01-07T04:18:56.308Z</updated>
+    <updated>2025-01-07T05:15:50.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘미라클 모닝 이렇게 좋은데 왜 다들 안 하냐고요?’ 새해 결심 세우려 한다면…]]></title>
+        <id>https://newspeppermint.com/2025/01/07/npsp_messyhome/</id>
+        <link href="https://newspeppermint.com/2025/01/07/npsp_messyhome/"/>
+        <updated>2025-01-07T05:15:41.644Z</updated>
+        <content type="html"><![CDATA[2025년 1월 8일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “진짜 승자는 트럼프 아닌 이 사람?… 트럼프 2기를 예측해봤습니다”]]></title>
         <id>https://newspeppermint.com/2025/01/03/npsp_trump2/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/12/18/npsp_aivoicebot/"/>
         <updated>2024-12-18T23:15:50.498Z</updated>
         <content type="html"><![CDATA[2024년 12월 19일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살해범 옹호가 “정의 구현”? ‘피 묻은 돈’을 진정 해결하려면…]]></title>
-        <id>https://newspeppermint.com/2024/12/17/npsp_helathcarecrime/</id>
-        <link href="https://newspeppermint.com/2024/12/17/npsp_helathcarecrime/"/>
-        <updated>2024-12-17T23:16:21.890Z</updated>
-        <content type="html"><![CDATA[2024년 12월 18일]]></content>
     </entry>
 </feed>
