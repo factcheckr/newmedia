@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jan 2025 16:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 17:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“너만 힘드냐? 나도 힘들어 죽겠다”… 이런 사회에서 필요한 걸 꼽아보자면 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2025/01/11/npsp_literatureempathy/</link>
+            <guid>https://newspeppermint.com/2025/01/11/npsp_literatureempathy/</guid>
+            <pubDate>Sat, 11 Jan 2025 17:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 1월 12일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] “뻔한 정답 놓고 고집 부린 결과”… 선거 진 민주당 앞의 갈림길 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2025/01/08/npsp_voterstoelite/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/12/22/npsp_uselectioneconomy/</guid>
             <pubDate>Mon, 23 Dec 2024 02:50:25 GMT</pubDate>
             <content:encoded><![CDATA[2024년 12월 23일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] “응원하는 야구팀보다 강한” 지지정당 대물림… 근데 ‘대전환’ 올 수 있다고? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/12/20/npsp_greatrealignment/</link>
-            <guid>https://newspeppermint.com/2024/12/20/npsp_greatrealignment/</guid>
-            <pubDate>Sat, 21 Dec 2024 01:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 12월 21일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
