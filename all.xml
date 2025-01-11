@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jan 2025 22:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 23:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] ‘예스맨의 절대 충성’ 원하는 트럼프…단 하나의 해답 “귀를 열어라” (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2025/01/11/npsp_trump2ndtermcabinet/</link>
+            <guid>https://newspeppermint.com/2025/01/11/npsp_trump2ndtermcabinet/</guid>
+            <pubDate>Sat, 11 Jan 2025 23:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 1월 12일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“너만 힘드냐? 나도 힘들어 죽겠다”… 이런 사회에서 필요한 걸 꼽아보자면 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2025/01/11/npsp_literatureempathy/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2024/12/23/npsp_humor/</guid>
             <pubDate>Mon, 23 Dec 2024 23:15:16 GMT</pubDate>
             <content:encoded><![CDATA[2024년 12월 24일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] “나 땐 좋았어” 반복하는 트럼프, ‘경제’에 발목 잡히는 해리스 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2024/12/22/npsp_uselectioneconomy/</link>
-            <guid>https://newspeppermint.com/2024/12/22/npsp_uselectioneconomy/</guid>
-            <pubDate>Mon, 23 Dec 2024 02:50:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 12월 23일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
