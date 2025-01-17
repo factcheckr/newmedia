@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-01-17T22:14:56.508Z</updated>
+    <updated>2025-01-17T23:15:54.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “설마설마했는데 결국?”… 이 사람이 트럼프의 미래일까]]></title>
+        <id>https://newspeppermint.com/2025/01/17/npsp_trumporban/</id>
+        <link href="https://newspeppermint.com/2025/01/17/npsp_trumporban/"/>
+        <updated>2025-01-17T23:15:45.329Z</updated>
+        <content type="html"><![CDATA[2025년 1월 18일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“불리한 여론 뒤집으려는 말인 줄 알았는데… 뒤에서 웃는 시진핑·푸틴”]]></title>
         <id>https://newspeppermint.com/2025/01/17/npsp_trumpgreenland/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/12/30/npsp_christmascarol/"/>
         <updated>2024-12-31T01:13:10.245Z</updated>
         <content type="html"><![CDATA[2024년 12월 31일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “‘기생충’처럼 무시당한 이들의 분노” vs “트럼프 지지자들, 책임 돌리지 말라”]]></title>
-        <id>https://newspeppermint.com/2024/12/29/npsp_liberalelitism/</id>
-        <link href="https://newspeppermint.com/2024/12/29/npsp_liberalelitism/"/>
-        <updated>2024-12-29T23:15:00.741Z</updated>
-        <content type="html"><![CDATA[2024년 12월 30일]]></content>
     </entry>
 </feed>
