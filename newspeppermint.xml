@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-01-21T05:16:04.553Z</updated>
+    <updated>2025-01-21T06:23:40.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“궁지 몰리면 무력 충돌 불사할 수도”… 양안 분쟁 발발하면 한국은?]]></title>
+        <id>https://newspeppermint.com/2025/01/21/npsp_chinataiwanworldorder/</id>
+        <link href="https://newspeppermint.com/2025/01/21/npsp_chinataiwanworldorder/"/>
+        <updated>2025-01-21T06:23:31.722Z</updated>
+        <content type="html"><![CDATA[2025년 1월 22일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “설마설마했는데 결국?”… 이 사람이 트럼프의 미래일까]]></title>
         <id>https://newspeppermint.com/2025/01/17/npsp_trumporban/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2024/12/31/npsp_closerace/"/>
         <updated>2024-12-31T23:15:19.598Z</updated>
         <content type="html"><![CDATA[2025년 1월 1일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“지독한 구두쇠” 욕하며 읽었는데 반전… 물질만능 사회에 주는 울림]]></title>
-        <id>https://newspeppermint.com/2024/12/30/npsp_christmascarol/</id>
-        <link href="https://newspeppermint.com/2024/12/30/npsp_christmascarol/"/>
-        <updated>2024-12-31T01:13:10.245Z</updated>
-        <content type="html"><![CDATA[2024년 12월 31일]]></content>
     </entry>
 </feed>
