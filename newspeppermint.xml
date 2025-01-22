@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-01-22T22:15:48.658Z</updated>
+    <updated>2025-01-22T23:15:30.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 트럼프도 실은 이 사람 원했다?… ‘트럼프 2기’가 맞닥뜨린 딜레마]]></title>
+        <id>https://newspeppermint.com/2025/01/22/npsp_trumpcabinetlighthizer/</id>
+        <link href="https://newspeppermint.com/2025/01/22/npsp_trumpcabinetlighthizer/"/>
+        <updated>2025-01-22T23:15:23.321Z</updated>
+        <content type="html"><![CDATA[2025년 1월 23일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“궁지 몰리면 무력 충돌 불사할 수도”… 양안 분쟁 발발하면 한국은?]]></title>
         <id>https://newspeppermint.com/2025/01/21/npsp_chinataiwanworldorder/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2025/01/03/npsp_grief-2/"/>
         <updated>2025-01-03T05:16:12.806Z</updated>
         <content type="html"><![CDATA[2025년 1월 4일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “내 표 찾아내” 닦달하고, 가짜뉴스 퍼뜨리고…미국 대선일, 혼란의 시작되나]]></title>
-        <id>https://newspeppermint.com/2024/12/31/npsp_closerace/</id>
-        <link href="https://newspeppermint.com/2024/12/31/npsp_closerace/"/>
-        <updated>2024-12-31T23:15:19.598Z</updated>
-        <content type="html"><![CDATA[2025년 1월 1일]]></content>
     </entry>
 </feed>
