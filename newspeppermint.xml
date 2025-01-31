@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-01-31T22:15:14.550Z</updated>
+    <updated>2025-01-31T23:14:37.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 정말 중국이 더 타격 입었을까?… 미중 관세 전쟁에서 간과했던 뜻밖의 사실]]></title>
+        <id>https://newspeppermint.com/2025/01/31/npsp_tariffsfood/</id>
+        <link href="https://newspeppermint.com/2025/01/31/npsp_tariffsfood/"/>
+        <updated>2025-01-31T23:14:29.096Z</updated>
+        <content type="html"><![CDATA[2025년 2월 1일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인사 끝나자마자 어색한 침묵?… 이번 명절, 어떤 대화 나누셨나요]]></title>
         <id>https://newspeppermint.com/2025/01/31/npsp_youreperfect/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2025/01/11/npsp_trump2ndtermcabinet/</id>
         <link href="https://newspeppermint.com/2025/01/11/npsp_trump2ndtermcabinet/"/>
         <updated>2025-01-11T23:14:45.777Z</updated>
-        <content type="html"><![CDATA[2025년 1월 12일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“너만 힘드냐? 나도 힘들어 죽겠다”… 이런 사회에서 필요한 걸 꼽아보자면]]></title>
-        <id>https://newspeppermint.com/2025/01/11/npsp_literatureempathy/</id>
-        <link href="https://newspeppermint.com/2025/01/11/npsp_literatureempathy/"/>
-        <updated>2025-01-11T17:13:24.251Z</updated>
         <content type="html"><![CDATA[2025년 1월 12일]]></content>
     </entry>
 </feed>
