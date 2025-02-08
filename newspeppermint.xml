@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-02-08T22:14:21.714Z</updated>
+    <updated>2025-02-08T23:16:30.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 살해범 옹호가 “정의 구현”? ‘피 묻은 돈’을 진정 해결하려면…]]></title>
+        <id>https://newspeppermint.com/2025/02/08/npsp_helathcarecrime/</id>
+        <link href="https://newspeppermint.com/2025/02/08/npsp_helathcarecrime/"/>
+        <updated>2025-02-08T23:16:21.165Z</updated>
+        <content type="html"><![CDATA[2025년 2월 9일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트럼프 또 폭탄 발언… “종잡을 수 없는 트럼프, 움직이게 하는 방법”]]></title>
         <id>https://newspeppermint.com/2025/02/06/npsp_trumpongaza/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2025/01/21/npsp_chinataiwanworldorder/"/>
         <updated>2025-01-21T06:23:31.722Z</updated>
         <content type="html"><![CDATA[2025년 1월 22일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “설마설마했는데 결국?”… 이 사람이 트럼프의 미래일까]]></title>
-        <id>https://newspeppermint.com/2025/01/17/npsp_trumporban/</id>
-        <link href="https://newspeppermint.com/2025/01/17/npsp_trumporban/"/>
-        <updated>2025-01-17T23:15:45.329Z</updated>
-        <content type="html"><![CDATA[2025년 1월 18일]]></content>
     </entry>
 </feed>
