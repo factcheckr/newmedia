@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-02-11T22:15:52.286Z</updated>
+    <updated>2025-02-11T23:18:50.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 외신도 놀란 ‘탄핵 집회 이색 깃발’…’센스 경쟁’이 불러온 뜻밖의 효과]]></title>
+        <id>https://newspeppermint.com/2025/02/11/npsp_humor/</id>
+        <link href="https://newspeppermint.com/2025/02/11/npsp_humor/"/>
+        <updated>2025-02-11T23:18:43.740Z</updated>
+        <content type="html"><![CDATA[2025년 2월 12일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“미국 떠받쳐온 힘인데 무색해질 판… 그런데도 나만 좀 봐달라?”]]></title>
         <id>https://newspeppermint.com/2025/02/10/npsp_competitionbigtech/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2025/01/26/npsp_trumpmusk/"/>
         <updated>2025-01-26T22:14:02.592Z</updated>
         <content type="html"><![CDATA[2025년 1월 27일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 트럼프도 실은 이 사람 원했다?… ‘트럼프 2기’가 맞닥뜨린 딜레마]]></title>
-        <id>https://newspeppermint.com/2025/01/22/npsp_trumpcabinetlighthizer/</id>
-        <link href="https://newspeppermint.com/2025/01/22/npsp_trumpcabinetlighthizer/"/>
-        <updated>2025-01-22T23:15:23.321Z</updated>
-        <content type="html"><![CDATA[2025년 1월 23일]]></content>
     </entry>
 </feed>
