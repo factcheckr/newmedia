@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-02-11T02:47:28.427Z</updated>
+    <updated>2025-02-11T03:20:12.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“미국 떠받쳐온 힘인데 무색해질 판… 그런데도 나만 좀 봐달라?”]]></title>
+        <id>https://newspeppermint.com/2025/02/10/npsp_competitionbigtech/</id>
+        <link href="https://newspeppermint.com/2025/02/10/npsp_competitionbigtech/"/>
+        <updated>2025-02-11T03:20:02.354Z</updated>
+        <content type="html"><![CDATA[2025년 2월 11일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 살해범 옹호가 “정의 구현”? ‘피 묻은 돈’을 진정 해결하려면…]]></title>
         <id>https://newspeppermint.com/2025/02/08/npsp_helathcarecrime/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2025/01/22/npsp_trumpcabinetlighthizer/"/>
         <updated>2025-01-22T23:15:23.321Z</updated>
         <content type="html"><![CDATA[2025년 1월 23일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“궁지 몰리면 무력 충돌 불사할 수도”… 양안 분쟁 발발하면 한국은?]]></title>
-        <id>https://newspeppermint.com/2025/01/21/npsp_chinataiwanworldorder/</id>
-        <link href="https://newspeppermint.com/2025/01/21/npsp_chinataiwanworldorder/"/>
-        <updated>2025-01-21T06:23:31.722Z</updated>
-        <content type="html"><![CDATA[2025년 1월 22일]]></content>
     </entry>
 </feed>
