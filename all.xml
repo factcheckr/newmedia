@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 01:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 02:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“트럼프가 손 떼기만 기다린다… 중국이 호시탐탐 노리고 있는 것” (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2025/02/13/npsp_trumpusaid/</link>
+            <guid>https://newspeppermint.com/2025/02/13/npsp_trumpusaid/</guid>
+            <pubDate>Fri, 14 Feb 2025 02:45:47 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 2월 14일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 외신도 놀란 ‘탄핵 집회 이색 깃발’…’센스 경쟁’이 불러온 뜻밖의 효과 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2025/02/11/npsp_humor/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2025/01/26/npsp_metafactchecking/</link>
             <guid>https://newspeppermint.com/2025/01/26/npsp_metafactchecking/</guid>
             <pubDate>Sun, 26 Jan 2025 23:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[2025년 1월 27일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 방해되면 손발 다 잘라버린다?… “트럼프 2기, 이 사람은 무소불위” (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2025/01/26/npsp_trumpmusk/</link>
-            <guid>https://newspeppermint.com/2025/01/26/npsp_trumpmusk/</guid>
-            <pubDate>Sun, 26 Jan 2025 22:14:02 GMT</pubDate>
             <content:encoded><![CDATA[2025년 1월 27일]]></content:encoded>
         </item>
         <item>
