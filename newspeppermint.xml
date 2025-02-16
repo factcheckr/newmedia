@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-02-16T22:15:02.938Z</updated>
+    <updated>2025-02-16T23:15:15.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “지독한 구두쇠” 욕하며 읽었는데 반전… 물질만능 사회에 주는 울림]]></title>
+        <id>https://newspeppermint.com/2025/02/16/npsp_christmascarol/</id>
+        <link href="https://newspeppermint.com/2025/02/16/npsp_christmascarol/"/>
+        <updated>2025-02-16T23:15:07.958Z</updated>
+        <content type="html"><![CDATA[2025년 2월 17일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “트럼프, 저 좀 만나주세요”…’얼굴 도장’ 찍으려 줄 선 기업인들]]></title>
         <id>https://newspeppermint.com/2025/02/14/npsp_wfh/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2025/01/31/npsp_youreperfect/"/>
         <updated>2025-01-31T14:14:34.886Z</updated>
         <content type="html"><![CDATA[2025년 2월 1일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 트럼프, 대놓고 겨냥하는데… “오히려 기회, 중국은 계획대로 움직이는 중”]]></title>
-        <id>https://newspeppermint.com/2025/01/28/npsp_trumpchina/</id>
-        <link href="https://newspeppermint.com/2025/01/28/npsp_trumpchina/"/>
-        <updated>2025-01-28T23:15:02.709Z</updated>
-        <content type="html"><![CDATA[2025년 1월 29일]]></content>
     </entry>
 </feed>
