@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-02-18T04:19:32.998Z</updated>
+    <updated>2025-02-18T05:17:35.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“선 넘는 대통령, 저항은 미미”… 트럼프 ‘독재 야망’ 꺾으려면]]></title>
+        <id>https://newspeppermint.com/2025/02/18/npsp_anticipatoryobedience/</id>
+        <link href="https://newspeppermint.com/2025/02/18/npsp_anticipatoryobedience/"/>
+        <updated>2025-02-18T05:17:27.902Z</updated>
+        <content type="html"><![CDATA[2025년 2월 19일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “지독한 구두쇠” 욕하며 읽었는데 반전… 물질만능 사회에 주는 울림]]></title>
         <id>https://newspeppermint.com/2025/02/16/npsp_christmascarol/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2025/01/31/npsp_tariffsfood/</id>
         <link href="https://newspeppermint.com/2025/01/31/npsp_tariffsfood/"/>
         <updated>2025-01-31T23:14:29.096Z</updated>
-        <content type="html"><![CDATA[2025년 2월 1일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인사 끝나자마자 어색한 침묵?… 이번 명절, 어떤 대화 나누셨나요]]></title>
-        <id>https://newspeppermint.com/2025/01/31/npsp_youreperfect/</id>
-        <link href="https://newspeppermint.com/2025/01/31/npsp_youreperfect/"/>
-        <updated>2025-01-31T14:14:34.886Z</updated>
         <content type="html"><![CDATA[2025년 2월 1일]]></content>
     </entry>
 </feed>
