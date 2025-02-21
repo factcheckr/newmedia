@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-02-21T22:15:47.995Z</updated>
+    <updated>2025-02-21T23:17:53.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] ‘미라클 모닝 이렇게 좋은데 왜 다들 안 하냐고요?’ 새해 결심 세우려 한다면…]]></title>
+        <id>https://newspeppermint.com/2025/02/21/npsp_messyhome/</id>
+        <link href="https://newspeppermint.com/2025/02/21/npsp_messyhome/"/>
+        <updated>2025-02-21T23:17:44.713Z</updated>
+        <content type="html"><![CDATA[2025년 2월 22일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“전쟁 반대” 외치지만… 반대해야 할 가장 큰 이유를 놓치지 않았나요?]]></title>
         <id>https://newspeppermint.com/2025/02/21/npsp_warplanetharm/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2025/02/06/npsp_impeachpresident/"/>
         <updated>2025-02-06T23:17:34.969Z</updated>
         <content type="html"><![CDATA[2025년 2월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “부정 선거” 우기던 트럼프가 계엄령이라는 카드는 내쳤던 이유]]></title>
-        <id>https://newspeppermint.com/2025/02/04/npsp_martiallaw/</id>
-        <link href="https://newspeppermint.com/2025/02/04/npsp_martiallaw/"/>
-        <updated>2025-02-04T23:15:11.843Z</updated>
-        <content type="html"><![CDATA[2025년 2월 5일]]></content>
     </entry>
 </feed>
