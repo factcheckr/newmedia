@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-02-25T03:24:05.422Z</updated>
+    <updated>2025-02-25T04:20:16.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“답장 없으면 사직 간주” 백악관 명의 메일… 수백만 명에 겨눈 칼끝, 결말은?]]></title>
+        <id>https://newspeppermint.com/2025/02/24/npsp_dogewhatdidyoudoemail/</id>
+        <link href="https://newspeppermint.com/2025/02/24/npsp_dogewhatdidyoudoemail/"/>
+        <updated>2025-02-25T04:20:09.231Z</updated>
+        <content type="html"><![CDATA[2025년 2월 25일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘미라클 모닝 이렇게 좋은데 왜 다들 안 하냐고요?’ 새해 결심 세우려 한다면…]]></title>
         <id>https://newspeppermint.com/2025/02/21/npsp_messyhome/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2025/02/06/npsp_trumpongaza/</id>
         <link href="https://newspeppermint.com/2025/02/06/npsp_trumpongaza/"/>
         <updated>2025-02-07T02:47:23.135Z</updated>
-        <content type="html"><![CDATA[2025년 2월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 미국도 네 번뿐이었는데 우리는? 잦은 탄핵이 좋은 건 아니지만…]]></title>
-        <id>https://newspeppermint.com/2025/02/06/npsp_impeachpresident/</id>
-        <link href="https://newspeppermint.com/2025/02/06/npsp_impeachpresident/"/>
-        <updated>2025-02-06T23:17:34.969Z</updated>
         <content type="html"><![CDATA[2025년 2월 7일]]></content>
     </entry>
 </feed>

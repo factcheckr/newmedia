@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 03:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 04:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“답장 없으면 사직 간주” 백악관 명의 메일… 수백만 명에 겨눈 칼끝, 결말은? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2025/02/24/npsp_dogewhatdidyoudoemail/</link>
+            <guid>https://newspeppermint.com/2025/02/24/npsp_dogewhatdidyoudoemail/</guid>
+            <pubDate>Tue, 25 Feb 2025 04:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 2월 25일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] ‘미라클 모닝 이렇게 좋은데 왜 다들 안 하냐고요?’ 새해 결심 세우려 한다면… (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2025/02/21/npsp_messyhome/</link>
@@ -82,13 +89,6 @@
             <link>https://newspeppermint.com/2025/02/06/npsp_trumpongaza/</link>
             <guid>https://newspeppermint.com/2025/02/06/npsp_trumpongaza/</guid>
             <pubDate>Fri, 07 Feb 2025 02:47:23 GMT</pubDate>
-            <content:encoded><![CDATA[2025년 2월 7일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] 미국도 네 번뿐이었는데 우리는? 잦은 탄핵이 좋은 건 아니지만… (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2025/02/06/npsp_impeachpresident/</link>
-            <guid>https://newspeppermint.com/2025/02/06/npsp_impeachpresident/</guid>
-            <pubDate>Thu, 06 Feb 2025 23:17:34 GMT</pubDate>
             <content:encoded><![CDATA[2025년 2월 7일]]></content:encoded>
         </item>
         <item>
