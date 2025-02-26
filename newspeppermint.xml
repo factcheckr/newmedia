@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-02-26T22:18:56.432Z</updated>
+    <updated>2025-02-26T23:17:39.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “너만 힘드냐? 나도 힘들어 죽겠다”… 이런 사회에서 필요한 걸 꼽아보자면]]></title>
+        <id>https://newspeppermint.com/2025/02/26/npsp_literatureempathy/</id>
+        <link href="https://newspeppermint.com/2025/02/26/npsp_literatureempathy/"/>
+        <updated>2025-02-26T23:17:30.118Z</updated>
+        <content type="html"><![CDATA[2025년 2월 27일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“답장 없으면 사직 간주” 백악관 명의 메일… 수백만 명에 겨눈 칼끝, 결말은?]]></title>
         <id>https://newspeppermint.com/2025/02/24/npsp_dogewhatdidyoudoemail/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2025/02/08/npsp_helathcarecrime/"/>
         <updated>2025-02-08T23:16:21.165Z</updated>
         <content type="html"><![CDATA[2025년 2월 9일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트럼프 또 폭탄 발언… “종잡을 수 없는 트럼프, 움직이게 하는 방법”]]></title>
-        <id>https://newspeppermint.com/2025/02/06/npsp_trumpongaza/</id>
-        <link href="https://newspeppermint.com/2025/02/06/npsp_trumpongaza/"/>
-        <updated>2025-02-07T02:47:23.135Z</updated>
-        <content type="html"><![CDATA[2025년 2월 7일]]></content>
     </entry>
 </feed>
