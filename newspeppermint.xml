@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-02-28T01:15:46.724Z</updated>
+    <updated>2025-02-28T02:52:48.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이렇게 뒤집을 줄은…” 전쟁 단박에 끝내겠다던 트럼프의 선택지가 이것?]]></title>
+        <id>https://newspeppermint.com/2025/02/27/npsp_trumponukraine/</id>
+        <link href="https://newspeppermint.com/2025/02/27/npsp_trumponukraine/"/>
+        <updated>2025-02-28T02:52:38.885Z</updated>
+        <content type="html"><![CDATA[2025년 2월 28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “너만 힘드냐? 나도 힘들어 죽겠다”… 이런 사회에서 필요한 걸 꼽아보자면]]></title>
         <id>https://newspeppermint.com/2025/02/26/npsp_literatureempathy/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2025/02/10/npsp_competitionbigtech/"/>
         <updated>2025-02-11T03:20:02.354Z</updated>
         <content type="html"><![CDATA[2025년 2월 11일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 살해범 옹호가 “정의 구현”? ‘피 묻은 돈’을 진정 해결하려면…]]></title>
-        <id>https://newspeppermint.com/2025/02/08/npsp_helathcarecrime/</id>
-        <link href="https://newspeppermint.com/2025/02/08/npsp_helathcarecrime/"/>
-        <updated>2025-02-08T23:16:21.165Z</updated>
-        <content type="html"><![CDATA[2025년 2월 9일]]></content>
     </entry>
 </feed>
