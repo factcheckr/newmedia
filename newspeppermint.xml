@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-03-04T01:17:24.712Z</updated>
+    <updated>2025-03-04T02:54:00.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[격노한 트럼프 ‘금요일 밤의 학살’… “자비 없는 복수”의 전말]]></title>
+        <id>https://newspeppermint.com/2025/03/03/npsp_trumpmilitary/</id>
+        <link href="https://newspeppermint.com/2025/03/03/npsp_trumpmilitary/"/>
+        <updated>2025-03-04T02:53:52.794Z</updated>
+        <content type="html"><![CDATA[2025년 3월 4일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“이렇게 뒤집을 줄은…” 전쟁 단박에 끝내겠다던 트럼프의 선택지가 이것?]]></title>
         <id>https://newspeppermint.com/2025/02/27/npsp_trumponukraine/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2025/02/11/npsp_humor/"/>
         <updated>2025-02-11T23:18:43.740Z</updated>
         <content type="html"><![CDATA[2025년 2월 12일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“미국 떠받쳐온 힘인데 무색해질 판… 그런데도 나만 좀 봐달라?”]]></title>
-        <id>https://newspeppermint.com/2025/02/10/npsp_competitionbigtech/</id>
-        <link href="https://newspeppermint.com/2025/02/10/npsp_competitionbigtech/"/>
-        <updated>2025-02-11T03:20:02.354Z</updated>
-        <content type="html"><![CDATA[2025년 2월 11일]]></content>
     </entry>
 </feed>
