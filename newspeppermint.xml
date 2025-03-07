@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-03-07T22:13:52.308Z</updated>
+    <updated>2025-03-07T23:13:34.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “불리한 여론 뒤집으려는 말인 줄 알았는데… 뒤에서 웃는 시진핑·푸틴”]]></title>
+        <id>https://newspeppermint.com/2025/03/07/npsp_trumpgreenland/</id>
+        <link href="https://newspeppermint.com/2025/03/07/npsp_trumpgreenland/"/>
+        <updated>2025-03-07T23:13:25.580Z</updated>
+        <content type="html"><![CDATA[2025년 3월 8일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바이러스에는 국경이 없는데…끝나지 않은 팬데믹의 경고]]></title>
         <id>https://newspeppermint.com/2025/03/06/npsps_pandemic/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2025/02/16/npsp_christmascarol/"/>
         <updated>2025-02-16T23:15:07.958Z</updated>
         <content type="html"><![CDATA[2025년 2월 17일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “트럼프, 저 좀 만나주세요”…’얼굴 도장’ 찍으려 줄 선 기업인들]]></title>
-        <id>https://newspeppermint.com/2025/02/14/npsp_wfh/</id>
-        <link href="https://newspeppermint.com/2025/02/14/npsp_wfh/"/>
-        <updated>2025-02-14T23:15:28.357Z</updated>
-        <content type="html"><![CDATA[2025년 2월 15일]]></content>
     </entry>
 </feed>
