@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-03-11T23:16:08.822Z</updated>
+    <updated>2025-03-12T01:17:16.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“미국 vs 중국, 어느 편에 설 것인가”…중국이 진짜 노리는 것]]></title>
+        <id>https://newspeppermint.com/2025/03/11/npsp_usachinaforeignpolicy/</id>
+        <link href="https://newspeppermint.com/2025/03/11/npsp_usachinaforeignpolicy/"/>
+        <updated>2025-03-12T01:17:07.108Z</updated>
+        <content type="html"><![CDATA[2025년 3월 12일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “불리한 여론 뒤집으려는 말인 줄 알았는데… 뒤에서 웃는 시진핑·푸틴”]]></title>
         <id>https://newspeppermint.com/2025/03/07/npsp_trumpgreenland/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2025/02/18/npsp_anticipatoryobedience/"/>
         <updated>2025-02-18T05:17:27.902Z</updated>
         <content type="html"><![CDATA[2025년 2월 19일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “지독한 구두쇠” 욕하며 읽었는데 반전… 물질만능 사회에 주는 울림]]></title>
-        <id>https://newspeppermint.com/2025/02/16/npsp_christmascarol/</id>
-        <link href="https://newspeppermint.com/2025/02/16/npsp_christmascarol/"/>
-        <updated>2025-02-16T23:15:07.958Z</updated>
-        <content type="html"><![CDATA[2025년 2월 17일]]></content>
     </entry>
 </feed>
