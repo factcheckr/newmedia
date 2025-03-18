@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-03-18T22:16:38.110Z</updated>
+    <updated>2025-03-18T23:16:30.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 인사 끝나자마자 어색한 침묵?… 이번 명절, 어떤 대화 나누셨나요]]></title>
+        <id>https://newspeppermint.com/2025/03/18/npsp_youreperfect/</id>
+        <link href="https://newspeppermint.com/2025/03/18/npsp_youreperfect/"/>
+        <updated>2025-03-18T23:16:22.254Z</updated>
+        <content type="html"><![CDATA[2025년 3월 19일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“마시멜로 테스트에 막힌 78세 대통령”…되풀이되는 돌발행동]]></title>
         <id>https://newspeppermint.com/2025/03/18/npsp_trusttrump/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2025/02/26/npsp_literatureempathy/"/>
         <updated>2025-02-26T23:17:30.118Z</updated>
         <content type="html"><![CDATA[2025년 2월 27일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“답장 없으면 사직 간주” 백악관 명의 메일… 수백만 명에 겨눈 칼끝, 결말은?]]></title>
-        <id>https://newspeppermint.com/2025/02/24/npsp_dogewhatdidyoudoemail/</id>
-        <link href="https://newspeppermint.com/2025/02/24/npsp_dogewhatdidyoudoemail/"/>
-        <updated>2025-02-25T04:20:09.231Z</updated>
-        <content type="html"><![CDATA[2025년 2월 25일]]></content>
     </entry>
 </feed>
