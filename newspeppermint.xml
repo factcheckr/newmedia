@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-03-20T23:17:00.751Z</updated>
+    <updated>2025-03-21T01:19:17.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“불의를 멈춰달라” 감동의 목소리…이·팔 합작 다큐의 여운]]></title>
+        <id>https://newspeppermint.com/2025/03/20/npsp_nootherland/</id>
+        <link href="https://newspeppermint.com/2025/03/20/npsp_nootherland/"/>
+        <updated>2025-03-21T01:19:08.831Z</updated>
+        <content type="html"><![CDATA[2025년 3월 21일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 인사 끝나자마자 어색한 침묵?… 이번 명절, 어떤 대화 나누셨나요]]></title>
         <id>https://newspeppermint.com/2025/03/18/npsp_youreperfect/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2025/02/27/npsp_trumponukraine/"/>
         <updated>2025-02-28T02:52:38.885Z</updated>
         <content type="html"><![CDATA[2025년 2월 28일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] “너만 힘드냐? 나도 힘들어 죽겠다”… 이런 사회에서 필요한 걸 꼽아보자면]]></title>
-        <id>https://newspeppermint.com/2025/02/26/npsp_literatureempathy/</id>
-        <link href="https://newspeppermint.com/2025/02/26/npsp_literatureempathy/"/>
-        <updated>2025-02-26T23:17:30.118Z</updated>
-        <content type="html"><![CDATA[2025년 2월 27일]]></content>
     </entry>
 </feed>

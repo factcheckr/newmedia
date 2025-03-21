@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Mar 2025 23:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 01:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“불의를 멈춰달라” 감동의 목소리…이·팔 합작 다큐의 여운 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2025/03/20/npsp_nootherland/</link>
+            <guid>https://newspeppermint.com/2025/03/20/npsp_nootherland/</guid>
+            <pubDate>Fri, 21 Mar 2025 01:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 3월 21일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[뉴페@스프] 인사 끝나자마자 어색한 침묵?… 이번 명절, 어떤 대화 나누셨나요 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2025/03/18/npsp_youreperfect/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2025/02/27/npsp_trumponukraine/</guid>
             <pubDate>Fri, 28 Feb 2025 02:52:38 GMT</pubDate>
             <content:encoded><![CDATA[2025년 2월 28일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴페@스프] “너만 힘드냐? 나도 힘들어 죽겠다”… 이런 사회에서 필요한 걸 꼽아보자면 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2025/02/26/npsp_literatureempathy/</link>
-            <guid>https://newspeppermint.com/2025/02/26/npsp_literatureempathy/</guid>
-            <pubDate>Wed, 26 Feb 2025 23:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[2025년 2월 27일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
