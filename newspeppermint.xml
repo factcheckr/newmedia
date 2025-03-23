@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-03-23T22:17:04.290Z</updated>
+    <updated>2025-03-23T23:15:38.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 트럼프 또 폭탄 발언… “종잡을 수 없는 트럼프, 움직이게 하는 방법”]]></title>
+        <id>https://newspeppermint.com/2025/03/23/npsp_trumpongaza/</id>
+        <link href="https://newspeppermint.com/2025/03/23/npsp_trumpongaza/"/>
+        <updated>2025-03-23T23:15:30.070Z</updated>
+        <content type="html"><![CDATA[2025년 3월 24일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] ‘전원 사망’ 참사 브리핑에 나온 그들… “트럼프 말씀이 맞습니다”]]></title>
         <id>https://newspeppermint.com/2025/03/21/npsp_trumpmeritocracy/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2025/03/04/npsp_lafireclimatechange/"/>
         <updated>2025-03-04T23:16:01.949Z</updated>
         <content type="html"><![CDATA[2025년 3월 5일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[격노한 트럼프 ‘금요일 밤의 학살’… “자비 없는 복수”의 전말]]></title>
-        <id>https://newspeppermint.com/2025/03/03/npsp_trumpmilitary/</id>
-        <link href="https://newspeppermint.com/2025/03/03/npsp_trumpmilitary/"/>
-        <updated>2025-03-04T02:53:52.794Z</updated>
-        <content type="html"><![CDATA[2025년 3월 4일]]></content>
     </entry>
 </feed>
