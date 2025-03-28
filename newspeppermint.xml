@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-03-28T22:17:15.593Z</updated>
+    <updated>2025-03-28T23:17:05.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “미국 떠받쳐온 힘인데 무색해질 판… 그런데도 나만 좀 봐달라?”]]></title>
+        <id>https://newspeppermint.com/2025/03/28/npsp_competitionbigtech/</id>
+        <link href="https://newspeppermint.com/2025/03/28/npsp_competitionbigtech/"/>
+        <updated>2025-03-28T23:16:56.580Z</updated>
+        <content type="html"><![CDATA[2025년 3월 29일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크가 자초한 테슬라의 위기…반전 드라마? 도태의 시작?]]></title>
         <id>https://newspeppermint.com/2025/03/24/npsp_muskteslaspacex/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2025/03/07/npsp_trumpgreenland/"/>
         <updated>2025-03-07T23:13:25.580Z</updated>
         <content type="html"><![CDATA[2025년 3월 8일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이러스에는 국경이 없는데…끝나지 않은 팬데믹의 경고]]></title>
-        <id>https://newspeppermint.com/2025/03/06/npsps_pandemic/</id>
-        <link href="https://newspeppermint.com/2025/03/06/npsps_pandemic/"/>
-        <updated>2025-03-06T23:16:30.209Z</updated>
-        <content type="html"><![CDATA[2025년 3월 7일]]></content>
     </entry>
 </feed>

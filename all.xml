@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 22:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 23:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴페@스프] “미국 떠받쳐온 힘인데 무색해질 판… 그런데도 나만 좀 봐달라?” (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2025/03/28/npsp_competitionbigtech/</link>
+            <guid>https://newspeppermint.com/2025/03/28/npsp_competitionbigtech/</guid>
+            <pubDate>Fri, 28 Mar 2025 23:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 3월 29일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[머스크가 자초한 테슬라의 위기…반전 드라마? 도태의 시작? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2025/03/24/npsp_muskteslaspacex/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2025/03/07/npsp_trumpgreenland/</guid>
             <pubDate>Fri, 07 Mar 2025 23:13:25 GMT</pubDate>
             <content:encoded><![CDATA[2025년 3월 8일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바이러스에는 국경이 없는데…끝나지 않은 팬데믹의 경고 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2025/03/06/npsps_pandemic/</link>
-            <guid>https://newspeppermint.com/2025/03/06/npsps_pandemic/</guid>
-            <pubDate>Thu, 06 Mar 2025 23:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[2025년 3월 7일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
