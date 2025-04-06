@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-04-05T23:17:08.799Z</updated>
+    <updated>2025-04-06T01:24:17.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “선 넘는 대통령, 저항은 미미”… 트럼프 ‘독재 야망’ 꺾으려면]]></title>
+        <id>https://newspeppermint.com/2025/04/05/npsp_anticipatoryobedience/</id>
+        <link href="https://newspeppermint.com/2025/04/05/npsp_anticipatoryobedience/"/>
+        <updated>2025-04-06T01:24:08.754Z</updated>
+        <content type="html"><![CDATA[2025년 4월 6일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] “트럼프가 손 떼기만 기다린다… 중국이 호시탐탐 노리고 있는 것”]]></title>
         <id>https://newspeppermint.com/2025/04/01/npsp_trumpusaid/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2025/03/14/npsp_chinataiwanworldorder/"/>
         <updated>2025-03-14T23:16:21.954Z</updated>
         <content type="html"><![CDATA[2025년 3월 15일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영어 쓰지 않으면 비정상? 트럼프의 행정명령 사용법]]></title>
-        <id>https://newspeppermint.com/2025/03/13/npsp_englishusa/</id>
-        <link href="https://newspeppermint.com/2025/03/13/npsp_englishusa/"/>
-        <updated>2025-03-14T02:53:43.819Z</updated>
-        <content type="html"><![CDATA[2025년 3월 14일]]></content>
     </entry>
 </feed>
